@@ -1,8 +1,16 @@
 # Welcome to Open Source Contributions 🍉
 
+<p>List of actively participating individulas in open source contributions</p>
+
+- Add your own details to the contributor list
+- Make a Pull Request
+
 <p align="center">
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    </a>
+    <a href="https://www.youtube.com/AliSolanki">
+        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
