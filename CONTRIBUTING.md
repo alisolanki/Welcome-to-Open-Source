@@ -21,7 +21,7 @@
         <a href="https://alisolanki.com/">
             <img src="https://avatars.githubusercontent.com/u/121052001?v=4" width="100px;" alt="Shourya Pandey"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Shourya Pandey</b></sub>
         </a>
     </td>
     ```
