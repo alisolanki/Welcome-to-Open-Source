@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Lightning1806">
+                    <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
+                    <br />
+                    <sub><b>Vishal Aynodkar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
