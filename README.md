@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/a60231023">
+                    <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
+                    <br />
+                    <sub><b>Ayush Tiwari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
