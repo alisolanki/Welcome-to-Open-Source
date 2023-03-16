@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/2003aryansingh">
+                    <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;" alt="Aryan Singh"/>
+                    <br />
+                    <sub><b>Aryan Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
