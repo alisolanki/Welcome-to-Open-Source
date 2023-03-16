@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rahul-lalwani-learner">
+                    <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
+                    <br />
+                    <sub><b>Rahul Lalwani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
