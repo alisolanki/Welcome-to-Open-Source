@@ -10,6 +10,7 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://linkedin.com/in/alisolanki">
@@ -84,13 +85,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Sahil Ansari"/>
                     <br />
                     <sub><b>Sahil Ansari</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/moonergone0">
-                    <img src="https://avatars.githubusercontent.com/u/101464442?v=4" width="100px;" alt="Sujan Dhakal"/>
-                    <br />
-                    <sub><b>Sujan Dhakal</b></sub>
                 </a>
             </td>
         </tr>
