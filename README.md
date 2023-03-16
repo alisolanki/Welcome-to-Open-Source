@@ -87,6 +87,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+            </tr>
+            <tr>
             <td align="center">
                 <a href="https://github.com/Shino-Shaji">
                     <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Shino Shaji"/>
