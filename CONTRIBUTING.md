@@ -26,11 +26,10 @@
     </td>
     ```
 
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name>"` and lastly `git push origin master`(try `main` instead of `master` if it fails).
+8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
-10) You have created a pull request, wait for the member to review and merge it : )
-
+10) You have created a pull request, wait for a member to review and merge it : )
 
 Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).
