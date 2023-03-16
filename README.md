@@ -88,7 +88,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/moonergone0">
-                    <img src="https://avatars.githubusercontent.com/u/101464442?v=4" width="100px;" alt="Sahil Ansari"/>
+                    <img src="https://avatars.githubusercontent.com/u/101464442?v=4" width="100px;" alt="Sujan Dhakal"/>
                     <br />
                     <sub><b>Sujan Dhakal</b></sub>
                 </a>
