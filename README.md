@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Shubhh4">
+                    <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
+                    <br />
+                    <sub><b>Shubham Pathak</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
