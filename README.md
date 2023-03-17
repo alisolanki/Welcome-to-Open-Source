@@ -181,6 +181,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ayush Tiwari</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AnshumanAtrey">
+                    <img src="https://avatars.githubusercontent.com/u/92643581?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Anshuman Atrey</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
