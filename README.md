@@ -188,6 +188,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+           </tr>
+           <tr>
            <td align="center">
                 <a href="https://onlyanand10.github.io/portfolio/">
                     <img src="https://avatars.githubusercontent.com/u/72151612?v=4" width="100px;" alt="Anand Suryawanshi"/>
