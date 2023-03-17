@@ -51,6 +51,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://linktr.ee/_madhubalan">
+                    <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
+                    <br />
+                    <sub><b>Madhubalan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
