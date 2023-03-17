@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+              <td align="center">
+                <a href="https://github.com/roboanonymous">
+                    <img src="https://avatars.githubusercontent.com/u/43928825?v=4" width="100px;" alt="Samyak Jain"/>
+                    <br />
+                    <sub><b>Samyak Jain</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
