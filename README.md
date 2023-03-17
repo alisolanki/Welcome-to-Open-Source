@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kernel0x01">
+                    <img src="https://avatars.githubusercontent.com/u/80905310?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Kernel0x01</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
