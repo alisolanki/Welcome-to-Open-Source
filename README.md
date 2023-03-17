@@ -101,6 +101,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Akshay Kamath</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/suman897">
+                    <img src="https://avatars.githubusercontent.com/u/45995997?v=4" 
+                    width="100px;" alt="Suman Parui"/>
+                    <br />
+                    <sub><b>Suman Parui</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
