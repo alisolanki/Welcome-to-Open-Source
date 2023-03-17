@@ -188,7 +188,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
-           <td align="center">
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://github.com/Zydiag">
                     <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
                     <br />
