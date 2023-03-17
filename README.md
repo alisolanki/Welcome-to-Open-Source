@@ -110,6 +110,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaushal Lohar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.ashirwadshetye.com">
+                    <img src="https://avatars.githubusercontent.com/u/99337222?v=4" width="100px;" alt="Ashirwad Shetye"/>
+                    <br />
+                    <sub><b>Ashirwad Shetye</b></sub>
+                </a>
+             </td>
         </tr>
     </tbody>
 </table>
