@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/Nitesh232">
+                    <img src="https://avatars.githubusercontent.com/u/92843270?v=4" width="100px;" alt="Nitesh Mishra"/>
+                    <br />
+                    <sub><b>Nitesh Mishra</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
