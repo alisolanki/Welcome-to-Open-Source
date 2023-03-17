@@ -124,6 +124,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/nagasaipurvaz">
+                    <img src="https://avatars.githubusercontent.com/u/68222105?s=400&u=5469ebc36d12828efbef25500427568051369196&v=4" width="100px;" alt="Naga sai purvaz"/>
+                    <br />
+                    <sub><b>Nagas Purvaz</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
