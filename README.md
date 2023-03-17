@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sumedhuv">
+                    <img src="https://avatars.githubusercontent.com/u/63589821?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Sumedh Vichare</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
