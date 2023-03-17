@@ -94,6 +94,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Pgsaisuhas">
+                    <img src="https://avatars.githubusercontent.com/u/118993285?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Sai Suhas P G</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
