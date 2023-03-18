@@ -8,9 +8,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
-- Add your own details to the contributor list
-- Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+-  Add your own details to the contributor list
+-  Make a Pull Request
+-  [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://linkedin.com/in/alisolanki">
@@ -186,6 +186,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/92643581?v=4" width="100px;" alt="Anshuman Atrey"/>
                     <br />
                     <sub><b>Anshuman Atrey</b></sub>
+               </a>
+           </td>
+            <td align="center">
+                <a href="https://github.com/AnkitPatil-22">
+                    <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Ankit Patil</b></sub>
                </a>
            </td>
         </tr>
