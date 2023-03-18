@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/KAPIL9027">
+                    <img src="https://avatars.githubusercontent.com/u/76560065?s=400&v=4" width="100px;" alt="KAPIL9027"/>
+                    <br />
+                    <sub><b>Kapil</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
