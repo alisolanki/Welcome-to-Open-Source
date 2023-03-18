@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+             <td align="center">
+                <a href="https://github.com/ManideepCM">
+                    <img src="https://avatars.githubusercontent.com/u/124023122?v=4" width="100px;" alt="Manideep Kalaveni"/>
+                    <br />
+                    <sub><b>Manideep Kalaveni</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
