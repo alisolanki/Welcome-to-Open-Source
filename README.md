@@ -45,6 +45,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Yashwanthreddy711">
+                    <img src="https://avatars.githubusercontent.com/u/99392805?s=400&u=5b23486c0e96873044257c5905dcb0c007a62e6b&v=4" width="100px;" alt="Yashwanth Reddy"/>
+                    <br />
+                    <sub><b>Yashwanth Reddy</b></sub>
+               </a>
+           </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
