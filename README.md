@@ -192,7 +192,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/imaxmayur">
                      <img src="https://avatars.githubusercontent.com/u/110410744?v=4" width="100px;" alt="Mayur Gosavi"/>
                     <br />
-                     <sub><b>Ali Solanki</b></sub>
+                     <sub><b>Mayur Gosavi</b></sub>
                 </a>
              </td>
         </tr>
