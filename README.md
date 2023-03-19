@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://animezkishan.github.io/cv_v2/">
+                    <img src="https://avatars.githubusercontent.com/u/91653112?v=4" width="100px;" alt="Kishan Kumar"/>
+                    <br />
+                    <sub><b>Kishan Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
