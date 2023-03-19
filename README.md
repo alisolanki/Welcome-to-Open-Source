@@ -392,6 +392,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Manideep Kalaveni</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/MKisKrazy">
+                    <img src="https://avatars.githubusercontent.com/u/110541127?v=4" width="100px;" alt="Mahesh Krishna"/>
+                    <br />
+                    <sub><b>Mahesh Krishna</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
