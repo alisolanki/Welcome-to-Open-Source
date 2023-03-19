@@ -248,6 +248,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Suhas P G</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/winnie-0-0">
+                    <img src="https://avatars.githubusercontent.com/u/85567107?v=4" width="100px;" alt="Manaswini Verma"/>
+                    <br />
+                    <sub><b>Manaswini Verma</b></sub>
+                </a>
+            </td>          
         </tr>
         <tr>
             <td align="center">
