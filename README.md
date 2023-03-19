@@ -461,5 +461,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <tr>
+        <td align="center">
+                <a href="https://shaikahmadnawaz.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/96189881?v=4" width="100px;" alt="Shaik Ahmad Nawaz"/>
+                    <br />
+                    <sub><b>Shaik Ahmad Nawaz</b></sub>
+               </a>
+           </td>
+        </tr>
     </tbody>
 </table>
