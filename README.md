@@ -275,6 +275,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Chetan Dighole</b></sub>
                   </a>
               </td>
+              <td align="center">
+                 <a href="https://github.com/tikul1">
+                   <img src="https://avatars.githubusercontent.com/u/81417065?v=4" width="100px;" alt="Hardik Parmar"/>
+                   <br />
+                   <sub><b>Hardik Parmar</b></sub>
+                 </a>
+             </td>
         </tr>
         <tr>
             <td align="center">
