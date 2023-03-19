@@ -187,9 +187,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
-           </td>
-        </tr>
-        <tr>
+             </td>
              <td align="center">
                 <a href="https://github.com/prayash24">
                     <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="error"/>
