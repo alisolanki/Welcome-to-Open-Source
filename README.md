@@ -249,5 +249,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/harisahmed001">
+                    <img src="https://avatars.githubusercontent.com/u/10527172?v=4" width="100px;" alt="Waleed Ahmed"/>
+                    <br />
+                    <sub><b>Waleed Ahmed</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
