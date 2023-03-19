@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/YashTariyal">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Yash Tariyal"/>
+                    <br />
+                    <sub><b>Yash Tariyal</b></sub>
+    </a>
+</td>
         </tr>
     </tbody>
 </table>
