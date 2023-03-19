@@ -53,12 +53,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/zishu1">
-                         <img src="https://avatars.githubusercontent.com/u/87239056?s=400&u=ef0d450c92b0dd3eb1ba41ab55bddf827328ea23&v=4" width="100px;" alt="UmIamBda Doe" />
-                         <br />
-                         <sub><b>UmIamBda Doe</b></sub>
-            </td>
-            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
@@ -448,13 +442,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rushidan Islam</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Ronak-Ronu">
-                    <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
-                    <br />
-                    <sub><b>Ronak Suthar</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -498,6 +485,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Prasad Suman Mohan</b></sub>
                 </a>
+            </td>                                                                                                          
+            <td align="center">
+                <a href="https://github.com/zishu1">
+                         <img src="https://avatars.githubusercontent.com/u/87239056?s=400&u=ef0d450c92b0dd3eb1ba41ab55bddf827328ea23&v=4" width="100px;" alt="UmIamBda Doe" />
+                         <br />
+                         <sub><b>UmIamBda Doe</b></sub>
             </td>
         </tr>
         <tr>
@@ -513,6 +506,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/91653112?v=4" width="100px;" alt="Kishan Kumar"/>
                     <br />
                     <sub><b>Kishan Kumar</b></sub>
+                </a>
+            </td>                                                                                                    
+            <td align="center">
+                <a href="https://github.com/Ronak-Ronu">
+                    <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
+                    <br />
+                    <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
         </tr>
