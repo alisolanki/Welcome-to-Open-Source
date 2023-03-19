@@ -254,7 +254,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Manaswini Verma</b></sub>
                 </a>
-            </td>          
+            </td>
+            <td align="center">
+                <a href="https://github.com/sumedhuv">
+                    <img src="https://avatars.githubusercontent.com/u/63589821?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Sumedh Vichare</b></sub>
+             </td>
         </tr>
         <tr>
             <td align="center">
