@@ -188,6 +188,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/theNKCode">
+                    <img src="https://avatars.githubusercontent.com/u/88282319?v=4" width="100px;" alt="Nikhil Kamble"/>
+                    <br />
+                    <sub><b>Nikhil Kamble</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
