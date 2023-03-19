@@ -479,6 +479,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rayan Chowdhury</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/govind783">
+                    <img src="https://avatars.githubusercontent.com/u/106112839?v=4" width="100px;" alt="Govind Ganeriwal"/>
+                    <br />
+                    <sub><b>Govind Ganeriwal</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
