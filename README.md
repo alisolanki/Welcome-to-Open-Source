@@ -435,6 +435,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kapil</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rush1dan">
+                    <img src="https://avatars.githubusercontent.com/u/104863583?v=4" width="100px;" alt="Rushidan Islam"/>
+                    <br />
+                    <sub><b>Rushidan Islam</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
