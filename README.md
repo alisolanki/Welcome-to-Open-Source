@@ -188,13 +188,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
              </td>
-             <td align="center">
-                <a href="https://github.com/prayash24">
-                    <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="error"/>
-                    <br />
-                    <sub><b>Prayash Naik</b></sub>
-               </a>
-           </td>
        </tr>
        <tr>
            <td align="center">
@@ -239,6 +232,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Jerin Wilson</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/prayash24">
+                    <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="Prayansh"/>
+                    <br />
+                    <sub><b>Prayash Naik</b></sub>
+               </a>
+           </td>
         </tr>
         <tr>
             <td align="center">
