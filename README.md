@@ -261,6 +261,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Sumedh Vichare</b></sub>
              </td>
+             <td align="center">
+                 <a href="https://github.com/Aryann15">
+                     <img src="https://avatars.githubusercontent.com/u/82017158?v=4" width="100px;" alt="Raj Aryan Singh"/>
+                     <br />
+                     <sub><b>RAj Aryan Singh</b></sub>
+                 </a>
+             </td>
         </tr>
         <tr>
             <td align="center">
