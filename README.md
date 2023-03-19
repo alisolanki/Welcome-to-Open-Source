@@ -239,6 +239,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Prayash Naik</b></sub>
                </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/Shahil093">
+                    <img src="https://avatars.githubusercontent.com/u/96812916?v=4" width="100px;"
+                     alt="Md Shahil Sheikh"/>
+                    <br />
+                    <sub><b>Md Shahil Sheikh</b></sub>
+               </a>
+           </td>
         </tr>
         <tr>
             <td align="center">
