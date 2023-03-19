@@ -205,13 +205,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/priyanshu-11000/">
-                    <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
-                    <br />
-                    <sub><b>Priyanshu Kumar Singh</b></sub>
-                 </a>
-             </td>
-            <td align="center">
                 <a href="https://github.com/Amrithshagar">
                     <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
@@ -339,7 +332,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Siddharth Patel</b></sub>
                   </a>
-                </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/priyanshu-11000/">
+                    <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
+                    <br />
+                    <sub><b>Priyanshu Kumar Singh</b></sub>
+                 </a>
+             </td>
         </tr>
         <tr>
             <td align="center">
