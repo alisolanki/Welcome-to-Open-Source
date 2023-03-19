@@ -356,17 +356,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Samyak Jain</b></sub>
                 </a>
             </td>
-        </tr>
-        <tr>
-          <td align="center">
+            <td align="center">
                 <a href="https://github.com/thiunuwan">
                     <img src="https://avatars.githubusercontent.com/u/83197833?v=4" width="100px;" alt="thiunuwan"/>
                     <br />
                     <sub><b>thiunuwan</b></sub>
                </a>
            </td>
-           </tr>
-           <tr>
            <td align="center">
                 <a href="https://onlyanand10.github.io/portfolio/">
                     <img src="https://avatars.githubusercontent.com/u/72151612?v=4" width="100px;" alt="Anand Suryawanshi"/>
