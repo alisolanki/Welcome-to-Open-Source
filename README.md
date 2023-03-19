@@ -311,7 +311,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Nitesh Mishra</b></sub>
                  </a>
-              </td>      
+              </td>
+              <td align="center">
+                  <a href="https://github.com/pranavashish">
+                    <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;" alt="Pranav Ashish"/>
+                    <br />
+                    <sub><b>Pranav Ashish</b></sub>
+                  </a>
+               <td>
         </tr>
         <tr>
             <td align="center">
