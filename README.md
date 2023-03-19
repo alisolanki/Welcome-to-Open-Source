@@ -306,5 +306,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Zydiag">
+                    <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Sahil</b></sub>
+               </a>
+           </td>
+        </tr>
     </tbody>
 </table>
