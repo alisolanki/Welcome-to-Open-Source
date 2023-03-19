@@ -442,13 +442,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rushidan Islam</b></sub>
                </a>
            </td>
-            <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-            <sub><b>RajeshReddy Bejadi</b></sub>
-               </a>
-          </td>
         </tr>
         <tr>
             <td align="center">
