@@ -370,9 +370,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anand Suryawanshi</b></sub>
                </a>
            </td>
-        </tr>
-        <tr>
-          <td align="center">
+           <td align="center">
                 <a href="https://github.com/varadudi">
                     <img src="https://avatars.githubusercontent.com/u/94173498?v=4" width="100px;" alt="Dudi Varaprasad"/>
                     <br />
@@ -380,6 +378,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
-       
     </tbody>
 </table>
