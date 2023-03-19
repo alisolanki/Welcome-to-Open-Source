@@ -407,14 +407,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yashwanth Reddy</b></sub>
                </a>
            </td>
-            <td align="center">
+           <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <img src="https://avatars.githubusercontent.com/u/110410744?v=4" width="100px;" alt="Mayur Gosavi"/>
                     <br />
                     <sub><b>Mayur Gosavi</b></sub>
                </a>
            </td>
-            <td align="center">
+           <td align="center">
                 <a href=https://github.com/MrPrakashR">
                     <img src="https://images.theconversation.com/files/417198/original/file-20210820-25-1j3afhs.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" width="100px;" alt="Prakash Rautela"/>
                     <br />
@@ -451,9 +451,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>M.SAKSHAM</b></sub>
                 </a>
             </td>
-        </tr>
-        <tr>
-           <td align="center">
+            <td align="center">
+                <a href="https://github.com/Raunak2024">
+                    <img src="https://avatars.githubusercontent.com/u/85424111?v=4" width="100px;" alt="Raunak Nag"/>
+                    <br />
+                    <sub><b>Raunak Nag</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/theNKCode">
                     <img src="https://avatars.githubusercontent.com/u/88282319?v=4" width="100px;" alt="Nikhil Kamble"/>
                     <br />
@@ -462,14 +467,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
-        <td align="center">
+            <td align="center">
                 <a href="https://shaikahmadnawaz.vercel.app/">
                     <img src="https://avatars.githubusercontent.com/u/96189881?v=4" width="100px;" alt="Shaik Ahmad Nawaz"/>
                     <br />
                     <sub><b>Shaik Ahmad Nawaz</b></sub>
                </a>
-           </td>
-           <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://animezkishan.github.io/cv_v2/">
                     <img src="https://avatars.githubusercontent.com/u/91653112?v=4" width="100px;" alt="Kishan Kumar"/>
                     <br />
