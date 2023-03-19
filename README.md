@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/WildxVC">
+                    <img src="https://avatars.githubusercontent.com/u/77741316?v=4" width="100px;" alt="Vinayak Chhatrashali"/>
+                    <br />
+                    <sub><b>Vinayak Chhatrashali</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
