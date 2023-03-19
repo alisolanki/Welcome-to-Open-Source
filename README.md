@@ -384,14 +384,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Md Shahil Sheikh</b></sub>
                </a>
-           </td>
-             <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/ManideepCM">
                     <img src="https://avatars.githubusercontent.com/u/124023122?v=4" width="100px;" alt="Manideep Kalaveni"/>
                     <br />
                     <sub><b>Manideep Kalaveni</b></sub>
                </a>
-           </td>
+            </td>
         <tr>
            <td align="center">
                 <a href="https://github.com/pro402">
@@ -465,6 +465,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Nikhil Kamble</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rayancoder007">
+                    <img src="https://avatars.githubusercontent.com/u/106444749?v=4" width="100px;" alt="Rayan Chowdhury"/>
+                    <br />
+                    <sub><b>Rayan Chowdhury</b></sub>
+               </a>
+           </td>
         </tr>
         <tr>
             <td align="center">
