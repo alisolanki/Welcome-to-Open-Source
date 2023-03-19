@@ -96,7 +96,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
-            <td align="center">
+            <td align="center">   
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
@@ -188,6 +188,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+       </tr>
+       <tr>
+           <td align="center">
+              <a href="https://github.com/DAJ8112">
+                    <img src="https://avatars.githubusercontent.com/u/73093934?v=4" width="100px;" alt="Dhruvil"/>
+                    <br />
+                    <sub><b>Dhruvil Joshi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
