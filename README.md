@@ -282,6 +282,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                    <sub><b>Hardik Parmar</b></sub>
                  </a>
              </td>
+             <td align="center">
+                 <a href="https://github.com/kaustubh-Joshi1020">
+                   <img src="https://avatars.githubusercontent.com/u/109413003?v=4" width="100px;" alt="Kaustubh Joshi"/>
+                   <br />
+                   <sub><b>Kaustubh Joshi</b></sub>
+                 </a>
+              </td>
         </tr>
         <tr>
             <td align="center">
