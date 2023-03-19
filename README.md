@@ -96,7 +96,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
-            <td align="center">
+            <td align="center">   
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
@@ -188,13 +188,123 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
+       </tr>
+       <tr>
            <td align="center">
+              <a href="https://github.com/DAJ8112">
+                    <img src="https://avatars.githubusercontent.com/u/73093934?v=4" width="100px;" alt="Dhruvil"/>
+                    <br />
+                    <sub><b>Dhruvil Joshi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/priyanshu-11000/">
+                    <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
+                    <br />
+                    <sub><b>Priyanshu Kumar Singh</b></sub>
+                 </a>
+             </td>
+            <td align="center">
+                <a href="https://github.com/Amrithshagar">
+                    <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Amrithshagar</b></sub>
+                </a>
+            </td>   
+            <td align="center">
+                <a href="https://github.com/Shubhh4">
+                    <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
+                    <br />
+                    <sub><b>Shubham Pathak</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Rahul-lalwani-learner">
+                    <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
+                    <br />
+                    <sub><b>Rahul Lalwani</b></sub>
+                </a>
+             </td>
+             <td align="center">
+                 <a href="https://linktr.ee/_madhubalan">
+                    <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
+                    <br />
+                    <sub><b>Madhubalan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jerinwilson7">
+                    <img src="https://avatars.githubusercontent.com/u/74110171?v=4" width="100px;" alt="Jerin Wilson"/>
+                    <br />
+                    <sub><b>Jerin Wilson</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Pgsaisuhas">
+                    <img src="https://avatars.githubusercontent.com/u/118993285?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Sai Suhas P G</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/winnie-0-0">
+                    <img src="https://avatars.githubusercontent.com/u/85567107?v=4" width="100px;" alt="Manaswini Verma"/>
+                    <br />
+                    <sub><b>Manaswini Verma</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sumedhuv">
+                    <img src="https://avatars.githubusercontent.com/u/63589821?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Sumedh Vichare</b></sub>
+             </td>
+             <td align="center">
+                 <a href="https://github.com/Aryann15">
+                     <img src="https://avatars.githubusercontent.com/u/82017158?v=4" width="100px;" alt="Raj Aryan Singh"/>
+                     <br />
+                     <sub><b>RAj Aryan Singh</b></sub>
+                 </a>
+             </td>
+             <td align="center">
+                  <a href="https://github.com/ChetanDighole">
+                    <img src="https://avatars.githubusercontent.com/u/113523391?v=4" width="100px;" alt="Akshay Kamath"/>
+                    <br />
+                    <sub><b>Chetan Dighole</b></sub>
+                  </a>
+              </td>
+              <td align="center">
+                 <a href="https://github.com/tikul1">
+                   <img src="https://avatars.githubusercontent.com/u/81417065?v=4" width="100px;" alt="Hardik Parmar"/>
+                   <br />
+                   <sub><b>Hardik Parmar</b></sub>
+                 </a>
+             </td>
+             <td align="center">
+                 <a href="https://github.com/kaustubh-Joshi1020">
+                   <img src="https://avatars.githubusercontent.com/u/109413003?v=4" width="100px;" alt="Kaustubh Joshi"/>
+                   <br />
+                   <sub><b>Kaustubh Joshi</b></sub>
+                 </a>
+              </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/harisahmed001">
+                    <img src="https://avatars.githubusercontent.com/u/10527172?v=4" width="100px;" alt="Waleed Ahmed"/>
+                    <br />
+                    <sub><b>Waleed Ahmed</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.linkedin.com/in/debashishbordoloi/">
                     <img src="https://avatars.githubusercontent.com/u/116879082?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Debashish Bordoloi</b></sub>
                 </a>
-            </td>
+             </td>
         </tr>
     </tbody>
 </table>
