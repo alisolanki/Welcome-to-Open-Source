@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BejadiRajeshReddy18">
+                <img src="https://avatars.githubusercontent.com/u/64033035?s=400&u=32e2ac677a3a8482413393fb744d21aae6247aae&v=4" width="100px;" alt="RajeshReddy  Bejadi"/>
+                    <br />
+                    <sub><b>RajeshReddy Bejadi</b></sub>
+                </a>
+        </td>
         </tr>
     </tbody>
 </table>
