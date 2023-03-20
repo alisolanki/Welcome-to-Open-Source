@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/satwikrprabhu">
+                    <img src="https://avatars.githubusercontent.com/u/105852091?v=4" width="100px;" alt="Satwik Prabhu"/>
+                    <br />
+                    <sub><b>Satwik Prabhu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
