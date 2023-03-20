@@ -40,7 +40,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/Shoaib19/">
-                    <img src="https://avatars.githubusercontent.com/u/86943632?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/86943632?v=4" width="100px;" alt="Shoaib Sabir"/>
                     <br />
                  <sub><b>Shoaib Sabir</b></sub>
                  </a>
