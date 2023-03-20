@@ -8,9 +8,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
--  Add your own details to the contributor list
--  Make a Pull Request
--  [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+- Add your own details to the contributor list
+- Make a Pull Request
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://linkedin.com/in/alisolanki">
