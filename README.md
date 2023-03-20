@@ -517,7 +517,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/vipulpathak113">
-                    <img src="https://avatars.githubusercontent.com/u/22975807?v=4" width="100px;" alt="Ronak Suthar"/>
+                    <img src="https://avatars.githubusercontent.com/u/22975807?v=4" width="100px;" alt="Vipul Pathak"/>
                     <br />
                     <sub><b>Vipul Pathak</b></sub>
                 </a>
