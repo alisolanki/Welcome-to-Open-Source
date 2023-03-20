@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Azathoth-11">
+                    <img src="https://avatars.githubusercontent.com/u/98162169?s=400&u=55a568ca1fb7682d3bedd9129e20e63c95b8cf05&v=4" width="100px;" alt="Azathoth-11"/>
+                    <br />
+                    <sub><b>Rohit Sinha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
