@@ -603,5 +603,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dibyajyoti Ganguly</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/salmanakhtar57">
+                    <img src="https://avatars.githubusercontent.com/u/98455899?v=4" width="100px;" alt="Salman Akhtar"/>
+                    <br />
+                    <sub><b>Salman Akhtar</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
