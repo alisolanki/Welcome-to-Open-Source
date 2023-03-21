@@ -519,9 +519,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Shoaib19/">
                     <img src="https://avatars.githubusercontent.com/u/86943632?v=4" width="100px;" alt="Shoaib Sabir"/>
                     <br />
-                 <sub><b>Shoaib Sabir</b></sub>
-                 </a>
+                    <sub><b>Shoaib Sabir</b></sub>
+                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MKisKrazy">
+                    <img src="https://avatars.githubusercontent.com/u/110541127?v=4" width="100px;" alt="Mahesh Krishna"/>
+                    <br />
+                    <sub><b>Mahesh Krishna</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
