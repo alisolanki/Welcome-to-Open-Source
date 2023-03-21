@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Adi-070">
-                    <img src="https://avatars.githubusercontent.com/Adi-070" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/Adi-070" width="100px;" alt="Aditya Mishra"/>
                     <br />
                     <sub><b>Aditya Mishra</b></sub>
                 </a>
