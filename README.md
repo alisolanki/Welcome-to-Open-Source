@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Adithya4720">
+                    <img src="https://avatars.githubusercontent.com/u/116452077?v=4" width="100px;" alt="Adithya"/>
+                    <br />
+                    <sub><b>Adithya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
