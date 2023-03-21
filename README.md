@@ -543,6 +543,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shuvendu Samanta</b></sub>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/vipulpathak113">
                     <img src="https://avatars.githubusercontent.com/u/22975807?v=4" width="100px;" alt="Vipul Pathak"/>
@@ -557,8 +559,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Satwik Prabhu</b></sub>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/AKR-2803">
                     <img src="https://avatars.githubusercontent.com/u/109909231?v=4" width="100px;" alt="Aaryaveer Rajput"/>
