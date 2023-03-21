@@ -522,6 +522,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                  <sub><b>Shoaib Sabir</b></sub>
                  </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Zazen4745/">
+                    <img src="https://avatars.githubusercontent.com/u/79149604?v=4" alt="Devansh Kaushik"/>
+                    <br />
+                 <sub><b>Devansh Kaushik</b></sub>
+                 </a>
+            </td>
         </tr>
     </tbody>
 </table>
