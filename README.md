@@ -588,10 +588,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/YashTariyal">
+                <a href="https://github.com/taimoorahmadta">
                     <img src="https://avatars.githubusercontent.com/u/77398467?v=4" width="100px;" alt="Yash Tariyal"/>
                     <br />
                     <sub><b>Yash Tariyal</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/81186933?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Taimoor Ahmad</b></sub>
                 </a>
             </td>
         </tr>
