@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Dibyajyoti2002/">
+                    <img src="https://avatars.githubusercontent.com/u/72976359?v=4" width="100px;" alt="Dibyajyoti Ganguly"/>
+                    <br />
+                    <sub><b>Dibyajyoti Ganguly</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
