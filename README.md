@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/zaid4ever">
+                    <img src="https://avatars.githubusercontent.com/u/84714778?v=4" width="100px;" alt="Zaid Syed"/>
+                    <br />
+                    <sub><b>Zaid Syed</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
