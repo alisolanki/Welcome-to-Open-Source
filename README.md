@@ -610,5 +610,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salman Akhtar</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/kiranism431">
+                    <img src="https://avatars.githubusercontent.com/u/64724286?v=4" width="100px;" alt="Kiran Pahadi"/>
+                    <br />
+                    <sub><b>Kiran Pahadi</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
