@@ -415,7 +415,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
-                <a href=https://github.com/MrPrakashR">
+                <a href="https://github.com/MrPrakashR">
                     <img src="https://images.theconversation.com/files/417198/original/file-20210820-25-1j3afhs.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" width="100px;" alt="Prakash Rautela"/>
                     <br />
                     <sub><b>Prakash Rautela</b></sub>
@@ -541,6 +541,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/69745389?v=4" width="100px;" alt="Shuvendu Samanta"/>
                     <br />
                     <sub><b>Shuvendu Samanta</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vipulpathak113">
+                    <img src="https://avatars.githubusercontent.com/u/22975807?v=4" width="100px;" alt="Vipul Pathak"/>
+                    <br />
+                    <sub><b>Vipul Pathak</b></sub>
                 </a>
             </td>
         </tr>
