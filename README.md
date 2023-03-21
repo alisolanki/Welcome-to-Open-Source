@@ -610,5 +610,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salman Akhtar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rkf2778">
+                    <img src="https://avatars.githubusercontent.com/u/41117031?v=4" width="100px;" alt="Rohit Kochikkat Francis"/>
+                    <br />
+                    <sub><b>Rohit Kochikkat Francis</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
