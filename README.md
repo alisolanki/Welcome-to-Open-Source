@@ -53,6 +53,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AS-Danish">
+                    <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
+                    <br />
+                    <sub><b>Abdul Salaam Danish</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
@@ -513,13 +520,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
                     <br />
                     <sub><b>Ronak Suthar</b></sub>
-                </a>
-            </td>
-             <td align="center">
-                <a href="https://github.com/AS-Danish">
-                    <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
-                    <br />
-                    <sub><b>Abdul Salaam Danish</b></sub>
                 </a>
             </td>
         </tr>
