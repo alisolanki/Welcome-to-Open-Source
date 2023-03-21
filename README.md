@@ -587,6 +587,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Byomkesh Mahato</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/YashTariyal">
+                    <img src="https://avatars.githubusercontent.com/u/77398467?v=4" width="100px;" alt="Yash Tariyal"/>
+                    <br />
+                    <sub><b>Yash Tariyal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
