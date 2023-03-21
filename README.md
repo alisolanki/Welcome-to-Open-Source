@@ -515,6 +515,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/Dwaipayan25">
+                    <img src="https://avatars.githubusercontent.com/u/91361409?v=4" width="100px;" 
+                    alt="Dwaipayan Dehury"/>
+                    <br />
+                    <sub><b>Dwaipayan Dehury</b></sub>
+                </a>
+            </td>
+            
         </tr>
     </tbody>
 </table>
