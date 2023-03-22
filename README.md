@@ -617,5 +617,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Aneeshh18">
+                    <img src="https://avatars.githubusercontent.com/u/88325646?v=4" width="100px;" alt="Aneesh Sahu"/>
+                    <br />
+                    <sub><b>Aneesh Sahu</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
