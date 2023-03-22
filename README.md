@@ -46,10 +46,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://www.linkedin.com/in/abhishek-yadav17/">
+                    <img src="https://avatars.githubusercontent.com/u/103676667?s=400&u=1f1b24a8084b74632b727e9af61389557944455b&v=4" width="100px;" alt="Abhishek Yadav"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Abhishek Yadav</b></sub>
                 </a>
             </td>
             <td align="center">
