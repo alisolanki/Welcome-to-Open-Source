@@ -618,11 +618,77 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/zaid4ever">
+                    <img src="https://avatars.githubusercontent.com/u/84714778?v=4" width="100px;" alt="Zaid Syed"/>
+                    <br />
+                    <sub><b>Zaid Syed</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Rahul0714">
+                    <img src="https://avatars.githubusercontent.com/u/61940970?v=4" width="100px;" alt="Ronak Suthar"/>
+                    <br />
+                    <sub><b>Rahul Mujumdar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+               <a href="https://github.com/AnkitPatil-22">
+                   <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
+                   <br />
+                   <sub><b>Ankit Patil</b></sub>
+               </a>
+           </td>
+           <td align="center">
+               <a href="https://github.com/raghu-007">
+                   <img src="https://avatars.githubusercontent.com/u/50697306?v=4" width="100px;" alt="RAGHU S"/>
+                   <br />
+                   <sub><b>RAGHU S</b></sub>
+               </a>
+           </td>
+       </tr>
+       <tr>
+           <td align="center">
+                <a href="https://github.com/Aneeshh18">
+                    <img src="https://avatars.githubusercontent.com/u/88325646?v=4" width="100px;" alt="Aneesh Sahu"/>
+                    <br />
+                    <sub><b>Aneesh Sahu</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chandra1899">
+                    <img src="https://avatars.githubusercontent.com/u/101719497?v=4" width="100px;" alt="Chandra Kumar"/>
+                    <br />
+                    <sub><b>Chandra Kumar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sannitya-13">
+                    <img src="https://avatars.githubusercontent.com/u/97282952?v=4" width="100px;" alt="Sannitya"/>
+                    <br />
+                    <sub><b>Sannitya</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mabuhanifa">
+                    <img src="https://avatars.githubusercontent.com/u/90899296?v=4" width="100px;" alt="Mohammed Abu Hanifa"/>
+                    <br />
+                    <sub><b>Mohammed Abu Hanifa</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/HiLakshya">
+                    <img src="https://avatars.githubusercontent.com/u/110782804?v=4" width="100px;" alt="Sai Harsha Ala"/>
+                    <br />
+                    <sub><b>Lakshya Kandpal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://portfolio-app-five-vert.vercel.app/">
                     <img src="https://avatars.githubusercontent.com/u/77013800?v=4" width="100px;" alt="Shravan Chaudhary Profile Photo"/>
                     <br />
                     <sub><b>Shravan Chaudhary</b></sub>
                 </a>
             </td>
+        </tr>
     </tbody>
 </table>
