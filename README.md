@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+# Welcome to Open Source Contributions ð
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
@@ -28,7 +28,7 @@
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
-## Contributors ✨
+## Contributors â¨
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -608,6 +608,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/98455899?v=4" width="100px;" alt="Salman Akhtar"/>
                     <br />
                     <sub><b>Salman Akhtar</b></sub>
+                </a>
+            </td>
+			<td align="center">
+                <a href="https://github.com/Sunny-25">
+                    <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
     </tbody>
