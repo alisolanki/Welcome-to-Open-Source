@@ -645,6 +645,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                    <sub><b>RAGHU S</b></sub>
                </a>
            </td>
+       </tr>
+       <tr>
            <td align="center">
                 <a href="https://github.com/Aneeshh18">
                     <img src="https://avatars.githubusercontent.com/u/88325646?v=4" width="100px;" alt="Aneesh Sahu"/>
@@ -652,5 +654,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aneesh Sahu</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chandra1899">
+                    <img src="https://avatars.githubusercontent.com/u/101719497?v=4" width="100px;" alt="Chandra Kumar"/>
+                    <br />
+                    <sub><b>Chandra Kumar</b></sub>
+                </a>
+            </td>
+        </tr> 
     </tbody>
 </table>
