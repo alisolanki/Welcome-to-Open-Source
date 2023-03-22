@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Muhammad-Awab">
                     <img src="https://avatars.githubusercontent.com/u/98603853?v=4" width="100px;" alt="Muhammad Awab Ahmed"/>
                     <br />
-                    <sub><b>Muhammad Awab Ahmed</b></sub>
+                    <sub><b>Muhammad Awab</b></sub>
                 </a>
             </td>
             <td align="center">
