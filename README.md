@@ -188,11 +188,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
            </td>
-            <td align="center">
-                <a href="https://github.com/AnkitPatil-22">
-                    <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Anshuman Atrey"/>
-                    <br />
-                    <sub><b>Ankit Patil</b></sub>
+           <td align="center">
+               <a href="https://github.com/AnkitPatil-22">
+                   <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
+                   <br />
+                   <sub><b>Ankit Patil</b></sub>
                </a>
            </td>
         </tr>
