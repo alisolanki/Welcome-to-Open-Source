@@ -618,11 +618,49 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/zaid4ever">
+                    <img src="https://avatars.githubusercontent.com/u/84714778?v=4" width="100px;" alt="Zaid Syed"/>
+                    <br />
+                    <sub><b>Zaid Syed</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Rahul0714">
+                    <img src="https://avatars.githubusercontent.com/u/61940970?v=4" width="100px;" alt="Ronak Suthar"/>
+                    <br />
+                    <sub><b>Rahul Mujumdar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+               <a href="https://github.com/AnkitPatil-22">
+                   <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
+                   <br />
+                   <sub><b>Ankit Patil</b></sub>
+               </a>
+           </td>
+           <td align="center">
+               <a href="https://github.com/raghu-007">
+                   <img src="https://avatars.githubusercontent.com/u/50697306?v=4" width="100px;" alt="RAGHU S"/>
+                   <br />
+                   <sub><b>RAGHU S</b></sub>
+               </a>
+           </td>
+       </tr>
+       <tr>
+           <td align="center">
+                <a href="https://github.com/Aneeshh18">
+                    <img src="https://avatars.githubusercontent.com/u/88325646?v=4" width="100px;" alt="Aneesh Sahu"/>
+                    <br />
+                    <sub><b>Aneesh Sahu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chandra1899">
                     <img src="https://avatars.githubusercontent.com/u/101719497?v=4" width="100px;" alt="Chandra Kumar"/>
                     <br />
                     <sub><b>Chandra Kumar</b></sub>
                 </a>
             </td>
+        </tr> 
     </tbody>
 </table>
