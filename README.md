@@ -519,7 +519,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Rahul0714">
                     <img src="https://avatars.githubusercontent.com/u/61940970?v=4" width="100px;" alt="Ronak Suthar"/>
                     <br />
-                    <sub><b>Ronak Suthar</b></sub>
+                    <sub><b>Rahul Mujumdar</b></sub>
                 </a>
             </td>
         </tr>
