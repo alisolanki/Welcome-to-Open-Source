@@ -610,5 +610,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salman Akhtar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gantanikhilraj">
+                    <img src="https://avatars.githubusercontent.com/u/112814295?v=4" width="100px;" alt="Ganta Nikhil Raj"/>
+                    <br />
+                    <sub><b>Ganta Nikhil Raj</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
