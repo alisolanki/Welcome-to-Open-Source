@@ -24,6 +24,14 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+
+    <td align="center">
+        <a href="https://github.com/hegdepavankumar">
+            <img src="https://avatars.githubusercontent.com/u/85627085?v=4" width="100px;" alt="Pavankumar Hegde"/>
+            <br />
+            <sub><b>Pavankumar Hegde</b></sub>
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
