@@ -617,5 +617,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hasanravda">
+                    <img src="https://avatars.githubusercontent.com/u/73700675?v=4" width="100px;" alt="Sai Harsha Ala"/>
+                    <br />
+                    <sub><b>Hasan Ravda</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
