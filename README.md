@@ -617,5 +617,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/HiLakshya">
+                    <img src="https://avatars.githubusercontent.com/u/110782804?v=4" width="100px;" alt="Sai Harsha Ala"/>
+                    <br />
+                    <sub><b>Lakshya Kandpal</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
