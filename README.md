@@ -617,5 +617,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chandra1899">
+                    <img src="https://avatars.githubusercontent.com/u/101719497?v=4" width="100px;" alt="Chandra Kumar"/>
+                    <br />
+                    <sub><b>Chandra Kumar</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
