@@ -631,5 +631,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rahul Mujumdar</b></sub>
                 </a>
             </td>
+            <td align="center">
+               <a href="https://github.com/AnkitPatil-22">
+                   <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
+                   <br />
+                   <sub><b>Ankit Patil</b></sub>
+               </a>
+           </td>
     </tbody>
 </table>
