@@ -51,6 +51,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
+                  <td align="center">
+        <a href="https://www.linkedin.com/in/aaryan-kohli-600973247/">
+            <img src="https://avatars.githubusercontent.com/u/110827474?v=4" width="100px;" alt="Aryan Kohli"/>
+            <br />
+            <sub><b>Aryan Kohli</b></sub>
+        </a>
+    </td>
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
