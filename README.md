@@ -8,9 +8,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
--   Add your own details to the contributor list
--   Make a Pull Request
--   [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+- Add your own details to the contributor list
+- Make a Pull Request
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://linkedin.com/in/alisolanki">
@@ -680,6 +680,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/110782804?v=4" width="100px;" alt="Sai Harsha Ala"/>
                     <br />
                     <sub><b>Lakshya Kandpal</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://portfolio-app-five-vert.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/77013800?v=4" width="100px;" alt="Shravan Chaudhary Profile Photo"/>
+                    <br />
+                    <sub><b>Shravan Chaudhary</b></sub>
                 </a>
             </td>
         </tr>
