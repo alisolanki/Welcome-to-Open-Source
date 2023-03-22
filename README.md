@@ -638,11 +638,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                    <sub><b>Ankit Patil</b></sub>
                </a>
            </td>
-            <td align="center">
-                <a href="https://github.com/raghu-007">
-                    <img src="https://avatars.githubusercontent.com/u/50697306?v=4" width="100px;" alt="RAGHU S"/>
+           <td align="center">
+               <a href="https://github.com/raghu-007">
+                   <img src="https://avatars.githubusercontent.com/u/50697306?v=4" width="100px;" alt="RAGHU S"/>
+                   <br />
+                   <sub><b>RAGHU S</b></sub>
+               </a>
+           </td>
+           <td align="center">
+                <a href="https://github.com/Aneeshh18">
+                    <img src="https://avatars.githubusercontent.com/u/88325646?v=4" width="100px;" alt="Aneesh Sahu"/>
                     <br />
-                    <sub><b>RAGHU S</b></sub>
+                    <sub><b>Aneesh Sahu</b></sub>
                 </a>
             </td>
     </tbody>
