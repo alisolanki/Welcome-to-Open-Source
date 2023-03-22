@@ -611,10 +611,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+
                 <a href="https://github.com/00jackson">
                     <img src="https://avatars.githubusercontent.com/u/95626883?v=4" width="100px;" alt="Jackson Kujur"/>
                     <br />
                     <sub><b>Jackson Kujur</b></sub>
+                    
+                 </a>
+                 </td>
+
+                <a href="https://github.com/AlaSaiHarsha">
+                    <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Sai Harsha Ala"/>
+                    <br />
+                    <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
     </tbody>
