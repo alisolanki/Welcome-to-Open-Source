@@ -624,5 +624,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Zaid Syed</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rahul0714">
+                    <img src="https://avatars.githubusercontent.com/u/61940970?v=4" width="100px;" alt="Ronak Suthar"/>
+                    <br />
+                    <sub><b>Rahul Mujumdar</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
