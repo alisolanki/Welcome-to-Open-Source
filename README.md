@@ -610,5 +610,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salman Akhtar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pramodh-del">
+                    <img src="https://avatars.githubusercontent.com/u/70189543?v=4" width="100px;" alt="Pramodh Kadam"/>
+                    <br />
+                    <sub><b>Pramodh Kadam</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
