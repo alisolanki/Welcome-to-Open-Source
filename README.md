@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/moudekarvivek">
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
                     <br />
-                    <sub><b>Vivek Moudekar</b></sub>
+                    <sub><b>Vivek Ashok Moudekar</b></sub>
                 </a>
             </td>
             <td align="center">
