@@ -689,6 +689,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shravan Chaudhary</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codermal7">
+                    <img src="https://avatars.githubusercontent.com/u/83698322?v=4" width="100px;" alt="Anuj Pandey"/>
+                    <br />
+                    <sub><b>Anuj Pandey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
