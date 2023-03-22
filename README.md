@@ -612,7 +612,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/devender15">
-                    <img src="https://avatars.githubusercontent.com/u/57867128?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <img src="https://avatars.githubusercontent.com/u/57867128?v=4" width="100px;" alt="Devender Pal"/>
                     <br />
                     <sub><b>Devender Pal</b></sub>
                </a>
