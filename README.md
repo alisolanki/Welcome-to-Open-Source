@@ -619,7 +619,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/VishalKumar8">
-                    <img src="https://www.pngplay.com/wp-content/uploads/1/Letter-V-PNG-Royalty-Free-High-Quality.png" width="100px;" alt="vishal Kumar"/>
+                    <img src="https://avatars.githubusercontent.com/u/88970099?v=4" width="100px;" alt="vishal Kumar"/>
                     <br />
                     <sub><b>Vishal Kumar</b></sub>
                 </a>
