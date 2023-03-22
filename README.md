@@ -617,5 +617,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KaushalTarpara">
+                    <img src="https://avatars.githubusercontent.com/u/95602932?v=4" width="100px;" alt="Kaushal Tarpara"/>
+                    <br />
+                    <sub><b>Kaushal Tarpara</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
