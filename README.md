@@ -13,6 +13,9 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
+    <a href="https://www.twitter.com/alisolankii">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
+    </a>
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
@@ -727,8 +730,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AhmedShabib02">
+                    <img src="https://avatars.githubusercontent.com/u/114384628?v=4" width="100px;" alt="Ahmed Shabib"/>
+                    <br />
+                    <sub><b>Ahmed Shabib</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mep1tz">
+                    <img src="https://avatars.githubusercontent.com/u/118546327?v=4" width="100px;" alt="Navin P"/>
+                    <br />
+                    <sub><b>Navin P</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/saffi-786">
-                    <img src="https://avatars.githubusercontent.com/u/109434827?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/109434827?v=4" width="100px;" alt="Sk Saffi Ulla"/>
                     <br />
                     <sub><b>Sk Saffi Ulla</b></sub>
                 </a>
