@@ -42,10 +42,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/Saywayabhi">
+                    <img src="https://avatars.githubusercontent.com/u/102829414?s=400&u=f82dba51e96083c9caed1d1db72d76f33fda6053&v=4" width="100px;" alt="Abhishek Maurya"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Abhishek Maurya</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -765,5 +765,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Hasan Ravda</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/impoiler">
+                    <img src="https://avatars.githubusercontent.com/u/83772622?v=4" width="100px;" alt="Suresh Chaudhary"/>
+                    <br />
+                    <sub><b>Suresh Chaudhary</b></sub>
+                </a>
+           </td>
     </tbody>
 </table>
