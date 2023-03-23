@@ -779,5 +779,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Suresh Chaudhary</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/pratikt76">
+                    <img src="https://avatars.githubusercontent.com/u/96099806?v=4" width="100px;" alt="Suresh Chaudhary"/>
+                    <br />
+                    <sub><b>Pratik Thombare</b></sub>
+                </a>
+           </td>
     </tbody>
 </table>
