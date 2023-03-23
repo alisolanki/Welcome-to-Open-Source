@@ -853,5 +853,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
                 </a>
+                 <td align="center">
+                <a href="https://github.com/Achuabhijith2003">
+                    <img src="https://avatars.githubusercontent.com/u/106607350?v=4" width="100px;" alt="Abhijith JR"/>
+                    <br />
+                    <sub><b>Abhijith JR</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
