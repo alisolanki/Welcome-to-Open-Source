@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/GungunGupta14">
-                    <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun"/>
+                    <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
                     <br />
                     <sub><b>Gungun Gupta</b></sub>
                 </a>
