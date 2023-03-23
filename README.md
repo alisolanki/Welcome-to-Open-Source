@@ -42,6 +42,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/Mask02">
+                    <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Muhammad Shoaib Akbar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -60,6 +67,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
                     <br />
                     <sub><b>Vivek Ashok Moudekar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Adi-070">
+                    <img src="https://avatars.githubusercontent.com/Adi-070" width="100px;" alt="Aditya Mishra"/>
+                    <br />
+                    <sub><b>Aditya Mishra</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -118,6 +132,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
                     <sub><b>Kaushal Lohar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/satyam-02">
+                    <img src="https://avatars.githubusercontent.com/u/91192090?v=4" width="100px;" alt="Satyam Gupta"/>
+                    <br />
+                    <sub><b>Satyam Gupta</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -604,6 +625,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yash Tariyal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hrx0hrithik">
+                    <img src="https://avatars.githubusercontent.com/u/93973566?v=4" width="100px;" alt="Hrithik Gupta"/>
+                    <br />
+                    <sub><b>Hrithik Gupta</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
@@ -814,5 +842,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Rohit Singh</b></sub>
                 </a>
            </td>
+           <td align="center">
+                  <a href="https://github.com/sunilgiri7">
+                      <img src="https://avatars.githubusercontent.com/u/106025724?v=4" width="100px;" alt="Sunil Giri"/>
+                      <br />
+                      <sub><b>Sunil Giri</b></sub>
+                </a>
+           </td>
+           </tr>
     </tbody>
 </table>
