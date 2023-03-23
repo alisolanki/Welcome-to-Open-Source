@@ -772,5 +772,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Suresh Chaudhary</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/archit-rohal">
+                    <img src="https://avatars.githubusercontent.com/u/92323518?v=4" width="100px;" alt="Suresh Chaudhary"/>
+                    <br />
+                    <sub><b>Suresh Chaudhary</b></sub>
+                </a>
+           </td>
     </tbody>
 </table>
