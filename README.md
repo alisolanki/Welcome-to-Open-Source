@@ -841,7 +841,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Sunil Giri</b></sub>
                 </a>
                 <td align="center">
-                  <a href="https://fundooaj.wordpress.com">
+                  <a href="https://github.com/amarjeeth123/Python">
                       <img src="https://avatars.githubusercontent.com/u/30438568?s=40&v=4" width="100px;" alt="Amarjeet Jayanthi"/>
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
