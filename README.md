@@ -736,5 +736,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ahmed Shabib</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mep1tz">
+                    <img src="https://avatars.githubusercontent.com/u/118546327?v=4" width="100px;" alt="Navin P"/>
+                    <br />
+                    <sub><b>Navin P</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
