@@ -41,6 +41,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/jahanzaibbabar">
+                    <img src="https://avatars.githubusercontent.com/u/69716292?v=4" width="100px;" alt="Jahanzaib Babar"/>
+                    <br />
+                    <sub><b>Jahanzaib Babar</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Mask02">
                     <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
