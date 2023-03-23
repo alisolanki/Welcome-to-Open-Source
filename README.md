@@ -791,6 +791,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sk Saffi Ulla</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/milan-sony">
+                    <img src="https://avatars.githubusercontent.com/u/108662405?v=4" width="100px;" alt="milansony"/>
+                    <br />
+                    <sub><b>Milan Sony</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
