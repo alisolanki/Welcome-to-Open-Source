@@ -729,5 +729,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Siddhartha Sarkar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AhmedShabib02">
+                    <img src="https://avatars.githubusercontent.com/u/114384628?v=4" width="100px;" alt="Ahmed Shabib"/>
+                    <br />
+                    <sub><b>Ahmed Shabib</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
