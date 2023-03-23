@@ -49,6 +49,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/GungunGupta14">
+                    <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
+                    <br />
+                    <sub><b>Gungun Gupta</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -67,6 +74,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
                     <br />
                     <sub><b>Vivek Ashok Moudekar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AyushVerma-1307">
+                    <img src="https://avatars.githubusercontent.com/u/104214949?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Ayush Verma</b></sub>
                 </a>
             </td>
             <td align="center">
