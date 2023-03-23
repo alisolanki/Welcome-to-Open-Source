@@ -743,5 +743,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Navin P</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/saffi-786">
+                    <img src="https://avatars.githubusercontent.com/u/109434827?v=4" width="100px;" alt="Sk Saffi Ulla"/>
+                    <br />
+                    <sub><b>Sk Saffi Ulla</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
