@@ -620,7 +620,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sai Harsha Ala</b></sub>
                 </a>
             </td>
-            <td align="center">
                 <a href="https://github.com/zaid4ever">
                     <img src="https://avatars.githubusercontent.com/u/84714778?v=4" width="100px;" alt="Zaid Syed"/>
                     <br />
@@ -757,6 +756,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/113975668?s=400&u=ba14f0eb6491f65e5589d5db3d6c342af09aed17&v=4" width="100px;" alt="MuGrahiman"/>
                     <br />
                     <sub><b>MuGrahiman</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/hasanravda">
+                    <img src="https://avatars.githubusercontent.com/u/73700675?v=4" width="100px;" alt="Hasan Ravda"/>
+                    <br />
+                    <sub><b>Hasan Ravda</b></sub>
                 </a>
             </td>
     </tbody>
