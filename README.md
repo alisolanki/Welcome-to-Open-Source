@@ -625,6 +625,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yash Tariyal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hrx0hrithik">
+                    <img src="https://avatars.githubusercontent.com/u/93973566?v=4" width="100px;" alt="Hrithik Gupta"/>
+                    <br />
+                    <sub><b>Hrithik Gupta</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
