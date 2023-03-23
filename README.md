@@ -834,6 +834,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Aaditya Kumar</b></sub>
                 </a>
            </td>
+           </td>
+                <td align="center">
+                  <a href="https://github.com/divyansh-soni1">
+                      <img src="https://github.com/account" width="100px;" alt="divyansh"/>
+                      <br />
+                      <sub><b>Divyansh soni</b></sub>
+                </a>
+           </td>
            <td align="center">
                   <a href="https://github.com/sunilgiri7">
                       <img src="https://avatars.githubusercontent.com/u/106025724?v=4" width="100px;" alt="Sunil Giri"/>
