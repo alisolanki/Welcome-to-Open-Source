@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ayan-M-Dev">
+                    <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ayan Masood"/>
+                    <br />
+                    <sub><b>Ayan Masood</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/moudekarvivek">
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
