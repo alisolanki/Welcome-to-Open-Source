@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/guptnuj">
-                    <img src="https://github.com/account" width="100px;" alt="Anuj Gupta"/>
+                    <img src="https://avatars.githubusercontent.com/u/121455560?v=4" width="100px;" alt="Anuj Gupta"/>
                     <br />
                     <sub><b>Anuj Gupta</b></sub>
                 </a> 
