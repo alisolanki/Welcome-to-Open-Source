@@ -855,6 +855,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Aaditya Kumar</b></sub>
                 </a>
            </td>
+           </td>
+                <td align="center">
+                  <a href="https://github.com/Tej410">
+                      <img src="https://avatars.githubusercontent.com/u/652733912V=4" width="100px;" alt="Tej410"/>
+                      <br />
+                      <sub><b>Tejdeep</b></sub>
+                </a>
+           </td>
            <td align="center">
                   <a href="https://github.com/sunilgiri7">
                       <img src="https://avatars.githubusercontent.com/u/106025724?v=4" width="100px;" alt="Sunil Giri"/>
