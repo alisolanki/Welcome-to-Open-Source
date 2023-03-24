@@ -3,6 +3,7 @@
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
+    <li>If you're a member on the channel, you'll get priority access</li>
 </p>
 
 <p align="center">
