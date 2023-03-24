@@ -42,6 +42,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/pradipchaudhary">
+                    <img src="https://avatars.githubusercontent.com/u/30647038?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Pradip Chaudhary</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Mask02">
                     <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
                     <br />
