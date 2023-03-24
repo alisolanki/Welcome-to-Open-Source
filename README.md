@@ -902,7 +902,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Kumar</b></sub>
                 </a>
             </td>
-             
+                </td>
             <td align="center">
                 <a href="https://github.com/NarpatAanjana">
                     <img src="https://i.postimg.cc/mDyX9Jtj/Fotos01.jpg" width="100px;" alt="Narpat Aanjana"/>
