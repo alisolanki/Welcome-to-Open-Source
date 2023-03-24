@@ -861,11 +861,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <br />
                       <sub><b>Sunil Giri</b></sub>
                 </a>
+                </td>
                 <td align="center">
                   <a href="https://github.com/amarjeeth123/Python">
                       <img src="https://avatars.githubusercontent.com/u/30438568?s=40&v=4" width="100px;" alt="Amarjeet Jayanthi"/>
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
                 </a>
+                </td>
+                   <td align="center">
+                <a href="https://github.com/Durjoy-dcp">
+                    <img src="https://avatars.githubusercontent.com/u/108381781?v=4" width="100px;" alt="Suresh Chaudhary"/>
+                    <br />
+                    <sub><b>Durjoy Chandra Paul</b></sub>
+                </a>
+           </td>
     </tbody>
 </table>
