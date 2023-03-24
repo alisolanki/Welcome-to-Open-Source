@@ -902,13 +902,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Kumar</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/promise-dash">
-                    <img src="https://avatars.githubusercontent.com/u/86062880?v=4" width="100px;" alt="Promise Dash"/>
-                    <br />
-                    <sub><b>Promise Dash</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -923,6 +916,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
                     <br />
                     <sub><b>Gungun Gupta</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/promise-dash">
+                    <img src="https://avatars.githubusercontent.com/u/86062880?v=4" width="100px;" alt="Promise Dash"/>
+                    <br />
+                    <sub><b>Promise Dash</b></sub>
                 </a>
             </td>
         </tr>
