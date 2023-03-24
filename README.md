@@ -1,5 +1,10 @@
 # Welcome to Open Source Contributions 🍉
 
+<p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
+    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
+    <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
+</p>
+
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
