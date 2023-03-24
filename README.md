@@ -925,6 +925,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gungun Gupta</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/kaustubhya">
+                    <img src="https://avatars.githubusercontent.com/u/74069317?v=4" width="100px;" alt="Kaustubhya Shukla"/>
+                    <br />
+                    <sub><b>Kaustubhya Shukla</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
