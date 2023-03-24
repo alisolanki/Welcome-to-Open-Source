@@ -867,5 +867,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
                 </a>
+              <td align="center">
+                  <a href="https://github.com/Shreyashkakde1">
+                      <img src="https://avatars.githubusercontent.com/u/69007245?v=4" width="100px;" alt="Sunil Giri"/>
+                      <br />
+                      <sub><b>Shreyash Kakde</b></sub>
+                    </a>
+                </td>
+                
     </tbody>
 </table>
