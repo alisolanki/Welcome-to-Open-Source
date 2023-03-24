@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://iammohitv.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/56286692?v=4" width="100px;" alt="Mohit Vaswani"/>
+                    <br />
+                    <sub><b>Mohit Vaswani</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/moudekarvivek">
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
