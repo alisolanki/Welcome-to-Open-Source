@@ -925,6 +925,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gungun Gupta</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/arryaman08">
+                    <img src="https://avatars.githubusercontent.com/u/128846661?v=4" width="100px;" alt="Arryaman Mishra"/>
+                    <br />
+                    <sub><b>Arryaman Mishra</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
