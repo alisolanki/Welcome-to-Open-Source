@@ -8,9 +8,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
-- Add your own details to the contributor list
-- Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+-   Add your own details to the contributor list
+-   Make a Pull Request
+-   [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
@@ -848,24 +848,33 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pratik Thombare</b></sub>
                 </a>
            </td>
-                <td align="center">
-                  <a href="https://github.com/ADKR-26">
+            <td align="center">
+                <a href="https://github.com/ADKR-26">
                       <img src="https://avatars.githubusercontent.com/u/81681210?v=4" width="100px;" alt="Suresh Chaudhary"/>
                       <br />
                       <sub><b>Aaditya Kumar</b></sub>
                 </a>
            </td>
            <td align="center">
-                  <a href="https://github.com/sunilgiri7">
+                <a href="https://github.com/sunilgiri7">
                       <img src="https://avatars.githubusercontent.com/u/106025724?v=4" width="100px;" alt="Sunil Giri"/>
                       <br />
                       <sub><b>Sunil Giri</b></sub>
                 </a>
-                <td align="center">
-                  <a href="https://github.com/amarjeeth123/Python">
+            </td>
+            <td align="center">
+                <a href="https://github.com/amarjeeth123/Python">
                       <img src="https://avatars.githubusercontent.com/u/30438568?s=40&v=4" width="100px;" alt="Amarjeet Jayanthi"/>
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Dipankar-Kumar-Singh">
+                    <img src="https://avatars.githubusercontent.com/u/66475186?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Dipankar Kumar Singh</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
