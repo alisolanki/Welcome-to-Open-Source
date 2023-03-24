@@ -49,6 +49,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/thakurnishu">
+                    <img src="https://avatars.githubusercontent.com/u/90508814?v=4" width="100px;" alt="Nishant Singh"/>
+                    <br />
+                    <sub><b>Nishant Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/GungunGupta14">
                     <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
                     <br />
