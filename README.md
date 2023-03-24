@@ -867,5 +867,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <br />
                       <sub><b>Amarjeet Jayanthi</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/vedantsrivastava42">
+                    <img src="https://avatars.githubusercontent.com/u/111370211?v=4" width="100px;" alt="Vedant Srivastava"/>
+                    <br />
+                    <sub><b>Vedant Srivastava</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
