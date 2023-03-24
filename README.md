@@ -875,6 +875,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Hrithik Gupta</b></sub>
                 </a>
             </td>
+            <td align="center">
+                  <a href="https://github.com/Anand-Jangid">
+                      <img src="https://avatars.githubusercontent.com/u/90138319?s=400&u=45f68fc6d79c33ffd4f2e3a0583fe44b6cd46ac9&v=4" width="100px;" alt="Anand  Jangid"/>
+                      <br />
+                      <sub><b>Anand Jangid</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
