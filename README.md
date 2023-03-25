@@ -21,7 +21,7 @@
     <a href="https://www.twitter.com/@NikhilSharmath">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/Nikhil Sharma">
+    <a href="https://linkedin.com/in/nikhil-sharma-bbb072225/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
 <!--     <a href="https://www.youtube.com/AliSolanki">
