@@ -55,14 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/hemant-code625>
-                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
-                    <br />
-                    <sub><b>Hemant Singh Parmar</b></sub>
-                </a>
-            </td>
-
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1010,6 +1002,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/86003362?v=4" width="100px;" alt="Aradhna Abraham"/>
                     <br />
                     <sub><b>Aradhna Abraham</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/hemant-code625>
+                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
+                    <br />
+                    <sub><b>Hemant Singh Parmar</b></sub>
                 </a>
             </td>
             <td align="center">
