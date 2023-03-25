@@ -1078,6 +1078,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pramodh Kadam</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anikk94">
+                    <img src="https://avatars.githubusercontent.com/u/44950099?v=4" width="100px;" alt="Anirudh Krishnan"/>
+                    <br />
+                    <sub><b>Anirudh Krishnan</b></sub>
+                </a>
+            </td>            
         </tr>
     </tbody>
 </table>
