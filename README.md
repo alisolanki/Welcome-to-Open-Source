@@ -1034,6 +1034,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Utkarsh Raj Srivastava</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codewithnikhilsharma/">
+                    <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Nikhil Sharma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
