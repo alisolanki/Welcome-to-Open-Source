@@ -1011,6 +1011,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/tanbirali">
+                    <img src="https://github.com/account" width="100px;" alt="Tanbir Ali"/>
+                    <br />
+                    <sub><b>Tanbir Ali</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
