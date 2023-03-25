@@ -925,6 +925,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vinayak Chhatrashali</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chandrakethan27">
+                    <img src="https://avatars.githubusercontent.com/u/90309231?v=4" width="100px;" alt="Chandrakethan"/>
+                    <br />
+                    <sub><b>Chandrakethan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
