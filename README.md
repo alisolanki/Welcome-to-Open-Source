@@ -991,6 +991,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/hirakjyoti08">
+                    <img src="https://avatars.githubusercontent.com/u/76906387?v=4" width="100px;" alt="Hirakjyoti Talukdar"/>
+                    <br />
+                    <sub><b>Hirakyoti Talukdar</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/Rajithlahiru">
                     <img src="https://avatars.githubusercontent.com/u/93153861?v=4" width="100px;" alt="Rajith Lahiru"/>
                     <br />
