@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+# Welcome to Open Source Contributions ð
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
@@ -37,7 +37,7 @@
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
-## Contributors ✨
+## Contributors â¨
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -1002,6 +1002,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/86003362?v=4" width="100px;" alt="Aradhna Abraham"/>
                     <br />
                     <sub><b>Aradhna Abraham</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sunny-25">
+                    <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
         </tr>
