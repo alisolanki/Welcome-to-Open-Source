@@ -1027,6 +1027,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Tanbir Ali</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/utkarsh172">
+                    <img src="https://avatars.githubusercontent.com/u/78083867?v=4" width="100px;" alt="Utkarsh Raj Srivastava"/>
+                    <br />
+                    <sub><b>Utkarsh Raj Srivastava</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
