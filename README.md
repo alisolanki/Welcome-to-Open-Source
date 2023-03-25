@@ -55,13 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Muhammad-Awab">
-                    <img src="https://avatars.githubusercontent.com/u/98603853?v=4" width="100px;" alt="Muhammad Awab Ahmed"/>
-                    <br />
-                    <sub><b>Muhammad Awab</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -965,6 +958,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
                     <br />
                     <sub><b>Abdul Salaam Danish</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Muhammad-Awab">
+                    <img src="https://avatars.githubusercontent.com/u/98603853?v=4" width="100px;" alt="Muhammad Awab Ahmed"/>
+                    <br />
+                    <sub><b>Muhammad Awab</b></sub>
                 </a>
             </td>
         </tr>
