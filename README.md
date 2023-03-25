@@ -55,6 +55,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/thecyberbro">
+                    <img src="https://avatars.githubusercontent.com/u/105934927?s=400&u=54f364b8ee0ec10f53b1d249030d19f225e49b12&v=4"
+                     width="100px;" alt="Noman sami"/>
+                    <br />
+                    <sub><b>Noman Sami</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
