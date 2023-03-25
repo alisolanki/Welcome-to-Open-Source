@@ -953,6 +953,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kiran Pahadi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AS-Danish">
+                    <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
+                    <br />
+                    <sub><b>Abdul Salaam Danish</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
