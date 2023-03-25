@@ -1011,6 +1011,29 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/hemant-code625">
+                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
+                    <br />
+                    <sub><b>Hemant Singh Parmar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tanbirali">
+                    <img src="https://avatars.githubusercontent.com/u/124070023?v=4" width="100px;" alt="Tanbir Ali"/>
+                    <br />
+                    <sub><b>Tanbir Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/utkarsh172">
+                    <img src="https://avatars.githubusercontent.com/u/78083867?v=4" width="100px;" alt="Utkarsh Raj Srivastava"/>
+                    <br />
+                    <sub><b>Utkarsh Raj Srivastava</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/codewithnikhilsharma/">
                     <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
