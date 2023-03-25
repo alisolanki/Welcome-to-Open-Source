@@ -925,6 +925,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gungun Gupta</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ajay84sia">
+                    <img src="https://avatars.githubusercontent.com/u/98752820?v=4" width="100px;" alt="Ajay84sia"/>
+                    <br />
+                    <sub><b>Ajay</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
