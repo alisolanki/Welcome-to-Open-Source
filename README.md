@@ -38,13 +38,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-         <td align="center">
-                <a href="https://github.com/therealtmmy">
-                    <img src="https://avatars.githubusercontent.com/u/107879861?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Oluwatimilehin Esan</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -520,6 +513,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
                     <br />
                     <sub><b>Ronak Suthar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/therealtmmy">
+                    <img src="https://avatars.githubusercontent.com/u/107879861?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Oluwatimilehin Esan</b></sub>
                 </a>
             </td>
         </tr>
