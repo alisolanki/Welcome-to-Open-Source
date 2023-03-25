@@ -76,13 +76,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/KHAGENDRA0P">
-                    <img src="https://avatars.githubusercontent.com/u/115104341?v=4" width="100px;" alt="KHAGENDRA"/>
-                    <br />
-                    <sub><b>KHAGENDRA MOHANTA</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
@@ -1067,6 +1060,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
                     <br />
                     <sub><b>Mahaveer Jain</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/KHAGENDRA0P">
+                    <img src="https://avatars.githubusercontent.com/u/115104341?v=4" width="100px;" alt="KHAGENDRA"/>
+                    <br />
+                    <sub><b>KHAGENDRA MOHANTA</b></sub>
                 </a>
             </td>
         </tr>
