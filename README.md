@@ -76,6 +76,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/kethesainikhil">
+                    <img src="https://avatars.githubusercontent.com/u/70809367?v=4" width="100px;" alt="Kethe Sai Nikhil"/>
+                    <br />
+                    <sub><b>KETHE SAI NIKHIL</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
@@ -911,13 +918,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
-        <td align="center">
-                <a href="https://github.com/kethesainikhil">
-                    <img src="https://avatars.githubusercontent.com/u/70809367?v=4" width="100px;" alt="Kethe Sai Nikhil"/>
-                    <br />
-                    <sub><b>KETHE SAI NIKHIL</b></sub>
-                </a>
-            </td>
+        
             <td align="center">
                 <a href="https://github.com/Mask02">
                     <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
