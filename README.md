@@ -5,11 +5,11 @@
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (@NikhilSharmath)</li>
 </p>
 
-  <p align="center">
+<!--   <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
-</p> 
+</p>  -->
 
 <p>List of actively participating individulas in open source contributions</p>
 
@@ -18,16 +18,16 @@
 
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
+    <a href="https://www.twitter.com/@NikhilSharmath">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
+    <a href="https://linkedin.com/in/Nikhil Sharma">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
+<!--     <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
-    <a href="https://www.instagram.com/alisolankii">
+    </a> -->
+    <a href="https://www.instagram.com/thisnikhilsharma">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
