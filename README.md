@@ -55,13 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/MD-Saaad">
-                    <img src="https://avatars.githubusercontent.com/u/125855647?v=4" width="100px;" alt="Mohammed Saad Sayyed"/>
-                    <br />
-                    <sub><b>Mohammed Saad Sayyed</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -80,13 +73,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/skmominali17">
-                    <img src="https://avatars.githubusercontent.com/u/106405220?v=4" width="100px;" alt="S K Momin Ali"/>
-                    <br />
-                    <sub><b>S K Momin Ali</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1025,13 +1011,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/mahaveer82">
-                    <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
-                    <br />
-                    <sub><b>Mahaveer Jain</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -1060,6 +1039,27 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Nikhil Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MD-Saaad">
+                    <img src="https://avatars.githubusercontent.com/u/125855647?v=4" width="100px;" alt="Mohammed Saad Sayyed"/>
+                    <br />
+                    <sub><b>Mohammed Saad Sayyed</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/skmominali17">
+                    <img src="https://avatars.githubusercontent.com/u/106405220?v=4" width="100px;" alt="S K Momin Ali"/>
+                    <br />
+                    <sub><b>S K Momin Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mahaveer82">
+                    <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Mahaveer Jain</b></sub>
                 </a>
             </td>
         </tr>
