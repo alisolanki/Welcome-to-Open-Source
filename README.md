@@ -1,33 +1,34 @@
 # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
-    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Nikhil Sharma)</li>
-    <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (@NikhilSharmath)</li>
+    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
+    <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
+    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-<!--   <p align="center">
+<p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
-</p>  -->
+</p>
 
 <p>List of actively participating individulas in open source contributions</p>
 
 - Add your own details to the contributor list
 - Make a Pull Request
-
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/@NikhilSharmath">
+    <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/nikhil-sharma-bbb072225/">
+    <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-<!--     <a href="https://www.youtube.com/AliSolanki">
+    <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a> -->
-    <a href="https://www.instagram.com/thisnikhilsharma">
+    </a>
+    <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
@@ -36,7 +37,7 @@
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
-## Contributors ✨
+## Contributors 🍉
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -54,10 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/codewithnikhilsharma/">
-                    <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Nikhil Sharma</b></sub>
+                    <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -911,17 +912,110 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
-                <a href="https://github.com/Mask02">
-                    <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/116993691?v=4" width="100px;" alt="Rohit Bal"/>
                     <br />
-                    <sub><b>Muhammad Shoaib Akbar</b></sub>
+                    <sub><b>Rohit Bal</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/GungunGupta14">
-                    <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
+                <a href="https://github.com/WildxVC">
+                    <img src="https://avatars.githubusercontent.com/u/77741316?v=4" width="100px;" alt="Vinayak Chhatrashali"/>
                     <br />
-                    <sub><b>Gungun Gupta</b></sub>
+                    <sub><b>Vinayak Chhatrashali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chandrakethan27">
+                    <img src="https://avatars.githubusercontent.com/u/90309231?v=4" width="100px;" alt="Chandrakethan"/>
+                    <br />
+                    <sub><b>Chandrakethan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Adithya4720">
+                    <img src="https://avatars.githubusercontent.com/u/116452077?v=4" width="100px;" alt="Adithya"/>
+                    <br />
+                    <sub><b>Adithya</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ayush-aks">
+                    <img src="https://avatars.githubusercontent.com/u/88273791?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ayush Shrivastav</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kiranism431">
+                    <img src="https://avatars.githubusercontent.com/u/64724286?v=4" width="100px;" alt="Kiran Pahadi"/>
+                    <br />
+                    <sub><b>Kiran Pahadi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AS-Danish">
+                    <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
+                    <br />
+                    <sub><b>Abdul Salaam Danish</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Muhammad-Awab">
+                    <img src="https://avatars.githubusercontent.com/u/98603853?v=4" width="100px;" alt="Muhammad Awab Ahmed"/>
+                    <br />
+                    <sub><b>Muhammad Awab</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/therealtmmy">
+                    <img src="https://avatars.githubusercontent.com/u/107879861?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Oluwatimilehin Esan</b></sub>
+            </td>
+            <td align="center">
+                <a href="https://github.com/thecyberbro">
+                    <img src="https://avatars.githubusercontent.com/u/105934927?s=400&u=54f364b8ee0ec10f53b1d249030d19f225e49b12&v=4"
+                     width="100px;" alt="Noman sami"/>
+                    <br />
+                    <sub><b>Noman Sami</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/devender15">
+                    <img src="https://avatars.githubusercontent.com/u/57867128?v=4" width="100px;" alt="Devender Pal"/>
+                    <br />
+                    <sub><b>Devender Pal</b></sub>
+               </a>
+           </td>
+           <td align="center">
+                <a href="https://github.com/Rajithlahiru">
+                    <img src="https://avatars.githubusercontent.com/u/93153861?v=4" width="100px;" alt="Rajith Lahiru"/>
+                    <br />
+                    <sub><b>Rajith Lahiru</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/yenper">
+                    <img src="https://avatars.githubusercontent.com/u/86003362?v=4" width="100px;" alt="Aradhna Abraham"/>
+                    <br />
+                    <sub><b>Aradhna Abraham</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sunny-25">
+                    <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Praveen Kumar Potturi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codewithnikhilsharma/">
+                    <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Nikhil Sharma</b></sub>
                 </a>
             </td>
         </tr>
