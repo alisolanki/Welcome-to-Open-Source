@@ -1078,6 +1078,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pramodh Kadam</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jamyMarkos">
+                    <img src="https://avatars.githubusercontent.com/u/103282607?v=4" width="100px;" alt="Mintesnot Markos"/>
+                    <br />
+                    <sub><b>Mintesnot Markos</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
