@@ -1004,15 +1004,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aradhna Abraham</b></sub>
                 </a>
             </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/hemant-code625>
-                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
-                    <br />
-                    <sub><b>Hemant Singh Parmar</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://github.com/Sunny-25">
                     <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
@@ -1020,9 +1011,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/hemant-code625">
+                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
+                    <br />
+                    <sub><b>Hemant Singh Parmar</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/tanbirali">
-                    <img src="https://github.com/account" width="100px;" alt="Tanbir Ali"/>
+                    <img src="https://avatars.githubusercontent.com/u/124070023?v=4" width="100px;" alt="Tanbir Ali"/>
                     <br />
                     <sub><b>Tanbir Ali</b></sub>
                 </a>
