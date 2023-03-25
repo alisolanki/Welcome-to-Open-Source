@@ -990,6 +990,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Devender Pal</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/Rajithlahiru">
+                    <img src="https://avatars.githubusercontent.com/u/93153861?v=4" width="100px;" alt="Rajith Lahiru"/>
+                    <br />
+                    <sub><b>Rajith Lahiru</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
