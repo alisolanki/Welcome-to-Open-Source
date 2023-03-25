@@ -946,6 +946,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ayush Shrivastav</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nihar-hegde">
+                    <img src="https://avatars.githubusercontent.com/u/59167599?v=4" width="100px;" alt="Nihar Hegde"/>
+                    <br />
+                    <sub><b>Nihar Hegde</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
