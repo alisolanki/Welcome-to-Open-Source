@@ -1011,6 +1011,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mahaveer82">
+                    <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Mahaveer Jain</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
