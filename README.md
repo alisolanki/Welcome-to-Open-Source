@@ -70,7 +70,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Joseph-Cecil">
-                    <img src="https://avatars.githubusercontent.com/u/88081064?s=400&u=ef863d9b38aed08282e415e25178a577ccb61537&v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="https://avatars.githubusercontent.com/u/88081064?s=400&u=ef863d9b38aed08282e415e25178a577ccb61537&v=4" width="100px;" alt="Joseph Cecil"/>
                     <br />
                     <sub><b>Joseph Cecil Odoi</b></sub>
                 </a>
