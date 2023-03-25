@@ -925,6 +925,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gungun Gupta</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/116993691?v=4" width="100px;" alt="Rohit Bal"/>
+                    <br />
+                    <sub><b>Rohit Bal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
