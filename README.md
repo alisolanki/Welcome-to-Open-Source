@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ayush-aks">
+                    <img src="https://avatars.githubusercontent.com/u/88273791?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ayush Shrivastav</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
