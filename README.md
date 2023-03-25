@@ -1011,13 +1011,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/kshrikant7">
-                    <img src="https://avatars.githubusercontent.com/u/65910406?v=4" width="100px;" alt="Shrikant Kulkarni"/>
-                    <br />
-                    <sub><b>Shrikant Kulkarni</b></sub>
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
