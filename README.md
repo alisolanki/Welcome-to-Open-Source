@@ -1099,6 +1099,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anirudh Krishnan</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codefaiz101">
+                 <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                    <br />
+                    <sub><b>Mukesh Mallula</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
