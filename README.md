@@ -69,13 +69,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/piyushbhawsar">
-                    <img src="https://avatars.githubusercontent.com/u/111758968?v=4" width="100px;" alt="PIYUSH BHAWSAR"/>
-                    <br />
-                    <sub><b>PIYUSH BHAWSAR</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
@@ -1083,6 +1076,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/70189543?v=4" width="100px;" alt="Pramodh Kadam"/>
                     <br />
                     <sub><b>Pramodh Kadam</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/piyushbhawsar">
+                    <img src="https://avatars.githubusercontent.com/u/111758968?v=4" width="100px;" alt="PIYUSH BHAWSAR"/>
+                    <br />
+                    <sub><b>PIYUSH BHAWSAR</b></sub>
                 </a>
             </td>
         </tr>
