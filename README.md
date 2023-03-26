@@ -1107,8 +1107,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Priyabrata139">
+                    <img src="https://media.licdn.com/dms/image/D4D35AQHweYSZxMY7uA/profile-framedphoto-shrink_400_400/0/1654613890563?e=1680440400&v=beta&t=FvEgPYdMTX3TkGraRSBXMXMi9NqjVt-heZkQwgEPo7I" width="100px;" alt="Priyabrata Maji"/>
+                    <br />
+                    <sub><b>Priyabrata Maji</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://github.com/ankit1324">
-                 <img src="https://avatars.githubusercontent.com/u/82435644?v=4" width="100px;" alt="Ankit Chaudhary"/>
+                    <img src="https://avatars.githubusercontent.com/u/82435644?v=4" width="100px;" alt="Ankit Chaudhary"/>
                     <br />
                     <sub><b>Ankit Chaudhary</b></sub>
                 </a>
