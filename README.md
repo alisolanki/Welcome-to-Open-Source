@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ankit1324">
+                 <img src="https://avatars.githubusercontent.com/u/82435644?v=4" width="100px;" alt="Ankit Chaudhary"/>
+                    <br />
+                    <sub><b>Ankit Chaudhary</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
