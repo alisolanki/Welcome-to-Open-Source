@@ -1092,6 +1092,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>CSNR Ganesh</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Szyyne">
+                    <img src="https://avatars.githubusercontent.com/u/90918884?v=4" width="100px;" alt="Shaik Waheed"/>
+                    <br />
+                    <sub><b>Shaik Waheed</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
