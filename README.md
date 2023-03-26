@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NerdMayank">
+                 <img src="https://avatars.githubusercontent.com/u/80935655?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                    <br />
+                    <sub><b>Mayank Pradhan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
