@@ -1078,6 +1078,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pramodh Kadam</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://jayanth5775.github.io/jayweb/#gsc.tab=0">
+                    <img src="https://avatars.githubusercontent.com/u/102643623?s=40&v=4" width="100px;" alt="JAYANTH H  S"/>
+                    <br />
+                    <sub><b>JAYANTH H  S</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
