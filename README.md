@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Dedicate66">
+                    <img src="https://avatars.githubusercontent.com/u/109079705?v=4" width="100px;" alt="Xiaobo Xing"/>
+                    <br />
+                    <sub><b>Xiaobo Xing</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
