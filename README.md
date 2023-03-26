@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hanzalahwaheed">
+                 <img src="https://avatars.githubusercontent.com/u/101456741?v=4" width="100px;" alt="HANZALAH WAHEED"/>
+                    <br />
+                    <sub><b>Hanzalah Waheed</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
