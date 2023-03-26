@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/Ashwin-developer12/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>M Ashwin</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/druvkotwani">
+                <a href="https://github.com/Ashiwn-developer12">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
                     <sub><b>Dhruv Kotwani</b></sub>
