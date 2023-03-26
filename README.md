@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bestii">
+                        <img src="https://avatars.githubusercontent.com/u/8532166?v=4" width="100px;" alt="Bestin John"/>
+                        <br />
+                        <sub><b>Bestin John</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
