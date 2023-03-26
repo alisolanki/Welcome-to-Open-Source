@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/WebDevSachin">
+                 <img src="https://avatars.githubusercontent.com/u/62601272?v=4" width="100px;" alt="Sachin kumar"/>
+                    <br />
+                    <sub><b>Sachin Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
