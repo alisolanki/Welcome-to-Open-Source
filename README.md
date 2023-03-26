@@ -1085,6 +1085,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>JAYANTH H  S</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/meihu-ganesh">
+                    <img src="https://avatars.githubusercontent.com/u/100460284?v=4" width="100px;" alt="CSNR Ganesh"/>
+                    <br />
+                    <sub><b>CSNR Ganesh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
