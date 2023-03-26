@@ -62,13 +62,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/codefaiz101">
-                 <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
-                    <br />
-                    <sub><b>Mukesh Mallula</b></sub>
-                </a>
-             </td>
-            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
@@ -930,6 +923,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/104621253?v=4" width="100px;" alt="Gungun Gupta"/>
                     <br />
                     <sub><b>Gungun Gupta</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codefaiz101">
+                 <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                    <br />
+                    <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
         </tr>
