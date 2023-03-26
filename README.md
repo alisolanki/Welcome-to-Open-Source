@@ -1122,6 +1122,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ankit Chaudhary</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/piyushbhawsar">
+                    <img src="https://avatars.githubusercontent.com/u/111758968?v=4" width="100px;" alt="PIYUSH BHAWSAR"/>
+                    <br />
+                    <sub><b>PIYUSH BHAWSAR</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
