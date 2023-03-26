@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Himanshusharma1105">
+                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Himanshu Sharma"/>
+                    <br />
+                    <sub><b>Himanshu Sharma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
