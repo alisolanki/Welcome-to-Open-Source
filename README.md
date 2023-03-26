@@ -1106,6 +1106,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/HassanMunene">
+                    <img src="https://avatars.githubusercontent.com/u/107291229?v=4" width="100px;" alt="Hassan Munene"/>
+                    <br />
+                    <sub><b>Hassan Munene</b></sub>
+                </a>
+            </td>
+
         </tr>
     </tbody>
 </table>
