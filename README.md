@@ -1106,6 +1106,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ManuvelVictor">
+                 <img src="https://avatars.githubusercontent.com/u/81816979?v=4" width="100px;" alt="Manuvel Victor"/>
+                    <br />
+                    <sub><b>Manuvel Victor</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
