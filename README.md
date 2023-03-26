@@ -1013,11 +1013,97 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
-        <td align="center">
-                <a href="https://github.com/bestii">
-                    <img src="https://avatars.githubusercontent.com/u/8532166?v=4" width="100px;" alt="Bestin John"/>
+            <td align="center">
+                <a href="https://github.com/hemant-code625">
+                    <img src="https://avatars.githubusercontent.com/u/111212867?v=4" width="100px;" alt="Hemant Singh Parmar"/>
                     <br />
-                    <sub><b>Bestin John</b></sub>
+                    <sub><b>Hemant Singh Parmar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tanbirali">
+                    <img src="https://avatars.githubusercontent.com/u/124070023?v=4" width="100px;" alt="Tanbir Ali"/>
+                    <br />
+                    <sub><b>Tanbir Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/utkarsh172">
+                    <img src="https://avatars.githubusercontent.com/u/78083867?v=4" width="100px;" alt="Utkarsh Raj Srivastava"/>
+                    <br />
+                    <sub><b>Utkarsh Raj Srivastava</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codewithnikhilsharma/">
+                    <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Nikhil Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MD-Saaad">
+                    <img src="https://avatars.githubusercontent.com/u/125855647?v=4" width="100px;" alt="Mohammed Saad Sayyed"/>
+                    <br />
+                    <sub><b>Mohammed Saad Sayyed</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/skmominali17">
+                    <img src="https://avatars.githubusercontent.com/u/106405220?v=4" width="100px;" alt="S K Momin Ali"/>
+                    <br />
+                    <sub><b>S K Momin Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mahaveer82">
+                    <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Mahaveer Jain</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/KHAGENDRA0P">
+                    <img src="https://avatars.githubusercontent.com/u/115104341?v=4" width="100px;" alt="KHAGENDRA"/>
+                    <br />
+                    <sub><b>KHAGENDRA MOHANTA</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pramodh-del">
+                    <img src="https://avatars.githubusercontent.com/u/70189543?v=4" width="100px;" alt="Pramodh Kadam"/>
+                    <br />
+                    <sub><b>Pramodh Kadam</b></sub>
+                </a>
+            </td>
+            <td align="center">         
+                <a href="https://jayanth5775.github.io/jayweb/#gsc.tab=0">
+                    <img src="https://avatars.githubusercontent.com/u/102643623?s=40&v=4" width="100px;" alt="JAYANTH H  S"/>
+                    <br />
+                    <sub><b>JAYANTH H  S</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/meihu-ganesh">
+                    <img src="https://avatars.githubusercontent.com/u/100460284?v=4" width="100px;" alt="CSNR Ganesh"/>
+                    <br />
+                    <sub><b>CSNR Ganesh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/anikk94">
+                    <img src="https://avatars.githubusercontent.com/u/44950099?v=4" width="100px;" alt="Anirudh Krishnan"/>
+                    <br />
+                    <sub><b>Anirudh Krishnan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codefaiz101">
+                 <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                    <br />
+                    <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
         </tr>
