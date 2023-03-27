@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rugveddarwhekar/">
+                    <img src="https://avatars.githubusercontent.com/u/16744924?v=4" width="100px;" alt="Rugved Darwhekar"/>
+                    <br />
+                    <sub><b>Rugved Darwhekar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
