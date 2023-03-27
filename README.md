@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Abdulhaseebimran">
+                    <img src="https://avatars.githubusercontent.com/u/98330141?v=4" width="100px;" alt="Abdul Haseeb Imran"/>
+                    <br />
+                    <sub><b>Abdul Haseeb Imran</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
