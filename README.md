@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mohsinbmwm3">
+                    <img src="https://avatars.githubusercontent.com/u/6183766?s=400&u=ac01dc95c17904678b9402665e39882f40692359&v=4" width="100px;" alt="Mohsin Khan"/>
+                    <br />
+                    <sub><b>Mohsin Khan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
