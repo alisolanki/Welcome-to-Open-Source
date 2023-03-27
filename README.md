@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/madhu-12t">
+                    <img src="https://github.com/account" width="100px;" alt="Madhu"/>
+                    <br />
+                    <sub><b>Madhu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
