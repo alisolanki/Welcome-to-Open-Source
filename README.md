@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BhandariRahul21">
+                    <img src="https://avatars.githubusercontent.com/u/86076899?s=400&u=88b373ae9e3af58174e71ae2ad0bfcefd757c298&v=4" width="100px;" alt="Rahul Bhandari"/>
+                    <br />
+                    <sub><b>Rahul Bhandari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
