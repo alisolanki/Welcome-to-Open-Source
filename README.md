@@ -475,6 +475,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Jayanti-Mahata">
+                    <img src="https://avatars.githubusercontent.com/u/56484645?v=4" width="100px;" alt="Jayanti Mahata"/>
+                    <br />
+                    <sub><b>Jayanti Mahata</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/rayancoder007">
                     <img src="https://avatars.githubusercontent.com/u/106444749?v=4" width="100px;" alt="Rayan Chowdhury"/>
                     <br />
