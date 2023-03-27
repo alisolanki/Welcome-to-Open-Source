@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/mohitgoswami24">
+                    <img src="https://avatars.githubusercontent.com/u/125746715?v=4" width="100px;" alt="Mohit"/>
+                    <br />
+                    <sub><b>Mohit Goswami</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
