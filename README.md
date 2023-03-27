@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/swarupe7">
+                    <img src="https://avatars.githubusercontent.com/u/85427735?v=4" width="100px;" alt="Swarup Seethala"/>
+                    <br />
+                    <sub><b>Swarup Seethala</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
