@@ -55,24 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Mehadmushtaq">
-                    <img src="https://avatars.githubusercontent.com/u/64118753?v=4" width="100px;" alt="Mehad Mushtaq"/>
-                    <br />
-                    <sub><b>Mehad Mushtaq</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JaydeepSathwara">
-                    <img src="https://avatars.githubusercontent.com/u/98411730?v=4" width="100px;" alt="Jaydeep Sathwara"/>
-                    <br />
-                    <sub><b>Jaydeep Sathwara</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1192,6 +1178,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50924374?v=4" width="100px;" alt="Zakarya El khattabi"/>
                     <br />
                     <sub><b>Zakarya EL KHATTABI</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mehadmushtaq">
+                    <img src="https://avatars.githubusercontent.com/u/64118753?v=4" width="100px;" alt="Mehad Mushtaq"/>
+                    <br />
+                    <sub><b>Mehad Mushtaq</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/JaydeepSathwara">
+                    <img src="https://avatars.githubusercontent.com/u/98411730?v=4" width="100px;" alt="Jaydeep Sathwara"/>
+                    <br />
+                    <sub><b>Jaydeep Sathwara</b></sub>
                 </a>
             </td>
         </tr>
