@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/code2forever">
+                    <img src="https://avatars.githubusercontent.com/u/69723710?v=4" width="100px;" alt="Kalash Agrahari"/>
+                    <br />
+                    <sub><b>Kalash Agrahari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
