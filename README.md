@@ -1150,6 +1150,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Priyanka Mohanty</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/p6297">
+                    <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Prtha Jyoti Pandey"/>
+                    <br />
+                    <sub><b>Partha Jyoti Pandey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
