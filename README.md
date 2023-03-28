@@ -55,13 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/hardiksolanki24">
-                    <img src="https://avatars.githubusercontent.com/u/120365070?v=4" width="100px;" alt="Hardik Solanki"/>
-                    <br />
-                    <sub><b>Hardik Solanki</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1199,6 +1192,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/98411730?v=4" width="100px;" alt="Jaydeep Sathwara"/>
                     <br />
                     <sub><b>Jaydeep Sathwara</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/hardiksolanki24">
+                    <img src="https://avatars.githubusercontent.com/u/120365070?v=4" width="100px;" alt="Hardik Solanki"/>
+                    <br />
+                    <sub><b>Hardik Solanki</b></sub>
                 </a>
             </td>
         </tr>
