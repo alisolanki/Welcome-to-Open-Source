@@ -76,13 +76,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/srivatsavsurya">
-                    <img src="https://avatars.githubusercontent.com/u/109732969?v=4" width="100px;" alt="SrivatsavSurya"/>
-                    <br />
-                    <sub><b>Srivatsav Surya</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
@@ -630,14 +623,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AlaSaiHarsha">
                     <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Sai Harsha Ala"/>
                     <br />
-                    <sub><b>Sai Harsha Ala</b></sub>
-            <td align="center">
-        <a href="https://github.com/harshsingh1805">
-            <img src="https://avatars.githubusercontent.com/u/55089993?v=4" width="100px;" alt="Ali Solanki"/>
-            <br />
-            <sub><b>Harshvardhan Singh</b></sub>
-        </a>
-    </td>        
+                    <sub><b>Sai Harsha Ala</b></sub>    
                 </a>
             </td>
             <td align="center">
@@ -1171,6 +1157,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Partha Jyoti Pandey</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/srivatsavsurya">
+                    <img src="https://avatars.githubusercontent.com/u/109732969?v=4" width="100px;" alt="SrivatsavSurya"/>
+                    <br />
+                    <sub><b>Srivatsav Surya</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/harshsingh1805">
+                    <img src="https://avatars.githubusercontent.com/u/55089993?v=4" width="100px;" alt="Harshvardhan Singh"/>
+                    <br />
+                    <sub><b>Harshvardhan Singh</b></sub>
+                </a>
+            </td>    
         </tr>
     </tbody>
 </table>
