@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SatpalSinghHere">
+                    <img src="https://avatars.githubusercontent.com/u/118976985?v=4" width="100px;" alt="Satpal Singh"/>
+                    <br />
+                    <sub><b>Satpal Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
