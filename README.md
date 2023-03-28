@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kafuikumah.com">
+                    <img src="https://avatars.githubusercontent.com/u/58850430?s=400&u=2a0b5ae7b3f51cd40de0642717c72cf898e21631&v=4" width="100px;" alt="Kafui Kumah"/>
+                    <br />
+                    <sub><b>Kafui Kumah</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
