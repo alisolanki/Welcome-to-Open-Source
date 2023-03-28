@@ -1186,7 +1186,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Harshvardhan Singh</b></sub>
                 </a>
-            </td>    
+            </td>
+            <td align="center">
+                <a href="https://github.com/Zakarya07">
+                    <img src="https://avatars.githubusercontent.com/u/50924374?v=4" width="100px;" alt="Zakarya El khattabi"/>
+                    <br />
+                    <sub><b>Zakarya EL KHATTABI</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
