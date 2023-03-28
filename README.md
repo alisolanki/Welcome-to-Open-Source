@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Jeevan2305">
+                    <img src="https://avatars.githubusercontent.com/u/75674374?s=96&v=4" width="100px;" alt="Jeevan Muthu"/>
+                    <br />
+                    <sub><b>Jeevan Muthu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
