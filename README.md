@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/HenryJonathanC">
+                    <img src="https://avatars.githubusercontent.com/u/119491394?s=400&u=1b7e8474bdc16233ee71549b80b0bea4162ca518&v=4" width="100px;" alt="Henry Jonathan C"/>
+                    <br />
+                    <sub><b>Henry Jonathan C</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
