@@ -1211,3 +1211,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+<td align="center">
+                <a href="https://github.com/290a">
+                    <img src="https://avatars.githubusercontent.com/u/105118614?v=4" width="100px;" alt="Aarav Chaudhary"/>
+                    <br />
+                    <sub><b>Aarav Chaudhary</b></sub>
+                </a>
+           </td>
+        </tr>
+    </tbody>
+</table>
+
