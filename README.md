@@ -1137,6 +1137,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Mushfiq-alt">
+                    <img src="https://avatars.githubusercontent.com/u/52819923?v=4" width="100px;" alt="Mushfiquzzaman Chowdhury"/>
+                    <br />
+                    <sub><b>Mushfiquzzaman Chowdhury</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/priyanka344">
+                    <img src="https://avatars.githubusercontent.com/u/80024575?v=4" width="100px;" alt="Priyanka Mohanty"/>
+                    <br />
+                    <sub><b>Priyanka Mohanty</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/p6297">
                     <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Prtha Jyoti Pandey"/>
                     <br />
