@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/addi154">
+                    <img src="https://avatars.githubusercontent.com/u/57232570?v=4" width="100px;" alt="Aditya Singh"/>
+                    <br />
+                    <sub><b>Aditya Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
