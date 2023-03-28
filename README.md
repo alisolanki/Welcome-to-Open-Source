@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/1202anthonychen1202">
+                    <img src="https://avatars.githubusercontent.com/u/115900894?v=4" width="100px;" alt="Anthony Chen"/>
+                    <br />
+                    <sub><b>Anthony Chen</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
