@@ -1136,6 +1136,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Divyanshu Kaushal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mushfiq-alt">
+                    <img src="https://avatars.githubusercontent.com/u/52819923?v=4" width="100px;" alt="Mushfiquzzaman Chowdhury"/>
+                    <br />
+                    <sub><b>Mushfiquzzaman Chowdhury</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
