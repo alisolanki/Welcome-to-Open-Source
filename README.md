@@ -1130,6 +1130,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Saloni-Vyas">
+                    <img src="https://avatars.githubusercontent.com/u/128497242?v=4" width="100px;" alt="Saloni-Vyas"/>
+                    <br />
+                    <sub><b>Divyanshu Kaushal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kaushalji-123">
                     <img src="https://avatars.githubusercontent.com/u/86460221?v=4" width="100px;" alt="Divyanshu Kauhsal"/>
                     <br />
