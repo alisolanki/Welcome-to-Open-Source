@@ -806,5 +806,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Aaditya Kumar</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/Fax-OfJax">
+                    <img src="https://avatars.githubusercontent.com/u/112270328?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Fax-OfJax</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
