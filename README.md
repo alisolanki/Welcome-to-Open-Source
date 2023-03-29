@@ -623,7 +623,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AlaSaiHarsha">
                     <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Sai Harsha Ala"/>
                     <br />
-                    <sub><b>Sai Harsha Ala</b></sub>
+                    <sub><b>Sai Harsha Ala</b></sub>    
                 </a>
             </td>
             <td align="center">
@@ -1137,12 +1137,86 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+
                 <a href="https://github.com/NiteshJ1998">
                     <img src="https://avatars.githubusercontent.com/u/26840253?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Nitesh Jaiswar</b></sub>
                 </a>
             </td>
+
+                <a href="https://github.com/Mushfiq-alt">
+                    <img src="https://avatars.githubusercontent.com/u/52819923?v=4" width="100px;" alt="Mushfiquzzaman Chowdhury"/>
+                    <br />
+                    <sub><b>Mushfiquzzaman Chowdhury</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/priyanka344">
+                    <img src="https://avatars.githubusercontent.com/u/80024575?v=4" width="100px;" alt="Priyanka Mohanty"/>
+                    <br />
+                    <sub><b>Priyanka Mohanty</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/p6297">
+                    <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Prtha Jyoti Pandey"/>
+                    <br />
+                    <sub><b>Partha Jyoti Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/srivatsavsurya">
+                    <img src="https://avatars.githubusercontent.com/u/109732969?v=4" width="100px;" alt="SrivatsavSurya"/>
+                    <br />
+                    <sub><b>Srivatsav Surya</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/harshsingh1805">
+                    <img src="https://avatars.githubusercontent.com/u/55089993?v=4" width="100px;" alt="Harshvardhan Singh"/>
+                    <br />
+                    <sub><b>Harshvardhan Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Zakarya07">
+                    <img src="https://avatars.githubusercontent.com/u/50924374?v=4" width="100px;" alt="Zakarya El khattabi"/>
+                    <br />
+                    <sub><b>Zakarya EL KHATTABI</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mehadmushtaq">
+                    <img src="https://avatars.githubusercontent.com/u/64118753?v=4" width="100px;" alt="Mehad Mushtaq"/>
+                    <br />
+                    <sub><b>Mehad Mushtaq</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/JaydeepSathwara">
+                    <img src="https://avatars.githubusercontent.com/u/98411730?v=4" width="100px;" alt="Jaydeep Sathwara"/>
+                    <br />
+                    <sub><b>Jaydeep Sathwara</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/hardiksolanki24">
+                    <img src="https://avatars.githubusercontent.com/u/120365070?v=4" width="100px;" alt="Hardik Solanki"/>
+                    <br />
+                    <sub><b>Hardik Solanki</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Keshav-Aneja">
+                    <img src="https://avatars.githubusercontent.com/u/119158790?v=4" width="100px;" alt="Keshav Aneja"/>
+                    <br />
+                    <sub><b>Keshav Aneja</b></sub>
+                </a>
+           </td>
+
         </tr>
     </tbody>
 </table>
