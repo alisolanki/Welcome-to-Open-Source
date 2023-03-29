@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/Atharvp01">
+                    <img src="https://avatars.githubusercontent.com/u/98934239?v=4" width="100px;" alt="Atharv Patil"/>
+                    <br />
+                    <sub><b>Atharv Patil</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
