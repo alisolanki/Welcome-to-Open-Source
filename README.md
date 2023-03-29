@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/Lokeshwaran-M">
+                    <img src="https://avatars.githubusercontent.com/u/80915494?v=4" width="100px;" alt="Lokeshwaran M"/>
+                    <br />
+                    <sub><b>Lokeshwaran M</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
