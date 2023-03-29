@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/khanahmar">
+                    <img src="https://avatars.githubusercontent.com/u/110248474?v=4" width="100px;" alt="Ahmar Khan"/>
+                    <br />
+                    <sub><b>Ahmar Khan</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
