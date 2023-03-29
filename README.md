@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://ismailcourr.tech">
+                    <img style="border-radius: 20px" src="https://avatars.githubusercontent.com/u/25227022?v=4" width="100px;" alt="Ismail Courr"/>
+                    <br />
+                    <sub><b>Ismail Courr</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
