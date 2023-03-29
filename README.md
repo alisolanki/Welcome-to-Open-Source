@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+    <td align="center">
+    <a href="https://github.com/Nayantha">
+        <img src="https://avatars.githubusercontent.com/u/88623037?v=4" width="100px;" alt="Nayantha Yasiru"/>
+        <br />
+        <sub><b>Ali Solanki</b></sub>
+    </a>
+</td>
         </tr>
     </tbody>
 </table>
