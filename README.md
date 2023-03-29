@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Loonymetzi">
+                    <img src="https://media.licdn.com/dms/image/D4D03AQGRDBZFIVEbAQ/profile-displayphoto-shrink_400_400/0/1679687360516?e=1685577600&v=beta&t=T5tv-HLNwdzxIGHSuU9GPlmnNgnRQGApJWY73_OTR-I" width="100px;" alt="Prachi Jha"/>
+                    <br />
+                    <sub><b>Prachi Jha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
