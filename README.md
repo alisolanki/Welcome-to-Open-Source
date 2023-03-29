@@ -31,6 +31,7 @@
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
+    
 </p>
   
 <p align="center">
@@ -83,10 +84,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Kandi-Venkatesh99">
-                    <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
+                 <a href="https://alisolanki.com/">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Ali Solanki</b></sub>
+                  </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nemesis0606">
+                    <img src="https://avatars.githubusercontent.com/u/25972847?v=4" width="100px;" alt="Rohan Bhattacharjee"/>
                     <br />
-                    <sub><b>Venkatesh k</b></sub>
+                    <sub><b>Rohan Bhattacharjee</b></sub>
                 </a>
             </td>
            <td align="center">
