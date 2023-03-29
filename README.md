@@ -1210,7 +1210,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
            </td>
            <td align="center">
                 <a href="https://github.com/sachinv26">
-                    <img src="https://avatars.githubusercontent.com/u/76443132?v=4" width="100px;" alt="Keshav Aneja"/>
+                    <img src="https://avatars.githubusercontent.com/u/76443132?v=4" width="100px;" alt="Sachin Verma"/>
                     <br />
                     <sub><b>Sachin Verma</b></sub>
                 </a>
