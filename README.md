@@ -1210,9 +1210,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
            </td>
            <td align="center">
                 <a href="https://github.com/Dev-352">
-                    <img src="https://avatars.githubusercontent.com/u/84253578?v=4" width="100px;" alt="thiunuwan"/>
+                    <img src="https://avatars.githubusercontent.com/u/84253578?v=4" width="100px;" alt="Dev Patel"/>
                     <br />
-                    <sub><b>thiunuwan</b></sub>
+                    <sub><b>Dev Patel</b></sub>
                </a>
            </td>
         </tr>
