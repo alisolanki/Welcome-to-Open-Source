@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+             <td align="center">
+                <a href="https://github.com/Verzache">
+                    <img src="https://avatars.githubusercontent.com/u/70073635?v=4" width="100px;" alt="Labh Joshi"/>
+                    <br />
+                    <sub><b>Labhesh Joshi</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
