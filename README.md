@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/Viinay97">
+                    <img src="https://avatars.githubusercontent.com/u/94173349?v=4" width="100px;" alt="Vinay Kumar"/>
+                    <br />
+                    <sub><b>Vinay Kumar</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
