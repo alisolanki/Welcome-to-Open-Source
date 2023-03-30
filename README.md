@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/Jotham-Prince">
+                    <img src="https://avatars.githubusercontent.com/u/107587615?v=4" width="100px;" alt="Jotham Prince"/>
+                    <br />
+                    <sub><b>Jotham Prince</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
