@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/UtkarshUmre">
+                    <img src="https://avatars.githubusercontent.com/u/112888849?v=4" width="100px;" alt="Utkarsh Umre"/>
+                    <br />
+                    <sub><b>Utkarsh Umre</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
