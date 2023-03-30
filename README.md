@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://mskothari.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/109298876?v=4" width="100px;" alt="Meet Kothari"/>
+                    <br />
+                    <sub><b>Meet Kothari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
