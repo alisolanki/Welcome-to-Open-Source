@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/fadihere">
+                    <img src="https://avatars.githubusercontent.com/u/28988215?v=4" width="100px;" alt="Keshav Aneja"/>
+                    <br />
+                    <sub><b>Fahad Saleem</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
