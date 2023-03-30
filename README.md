@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/mrif449">
+                    <img src="https://avatars.githubusercontent.com/u/85452696?v=4" width="100px;" alt="Rahadul Islam"/>
+                    <br />
+                    <sub><b>Md. Rahadul Islam Fardin</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
