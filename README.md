@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/debasish-dhar/">
+                    <img src="https://avatars.githubusercontent.com/u/15181082?v=4" width="100px;" alt="Debasish Dhar"/>
+                    <br />
+                    <sub><b>Debasish Dhar</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
