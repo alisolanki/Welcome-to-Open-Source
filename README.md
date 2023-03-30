@@ -46,7 +46,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- markdownlint-disable -->
 <table>
     <tbody>
-        <tr>
+        <tr>            
+            <td align="center">
+                <a href="https://github.com/sridharblue21">
+                    <img src="https://avatars.githubusercontent.com/u/43062799?v=4" width="100px;" alt="Harshal"/>
+                    <br />
+                    <sub><b>Sridhar K</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/shikhar2712">
                     <img src="https://avatars.githubusercontent.com/u/98464132?v=4" width="100px;" alt="Shikhar Singh"/>
