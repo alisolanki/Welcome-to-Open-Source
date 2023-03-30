@@ -48,13 +48,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/shikhar2712">
-                    <img src="https://avatars.githubusercontent.com/u/98464132?v=4" width="100px;" alt="Shikhar Singh"/>
-                    <br />
-                    <sub><b>Shikhar Singh</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -1220,6 +1213,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/79199343?v=4" width="100px;" alt="Harshal"/>
                     <br />
                     <sub><b>Harshal</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+         <td align="center">
+                <a href="https://github.com/shikhar2712">
+                    <img src="https://avatars.githubusercontent.com/u/98464132?v=4" width="100px;" alt="Shikhar Singh"/>
+                    <br />
+                    <sub><b>Shikhar Singh</b></sub>
                 </a>
             </td>
         </tr>
