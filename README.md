@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/murtazaali2828">
+                    <img src="https://avatars.githubusercontent.com/u/93913074?v=4" width="100px;" alt="Syed Murtaza Ali"/>
+                    <br />
+                    <sub><b>Syed Murtaza Ali</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
