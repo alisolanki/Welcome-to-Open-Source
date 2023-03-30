@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/SajidCurious">
+                    <img src="https://avatars.githubusercontent.com/u/109668487?v=4" width="100px;" alt="Mohammed Sajid"/>
+                    <br />
+                    <sub><b>Mohammed Sajid</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
