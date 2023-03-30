@@ -1255,9 +1255,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/musfique113">
                     <img src="https://avatars.githubusercontent.com/u/53111065?v=4" width="100px;" alt="Shreyash"/>
                     <br />
-                    <sub><b>Shreyash Kumar </b></sub>
+                    <sub><b>Mafujur Musfique</b></sub>
                 </a>
             </td>
+        
         </tr>
     </tbody>
 </table>
