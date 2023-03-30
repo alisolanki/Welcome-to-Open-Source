@@ -42,6 +42,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/JagadeeshJD">
+                    <img src="https://avatars.githubusercontent.com/u/84430575?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Muhammad Shoaib Akbar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+            <td align="center">
                 <a href="https://github.com/Mask02">
                     <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;" alt="Shoaib"/>
                     <br />
