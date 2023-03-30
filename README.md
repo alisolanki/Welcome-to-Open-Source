@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Bamwesigye-Calvin-Kiiza">
-                    <img src="https://avatars.githubusercontent.com/u/106668091?s=400&u=68321f33be42635b6284b1b3f992f4fdd10cdef8&v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/106668091?s=400&u=68321f33be42635b6284b1b3f992f4fdd10cdef8&v=4" width="100px;" alt="Calvin Bamwesigye"/>
                     <br />
                     <sub><b>Bamwesigye Calvin</b></sub>
                 </a>
