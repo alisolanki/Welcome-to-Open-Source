@@ -1230,6 +1230,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Abhijith JR</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Abhinav-Upadhyay03">
+                    <img src="https://avatars.githubusercontent.com/u/90651968?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Abhinav Upadhyay</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
