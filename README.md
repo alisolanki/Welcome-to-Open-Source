@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shubhamuniyal215">
+                    <img src="https://avatars.githubusercontent.com/u/48523674?v=4" width="100px;" alt="Shubham Uniyal"/>
+                    <br />
+                    <sub><b>Shubham Uniyal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
