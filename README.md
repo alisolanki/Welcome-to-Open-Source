@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
                     <img src="https://unsplash.com/photos/yUTgdQkbd7c" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Debashish Bordoloi</b></sub>
+                    <sub><b>Dinesh</b></sub>
                 </a>
              </td>
              <td align="center">
