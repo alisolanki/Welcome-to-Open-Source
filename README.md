@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sumeetghumare4">
+                    <img src="https://avatars.githubusercontent.com/u/82521258?v=4" width="100px;" alt="Sumeet"/>
+                    <br />
+                    <sub><b>Sumeet Ghumare </b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
