@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vikas-squarebox">
+                    <img src="https://avatars.githubusercontent.com/u/66343471?v=4" width="100px;" alt="Shreyash"/>
+                    <br />
+                    <sub><b>Vikas Puri </b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
