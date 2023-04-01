@@ -1238,6 +1238,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/bunnyDasari">
+                    <img src="https://avatars.githubusercontent.com/u/104191071?v=4" width="100px;" alt="Rohan"/>
+                    <br />
+                    <sub><b> Rohan Dasari</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/swarajcodes">
                     <img src="https://avatars.githubusercontent.com/u/110276137?v=4" width="100px;" alt="Swaraj Mohapatra"/>
                     <br />
@@ -1251,13 +1258,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/bunnyDasari">
-                    <img src="https://avatars.githubusercontent.com/u/104191071?v=4" width="100px;" alt="Rohan"/>
-                    <br />
-                    <sub><b> Rohan Dasari</b></sub>
-                </a>
-            </td>
+            
             
         </tr>
     </tbody>
