@@ -1251,6 +1251,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/Abhishek-Jadhav-AJ">
+                <img src="" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Abhishek Jadhav</b></sub>
+    </a>
+
+</td>
         </tr>
     </tbody>
 </table>
