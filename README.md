@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ZanZubair96">
+                    <img src="https://avatars.githubusercontent.com/u/47239508?s=400&u=abf983df18e06164b55eaf3997a7fd2bdad9b1c1&v=4" width="100px;" alt="ZanZubair"/>
+                    <br />
+                    <sub><b>Zan Zubair</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
