@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/keithhetrick">
+                    <img src="https://avatars.githubusercontent.com/u/104343338?s=96&v=4" width="100px;" alt="Keith Hetrick"/>
+                    <br />
+                    <sub><b>Keith Hetrick</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
