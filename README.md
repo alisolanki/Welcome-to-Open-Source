@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/YashGodwal">
+                    <img src="https://avatars.githubusercontent.com/u/96742430?v=4" width="100px;" alt="Yash Godwal"/>
+                    <br />
+                    <sub><b>Yash Godwal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
