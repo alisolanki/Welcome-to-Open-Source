@@ -1245,6 +1245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/varungupta04">
+                    <img src="https://github.com/account" width="100px;" alt="Varun Gupta"/>
+                    <br />
+                    <sub><b>Varun Gupta </b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shreyash9806">
                     <img src="https://avatars.githubusercontent.com/u/91634251?v=4" width="100px;" alt="Shreyash"/>
                     <br />
