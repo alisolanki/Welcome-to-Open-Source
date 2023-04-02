@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/hamza4600">
+                    <img src="https://avatars.githubusercontent.com/u/78164997?v=4" width="100px;" alt="Hamza Khan"/>
+                    <br />
+                    <sub><b>Hamza Khan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
