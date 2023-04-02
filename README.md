@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gaurav1603">
+                    <img src="https://avatars.githubusercontent.com/u/128075021?s=400&u=418927217272e03b3cc3e247dc1d3471272cc7bd&v=4" width="100px;" alt="Shreyash"/>
+                    <br />
+                    <sub><b>Gaurav Magar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
