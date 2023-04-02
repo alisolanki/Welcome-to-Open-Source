@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Subhajit-Roy-O1">
+                    <img src="https://avatars.githubusercontent.com/u/98166659?v=4" width="100px;" alt="Subhajit Roy"/>
+                    <br />
+                    <sub><b>Subhajit Roy</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
