@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AryanTele">
+                    <img src="https://avatars.githubusercontent.com/u/58328909?v=4" width="100px;" alt="Aryan Tele"/>
+                    <br />
+                    <sub><b>Aryan Tele</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
