@@ -1252,10 +1252,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/shreyash9806">
-                    <img src="https://github.com/eugenex-lab" width="100px;" alt="Shreyash"/>
+                <a href="https://github.com/eugenex-lab">
+                    <img src="https://avatars.githubusercontent.com/u/85455014?v=4" width="100px;" alt="Shreyash"/>
                     <br />
-                    <sub><b>Kolapo Eugene opeyemi  </b></sub>
+                    <sub><b>Kolapo Eugene opeyemi </b></sub>
                 </a>
             </td>
         </tr>
