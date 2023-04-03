@@ -62,13 +62,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Hy-per-ion">
-                    <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
-                    <br />
-                    <sub><b>Kaushik C</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
@@ -1598,6 +1591,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/65004501?s=400&u=1eb7196a4c598ddbd677a5cb3abe5ad7d9c5bc92&v=4" width="100px;" alt="Vamiq Abbas"/>
                     <br />
                     <sub><b>Vamiq Abbas</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Hy-per-ion">
+                    <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
+                    <br />
+                    <sub><b>Kaushik C</b></sub>
                 </a>
             </td>
         </tr>
