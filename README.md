@@ -981,6 +981,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Noman Sami</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/VALiUMgithub">
+                    <img src="https://avatars.githubusercontent.com/u/93570937?v=4"
+                     width="100px;" alt="Srujan Samal"/>
+                    <br />
+                    <sub><b>Srujan Samal</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/devender15">
                     <img src="https://avatars.githubusercontent.com/u/57867128?v=4" width="100px;" alt="Devender Pal"/>
