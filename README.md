@@ -1586,6 +1586,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mintesnot Markos</b></sub>
                  </a>
             </td>
-        </tr?
+             <td align="center">
+                <a href="https://github.com/vamiqabbas">
+                    <img src="https://avatars.githubusercontent.com/u/65004501?s=400&u=1eb7196a4c598ddbd677a5cb3abe5ad7d9c5bc92&v=4" width="100px;" alt="Vamiq Abbas"/>
+                    <br />
+                    <sub><b>Vamiq Abbas</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
