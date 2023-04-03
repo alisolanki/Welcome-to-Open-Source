@@ -1009,13 +1009,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Harixomxsingh">
-                    <img src="https://avatars.githubusercontent.com/u/81488390?v=4" width="100px;" alt="Hari om Singh"/>
-                    <br />
-                    <sub><b>Hari Om Singh</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -1516,6 +1509,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Hasrhdeep</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Harixomxsingh">
+                    <img src="https://avatars.githubusercontent.com/u/81488390?v=4" width="100px;" alt="Hari om Singh"/>
+                    <br />
+                    <sub><b>Hari Om Singh</b></sub>
                 </a>
             </td>
         </tr>
