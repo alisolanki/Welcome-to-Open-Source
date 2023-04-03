@@ -1440,6 +1440,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mohamed Rifai</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/starohit">
+                    <img src="https://avatars.githubusercontent.com/u/77211013?v=4" width="100px;" alt="Rohit Singh"/>
+                    <br />
+                    <sub><b>Rohit Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
