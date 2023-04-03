@@ -1563,6 +1563,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Hirakjyoti Talukdar</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://ashishsurya.github.io">
+                    <img src="https://avatars.githubusercontent.com/u/72222785?v=4" width="100px;" alt="Surya Ashish"/>
+                    <br />
+                    <sub><b>Surya Ashish</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
