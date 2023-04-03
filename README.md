@@ -1302,6 +1302,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Clinton Ferraz</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sxhil296">
+                    <img src="https://avatars.githubusercontent.com/u/108786416?v=4" width="100px;" alt="Sahil Malik"/>
+                    <br />
+                    <sub><b>Sahil Malik</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
