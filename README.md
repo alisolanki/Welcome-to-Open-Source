@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sabrynahancock">
+                    <img src="https://avatars.githubusercontent.com/u/97760815?v=4" width="100px;" alt="SabrynaH"/>
+                    <br />
+                    <sub><b>Sabryna Hancock </b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
