@@ -221,13 +221,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Sxhil296">
-                    <img src="https://avatars.githubusercontent.com/u/108786416?v=4" width="100px;" alt="Sahil Malik"/>
-                    <br />
-                    <sub><b>Sahil Malik</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Rahul-lalwani-learner">
                     <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
                     <br />
@@ -1256,6 +1249,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/91634251?v=4" width="100px;" alt="Shreyash"/>
                     <br />
                     <sub><b>Shreyash Kumar </b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sxhil296">
+                    <img src="https://avatars.githubusercontent.com/u/108786416?v=4" width="100px;" alt="Sahil Malik"/>
+                    <br />
+                    <sub><b>Sahil Malik</b></sub>
                 </a>
             </td>
         </tr>
