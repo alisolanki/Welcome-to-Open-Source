@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1272,6 +1272,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/93913074?v=4" width="100px;" alt="Syed Murtaza Ali"/>
                     <br />
                     <sub><b>Syed Murtaza Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shrinija">
+                    <img src="https://avatars.githubusercontent.com/u/98155154?v=4" width="100px;" alt="shrinija k"/>
+                    <br />
+                    <sub><b>Shrinija k</b></sub>
                 </a>
             </td>
         </tr>
