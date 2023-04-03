@@ -1352,6 +1352,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Sudhiksha</b></sub>
              </td>
+             <td align="center">
+                <a href="https://github.com/Ayan-M-Dev">
+                    <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ayan Masood"/>
+                    <br />
+                    <sub><b>Ayan Masood</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
