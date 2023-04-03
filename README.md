@@ -1360,11 +1360,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                   <a href="https://github.com/Tej410">
-                      <img src="https://avatars.githubusercontent.com/u/652733912V=4" width="100px;" alt="Tej410"/>
+                      <img src="https://avatars.githubusercontent.com/u/65273391?v=4" width="100px;" alt="Tej410"/>
                       <br />
                       <sub><b>Tejdeep</b></sub>
                 </a>
            </td>
         </tr>
+        <tr>
+           <td align="center">
+                <a href="https://iammohitv.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/56286692?v=4" width="100px;" alt="Mohit Vaswani"/>
+                    <br />
+                    <sub><b>Mohit Vaswani</b></sub>
+                </a>
+            </td>
+        </tr>
+        
     </tbody>
 </table>
