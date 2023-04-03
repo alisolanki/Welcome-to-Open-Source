@@ -1461,6 +1461,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Akash Tirkey</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Vishsig">
+                    <img src="https://avatars.githubusercontent.com/u/106250744?v=4" width="100px;" alt="Vishwajeet Singh"/>
+                    <br />
+                    <sub><b>Vishwajeet Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
