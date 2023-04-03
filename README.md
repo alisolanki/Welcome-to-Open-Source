@@ -1091,6 +1091,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Szyyne">
+                    <img src="https://avatars.githubusercontent.com/u/90918884?v=4" width="100px;" alt="Shaik Waheed"/>
+                    <br />
+                    <sub><b>Shaik Waheed</b></sub>
+                 </a>
+             </td>
+            <td align="center">
                 <a href="https://github.com/anikk94">
                     <img src="https://avatars.githubusercontent.com/u/44950099?v=4" width="100px;" alt="Anirudh Krishnan"/>
                     <br />
@@ -1594,6 +1601,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Hy-per-ion">
+                    <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
+                    <br />
+                    <sub><b>Kaushik C</b></sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/Hy-per-ion">
                     <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
                     <br />
