@@ -1250,7 +1250,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
+            </td>   
+            <td align="center">
+                <a href="https://github.com/vishalsingh2972">
+                    <img src="https://avatars.githubusercontent.com/u/106817047?v=4" width="100px;" alt="Vishal Singh"/>
+                    <br />
+                    <sub><b>Vishal Singh</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
 </table>
+
