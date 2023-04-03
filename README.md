@@ -1570,6 +1570,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Surya Ashish</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/heelpatel01">
+                    <img src="https://avatars.githubusercontent.com/u/91087524?v=4" width="100px;" alt="Pramodh Kadam"/>
+                    <br />
+                    <sub><b>Heel Patel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
