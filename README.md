@@ -1008,14 +1008,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/manozjinagal">
-                    <img src="https://avatars.githubusercontent.com/u/63463176?v=4" width="100px;" alt="Praveen Potturi"/>
-                    <br />
-                    <sub><b>Manoj jinagal</b></sub>
-                </a>
-            </td>
+            </td> 
         </tr>
         <tr>
             <td align="center">
@@ -1556,6 +1549,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammed Abnas</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/manozjinagal">
+                    <img src="https://avatars.githubusercontent.com/u/63463176?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Manoj jinagal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
