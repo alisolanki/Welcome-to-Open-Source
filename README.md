@@ -1309,6 +1309,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Malik</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/VishalKumar8">
+                    <img src="https://avatars.githubusercontent.com/u/88970099?v=4" width="100px;" alt="vishal image"/>
+                    <br />
+                    <sub><b>Vishal Kumar</b></sub>
+                </a>
+            </td>
         </tr>
+
     </tbody>
 </table>
