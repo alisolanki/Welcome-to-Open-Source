@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sam0023">
+                    <img src="https://avatars.githubusercontent.com/u/76864485?v=4" width="100px;" alt="Shreyash"/>
+                    <br />
+                    <sub><b>Syed Mohammmed Sameer</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
