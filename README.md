@@ -1486,7 +1486,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                   <a href="https://github.com/divyansh-soni1">
-                      <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/97580995?v=4)" width="100px;" alt="divyansh"/>
+                      <img src="https://avatars.githubusercontent.com/u/97580995?v=4" width="100px;" alt="divyansh"/>
                       <br />
                       <sub><b>Divyansh soni</b></sub>
                 </a>
