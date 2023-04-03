@@ -171,6 +171,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sachin3825">
+                    <img src="https://avatars.githubusercontent.com/u/61794089?v=4" width="100px;" alt="Aryan Singh"/>
+                    <br />
+                    <sub><b>Sachin kumawat</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lmutum">
                     <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
