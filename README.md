@@ -48,13 +48,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://harshdeep.com/">
-                    <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Hasrhdeep</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -1509,6 +1502,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/59167599?v=4" width="100px;" alt="Nihar Hegde"/>
                     <br />
                     <sub><b>Nihar Hegde</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://harshdeep.com/">
+                    <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Hasrhdeep</b></sub>
                 </a>
             </td>
         </tr>
