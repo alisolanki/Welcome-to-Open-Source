@@ -1111,13 +1111,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Priyabrata139">
-                    <img src="https://media.licdn.com/dms/image/D4D35AQHweYSZxMY7uA/profile-framedphoto-shrink_400_400/0/1654613890563?e=1680440400&v=beta&t=FvEgPYdMTX3TkGraRSBXMXMi9NqjVt-heZkQwgEPo7I" width="100px;" alt="Priyabrata Maji"/>
-                    <br />
-                    <sub><b>Priyabrata Maji</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -1612,6 +1605,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
                     <br />
                     <sub><b>Kaushik C</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Priyabrata139">
+                    <img src="https://media.licdn.com/dms/image/D4D35AQHweYSZxMY7uA/profile-framedphoto-shrink_400_400/0/1654613890563?e=1680440400&v=beta&t=FvEgPYdMTX3TkGraRSBXMXMi9NqjVt-heZkQwgEPo7I" width="100px;" alt="Priyabrata Maji"/>
+                    <br />
+                    <sub><b>Priyabrata Maji</b></sub>
                 </a>
             </td>
         </tr>
