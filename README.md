@@ -1255,7 +1255,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Revanth-03">
                     <img src="https://firebasestorage.googleapis.com/v0/b/react-chat-app-17a59.appspot.com/o/superman1679827765469?alt=media&token=62e8632d-d494-4bd1-927c-35682ca2052f" width="100px;" alt="Revanth"/>
                     <br />
-                    <sub><b>Revanth</b></sub>
+                    <sub><b>Revanth-03</b></sub>
                 </a>
             </td>
         </tr>
