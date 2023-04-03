@@ -958,13 +958,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Abdul Salaam Danish</b></sub>
                 </a>
-            <td align="center">
-                <a href="https://github.com/ois23">
-                    <img src="https://avatars.githubusercontent.com/u/127426190?v=4" width="100px;" alt="Avais"/>
-                    <br />
-                    <sub><b>Avais</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -1497,6 +1490,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <sub><b>Divyansh soni</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/ois23">
+                    <img src="https://avatars.githubusercontent.com/u/127426190?v=4" width="100px;" alt="Avais"/>
+                    <br />
+                    <sub><b>Avais</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
