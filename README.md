@@ -791,8 +791,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                       <img src="https://avatars.githubusercontent.com/u/81681210?v=4" width="100px;" alt="Suresh Chaudhary"/>
                       <br />
                       <sub><b>Aaditya Kumar</b></sub>
-                   </a>
+                  </a>
              </td>
+           <td align="center">
                   <a href="https://github.com/sunilgiri7">
                      <img src="https://avatars.githubusercontent.com/u/106025724?v=4" width="100px;" alt="Sunil Giri"/>
                      <br />
@@ -1379,6 +1380,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/111370211?v=4" width="100px;" alt="Vedant Srivastava"/>
                     <br />
                     <sub><b>Vedant Srivastava</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/yashhhh04">
+                    <img src="https://avatars.githubusercontent.com/u/120311109?v=4" width="100px;" alt="Yash Samar"/>
+                    <br />
+                    <sub><b>Yash Samar</b></sub>
                 </a>
             </td>
         </tr>
