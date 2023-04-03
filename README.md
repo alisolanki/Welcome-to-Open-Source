@@ -1454,6 +1454,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Joseph Cecil Odoi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AkashTirkey">
+                    <img src="https://avatars.githubusercontent.com/u/75518070?v=4" width="100px;" alt="Gungun Gupta"/>
+                    <br />
+                    <sub><b>Akash Tirkey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
