@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1249,6 +1249,57 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/91634251?v=4" width="100px;" alt="Shreyash"/>
                     <br />
                     <sub><b>Shreyash Kumar </b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jansigoswami">
+                    <img src="https://avatars.githubusercontent.com/u/98738632?v=4" width="100px;" alt="Jansi Goswami"/>
+                    <br />
+                    <sub><b>Jansi Goswami</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sabrynahancock">
+                    <img src="https://avatars.githubusercontent.com/u/97760815?v=4" width="100px;" alt="SabrynaH"/>
+                    <br />
+                    <sub><b>Sabryna Hancock </b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/murtazaali2828">
+                    <img src="https://avatars.githubusercontent.com/u/93913074?v=4" width="100px;" alt="Syed Murtaza Ali"/>
+                    <br />
+                    <sub><b>Syed Murtaza Ali</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shrinija">
+                    <img src="https://avatars.githubusercontent.com/u/98155154?v=4" width="100px;" alt="shrinija k"/>
+                    <br />
+                    <sub><b>Shrinija k</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/supr1yo">
+                    <img src="https://avatars.githubusercontent.com/u/45136370?v=4" width="100px;" alt="Supriyo"/>
+                    <br />
+                    <sub><b>Supriyo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chromo4">
+                    <img src="https://avatars.githubusercontent.com/u/96817905?v=4" width="100px;" alt="Ayush Tibrewal"/>
+                    <br />
+                    <sub><b>Ayush Tibrewal</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/clintonferraz">
+                    <img src="https://avatars.githubusercontent.com/u/49799175?v=4" width="100px;" alt="Clinton Ferraz"/>
+                    <br />
+                    <sub><b>Clinton Ferraz</b></sub>
                 </a>
             </td>
             <td align="center">
