@@ -1417,7 +1417,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanjay Bhardwaj</b></sub>
                 </a>
             </td>
-             <td align="center">
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://github.com/arryaman08">
                     <img src="https://avatars.githubusercontent.com/u/128846661?v=4" width="100px;" alt="Arryaman Mishra"/>
                     <br />
