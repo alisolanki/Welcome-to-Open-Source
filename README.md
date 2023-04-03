@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+              <td align="center">
+                <a href="https://github.com/SanjeevStephan">
+                    <img src="https://avatars.githubusercontent.com/u/37835927?v=4" width="100px;" alt="Sanjeev Stephan"/>
+                    <br />
+                    <sub><b>Sanjeev Stephan</b></sub>
+                </a>
+           </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -1206,13 +1213,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/119158790?v=4" width="100px;" alt="Keshav Aneja"/>
                     <br />
                     <sub><b>Keshav Aneja</b></sub>
-                </a>
-           </td>
-           <td align="center">
-                <a href="https://github.com/SanjeevStephan">
-                    <img src="https://avatars.githubusercontent.com/u/37835927?v=4" width="100px;" alt="Sanjeev Stephan"/>
-                    <br />
-                    <sub><b>Sanjeev Stephan</b></sub>
                 </a>
            </td>
         </tr>
