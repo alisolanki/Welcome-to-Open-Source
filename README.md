@@ -47,13 +47,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
-                <a href="https://github.com/jahanzaibbabar">
-                    <img src="https://avatars.githubusercontent.com/u/69716292?v=4" width="100px;" alt="Jahanzaib Babar"/>
-                    <br />
-                    <sub><b>Jahanzaib Babar</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -1321,6 +1314,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/88970099?v=4" width="100px;" alt="vishal image"/>
                     <br />
                     <sub><b>Vishal Kumar</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+           <td align="center">
+                <a href="https://github.com/jahanzaibbabar">
+                    <img src="https://avatars.githubusercontent.com/u/69716292?v=4" width="100px;" alt="Jahanzaib Babar"/>
+                    <br />
+                    <sub><b>Jahanzaib Babar</b></sub>
                 </a>
             </td>
         </tr>
