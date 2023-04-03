@@ -1251,6 +1251,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jansigoswami">
+                    <img src="https://avatars.githubusercontent.com/u/98738632?v=4" width="100px;" alt="Jansi Goswami"/>
+                    <br />
+                    <sub><b>Jansi Goswami</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
