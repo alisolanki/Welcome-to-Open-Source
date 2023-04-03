@@ -1389,6 +1389,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yash Samar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SayamJain1">
+                    <img src="https://avatars.githubusercontent.com/u/92157281?v=4" width="100px;" alt="Ｍ♢ＮＴΛＳＩＭ"/>
+                    <br />
+                    <sub><b>Sanyam jain</b></sub>
+                </a>
+           </td>
         </tr>
+
     </tbody>
 </table>
