@@ -55,13 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
-                <a href="https://johannes-kofler.com">
-                    <img src="https://avatars.githubusercontent.com/u/96773835?v=4" width="100px;" alt="Johannes Kofler"/>
-                    <br />
-                    <sub><b>Johannes Kofler</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1431,6 +1424,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/128846661?v=4" width="100px;" alt="Arryaman Mishra"/>
                     <br />
                     <sub><b>Arryaman Mishra</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://johannes-kofler.com">
+                    <img src="https://avatars.githubusercontent.com/u/96773835?v=4" width="100px;" alt="Johannes Kofler"/>
+                    <br />
+                    <sub><b>Johannes Kofler</b></sub>
                 </a>
             </td>
         </tr>
