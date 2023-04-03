@@ -1396,14 +1396,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanyam jain</b></sub>
                 </a>
            </td>
-           </td>
-                <td align="center">
-                  <a href="https://github.com/divyansh-soni1">
-                      <img src="https://github.com/account" width="100px;" alt="divyansh"/>
-                      <br />
-                      <sub><b>Divyansh soni</b></sub>
-                </a>
-           </td>
            <td align="center">
                 <a href="https://github.com/Parth-Sarathi-Dixit/">
                     <img src="https://avatars.githubusercontent.com/u/110755500?s=400&u=d42b21bcc621163697cb2c7aabb67b4c43ff3a1f&v=4" width="100px;" alt="Parth Sarathi Dixit"/>
@@ -1492,6 +1484,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anuj Gupta</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                  <a href="https://github.com/divyansh-soni1">
+                      <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/97580995?v=4)" width="100px;" alt="divyansh"/>
+                      <br />
+                      <sub><b>Divyansh soni</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
