@@ -53,13 +53,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a>
-            </td>
-             <td align="center">
-                <a href="https://github.com/420sanjaykumar">
-                    <img src="https://avatars.githubusercontent.com/u/64832308?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Sanjay Bhardwaj</b></sub>
-                </a>
             </td> 
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
@@ -1415,6 +1408,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://i.postimg.cc/mDyX9Jtj/Fotos01.jpg" width="100px;" alt="Narpat Aanjana"/>
                     <br />
                     <sub><b>Narpat Aanjana</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/420sanjaykumar">
+                    <img src="https://avatars.githubusercontent.com/u/64832308?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Sanjay Bhardwaj</b></sub>
                 </a>
             </td>
         </tr>
