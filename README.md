@@ -1334,9 +1334,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/jaymasiwal">
-                    <img src="image.png" width="100px;" alt="JAY MASIWAL"/>
+                    <img src="https://avatars.githubusercontent.com/u/93549457?v=44" width="100px;" alt="JAY MASIWAL"/>
                     <br />
                     <sub><b>Jay Masiwal</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/pradipchaudhary">
+                    <img src="https://avatars.githubusercontent.com/u/30647038?v=4" width="100px;" alt="Shoaib"/>
+                    <br />
+                    <sub><b>Pradip Chaudhary</b></sub>
                 </a>
             </td>
         </tr>
