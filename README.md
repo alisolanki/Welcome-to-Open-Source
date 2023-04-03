@@ -1570,6 +1570,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Surya Ashish</b></sub>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/heelpatel01">
                     <img src="https://avatars.githubusercontent.com/u/91087524?v=4" width="100px;" alt="Pramodh Kadam"/>
@@ -1577,6 +1579,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Heel Patel</b></sub>
                 </a>
             </td>
-        </tr>
+            <td align="center">
+                <a href="https://github.com/jamyMarkos">
+                    <img src="https://avatars.githubusercontent.com/u/103282607?v=4" width="100px;" alt="Mintesnot Markos"/>
+                    <br />
+                    <sub><b>Mintesnot Markos</b></sub>
+                 </a>
+            </td>
+        </tr?
     </tbody>
 </table>
