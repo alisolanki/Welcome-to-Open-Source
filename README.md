@@ -1332,6 +1332,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Abhishek Tyagi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jaymasiwal">
+                    <img src="image.png" width="100px;" alt="JAY MASIWAL"/>
+                    <br />
+                    <sub><b>Jay Masiwal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
