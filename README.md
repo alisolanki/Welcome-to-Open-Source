@@ -1111,13 +1111,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mukesh Mallula</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Dedicate66">
-                    <img src="https://avatars.githubusercontent.com/u/109079705?v=4" width="100px;" alt="Xiaobo Xing"/>
-                    <br />
-                    <sub><b>Xiaobo Xing</b></sub>
-               </a>
-           </td>
         </tr>
         <tr>
             <td align="center">
@@ -1476,7 +1469,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
          <tr>
-             <td align="center">
+             <td align="center">Cancel changes
                 <a href="https://github.com/kaustubhya">
                     <img src="https://avatars.githubusercontent.com/u/74069317?v=4" width="100px;" alt="Kaustubhya Shukla"/>
                     <br />
@@ -1621,6 +1614,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Priyabrata Maji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Dedicate66">
+                    <img src="https://avatars.githubusercontent.com/u/109079705?v=4" width="100px;" alt="Xiaobo Xing"/>
+                    <br />
+                    <sub><b>Xiaobo Xing</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
