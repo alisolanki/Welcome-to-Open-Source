@@ -1009,13 +1009,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
-             <td align="center">
-                <a href="https://github.com/Tanmay-Joshi73">
-                    <img src="https://avatars.githubusercontent.com/u/124510117?v=4" width="100px;" alt="Tanmay Joshi"/>
-                    <br />
-                    <sub><b>Tanmay Joshi</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -1532,6 +1525,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
                     <br />
                     <sub><b>Prasad Shembekar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Tanmay-Joshi73">
+                    <img src="https://avatars.githubusercontent.com/u/124510117?v=4" width="100px;" alt="Tanmay Joshi"/>
+                    <br />
+                    <sub><b>Tanmay Joshi</b></sub>
                 </a>
             </td>
         </tr>
