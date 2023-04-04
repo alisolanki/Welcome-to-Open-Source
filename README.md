@@ -1251,6 +1251,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+
                 <a href="https://github.com/jansigoswami">
                     <img src="https://avatars.githubusercontent.com/u/98738632?v=4" width="100px;" alt="Jansi Goswami"/>
                     <br />
@@ -1621,6 +1622,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Xiaobo Xing</b></sub>
                </a>
            </td>
+<a href="https://github.com/ayuugoyal">
+                    <img src="https://avatars.githubusercontent.com/u/104688146?v=4" width="100px;" alt="Ayush Goyal"/>
+                    <br />
+                    <sub><b>Ayush Goyal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
