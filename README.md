@@ -1621,13 +1621,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Xiaobo Xing</b></sub>
                </a>
            </td>
-           <td align="center">
-                <a href="https://github.com/ayushya0612">
-                    <img src="https://avatars.githubusercontent.com/u/93976369?s=400&u=e56b07e9cc932b36218896f18adf6f249a96281d&v=4" width="100px;" alt="Xiaobo Xing"/>
-                    <br />
-                    <sub><b>Ayush Singh</b></sub>
-               </a>
-           </td>
         </tr>
         <tr>
            <td align="center">
@@ -1637,6 +1630,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kartik Pal</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ayushya0612">
+                    <img src="https://avatars.githubusercontent.com/u/93976369?s=400&u=e56b07e9cc932b36218896f18adf6f249a96281d&v=4" width="100px;" alt="Xiaobo Xing"/>
+                    <br />
+                    <sub><b>Ayush Singh</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
