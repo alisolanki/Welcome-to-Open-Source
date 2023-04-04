@@ -57,7 +57,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
               <tr>
             <td align="center">
                 <a href="https://github.com/Vikaskumardane">
-                    <img src="https://avatars.githubusercontent.com/u/90561371?s=400&u=7518967b914ba76510e7115c869d377e6adddb36&v=4" width="100px;" alt="Vikaskumar dane"/>
+                    <img src="https://avatars.githubusercontent.com/u/90561371?v=4" width="100px;" alt="Vikaskumar dane"/>
                     <br />
                     <sub><b>Vikaskumar dane</b></sub>
                 </a> 
