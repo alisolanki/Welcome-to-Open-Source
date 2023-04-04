@@ -1208,6 +1208,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           </td>
+            <td align="center">
+                <a href="https://github.com/AnitaSahoo2002">
+                    <img src="https://avatars.githubusercontent.com/u/128979863?v=4" width="100px;" alt="Anita Sahoo"/>
+                    <br />
+                    <sub><b>ANITA SAHOO</b></sub>
+                </a>
+           </td>
         </tr>
     </tbody>
 </table>
