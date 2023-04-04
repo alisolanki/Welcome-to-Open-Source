@@ -18,21 +18,32 @@ def main():
             name_element = col.xpath('.//b')
             if name_element:
                 name = name_element[0].text.strip()
-                names.append(name)
+                line_num = name_element[0].sourceline
+                names.append((name, line_num))
 
     # Check for duplicates
-    if len(names) != len(set(names)):
-        print("Error: Duplicate names found.")
+    name_dict = {}
+    duplicate_lines = []
+    for name, line_num in names:
+        if name in name_dict:
+            duplicate_lines.append(line_num)
+        else:
+            name_dict[name] = line_num
+
+    if duplicate_lines:
+        print(f"Error: Duplicate names found on lines: {', '.join(map(str, duplicate_lines))}")
         sys.exit(1)
 
     # Check if name is added at the end of the table
     added_names = os.environ['GITHUB_HEAD_REF']
-    if added_names not in names[-1]:
+    if added_names not in names[-1][0]:
         print("Error: Names should be added at the end of the table.")
         sys.exit(1)
 
     # Check if only one name is added
-    if len(names) - len(rows) * 7 != 1:
+    total_names_before = len(names) - 1
+    total_names_now = len(rows) * 7
+    if total_names_before + 1 != total_names_now:
         print("Error: Only one name should be added.")
         sys.exit(1)
 
