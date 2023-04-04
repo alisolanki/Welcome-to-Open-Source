@@ -1602,7 +1602,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/Adi0706">
-                 <img src="https://avatars.githubusercontent.com/u/98939735?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                 <img src="https://avatars.githubusercontent.com/u/98939735?v=4" width="100px;" alt="ADITYA BHATTACHARJEE"/>
                     <br />
                     <sub><b>ADITYA BHATTACHARJEE</b></sub>
                 </a>
