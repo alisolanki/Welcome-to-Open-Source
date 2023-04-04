@@ -1621,6 +1621,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Xiaobo Xing</b></sub>
                </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/13yadav">
+                    <img src="https://avatars.githubusercontent.com/u/51192422?v=4" width="100px;" alt="Ranjit Yadav"/>
+                    <br />
+                    <sub><b>Ranjit Yadav</b></sub>
+               </a>
+           </td>
         </tr>
     </tbody>
 </table>
