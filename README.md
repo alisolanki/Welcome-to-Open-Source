@@ -1621,6 +1621,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Xiaobo Xing</b></sub>
                </a>
            </td>
+        </tr>
+        <tr>
            <td align="center">
                 <a href="https://github.com/kartikp962">
                     <img src="https://avatars.githubusercontent.com/u/114161683?v=4" width="100px;" alt="Kartik Pal"/>
