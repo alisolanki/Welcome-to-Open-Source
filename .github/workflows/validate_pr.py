@@ -15,8 +15,10 @@ def main():
     for row in rows:
         cols = row.xpath('.//td')
         for col in cols:
-            name = col.xpath('.//b')[0].text.strip()
-            names.append(name)
+            name_element = col.xpath('.//b')
+            if name_element:
+                name = name_element[0].text.strip()
+                names.append(name)
 
     # Check for duplicates
     if len(names) != len(set(names)):
