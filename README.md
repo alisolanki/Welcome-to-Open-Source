@@ -1646,7 +1646,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              </td>
              <td align="center">
                 <a href="https://github.com/mornjtech">
-                    <img src="https://avatars.githubusercontent.com/u/30227282?v=4" width="100px;" alt=" Fred Odihirin"/>
+                    <img src="https://avatars.githubusercontent.com/u/30227282?v=4" width="100px;" alt="Fred Odihirin"/>
                     <br />
                     <sub><b>Fred Odihirin</b></sub>
                </a>
