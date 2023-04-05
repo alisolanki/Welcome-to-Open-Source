@@ -5,17 +5,21 @@ on:
     types:
       - opened
       - synchronize
-  pull_request_review:
-    types:
-      - submitted
-      - edited
 
 jobs:
   validate-pull-request:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out base branch
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.base_ref }}
+
+      - name: Check out head branch
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+          path: head
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -27,20 +31,3 @@ jobs:
 
       - name: Run validation script
         run: python .github/workflows/validate_pr.py
-
-      - name: Update branch
-        if: github.event_name == 'pull_request_review' && github.event.review.state == 'approved'
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const pr_number = context.payload.pull_request.number;
-            const base_ref = context.payload.pull_request.base.ref;
-            const head_sha = context.payload.pull_request.head.sha;
-            const { owner, repo } = context.repo;
-            await github.rest.pulls.updateBranch({
-              owner,
-              repo,
-              pull_number: pr_number,
-              expected_head_sha: head_sha
-            });
