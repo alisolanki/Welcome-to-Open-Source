@@ -11,19 +11,26 @@ def get_names_from_readme(readme_path):
     rows = table.xpath('.//tr')
     names = []
 
-    for row in rows:
+    for row_index, row in enumerate(rows):
         cols = row.xpath('.//td')
-        for col in cols:
-            name_element = col.xpath('.//b')
-            if name_element:
-                name = name_element[0].text.strip()
-                line_num = name_element[0].sourceline
-                names.append((name, line_num))
+        if len(cols) == 7:  # Only process rows with exactly 7 columns
+            for col_index, col in enumerate(cols):
+                name_element = col.xpath('.//b')
+                if name_element:
+                    name = name_element[0].text.strip()
+                    line_num = name_element[0].sourceline
+                    names.append((name, line_num))
+        else:
+            print(f"Debug: Found {len(cols)} columns in row {row_index + 1}. Skipping row.")
+
     return names
 
 def main():
     base_names = get_names_from_readme("README.md")
     head_names = get_names_from_readme("head/README.md")
+
+    print(f"Debug: Base names: {base_names}")
+    print(f"Debug: Head names: {head_names}")
 
     # Check for duplicates
     head_name_dict = {name: line_num for name, line_num in head_names}
