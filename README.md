@@ -14,9 +14,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
-- Add your own details to the contributor list
-- Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+-   Add your own details to the contributor list
+-   Make a Pull Request
+-   [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
@@ -1469,7 +1469,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
          <tr>
-             <td align="center">Cancel changes
+             <td align="center">
                 <a href="https://github.com/kaustubhya">
                     <img src="https://avatars.githubusercontent.com/u/74069317?v=4" width="100px;" alt="Kaustubhya Shukla"/>
                     <br />
@@ -1649,6 +1649,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
                     <br />
                     <sub><b>Salmankhan</b></sub>
+               </a>
+             </td>
+              <td align="center">
+                <a href="https://github.com/adi-4444">
+                    <img src="https://res.cloudinary.com/dzmiwefgs/image/upload/v1680727620/my%20pics/2_sabvil.jpg" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b> Adi </b></sub>
                </a>
              </td>
         </tr>
