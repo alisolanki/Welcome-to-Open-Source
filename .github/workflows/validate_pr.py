@@ -2,11 +2,10 @@ import os
 import sys
 from lxml import html
 
-def main():
-    with open("README.md", "r") as file:
+def get_names_from_readme(readme_path):
+    with open(readme_path, "r") as file:
         readme_content = file.read()
 
-    # Parse the table
     tree = html.fromstring(readme_content)
     table = tree.xpath('//table')[0]
     rows = table.xpath('.//tr')
@@ -20,31 +19,28 @@ def main():
                 name = name_element[0].text.strip()
                 line_num = name_element[0].sourceline
                 names.append((name, line_num))
+    return names
+
+def main():
+    base_names = get_names_from_readme("README.md")
+    head_names = get_names_from_readme("head/README.md")
 
     # Check for duplicates
-    name_dict = {}
-    duplicate_lines = []
-    for name, line_num in names:
-        if name in name_dict:
-            duplicate_lines.append(line_num)
-        else:
-            name_dict[name] = line_num
-
-    if duplicate_lines:
-        print(f"Error: Duplicate names found on lines: {', '.join(map(str, duplicate_lines))}")
+    head_name_dict = {name: line_num for name, line_num in head_names}
+    if len(head_name_dict) != len(head_names):
+        duplicates = [line_num for name, line_num in head_names if head_names.count(name) > 1]
+        print(f"Error: Duplicate names found on lines: {', '.join(map(str, duplicates))}")
         sys.exit(1)
 
     # Check if name is added at the end of the table
-    added_names = os.environ['GITHUB_HEAD_REF']
-    if added_names not in names[-1][0]:
-        print("Error: Names should be added at the end of the table.")
+    added_names = list(set(head_name_dict.keys()) - set(name for name, _ in base_names))
+    if len(added_names) != 1:
+        print("Error: Only one name should be added.")
         sys.exit(1)
 
-    # Check if only one name is added
-    total_names_before = len(names) - 1
-    total_names_now = len(rows) * 7
-    if total_names_before + 1 != total_names_now:
-        print("Error: Only one name should be added.")
+    added_name = added_names[0]
+    if added_name != head_names[-1][0]:
+        print(f"Error: Names should be added at the end of the table. Line: {head_names[-1][1]}")
         sys.exit(1)
 
 if __name__ == "__main__":
