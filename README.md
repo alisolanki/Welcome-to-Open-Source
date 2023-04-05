@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+              <td align="center">
+                <a href="https://faris76.github.io/personal-site/">
+                    <img src="https://avatars.githubusercontent.com/u/35652441?v=4" width="100px;" alt="Faris Mufti"/>
+                    <br />
+                    <sub><b>Faris Mufti</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
