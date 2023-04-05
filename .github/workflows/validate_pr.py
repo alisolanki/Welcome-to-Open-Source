@@ -43,5 +43,16 @@ def main():
         print(f"Error: Names should be added at the end of the table. Line: {head_names[-1][1]}")
         sys.exit(1)
 
+    # Check if the table structure is maintained
+    tree = html.fromstring(open("head/README.md", "r").read())
+    table = tree.xpath('//table')[0]
+    rows = table.xpath('.//tr')
+
+    for row in rows:
+        cols = row.xpath('.//td')
+        if len(cols) > 7:
+            print(f"Error: There should be no more than 7 columns in each row. Line: {cols[7].sourceline}")
+            sys.exit(1)
+
 if __name__ == "__main__":
     main()
