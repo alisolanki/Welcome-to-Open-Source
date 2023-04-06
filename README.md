@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://dev-abel.netlify.app/">
+                    <img src="https://dev-abel.netlify.app/_next/image?url=%2Fimages%2FabelProfile.png&w=128&q=75" width="100px;" alt="Abel Hailemichael"/>
+                    <br />
+                    <sub><b>Abel Hailemichael</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
