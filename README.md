@@ -1643,14 +1643,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Sivasakthi M</b></sub>
                </a>
-             </td>
-              <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/iamtheSk">
                     <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
                     <br />
                     <sub><b>Salmankhan</b></sub>
                </a>
-             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/davdavid29">
+                    <img src="https://avatars.githubusercontent.com/u/88041979?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>Maverick Dave</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
