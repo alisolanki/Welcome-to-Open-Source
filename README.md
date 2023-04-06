@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+              <td align="center">
+                <a href="https://github.com/DavidDanso">
+                    <img src="https://avatars.githubusercontent.com/u/86997174?v=4" width="100px;" alt="DavidDanso"/>
+                    <br />
+                    <sub><b>David Danso</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
