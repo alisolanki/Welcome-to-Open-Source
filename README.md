@@ -1651,6 +1651,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+            <td align="center"><a href="https://github.com/iamtheSk">
+                <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>Salmankhan</b></sub>
+               </a>
+             </td>
+             <td align="center">
+                <a href="https://github.com/prachi070">
+                    <img src="https://avatars.githubusercontent.com/u/97446551?s=400&u=4e5db5270f12c1ff04eb709aca0d77d7ad77fd0e&v=4" width="100px;" alt="Prachi Sharma"/>
+                    <br />
+                    <sub><b>Prachi Sharma</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
