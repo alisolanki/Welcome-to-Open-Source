@@ -1655,7 +1655,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Avinash1271">
                     <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
                     <br />
-                    <sub><b>avinashkr66</b></sub>
+                    <sub><b>Avinash 🍉</b></sub>
                </a>
              </td>
         </tr>
