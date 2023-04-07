@@ -1645,6 +1645,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
              </td>
               <td align="center">
+                <a href="https://github.com/Bimal194">
+                    <img src="https://avatars.githubusercontent.com/u/93549457?v=44" width="100px;" alt="BIMAL"/>
+                    <br />
+                    <sub><b>Bimal_S</b></sub>
+                </a>
+            </td>
+              <td align="center">
                 <a href="https://github.com/iamtheSk">
                     <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
                     <br />
