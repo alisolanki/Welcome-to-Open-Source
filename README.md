@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/Gaurav-WebDev">
+                    <img src="https://avatars.githubusercontent.com/u/129940264?v=4" width="100px;" alt="Gaurav Sharma"/>
+                    <br />
+                    <sub><b>Gaurav Sharma</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
