@@ -677,6 +677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sannitya</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/31pravallika">
+                    <img src="https://avatars.githubusercontent.com/u/109025813?v=4" width="100px;" alt="Pravallika"/>
+                    <br />
+                    <sub><b>Pravallika</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/mabuhanifa">
                     <img src="https://avatars.githubusercontent.com/u/90899296?v=4" width="100px;" alt="Mohammed Abu Hanifa"/>
