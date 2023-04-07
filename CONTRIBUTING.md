@@ -19,7 +19,7 @@
     ```
             <td align="center">
                 <a href="https://github.com/CarlPericles18">
-                    <img src="https://avatars.githubusercontent.com/u/86575576?v=4" width="100px;" alt="Carl Pericles"/>
+                    <img src="https://avatars.githubusercontent.com/u/86575576?v=4" width="100px;" alt="Carl D Pericles"/>
                     <br />
                     <sub><b>Carl Pericles</b></sub>
                 </a> 
