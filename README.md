@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/SandipGyawali">
+                    <img src="https://avatars.githubusercontent.com/u/66510112?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>Sandip Gyawali</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
