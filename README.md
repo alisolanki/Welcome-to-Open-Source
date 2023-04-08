@@ -1208,13 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
-           <td align="center">
+            <td align="center">
                 <a href="https://github.com/pranjal6314">
-                    <img src="https://avatars.githubusercontent.com/u/77271332?v=4" width="100px;" alt="Pranjal Choudhary"/>
+                    <img src="https://avatars.githubusercontent.com/u/77271332?v=4" width="100px;" alt="Pranjal"/>
                     <br />
-                    <sub><b>Pranjal Choudhary</b></sub>
-                </a>
-           </td>
+                    <sub><b>Pranjal choudhary</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
