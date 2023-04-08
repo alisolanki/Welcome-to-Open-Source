@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 >>>>>>> 0165c1929af753c9b6c8d09835fdedf38ae27234
                </a>
              </td>
+     <td align="center">
+                <a href="https://github.com/pranjal6314">
+                    <img src="https://avatars.githubusercontent.com/u/77271332?v=4" width="100px;" alt="pranjal "/>
+                    <br />
+                    <sub><b>Pranjal Choudhary</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
