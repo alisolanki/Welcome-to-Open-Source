@@ -1651,6 +1651,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+              <td align="center">
+                <a href="https://github.com/rizwan4701798">
+                    <img src="https://avatars.githubusercontent.com/u/7237366?v=4" width="100px;" alt="Rizwan Farooq"/>
+                    <br />
+                    <sub><b>Rizwan Farooq</b></sub>
+               </a>
+             </td>
         </tr>
     </tbody>
 </table>
