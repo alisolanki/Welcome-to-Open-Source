@@ -1651,6 +1651,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Salmankhan</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/rituisboy">
+                    <img src="https://avatars.githubusercontent.com/u/120157746?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Rituraj thakur</b></sub>
+             </td>
         </tr>
     </tbody>
 </table>
