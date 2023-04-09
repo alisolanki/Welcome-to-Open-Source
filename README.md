@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/prophecyprogrammer">
+                    <img src="https://avatars.githubusercontent.com/u/94889407?s=400&u=57204025c579ecfd4ee8219fb3d3fbfa03be3874&v=4" width="100px;" alt="Vatsal Shah"/>
+                    <br />
+                    <sub><b>Vincenzo Chiovaro</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
