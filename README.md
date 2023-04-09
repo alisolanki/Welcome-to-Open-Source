@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/noobtuber20103152">
+                    <img src="https://avatars.githubusercontent.com/u/81584747?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
+                    <br />
+                    <sub><b>Ujjawal Rachhoya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
