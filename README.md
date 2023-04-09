@@ -1663,7 +1663,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <img src="https://github.com/account" width="100px;" alt="Anamika Mudotiya"/>
                 <br />
                 <sub><b>Anamika Mudotiya</b></sub>
-              </a>
+              </a> 
             </td>
         </tr>
     </tbody>
