@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jay-lenz">
+                    <img src="https://avatars.githubusercontent.com/u/59311447?v=4" width="100px;" alt="Jenyo Oyebode"/>
+                    <br />
+                    <sub><b>Jenyo Oyebode</b></sub>
+                </a>
+            </td>
         </tr>
-    </tbody>
+   </tbody>
 </table>
