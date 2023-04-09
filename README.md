@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+              <a href="https://github.com/anamika133m">
+                <img src="https://github.com/account" width="100px;" alt="Anamika Mudotiya"/>
+                <br />
+                <sub><b>Anamika Mudotiya</b></sub>
+              </a>
+            </td>
         </tr>
     </tbody>
 </table>
