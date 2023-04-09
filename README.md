@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShriSriv1010">
+                    <img src="https://avatars.githubusercontent.com/u/62253877?v=4" width="100px;" alt="Shrijit Srivastav"/>
+                    <br />
+                    <sub><b>Shrijit Srivastav</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
