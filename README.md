@@ -1652,12 +1652,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Fender2003">
+                    <img src="https://avatars.githubusercontent.com/u/92496001?s=400&v=4 width="100px;" alt="Fender2003"/>
+                    <br />
+                    <sub><b>Fender2003</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/vincenzochiovaro">
                     <img src="https://avatars.githubusercontent.com/u/66358836?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
                     <br />
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+
         </tr>
     </tbody>
 </table>
