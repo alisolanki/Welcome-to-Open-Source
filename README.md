@@ -55,10 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://rover07.hashnode.dev/">
+                    <img src="https://avatars.githubusercontent.com/u/95951482?s=400&u=897f3ba6e341a4be6ed1c583c6cbc0d4b6a2f05b&v=4" width="100px;" alt="Vaibhav Chauhan"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Vaibhav Chauhan</b></sub>
                 </a>
             </td>
             <td align="center">
