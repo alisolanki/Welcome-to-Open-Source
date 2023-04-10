@@ -1658,6 +1658,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+			<td align="center">
+                <a href="https://github.com/dhruvitmodi">
+                    <img src="https://avatars.githubusercontent.com/u/19344819?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>Dhruvit Modi _ Data Analyst</b></sub>
+                </a>
+            </td>
+			<td align="center">
+                <a href="https://github.com/dhruvitmodi">
+                    <img src="https://avatars.githubusercontent.com/u/19344819?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>DhruvitModi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
