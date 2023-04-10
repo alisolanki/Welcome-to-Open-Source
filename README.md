@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shuffled720">
+                    <img src="https://avatars.githubusercontent.com/u/72161403?v=4" width="100px;" alt="Vishal Kumar"/>
+                    <br />
+                    <sub><b>Vishal Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
