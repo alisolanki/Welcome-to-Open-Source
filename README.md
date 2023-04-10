@@ -1653,7 +1653,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              </td>
              <td align="center">
                 <a href="https://github.com/SandipGyawali">
-                    <img src="https://avatars.githubusercontent.com/u/66510112?v=4" width="100px;" alt="Salmankhan"/>
+                    <img src="https://avatars.githubusercontent.com/u/66510112?v=4" width="100px;" alt="SandipGyawali"/>
                     <br />
                     <sub><b>Sandip Gyawali</b></sub>
                </a>
