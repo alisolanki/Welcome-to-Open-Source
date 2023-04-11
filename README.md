@@ -1635,14 +1635,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/93976369?s=400&u=e56b07e9cc932b36218896f18adf6f249a96281d&v=4" width="100px;" alt="Xiaobo Xing"/>
                     <br />
                     <sub><b>Ayush Singh</b></sub>
-               </a>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Siva9727">
                     <img src="https://avatars.githubusercontent.com/u/95659745?v=4" width="100px;" alt="Sivasakthi M"/>
                     <br />
                     <sub><b>Sivasakthi M</b></sub>
-               </a>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/iamtheSk">
@@ -1664,6 +1664,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Faizal Vasaya</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Avinash1271">
+                    <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Avinash 🍉</b></sub>
+               </a>
             </td>
         </tr>
     </tbody>
