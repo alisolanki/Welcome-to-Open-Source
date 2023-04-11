@@ -1658,6 +1658,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vincenzo Chiovaro</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/faizvasaya">
+                    <img src="https://avatars.githubusercontent.com/u/29179470?v=4" width="100px;" alt="Faizal Vasaya"/>
+                    <br />
+                    <sub><b>Faizal Vasaya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
