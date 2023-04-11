@@ -1636,28 +1636,42 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ayush Singh</b></sub>
                </a>
-           </td>
-           <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/Siva9727">
                     <img src="https://avatars.githubusercontent.com/u/95659745?v=4" width="100px;" alt="Sivasakthi M"/>
                     <br />
                     <sub><b>Sivasakthi M</b></sub>
                </a>
-             </td>
-              <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/iamtheSk">
                     <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
                     <br />
                     <sub><b>Salmankhan</b></sub>
                </a>
-             </td>
-             <td align="center">
+            </td>
+            <td align="center">
+                <a href="https://github.com/vincenzochiovaro">
+                    <img src="https://avatars.githubusercontent.com/u/66358836?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
+                    <br />
+                    <sub><b>Vincenzo Chiovaro</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/faizvasaya">
+                    <img src="https://avatars.githubusercontent.com/u/29179470?v=4" width="100px;" alt="Faizal Vasaya"/>
+                    <br />
+                    <sub><b>Faizal Vasaya</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Avinash1271">
                     <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
                     <br />
                     <sub><b>Avinash 🍉</b></sub>
                </a>
-             </td>
+            </td>
         </tr>
     </tbody>
 </table>
