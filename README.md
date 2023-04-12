@@ -1676,7 +1676,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/CodeXSantu/">
                     <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
                     <br />
-                    <sub><b>Santosh kumar </b></sub>
+                    <sub><b>Santosh kumar 🍉 </b></sub>
                </a>
             </td>
         </tr>
