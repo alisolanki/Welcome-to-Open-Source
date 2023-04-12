@@ -1673,5 +1673,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
             </td>
         </tr>
+        <tr>
+        <td align="center">
+                <a href="https://github.com/yath-09">
+                    <img src="https://avatars.githubusercontent.com/u/97472914?s=400&v=4" width="100px;" alt="Yatharth"/>
+                    <br />
+                    <sub><b>Yatharth 🍉</b></sub>
+               </a>
+            </td>
+        </tr>
     </tbody>
 </table>
