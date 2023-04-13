@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/U-J-007">
+                    <img src="https://avatars.githubusercontent.com/u/98806521?v=4" width="100px;" alt="UTKARSH JAMBHULKAR"/>
+                    <br />
+                    <sub><b>UTKARSH JAMBHULKAR </b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
