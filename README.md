@@ -245,7 +245,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/prayash24">
                     <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="Prayansh"/>
                     <br />
-                    <sub><b>Prayash Naik</b></sub>
+ -                   <sub><b>Prayash Naik</b></sub>
                </a>
             </td>
         </tr>
@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/onemriganka">
+                    <img src="https://avatars.githubusercontent.com/u/119776446?v=4" alt="onemriganka"/>
+                    <br />
+                    <sub><b>onemriganka🍉</b></sub>
+               </a>
+            </td>
         </tr>
-    </tbody>
+    </tbody> 
 </table>
