@@ -28,7 +28,7 @@
         <a href="https://github.com/Bron-analytics">
             <img src="https://avatars.githubusercontent.com/u/86189187?v=4" width="100px;" alt="James Oyebade"/>
             <br />
-            <sub><b>James Oyebade
+            <sub><b>James Oyebade</b>
         </a>
     </td>
     ```
