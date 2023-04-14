@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shevilll">
+                    <img src="https://avatars.githubusercontent.com/u/115057138?v=4" width="100px;" alt="Shevilll"/>
+                    <br />
+                    <sub><b>Shevilll 🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
