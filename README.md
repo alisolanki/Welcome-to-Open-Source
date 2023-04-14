@@ -1672,6 +1672,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/chandra-kiran1">
+                    <img src="https://avatars.githubusercontent.com/u/74106667?v=4" width="100px;" alt="chandra kiran"/>
+                    <br />
+                    <sub><b>chandra kiran</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
