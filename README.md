@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/abir-sharma">
+                    <img src="https://avatars.githubusercontent.com/u/81020224?v=4" width="100px;" alt="Abir sharma"/>
+                    <br />
+                    <sub><b>Abir sharma 🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
