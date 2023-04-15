@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://denizcandarcan.com/">
+                    <img src="https://avatars.githubusercontent.com/u/88718702?v=4" width="100px;" alt="Denizcan"/>
+                    <br />
+                    <sub><b>Denizcan Darcan</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
