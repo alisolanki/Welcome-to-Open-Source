@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="centre">
+                <a href="https://github.com/DeadLoss1801">
+                <img src="https://avatars.githubusercontent.com/u/109912987?v=4"
+                width="100px;" alt="Abhijeet"/>
+                <br/>
+                <sub><b>Abhijeet singh 🍉</b></sub>
+            </td>
         </tr>
     </tbody>
 </table>
