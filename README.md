@@ -1678,7 +1678,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <a href="https://github.com/adityaanilshukla">
                 <img src="https://avatars.githubusercontent.com/u/39354303?v=4" width="100px;" alt="Aditya Shukla"/>
                 <br />
-                <sub><b>Jahanzaib Babar</b></sub>
+                <sub><b>Aditya Shukla</b></sub>
             </a>
         </td>
 </table>
