@@ -70,9 +70,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/theyashpatel">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Yash Patel"/>
+                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Yash"/>
                     <br />
-                    <sub><b>Yash Patel</b></sub>
+                    <sub><b>Yash</b></sub>
                 </a>
             </td>
             <td align="center">
