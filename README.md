@@ -176,6 +176,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Lakshman Mutum</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/AsmitKumar321">
+                    <img src="https://avatars.githubusercontent.com/u/115177898?v=4" width="100px;" alt="Asmit Kumar"/>
+                    <br />
+                    <sub><b>Asmit Kumar</b></sub>
+                </a>
             <td align="center">
                 <a href="https://github.com/gmaheshraju">
                     <img src="https://avatars.githubusercontent.com/u/21260123?v=4" width="100px;" alt="Mahesh Guntumadugu"/>
