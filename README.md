@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                   <a href="https://github.com/mkpatel-247">
-                    <img src="https://avatars.githubusercontent.com/u/113523391?v=4" width="100px;" alt="Meet Patel"/>
+                    <img src="https://avatars.githubusercontent.com/u/81353451?s=400&u=6124765c7aaa47b45acf074c1b4b0a87014460eb&v=4" width="100px;" alt="Meet Patel"/>
                     <br />
                     <sub><b>Meet Patel</b></sub>
                   </a>
