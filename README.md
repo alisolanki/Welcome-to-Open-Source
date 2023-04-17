@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kgkunal">
+                    <img src="https://avatars.githubusercontent.com/u/76809868?v=4" width="100px;" alt="Kunal Gavhane"/>
+                    <br />
+                    <sub><b>Kunal Gavhane</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
