@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ved8088">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ved R"/>
+                    <br />
+                    <sub><b>Ved R</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
