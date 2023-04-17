@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   <a href="https://github.com/mkpatel-247">
                     <img src="https://avatars.githubusercontent.com/u/113523391?v=4" width="100px;" alt="Meet Patel"/>
                     <br />
-                    <sub><b>Chetan Dighole</b></sub>
+                    <sub><b>Meet Patel</b></sub>
                   </a>
               </td>
             <td align="center">
