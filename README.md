@@ -1672,6 +1672,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center"> 
+                <a href="https://github.com/gurdittcancode">
+                <img src="https://avatars.githubusercontent.com/u/93715659?v=4" width="100px;" alt="Gurditt" />
+                <br />
+                <sub><b> Gurditt 🍉</b></sub>
+            </td>
         </tr>
     </tbody>
 </table>
