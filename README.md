@@ -1673,5 +1673,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
             </td>
         </tr>
+        <tr>
+           <td align="center">
+                <a href="https://github.com/virumax">
+                    <img src="https://avatars.githubusercontent.com/u/6157998?v=4" width="100px;" alt="Kartik Pal"/>
+                    <br />
+                    <sub><b>Virendra Ravalji</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
