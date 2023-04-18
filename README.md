@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MalavyaRaval">
+                    <img src="https://avatars.githubusercontent.com/u/118731394?v=4" width="100px;" alt="Malavya Raval"/>
+                    <br />
+                    <sub><b>Malavya Raval</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
