@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/siliconvolley">
+                    <img src="https://avatars.githubusercontent.com/u/113709174?v=4" width="100px;" alt="silicon"/>
+                    <br />
+                    <sub><b>silicon 🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
