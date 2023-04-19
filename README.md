@@ -47,6 +47,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/Umesh7Dixit/">
+                    <img src="https://avatars.githubusercontent.com/u/120256827?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Umesh Dixit</b></sub>
+                </a> 
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
