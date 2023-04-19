@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Timiemmy">
+                    <img src="https://avatars.githubusercontent.com/u/100134035?v=4" width="100px;" alt="Faith"/>
+                    <br />
+                    <sub><b>Faith Bolanle 🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
