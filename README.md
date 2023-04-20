@@ -388,7 +388,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/JuanPabloDiaz">
-                    <img src="" width="100px;" alt="Juan Diaz"/>
+                    <img src="https://avatars.githubusercontent.com/u/25883220?v=4" width="100px;" alt="Juan Diaz"/>
                     <br />
                     <sub><b>Juan Diaz</b></sub>
                 </a>
