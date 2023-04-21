@@ -1652,6 +1652,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mvuthegoat">
+                    <img src="https://avatars.githubusercontent.com/u/96642627?v=4" width="100px;" alt="Avais"/>
+                    <br />
+                    <sub><b>Minh</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/vincenzochiovaro">
                     <img src="https://avatars.githubusercontent.com/u/66358836?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
                     <br />
