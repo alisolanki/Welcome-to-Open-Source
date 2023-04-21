@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/GAYATHRI1924">
+                    <img src="https://avatars.githubusercontent.com/u/120390349?v=4" width="100px;" alt="Gayathri"/>
+                    <br />
+                    <sub><b>Gayathri M</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
