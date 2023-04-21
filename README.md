@@ -1674,7 +1674,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/ghoshabhijit0612">
-                    <img src="" width="100px;" alt="Avinash"/>
+                    <img src="https://ik.imagekit.io/j83rchiauw/A_List_Star/Shinchan-bio-tring.jpg" width="100px;" alt="Abhijit"/>
                     <br />
                     <sub><b>Abhijit  Ghosh🍉</b></sub>
                </a>
