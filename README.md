@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/itsspriyanshu">
+                    <img src="https://avatars.githubusercontent.com/u/59619349?v=4" width="100px;" alt="Priyanshu"/>
+                    <br />
+                    <sub><b>Priyanshu</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
