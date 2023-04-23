@@ -207,6 +207,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+              <a href="https://github.com/Tanishashrivas">
+                    <img src="https://avatars.githubusercontent.com/u/114223066?v=4" width="100px;" alt="Dhruvil"/>
+                    <br />
+                    <sub><b>Tanisha Shrivas</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Amrithshagar">
                     <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
