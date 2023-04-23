@@ -55,8 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+<<<<<<< HEAD
+                <a href="https://github.com/venkataraviraja5">
+                    <img src="https://avatars.githubusercontent.com/u/131418248?v=4" width="100px;" alt="Harsh Pandey"/>
+=======
                 <a href="https://github.com/shivamchoudhary19">
                     <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
+>>>>>>> 7041350cadb0d673c67874d7b457d07c9e1b770b
                     <br />
                     <sub><b>Shivam Choudhary</b></sub>
                 </a>
