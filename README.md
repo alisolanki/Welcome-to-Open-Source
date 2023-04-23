@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/Sebanti2003">
+                    <img src="https://avatars.githubusercontent.com/u/130296977?v=4" width="100px;" alt="Sebanti Dasgupta"/>
+                    <br />
+                    <sub><b>Sebanti Dasgupta</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/shivamchoudhary19">
                     <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
