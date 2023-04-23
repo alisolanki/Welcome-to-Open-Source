@@ -55,10 +55,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+<<<<<<< HEAD
                 <a href="https://github.com/venkataraviraja5">
                     <img src="https://avatars.githubusercontent.com/u/131418248?v=4" width="100px;" alt="Harsh Pandey"/>
+=======
+                <a href="https://github.com/shivamchoudhary19">
+                    <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
+>>>>>>> 7041350cadb0d673c67874d7b457d07c9e1b770b
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Shivam Choudhary</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1671,6 +1676,29 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Avinash 🍉</b></sub>
                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/shiro873">
+                    <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Ridwan"/>
+                    <br />
+                    <sub><b>Ridwanul Hasan</b></sub>
+               </a>
+            </td>
+             <td align="center">
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
