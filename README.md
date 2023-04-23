@@ -1674,7 +1674,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/harshashetty67">
-                    <img src="https://avatars.githubusercontent.com/u/36779546?s=400&u=95d7e56721f979997b2137b143b617838c25856b&v=4" width="100px;" alt="Avinash"/>
+                    <img src="https://avatars.githubusercontent.com/u/36779546?s=400&u=95d7e56721f979997b2137b143b617838c25856b&v=4" width="100px;" alt="Harsha Shetty"/>
                     <br />
                     <sub><b>Harsha Shetty</b></sub>
                </a>
