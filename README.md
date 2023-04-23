@@ -1696,5 +1696,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/shreyasmanolkar">
+                    <img src="https://avatars.githubusercontent.com/u/80336980?v=4" width="100px;" alt="Shreyas Manolkar"/>
+                    <br />
+                    <sub><b>🔱 Shreyas 🔱</b></sub>
+               </a>
+            </td>
+        </tr>
     </tbody>
 </table>
