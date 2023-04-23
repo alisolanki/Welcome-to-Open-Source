@@ -1695,6 +1695,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+                <td align="center">
+                    <a href="https://github.com/Banach-B/">
+                    <img src="https://avatars.githubusercontent.com/u/128313450?v=4" width="100px;" alt="Bartłomiej Banach"/>
+                    <br />
+                    <sub><b>Bartek Banach</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
