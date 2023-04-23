@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shiro873">
+                    <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Ridwan"/>
+                    <br />
+                    <sub><b>Ridwanul Hasan</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
