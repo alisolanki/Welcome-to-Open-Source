@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://itsajay.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/101542376?v=4" width="100px;" alt="Ajay Yadav"/>
+                    <br />
+                    <sub><b>Ajay Yadav</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/shivamchoudhary19">
                     <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
                     <br />
