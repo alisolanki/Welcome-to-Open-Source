@@ -1695,6 +1695,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/tharunpeter369">
+                    <img src="https://avatars.githubusercontent.com/u/80770893?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Tharun Peter 🚀🚀</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
