@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/samanth2012">
+                    <img src="https://avatars.githubusercontent.com/u/114215621?v=4" width="100px;" alt="Samanth"/>
+                    <br />
+                    <sub><b>Samanth/b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shivamchoudhary19">
                     <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
                     <br />
