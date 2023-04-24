@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://adhirajsportfolio.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/122093487?v=4" width="100px;" alt="Adhiraj Singh"/>
+                    <br />
+                    <sub><b>Adhiraj Singh</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/shivamchoudhary19">
                     <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
                     <br />
