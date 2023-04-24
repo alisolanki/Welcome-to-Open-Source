@@ -1699,7 +1699,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/tharunpeter369">
                     <img src="https://avatars.githubusercontent.com/u/80770893?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Tharun Peter 🚀🚀</b></sub>
+                    <sub><b>Tharun Peter</b></sub>
                 </a>
             </td>
         </tr>
