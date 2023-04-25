@@ -1672,13 +1672,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
-             <td align="center">
-                <a href="https://github.com/devil1329">
-                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
-                    <br />
-                    <sub><b>Vishnu Kumar Singh</b></sub>
-                </a>
-            </td>
         </tr>
         <tr>
              <td align="center">
@@ -1687,6 +1680,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ridwanul Hasan</b></sub>
                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/darshithpatel">
+                    <img src="https://avatars.githubusercontent.com/u/126161462?v=4" width="100px;" alt="Darshit Domadiya"/>
+                    <br />
+                    <sub><b>Darshit Domadiya</b></sub>
+                </a>
             </td>
              <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
