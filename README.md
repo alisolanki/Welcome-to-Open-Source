@@ -996,6 +996,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/darshithpatel">
+                    <img src="https://avatars.githubusercontent.com/u/126161462?v=4" width="100px;" alt="Darshit Domadiya"/>
+                    <br />
+                    <sub><b>Darshit Domadiya</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/yenper">
                     <img src="https://avatars.githubusercontent.com/u/86003362?v=4" width="100px;" alt="Aradhna Abraham"/>
                     <br />
