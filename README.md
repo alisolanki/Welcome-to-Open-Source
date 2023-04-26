@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/SOMKUVAR">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Aayushee Somkuvar</b></sub>
+                    <sub><b>Aayushee Somkuvar </b></sub>
                 </a> 
             </td>
             <td align="center">
