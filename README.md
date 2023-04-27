@@ -1688,6 +1688,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ridwanul Hasan</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/GHarshReddy">
+                    <img src="https://avatars.githubusercontent.com/u/131742643?v=4"/>
+                    <br />
+                    <sub><b>Harsha Reddy</b></sub>
+               </a>
+            </td>
+
              <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
