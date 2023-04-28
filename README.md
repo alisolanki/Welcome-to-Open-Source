@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+    <td align="center">
+                <a href="https://github.com/Milodey">
+                    <img src="https://avatars.githubusercontent.com/milodey" width="100px;" alt="Milo Dey"/>
+                    <br />
+                    <sub><b>Nirmallya dey (Milo Dey)</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
