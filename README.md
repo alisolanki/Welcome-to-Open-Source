@@ -68,6 +68,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
             </td>
+           
+ <td align="center">
+                <a href="https://github.com/Om2123">
+                    <img src="https://avatars.githubusercontent.com/u/98630920?v=4" width="100px;" alt="Om vakhare"/>
+                    <br />
+                    <sub><b>om vakhare</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
