@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vxnshikaaa">
+                    <img src="https://avatars.githubusercontent.com/u/112242392?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Vanshika</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
