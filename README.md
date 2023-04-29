@@ -3,13 +3,7 @@
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
-    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
-</p>
-
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
-    </a>
+    <li>If you're a member on the channel, you'll get priority access 
 </p>
 
 <p>List of actively participating individulas in open source contributions</p>
@@ -19,16 +13,14 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
+    <a href="https://www.twitter.com/ashibullah">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
+    <a href="https://linkedin.com/in/ashibullah">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
-    <a href="https://www.instagram.com/alisolankii">
+   
+    <a href="https://www.instagram.com/ashibullah">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
@@ -59,6 +51,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ashibullah">
+                    <img src="https://avatars.githubusercontent.com/u/86849395?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Ashib Ullah</b></sub>
                 </a>
             </td>
             <td align="center">
