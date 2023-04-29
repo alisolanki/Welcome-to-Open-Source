@@ -25,7 +25,7 @@
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
+    <a href="https://www.youtube.com/AliSolanki"> 
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
     <a href="https://www.instagram.com/alisolankii">
@@ -1700,6 +1700,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
                     <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/arpittyagirocks/">
+                    <img src="https://avatars.githubusercontent.com/u/94587985?v=4" width="100px;" alt="Arpit Tyagi"/>
+                    <br />
+                    <sub><b>Arpit Tyagi</b></sub>
                 </a>
             </td>
         </tr>
