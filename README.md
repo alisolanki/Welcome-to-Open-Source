@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Chirag-Kunder">
+                    <img src="https://avatars.githubusercontent.com/u/58637088?v=4" width="100px;" alt="Chirag"/>
+                    <br />
+                    <sub><b>Chirag Kunder</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
