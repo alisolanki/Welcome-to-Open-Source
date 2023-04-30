@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ankursinghbisht">
+                    <img src="https://avatars.githubusercontent.com/u/112644477?v=4" width="100px;" alt="Ankur Singh Bisht"/>
+                    <br />
+                    <sub><b>Ankur Singh Bisht</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
