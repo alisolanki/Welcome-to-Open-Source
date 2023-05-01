@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vishal-dcode">
+                    <img src="https://avatars.githubusercontent.com/u/100755052?v=4" width="100px;" alt="Vishal Vishwakarma"/>
+                    <br />
+                    <sub><b>Vishal Vishwakarma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
