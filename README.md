@@ -1704,7 +1704,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/parthpathakpp1">
-                    <img src="https://avatars.githubusercontent.com/u/85991449?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/85991449?v=4" width="100px;" alt="Parth Pathak"/>
                     <br />
                     <sub><b>Parth Pathak</b></sub>
                 </a> 
