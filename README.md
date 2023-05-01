@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/samanth2012">
                     <img src="https://avatars.githubusercontent.com/u/114215621?v=4" width="100px;" alt="Samanth"/>
                     <br />
-                    <sub><b>Samanth/b></sub>
+                    <sub><b>Samanth></sub>
                 </a>
             </td>
             <td align="center">
