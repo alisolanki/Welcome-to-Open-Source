@@ -1677,7 +1677,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/62562647?v=4" width="100px;" alt="Varun Thapliyal"/>
                     <br />
                     <sub><b>Varun Thapliyal</b></sub>
-                </a
+                </a>
             </td>
         </tr>
     </tbody>
