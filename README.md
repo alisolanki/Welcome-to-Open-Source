@@ -1674,10 +1674,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/VarunThapliyal23">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Varun Thapliyal"/>
+                    <img src="https://avatars.githubusercontent.com/u/62562647?v=4" width="100px;" alt="Varun Thapliyal"/>
                     <br />
                     <sub><b>Varun Thapliyal</b></sub>
-                </a> 
+                </a
             </td>
         </tr>
     </tbody>
