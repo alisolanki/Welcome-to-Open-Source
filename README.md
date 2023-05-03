@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/fhdsubscribe">
+                    <img src="https://avatars.githubusercontent.com/u/131978310?s=40&v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>fhdsubscribe</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
