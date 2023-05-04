@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/collinskasyoki">
+                    <img src="https://avatars.githubusercontent.com/u/40399921?v=4" width="100px;" alt="Collins Kasyoki"/>
+                    <br />
+                    <sub><b>Collins Kasyoki</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
