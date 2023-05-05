@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Atharv0003">
+                    <img src="https://avatars.githubusercontent.com/u/110466931?v=4" width="100px;" alt="Atharv Chavan"/>
+                    <br />
+                    <sub><b>Atharv Chavan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
