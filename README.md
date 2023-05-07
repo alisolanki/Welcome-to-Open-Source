@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/fakharvsf">
+                    <img src="https://avatars.githubusercontent.com/u/61045454?v=4" width="100px;" alt="Syed Fakhar Abbas"/>
+                    <br />
+                    <sub><b>Syed Fakhar Abbas</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
