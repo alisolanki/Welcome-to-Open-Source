@@ -1702,6 +1702,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+             </td>
+             <td align="center">
+                <a href="https://github.com/git-sairam-allakattu">
+                    <img src="https://avatars.githubusercontent.com/u/131294619?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Sairam Allakattu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
