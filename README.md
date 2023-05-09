@@ -545,6 +545,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sourav Dubey</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/astha621">
+                    <img src="https://avatars.githubusercontent.com/u/123964245?s=120&v=4" width="100px;" alt="Astha"/>
+                    <br />
+                    <sub><b>Astha</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/ShuvenduSamanta">
                     <img src="https://avatars.githubusercontent.com/u/69745389?v=4" width="100px;" alt="Shuvendu Samanta"/>
