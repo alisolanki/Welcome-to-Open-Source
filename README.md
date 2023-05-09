@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/harshita-2003">
-                    <img src="https://github.com/account" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://github.com/account" width="100px;" alt="Harshita Gupta"/>
                     <br />
                     <sub><b>Harshita Gupta</b></sub>
                 </a> 
