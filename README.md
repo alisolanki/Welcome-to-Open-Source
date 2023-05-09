@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harshita-2003">
+                    <img src="https://github.com/account" width="100px;" alt="Harshita Gupta"/>
+                    <br />
+                    <sub><b>Harshita Gupta</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
