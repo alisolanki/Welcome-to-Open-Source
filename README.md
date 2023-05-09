@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="hthttps://github.com/shankar-k1">
+                    <img src="https://avatars.githubusercontent.com/u/52984555?v=4" width="100px;" alt="Shankara Narayanan K"/>
+                    <br />
+                    <sub><b>Shankara Narayanan K</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
