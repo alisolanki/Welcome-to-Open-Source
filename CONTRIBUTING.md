@@ -16,22 +16,21 @@
 
 7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
-    ```
     <td align="center">
         <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <img src="https://avatars.githubusercontent.com/u/20186596?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Mohammed Berir</b></sub>
         </a>
     </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+            <img src="https://avatars.githubusercontent.com/u/20186596?v=4"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Mohammed Berir
         </a>
     </td>
-    ```
+    
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
