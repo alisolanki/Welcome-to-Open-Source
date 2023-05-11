@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://earnest-rugelach-4cc81c.netlify.app/">
                     <img src="https://cdn4.iconfinder.com/data/icons/women-avatars-icons-set-1/300/7-512.png" width="100px;" alt="Kadambari Purohit"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Kadambari Purohit</b></sub>
                 </a> 
             </td>
             <td align="center">
