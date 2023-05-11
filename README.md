@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/jyzib">
+                    <img src="https://avatars.githubusercontent.com/u/121748774?s=400&u=a7b7a0039f3c91af79d5321ff085c2891d49d399&v=4" width="100px;" alt="Jazib zaidi"/>
+                    <br />
+                    <sub><b>Jazib zaidi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
