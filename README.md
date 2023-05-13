@@ -1,16 +1,16 @@
 # Welcome to Open Source Contributions 🍉
-
+<!--
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
-
+<!--
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
-</p>
+</p> -->
 
 <p>List of actively participating individulas in open source contributions</p>
 
@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+              <td align="center">
+                <a href="https://github.com/SanjeevStephan">
+                    <img src="https://avatars.githubusercontent.com/u/37835927?v=4" width="100px;" alt="Sanjeev Stephan"/>
+                    <br />
+                    <sub><b>Sanjeev Stephan</b></sub>
+                </a>
+           </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
