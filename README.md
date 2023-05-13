@@ -228,6 +228,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://github.com/aniket22n">
+                    <img src="https://avatars.githubusercontent.com/u/69907734?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Aniket Patil</b></sub>
+                </a> 
+            </td>
+             <td align="center">
                  <a href="https://linktr.ee/_madhubalan">
                     <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
                     <br />
