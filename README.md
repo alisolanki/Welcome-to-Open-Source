@@ -1703,7 +1703,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/sahil110802">
+                <a href="https://github.com/sahil11080">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Sahil Sahu"/>
                     <br />
                     <sub><b>Sahil Sahu</b></sub>
