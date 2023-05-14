@@ -1704,7 +1704,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/ZendeAditya">
-                    <img src="https://avatars.githubusercontent.com/u/91424824?v=4" width="100px;" alt="Zende Aditya"/>
+                    <img src="https://avatars.githubusercontent.com/u/91424824?v=4" width="100px;" alt="Zende Aditya Dilip"/>
                     <br />
                     <sub><b>Zende Aditya Dilip</b></sub>
                 </a>
