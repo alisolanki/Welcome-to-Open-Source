@@ -25,12 +25,14 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+     <td align="center">
+        <a href="https://github.com/Jai0401">
+            <img src="https://avatars.githubusercontent.com/u/90195370?v=4 width="100px;" alt="Jaimin Godhani"/>
             <br />
-            <sub><b>Neeraj Madake
-        </a>
+            <sub><b>Jaimin Godhani</b></sub>        
+            </a>
     </td>
+
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
