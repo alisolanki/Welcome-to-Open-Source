@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Ahmadjajja">
+                    <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+                    <br />
+                    <sub><b>Ahmad Jajja</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
