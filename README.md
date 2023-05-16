@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/aneeshd27">
+                    <img src="https://avatars.githubusercontent.com/u/98216256?s=400&u=9aba146393d3fd3f13cc9aa93d43271d4ad0390a&v=4" width="100px;" alt="Aneesh Dighe"/>
+                    <br />
+                    <sub><b>Aneesh Dighe</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
