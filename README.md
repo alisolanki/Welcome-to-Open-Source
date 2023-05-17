@@ -63,9 +63,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ootobo">
-                    <img src="https://avatars.githubusercontent.com/u/128631728?v=4" width="100px;" alt="Oheri Otobo"/>
+                    <img src="https://avatars.githubusercontent.com/u/128631728?v=4" width="100px;" alt="Oheri U. Otobo"/>
                     <br />
-                    <sub><b>Oheri Otobo</b></sub>
+                    <sub><b>Oheri U. Otobo</b></sub>
                 </a>
             </td>
             <td align="center">
