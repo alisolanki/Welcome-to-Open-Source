@@ -1702,6 +1702,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/christopherloi">
+                    <img src="https://avatars.githubusercontent.com/u/91382272?v=4"
+                    width="100px;" alt="Christopher Loi"/>
+                    <br />
+                    <sub><b>Christopher Loi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
