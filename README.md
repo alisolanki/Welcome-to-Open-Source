@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShivamDubey20">
+                    <img src="https://avatars.githubusercontent.com/u/109363873?s=400&u=10ad9afe5393331d555b7449fb3969815f9d6c11&v=4" width="100px;" alt="Shivam Dubey"/>
+                    <br />
+                    <sub><b>Shivam Dubey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
