@@ -1704,7 +1704,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
               <td align="center">
                 <a href="https://github.com/Mayanksaini1234">
-                    <img src="https://avatars.githubusercontent.com/u/121508565?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/121508565?v=4" width="100px;" alt="mayank saini "/>
                     <br />
                     <sub><b>Mayank saini</b></sub>
                 </a> 
