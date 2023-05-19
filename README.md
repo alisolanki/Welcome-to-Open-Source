@@ -1700,6 +1700,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
                     <sub><b>Vishnu Kumar Singh</b></sub>
+           <td align="center">
+                <a href="https://github.com/tanmaydot">
+                    <img src="![image](https://github.com/tanmaydot/Welcome-to-Open-Source/assets/73188034/f13495aa-7f61-4185-a13f-0085525ee09e)" width="100px;" alt="Tanmay Sharma"/>
+                    <br />
+                    <sub><b>Tanmay Sharma</b></sub>
                 </a>
             </td>
         </tr>
