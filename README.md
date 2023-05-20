@@ -1681,6 +1681,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ridwanul Hasan</b></sub>
                </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/asad1729">
+                    <img src="https://avatars.githubusercontent.com/u/71508128?v=4" width="100px;" alt="Asad"/>
+                    <br />
+                    <sub><b>Asad</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/sukhendup">
                     <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;" alt="Sukhendu Patra"/>
