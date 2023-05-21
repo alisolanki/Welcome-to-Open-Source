@@ -69,10 +69,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
+                <a href="https://github.com/30saharsh">
+                    <img src="https://avatars.githubusercontent.com/u/76205567?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
-                    <sub><b>Vivek Thakur</b></sub>
+                    <sub><b>Saharsh Shrivastava</b></sub>
                 </a>
             </td>
             <td align="center">
