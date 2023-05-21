@@ -1680,5 +1680,42 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
             </td>
         </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/shiro873">
+                    <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Ridwan"/>
+                    <br />
+                    <sub><b>Ridwanul Hasan</b></sub>
+               </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sukhendup">
+                    <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;" alt="Sukhendu Patra"/>
+                    <br />
+                    <sub><b>Sukhendu Patra</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shivamchoudhary19">
+                    <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
+                    <br />
+                    <sub><b>Shivam Choudhary</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ShubhamRaut280">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
