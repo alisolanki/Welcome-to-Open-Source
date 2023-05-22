@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/avionicharshit-byte">
+                    <img src="https://avatars.githubusercontent.com/u/78672319?v=4" width="100px;" alt="Avionic Harshit"/>
+                    <br />
+                    <sub><b>Harshit Dev</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
