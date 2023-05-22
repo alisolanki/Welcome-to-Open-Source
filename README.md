@@ -1469,7 +1469,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
          <tr>
-             <td align="center">Cancel changes
+             <td align="center">
                 <a href="https://github.com/kaustubhya">
                     <img src="https://avatars.githubusercontent.com/u/74069317?v=4" width="100px;" alt="Kaustubhya Shukla"/>
                     <br />
