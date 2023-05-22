@@ -157,6 +157,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/alphacrypto246">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZsp1dpoPnWtkf94glBlwQsRH6OpW4GbMY-Fy2JxqpGPlSXyN-wy4cYqr_P8QpQzzvdg&usqp=CAU" width="100px;" alt="Arya deep"/>
+                    <br />
+                    <sub><b>Arya deep</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
                     <br />
