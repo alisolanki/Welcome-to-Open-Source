@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center"><a href="https://github.com/JunjyotiChangmai">
-                    <img src="https://avatars.githubusercontent.com/u/132818846?v=4" width="100px;" alt="Junjyoti Changmai"/>
+                    <img src="https://avatars.githubusercontent.com/u/132818846?v=4" width="100px;" alt="JUNJYOTI CHANGMAI"/>
                     <br />
                     <sub><b>Junjyoti Changmai</b></sub>
                 </a>
