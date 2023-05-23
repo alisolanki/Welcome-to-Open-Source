@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/bellatrix01">
+                    <img src="https://avatars.githubusercontent.com/u/89593115?s=400&u=55314d6f7caea7f1173991f300859b901cec819d&v=4" width="100px;" alt="Yashi Dubey"/>
+                    <br />
+                    <sub><b>Yashi Dubey</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
