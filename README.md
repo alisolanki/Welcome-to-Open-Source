@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Alamin0x01">
+                    <img src="https://avatars.githubusercontent.com/u/86530759?v=4" width="100px;" alt="MD ALAMIN A."/>
+                    <br />
+                    <sub><b>MD ALAMIN A.</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
