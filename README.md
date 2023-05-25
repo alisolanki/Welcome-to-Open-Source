@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/AjaysingRajput">
+                    <img src="https://avatars.githubusercontent.com/u/126090861?v=4" width="100px;" alt="AjaySingh Rajput"/>
+                    <br />
+                    <sub><b>AjaySingh Rajput</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -1417,7 +1424,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
-        <tr>
+        <>
             <td align="center">
                 <a href="https://github.com/arryaman08">
                     <img src="https://avatars.githubusercontent.com/u/128846661?v=4" width="100px;" alt="Arryaman Mishra"/>
@@ -1467,15 +1474,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishwajeet Singh</b></sub>
                 </a>
             </td>
-        </tr>
-             <td align="center">
-                <a href="https://github.com/AjaysingRajput">
-                    <img src="https://avatars.githubusercontent.com/u/126090861?v=4" width="100px;" alt="AjaySingh Rajput"/>
-                    <br />
-                    <sub><b>AjaySingh Rajput</b></sub>
-                </a>
-            </td>
-        </tr>
          <tr>
              <td align="center">Cancel changes
                 <a href="https://github.com/kaustubhya">
