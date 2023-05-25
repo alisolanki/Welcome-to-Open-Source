@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/devp09">
+                    <img src="https://avatars.githubusercontent.com/u/73374519?v=4" width="100px;" alt="Dev Patel"/>
+                    <br />
+                    <sub><b>Dev Patel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
