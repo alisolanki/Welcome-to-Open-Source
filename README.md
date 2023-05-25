@@ -1468,6 +1468,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+             <td align="center">
+                <a href="https://github.com/AjaysingRajput">
+                    <img src="https://avatars.githubusercontent.com/u/126090861?v=4" width="100px;" alt="AjaySingh Rajput"/>
+                    <br />
+                    <sub><b>AjaySingh Rajput</b></sub>
+                </a>
+            </td>
+        </tr>
          <tr>
              <td align="center">Cancel changes
                 <a href="https://github.com/kaustubhya">
