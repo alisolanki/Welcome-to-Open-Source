@@ -1703,10 +1703,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/mehul17programmer">
+              <a href="https://github.com/mehul17programmer">
                     <img src="https://avatars.githubusercontent.com/u/89896015?v=4" width="100px;" alt="Mehul Sathavara"/>
                     <br />
                     <sub><b>Mehul Sathavara</b></sub>
+                  </a>
+              </td>
+              <td align="center">
+                <a href="https://github.com/ShubhamRaut280">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+
                 </a>
             </td>
         </tr>
