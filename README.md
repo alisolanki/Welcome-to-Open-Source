@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://himanshudorbi.github.io/portfolio/">
+                        <img src="https://avatars.githubusercontent.com/u/105678703?v=4" width="100px;" alt="Vivek Thakur"/>
+                    <br />
+                    <sub><b>Vivek Thakur</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
