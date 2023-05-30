@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/aabsharfarid">
+                    <img src="https://media.licdn.com/dms/image/D4D35AQHORpL4hvTCXA/profile-framedphoto-shrink_200_200/0/1682538799796?e=1686052800&v=beta&t=ubaDaucvsgmdY4PZPQWfVTkcsPn-lb-CbjxIbYEcmAo" width="100px;" alt="will become better day by day"/>
+                    <br />
+                    <sub><b>Aabshar Farid</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
