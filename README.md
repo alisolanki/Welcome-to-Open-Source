@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/tripathishalini">
+                    <img src="https://avatars.githubusercontent.com/u/89288660?s=400&u=bc2931bbbaff8b314aa78016ab3f856218d20e51&v=4" width="100px;" alt="Shalini Tripathi"/>
+                    <br />
+                    <sub><b>Shalini Tripathi</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
