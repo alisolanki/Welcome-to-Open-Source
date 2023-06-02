@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ChavvaNarayana">
+                    <img src="https://avatars.githubusercontent.com/u/98675264?v=4" width="100px;" alt="Chavva Narayana Reddy"/>
+                    <br />
+                    <sub><b>Chavva Narayana Reddy</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
