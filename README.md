@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AlphaSimar">
+                    <img src="https://avatars.githubusercontent.com/u/124123643?v=4" width="100px;" alt="Simarjeet Singh"/>
+                    <br />
+                    <sub><b>Simarjeet Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
