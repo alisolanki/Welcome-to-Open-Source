@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Ujjwalsharma7">
+                    <img src="https://avatars.githubusercontent.com/u/99991149?v=4" width="100px;" alt="Ujjwal Sharma"/>
+                    <br />
+                    <sub><b>Ujjwal Sharma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
