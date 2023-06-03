@@ -1696,6 +1696,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+                <a href="https://github.com/ABveekshith">
+                    <img src="https://avatars.githubusercontent.com/abveekshith" width="100px;" alt="A B Veekshith"/>
+                    <br />
+                    <sub><b>A B Veekshith</b></sub>
+             <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
