@@ -137,6 +137,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/kaushal016">
+                    <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
+                    <br />
+                    <sub><b>Kaushal Lohar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.ashirwadshetye.com">
                     <img src="https://avatars.githubusercontent.com/u/99337222?v=4" width="100px;" alt="Ashirwad Shetye"/>
                     <br />
