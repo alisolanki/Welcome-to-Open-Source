@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/raodevendrasingh">
+                    <img src="https://avatars.githubusercontent.com/u/72064607?s=400&u=e9090f55b30782d98ffa2ea77678a079e8e010c7&v=4" width="100px;" alt="Devendra Singh Rao"/>
+                    <br />
+                    <sub><b>Devendra Singh Rao</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
