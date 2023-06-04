@@ -22,6 +22,9 @@
     <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
+     <a href="https://www.twitter.com/alisolankii">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
+    </a>
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
@@ -59,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tusharverma200">
+                    <img src="https://avatars.githubusercontent.com/u/105276375?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Tushar Verma</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -117,6 +127,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
                     <br />
                     <sub><b>Akshay Kamath</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kaushal016">
+                    <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
+                    <br />
+                    <sub><b>Kaushal Lohar</b></sub>
                 </a>
             </td>
             <td align="center">
