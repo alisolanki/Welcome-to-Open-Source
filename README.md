@@ -1710,7 +1710,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="kallurinaveen.co.in">
+                <a href="https://github.com/kalluri02002">
                     <img src="https://media.licdn.com/dms/image/D5635AQHWUjhTy0vJag/profile-framedphoto-shrink_400_400/0/1676883029804?e=1686466800&v=beta&t=AjdYbwN_w2H1sd1yVX0-MNHDn0hz-TgDDVVRbVQ5_Gg" width="100px;" alt="Kalluri Naveen"/>
                     <br />
                     <sub><b>Kalluiri Naveen</b></sub>
