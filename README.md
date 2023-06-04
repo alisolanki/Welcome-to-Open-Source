@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/Ibn-abdillah">
-                    <img src="https://avatars.githubusercontent.com/u/119359544?v=4" width="100px;" alt="Akinola Sheriff Lekan"/>
+                    <img src="https://avatars.githubusercontent.com/u/119359544?v=4" width="100px;" alt="Akinola Sheriff"/>
                     <br />
                     <sub><b>Akinola sheriff Lekan</b></sub>
                 </a> 
