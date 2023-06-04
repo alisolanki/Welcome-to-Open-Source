@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="kallurinaveen.co.in">
+                    <img src="https://media.licdn.com/dms/image/D5635AQHWUjhTy0vJag/profile-framedphoto-shrink_400_400/0/1676883029804?e=1686466800&v=beta&t=AjdYbwN_w2H1sd1yVX0-MNHDn0hz-TgDDVVRbVQ5_Gg" width="100px;" alt="Kalluri Naveen"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
