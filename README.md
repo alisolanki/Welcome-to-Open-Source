@@ -157,6 +157,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ShahDarshil23">
+                    <img src="https://avatars.githubusercontent.com/u/114604021?v=4" width="100px;" alt="Darshil Shah"/>
+                    <br />
+                    <sub><b>Darshil Shah</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
                     <br />
