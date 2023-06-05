@@ -69,10 +69,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
+                <a href="https://github.com/Abhishek6416">
+                    <img src="https://avatars.githubusercontent.com/u/92006074?s=400&u=ecb7fed8b9fde9e87c57a165c5acb8b250f53900&v=4" width="100px;" alt="Abhishekh Kumar"/>
                     <br />
-                    <sub><b>Vivek Thakur</b></sub>
+                    <sub><b>Abhishekh Kumar</b></sub>
                 </a>
             </td>
             <td align="center">
