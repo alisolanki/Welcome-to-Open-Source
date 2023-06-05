@@ -1711,9 +1711,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Grimcall">
-                    <img src="https://avatars.githubusercontent.com/u/79486314?v=4" width="100px;" alt="Grimcall"/>
+                    <img src="https://avatars.githubusercontent.com/u/79486314?v=4" width="100px;" alt="Crøss"/>
                     <br />
-                    <sub><b>Grimcall</b></sub>
+                    <sub><b>Crøss</b></sub>
                 </a>
             </td>
         </tr>
