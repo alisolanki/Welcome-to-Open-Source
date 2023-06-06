@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anujitganguly">
+                    <img src="https://avatars.githubusercontent.com/u/38079265?v=4" width="100px;" alt="Anujit Ganguly"/>
+                    <br />
+                    <sub><b>Anujit Ganguly</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
