@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/shubham-mergu/">
+                    <img src="https://avatars.githubusercontent.com/u/95517382?v=4" width="100px;" alt="Shubham Mergu"/>
+                    <br />
+                    <sub><b>Shubham Mergu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
