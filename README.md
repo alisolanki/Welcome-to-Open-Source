@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/mikhi-mh">
+                    <img src="https://avatars.githubusercontent.com/u/124127154?v=4" width="100px;" alt="Mikhilesh M Hirphode" />
+                    <br />
+                    <sub><b>mikhi-mh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
