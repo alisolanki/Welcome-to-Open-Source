@@ -184,6 +184,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/136195199?v=4" width="100px;" alt="Anjana Gowri"/>
+                    <br />
+                    <sub><b>Anjana Gowri</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/a60231023">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
                     <br />
