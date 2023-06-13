@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/ShravaniCoder">
+                    <img src="https://avatars.githubusercontent.com/u/132210516?v=4" width="100px;" alt="Shravani Chendwankar"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Shravani Chendwankar</b></sub>
                 </a> 
             </td>
             <td align="center">
