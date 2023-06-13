@@ -1708,7 +1708,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>            
+            <td align="center">
+                <a href="https://pritu2022.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/101568121?v=4" width="100px;" alt="Pritu Yadav"/>
+                    <br />
+                    <sub><b>Pritu Yadav</b></sub>
+                </a>
             </td>
+
         </tr>
     </tbody>
 </table>
