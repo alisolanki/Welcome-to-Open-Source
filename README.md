@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+        <a href="https://github.com/Osiyomeoh">
+            <img src="https://avatars.githubusercontent.com/u/92280484?v=4" width="100px;" alt="Samuel Aleonomoh"/>
+            <br />
+            <sub><b>Samuel Aleonomoh</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
