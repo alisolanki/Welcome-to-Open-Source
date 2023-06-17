@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kannandevan">
+                    <img src="https://avatars.githubusercontent.com/u/33310715?v=4" width="100px;" alt="Devanand G"/>
+                    <br />
+                    <sub><b>Devanand G</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
