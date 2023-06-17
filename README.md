@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/kannandevan">
                     <img src="https://avatars.githubusercontent.com/u/33310715?v=4" width="100px;" alt="Devanand G"/>
                     <br />
-                    <sub><b>Devanand G</b></sub>
+                    <sub><b>Devanand G(devan)</b></sub>
                 </a>
             </td>
         </tr>
