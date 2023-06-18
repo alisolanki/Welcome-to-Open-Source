@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ruchit101">
+                    <img src="https://avatars.githubusercontent.com/u/40126660?v=4" width="100px;" alt="Bourbbon"/>
+                    <br />
+                    <sub><b>Ruchit Bagade</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
