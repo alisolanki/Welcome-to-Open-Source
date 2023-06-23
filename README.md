@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NkwiCyril">
+                <img src="https://avatars.githubusercontent.com/u/115645313?v=4" width="100px;" alt="Nkwi Cyril Akinimbom"/>
+                <br />
+                <sub><b>Nkwi Cyril Akinimbom</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
