@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="http://khaledhelwane-001-site6.ctempurl.com/">
+                    <img src="https://avatars.githubusercontent.com/u/73981703?s=48&v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>khaled helwane</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
