@@ -56,9 +56,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harshit singh"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Harshit singh</b></sub>
                 </a>
             </td>
             <td align="center">
