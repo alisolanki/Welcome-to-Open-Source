@@ -32,18 +32,21 @@
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
-  
+
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
 ## Contributors 🍉
 
-Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([🤗](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
     <tbody>
         <tr>
@@ -494,7 +497,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Prasad Suman Mohan</b></sub>
                 </a>
-            </td>                                                                                                          
+            </td>                                                                                                        
             <td align="center">
                 <a href="https://github.com/zishu1">
                     <img src="https://avatars.githubusercontent.com/u/87239056?s=400&u=ef0d450c92b0dd3eb1ba41ab55bddf827328ea23&v=4" width="100px;" alt="UmIamBda Doe" />
@@ -516,7 +519,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Kishan Kumar</b></sub>
                 </a>
-            </td>                                                                                                    
+            </td>                                                                                                  
             <td align="center">
                 <a href="https://github.com/Ronak-Ronu">
                     <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
@@ -623,7 +626,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AlaSaiHarsha">
                     <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Sai Harsha Ala"/>
                     <br />
-                    <sub><b>Sai Harsha Ala</b></sub>    
+                    <sub><b>Sai Harsha Ala</b></sub>  
                 </a>
             </td>
             <td align="center">
@@ -1076,7 +1079,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pramodh Kadam</b></sub>
                 </a>
             </td>
-            <td align="center">         
+            <td align="center">       
                 <a href="https://jayanth5775.github.io/jayweb/#gsc.tab=0">
                     <img src="https://avatars.githubusercontent.com/u/102643623?s=40&v=4" width="100px;" alt="JAYANTH H  S"/>
                     <br />
