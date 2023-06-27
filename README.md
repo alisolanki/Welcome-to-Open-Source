@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/72097597?v=4" width="100px;" alt="Meer haasham"/>
+                    <br />
+                    <sub><b>Meer haasham</b></sub>
+                </a>
+                
+            </td>
         </tr>
     </tbody>
 </table>
