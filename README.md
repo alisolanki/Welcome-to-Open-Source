@@ -1707,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/BlitzZGaminG">
+                    <img src="https://avatars.githubusercontent.com/u/98828505?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
         </tr>
