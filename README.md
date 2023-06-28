@@ -1708,6 +1708,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>      
+            <td align="center">
+                <a href="https://github.com/gaurishpassi">
+                    <img src="https://avatars.githubusercontent.com/u/97213984?v=4" width="100px;" alt="Gaurish Passi"/>
+                    <br />
+                    <sub><b>Gaurish Passi</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
