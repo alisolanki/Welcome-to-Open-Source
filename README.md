@@ -1033,6 +1033,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Honey2339">
+                    <img src="https://avatars.githubusercontent.com/u/121949298?v=4" width="100px;" alt="Prasoon Kumar"/>
+                    <br />
+                    <sub><b>Prasoon Kumar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/codewithnikhilsharma/">
                     <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
