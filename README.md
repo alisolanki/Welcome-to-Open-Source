@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Sahil4883">
-                    <img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="100px;" alt="Shino Shaji"/>
+                    <img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="100px;" alt="Sahil Shaikh"/>
                     <br />
                     <sub><b>Shaikh Sahil</b></sub>
                 </a>
