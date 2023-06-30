@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         <td align="center">
                 <a href="https://github.com/devanshw">
-                    <img src="https://avatars.githubusercontent.com/u/114612219?v=4" width="100px;" alt="Devansh Waleacha"/>
+                    <img src="https://avatars.githubusercontent.com/u/114612219?v=4" width="100px;" alt="Devansh_Waleacha"/>
                     <br />
                     <sub><b>Devansh Waleacha</b></sub>
                 </a>
