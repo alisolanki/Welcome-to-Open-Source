@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kashan16">
+                    <img src="https://avatars.githubusercontent.com/u/106725612?s=400&u=4aad61e2eafcfde8615b8c943750a89acdf166d6&v=4" width="100px;" alt="Kashan Yunus"/>
+                    <br />
+                    <sub><b>Kashan Yunus</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
