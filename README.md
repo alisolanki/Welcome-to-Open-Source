@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/axnuzzz">
+                    <img src="https://avatars.githubusercontent.com/u/98628805?v=4" width="100px;" alt="Anuj Arora"/>
+                    <br />
+                    <sub><b>Anuj Arora</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
