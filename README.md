@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/tushartari11">
-                    <img src="https://avatars.githubusercontent.com/u/13728393?v=4" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://avatars.githubusercontent.com/u/13728393?v=4" width="100px;" alt="Tushar Tari"/>
                     <br />
                     <sub><b>Tushar Tari</b></sub>
                 </a>
