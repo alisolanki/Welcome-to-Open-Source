@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ianmusembi">
+                    <img src="https://avatars.githubusercontent.com/u/91072221?v=4" width="100px;" alt="Ian Musembi"/>
+                    <br />
+                    <sub><b>Ian Musembi 🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
