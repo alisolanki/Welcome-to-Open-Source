@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rajesh-rk-1202">
+                    <img src="https://avatars.githubusercontent.com/u/55460959?v=4" width="100px;" alt="Rajesh Kumar Jena"/>
+                    <br />
+                    <sub><b>Rajesh Kumar Jena</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
