@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/itsAdee">
+                    <img src="https://avatars.githubusercontent.com/u/104891437?s=400&v=4" width="100px;" alt="Adeel Ahmed Qureshi"/>
+                    <br />
+                    <sub><b>Adeel Ahmed Qureshi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
