@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/moosasharieff">
+                    <img src="https://avatars.githubusercontent.com/u/50228088?v=4" width="100px;" alt="Mohammed Moosa Sharieff"/>
+                    <br />
+                    <sub><b>Mohammed Moosa Sharieff</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
