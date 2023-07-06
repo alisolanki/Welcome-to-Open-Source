@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Ultred">
                     <img src="https://avatars.githubusercontent.com/u/95512299?v=4" width="100px;" alt="Vincent Vinuya"/>
                     <br />
-                    <sub><b>Vincent Vinuya</b></sub>
+                    <sub><b>Vince Vinuya</b></sub>
                 </a>
             </td>
         </tr>
