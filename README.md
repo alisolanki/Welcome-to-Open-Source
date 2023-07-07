@@ -1712,3 +1712,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+<td align="center">
+                <a href="https://github.com/GeekAvi007">
+                    <img src="https://avatars.githubusercontent.com/u/130129570?v=4" width="100px;" alt="Avishek Mukherjee"/>
+                    <br />
+                    <sub><b>Avishek Mukherjee</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
