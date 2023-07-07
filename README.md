@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/e-abuzaid">
+                    <img src="https://avatars.githubusercontent.com/u/33122334?v=4" width="100px;" alt="Eyad Abu-Zaid"/>
+                    <br />
+                    <sub><b>Eyad Abu-Zaid</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
