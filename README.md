@@ -641,6 +641,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/KreativKrish/">
+                    <img src="https://avatars.githubusercontent.com/u/126748787?v=4" width="100px;" alt="Krishna Dixit"/>
+                    <br />
+                    <sub><b>Krishna Dixit</b></sub>
+                </a>
+            </td>
+            <td align="center">
                <a href="https://github.com/AnkitPatil-22">
                    <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
                    <br />
