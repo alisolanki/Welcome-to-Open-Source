@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Venkateeshh">
+                    <img src="https://avatars.githubusercontent.com/u/117290841?v=4" width="100px;" alt="Venkateeshh"/>
+                    <br />
+                    <sub><b>Venkatesh R Kamath</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
