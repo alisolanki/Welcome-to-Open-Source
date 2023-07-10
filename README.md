@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/SACHITG1358">
-                    <img src="https://github.com/" width="100px;" alt="GEDELA SACHIT"/>
+                    <img src="https://github.com/" width="90px;" alt="GEDELA SACHIT"/>
                     <br />
                     <sub><b>GEDELA SACHIT</b></sub>
                 </a> 
