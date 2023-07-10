@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/knightcodeman">
+                    <img src="https://avatars.githubusercontent.com/u/136008661?v=4" width="100px;" alt="Harsh"/>
+                    <br />
+                    <sub><b>Harsh </b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
