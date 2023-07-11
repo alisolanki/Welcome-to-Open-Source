@@ -1712,3 +1712,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+</td>
+            <td align="center">
+                <a href="https://github.com/belikesaif">
+                    <img src="https://avatars.githubusercontent.com/u/75307388?v=4" width="100px;" alt="Saif Ur Rehman"/>
+                    <br />
+                    <sub><b>Saif Ur Rehman</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
