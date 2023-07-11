@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-        </tr>
+            <td align="center">
+                <a href="https://github.com/BhanuTeja100">
+                    <img src="https://avatars.githubusercontent.com/u/88223893?v=4" width="100px;" alt="Bhanu Teja"/>
+                    <br />
+                    <sub><b>Bhanu Teja</b></sub>
+                </a>
+            </td>
+        </tr> 
     </tbody>
 </table>
