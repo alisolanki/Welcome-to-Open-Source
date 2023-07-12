@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mkamran093">
+                    <img src="https://avatars.githubusercontent.com/u/95133644?v=4" width="100px;" alt="Muhammad Kamran"/>
+                    <br />
+                    <sub><b>Muhammad Kamran</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
