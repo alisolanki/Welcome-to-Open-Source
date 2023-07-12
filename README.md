@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/Latishfaction">
+                    <img src="https://avatars.githubusercontent.com/u/59159795?v=4" width="100px;" alt="Latish Chambhare"/>
+                    <br />
+                    <sub><b>Latish Chambhare</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
