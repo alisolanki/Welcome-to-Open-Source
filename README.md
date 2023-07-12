@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Davidokih">
-                    <img src="https://res.cloudinary.com/dmrqqaapc/image/upload/v1689186529/msg-1608664316-658_bwj3au.jpg" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://res.cloudinary.com/dmrqqaapc/image/upload/v1689187430/msg-1608664316-658_ffl6dv.jpg" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>David Okih</b></sub>
                 </a>
