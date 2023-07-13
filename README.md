@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/HemantKarekar">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Hemant Karekar"/>
+                    <img src="https://avatars.githubusercontent.com/u/63121855?v=4" width="100px;" alt="Hemant Karekar"/>
                     <br />
                     <sub><b>Hemant Karekar</b></sub>
                 </a>
