@@ -123,7 +123,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Alex1-ai">
                     <img src="https://avatars.githubusercontent.com/u/78540958?v=4" width="100px;" alt="Alex1-ai"/>
                     <br />
-                    <sub><b>Onedibe Emmanuel</b></sub>
+                    <sub><b>Onedibe Emma</b></sub>
                 </a>
             </td>
             <td align="center">
