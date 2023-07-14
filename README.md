@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JUANSOLTEROBARRERA">
+                    <img src="https://avatars.githubusercontent.com/u/72166031?v=4" width="100px;" alt="Juan Soltero"/>
+                    <br />
+                    <sub><b>Juan Soltero</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
