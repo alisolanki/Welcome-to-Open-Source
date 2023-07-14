@@ -1709,6 +1709,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/samieteq">
+                    <img src="https://avatars.githubusercontent.com/u/85092681?s=400&u=922f4b5d484463cadb89a47d382e19fc4f232943&v=4" width="100px;" alt="Samie Azubike"/>
+                    <br />
+                    <sub><b>Samie Azubike</b></sub>
+                </a>
+            </td>
+
         </tr>
+
     </tbody>
 </table>
