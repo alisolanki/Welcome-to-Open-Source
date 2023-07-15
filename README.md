@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Raksbhat">
                     <img src="https://avatars.githubusercontent.com/u/95375478?v=4" width="100px;" alt="Rakshit Bhat"/>
                     <br />
-                    <sub><b>Rakshit Bhat</b></sub>
+                    <sub><b>Rakshit Bhat 🍉</b></sub>
                 </a>
             </td>
             <td align="center">
