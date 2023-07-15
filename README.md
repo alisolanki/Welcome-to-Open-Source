@@ -1710,5 +1710,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <td align="center">
+            <a href="https://github.com/shettyvarshaa">
+            <img src="https://avatars.githubusercontent.com/u/112955692?v=4" width="100px;" alt="Varshaa Shetty"/>
+            <br />
+            <sub><b>Varshaa Shetty</b></sub>
+            </a>
+        </td>
     </tbody>
 </table>
