@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/chrisgibbo">
+                    <img src="https://avatars.githubusercontent.com/u/125750905?v=4" width="100px;" alt="Chris Gibbons"/>
+                    <br />
+                    <sub><b>Chris Gibbons</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
