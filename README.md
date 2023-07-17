@@ -1695,6 +1695,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shivam Choudhary</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/CodeWithJain">
+                    <img src="https://avatars.githubusercontent.com/u/117521056?v=4" width="100px;" alt="Chintan Jain"/>
+                    <br />
+                    <sub><b>Chintan Jain</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
