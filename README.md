@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vsaurab">
+                    <img src="https://avatars.githubusercontent.com/u/65462245?s=400&u=29abf24c79765b1aa997c8ddf83b8fcafebf4587&v=4" width="100px;" alt="VSaurabh Mishra"/>
+                    <br />
+                    <sub><b>VSaurabh Mishra 🍉</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
