@@ -1695,7 +1695,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shivam Choudhary</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
@@ -1708,6 +1708,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sham-106">
+                    <img src="https://avatars.githubusercontent.com/u/139707551?v=4" width="100px;" alt="sham-106"/>
+                    <br />
+                    <sub><b>Shambhavi Singh</b></sub>
+               </a>
             </td>
         </tr>
     </tbody>
