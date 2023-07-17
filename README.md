@@ -221,6 +221,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href= "https://github.com/HlobisileLukhele">
+                    <img src="https://avatars.githubusercontent.com/u/111096303?v=4" width="100px;" alt="Hlobisile Lukhele"/>
+                    <br />
+                    <sub><b>Hlobisile Lukhele</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Rahul-lalwani-learner">
                     <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
                     <br />
