@@ -518,6 +518,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>                                                                                                    
             <td align="center">
+                <a href=https://github.com/divyanshimanral">
+                    <img src="https://avatars.githubusercontent.com/u/113777041?v=4" width="100px;" alt="Divyanshi Manral"/>
+                    <br />
+                    <sub><b>Divyanshi Manral</b></sub>
+                </a>
+            </td>                                                                                                    
+            <td align="center">
                 <a href="https://github.com/Ronak-Ronu">
                     <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
                     <br />
