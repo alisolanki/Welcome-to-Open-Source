@@ -1696,10 +1696,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/MuzammilIr">
-                    <img src="https://avatars.githubusercontent.com/u/122289297?v=4" width="100px;" alt="Muzammil Irshad"/>
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
-                    <sub><b>Muzammil Irshad</b></sub>
+                    <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1707,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MuzammilIr">
+                    <img src="https://avatars.githubusercontent.com/u/122289297?v=4" width="100px;" alt="Muzammil Irshad"/>
+                    <br />
+                    <sub><b>Muzammil Irshad</b></sub>
                 </a>
             </td>
         </tr>
