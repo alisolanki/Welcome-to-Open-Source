@@ -1696,10 +1696,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/devil1329">
-                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                <a href="https://github.com/MuzammilIr">
+                    <img src="https://avatars.githubusercontent.com/u/122289297?v=4" width="100px;" alt="Muzammil Irshad"/>
                     <br />
-                    <sub><b>Vishnu Kumar Singh</b></sub>
+                    <sub><b>Muzammil Irshad</b></sub>
                 </a>
             </td>
             <td align="center">
