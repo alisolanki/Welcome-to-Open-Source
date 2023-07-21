@@ -53,7 +53,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
+            </td><td align="center">
+                <a href="https://github.com/nitinsingla858">
+                    <img src="https://avatars.githubusercontent.com/u/124162137?s=400&u=0e16f6e0154f90dc166d5493cd945f0fa1e9ead5&v=4" width="100px;" alt="Nitin Singla"/>
+                    <br />
+                    <sub><b>Nitin Singla</b></sub>
+                </a> 
             </td>
+
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
