@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MuzammilIr">
+                    <img src="https://avatars.githubusercontent.com/u/122289297?v=4" width="100px;" alt="Muzammil Irshad"/>
+                    <br />
+                    <sub><b>Muzammil Irshad</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
