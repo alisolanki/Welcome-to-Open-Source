@@ -121,9 +121,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/kaushal016">
-                    <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
+                    <img src="https://avatars.githubusercontent.com/u/89764448?s=48&v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
                     <sub><b>Kaushal Lohar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/swarajkumarsingh">
+                    <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="swarajkumarsingh"/>
+                    <br />
+                    <sub><b>Swaraj Kumar Singh</b></sub>
                 </a>
             </td>
             <td align="center">
