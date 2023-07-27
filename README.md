@@ -191,6 +191,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/vijaymehrotra">
+                    <img src="https://avatars.githubusercontent.com/u/115913159?v=4" width="100px;" alt="Ayush Tiwari"/>
+                    <br />
+                    <sub><b>Vijay Mehrotra</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AnshumanAtrey">
                     <img src="https://avatars.githubusercontent.com/u/92643581?v=4" width="100px;" alt="Anshuman Atrey"/>
                     <br />
