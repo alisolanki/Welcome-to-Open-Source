@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/SomyaAgr">
+                    <img src="https://avatars.githubusercontent.com/u/91428207?v=4" width="100px;" alt="Somya Agrawal"/>
+                    <br />
+                    <sub><b>Somya Agrawal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
