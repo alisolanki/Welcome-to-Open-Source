@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/sagargoyal-bit">
+                    <img src="https://avatars.githubusercontent.com/u/54657695?v=4" width="100px;" alt="Sagar Goyal"/>
+                    <br />
+                    <sub><b>Sagar Goyal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
