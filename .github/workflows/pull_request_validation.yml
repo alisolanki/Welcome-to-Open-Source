@@ -7,27 +7,39 @@ on:
       - synchronize
 
 jobs:
-  validate-pull-request:
+  check_pull_request:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out base branch
+      - name: Check for README.md changes only
+        run: |
+          if git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -qv "README.md"; then
+            echo "Error: Pull Request contains changes other than README.md"
+            exit 1
+          fi
+
+      - name: Check if name is added at the end of the file
+        run: |
+          if ! git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -E '^[\+]{1}.*\w\s*$' | tail -n 1 | grep -q 'README.md'; then
+            echo "Error: Name is not added at the end of README.md"
+            exit 1
+          fi
+
+      - name: Check if table rows have more than 7 table data
+        run: |
+          if git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -E '^[\+]{1}.*\|[^\|]{7,}\|' | grep -q 'README.md'; then
+            echo "Error: Table row has more than 7 table data"
+            exit 1
+          fi
+
+      - name: Check for duplicate names
+        run: |
+          if git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -E '^[\+]{1}.*\w\s*$' | sort | uniq -d | grep -q 'README.md'; then
+            echo "Error: Duplicate names found in README.md"
+            exit 1
+          fi
+
+      - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.base_ref }}
 
-      - name: Check out head branch
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
-          path: head
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
-      - name: Install dependencies
-        run: pip install lxml
-
-      - name: Run validation script
-        run: python .github/workflows/validate_pr.py
+      - name: Update branch
+        run: git pull origin ${{ github.event.pull_request.base.ref }}
