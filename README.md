@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://adityaagarwal1606.wixsite.com/my-site-1">
+                    <img src="https://cdn.iconscout.com/icon/free/png-512/free-avatar-370-456322.png?f=avif&w=256" width="100px;" alt="Adi"/>
+                    <br />
+                    <sub><b>Adi</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
