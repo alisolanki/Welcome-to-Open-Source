@@ -144,7 +144,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/travizjass">
                  <img src="https://avatars.githubusercontent.com/u/84985174?v=4" width="100px;" alt="Jasmin Bheda"/>
                     <br />
-                    <sub><b>Jasmin Bheda</b></sub>
+                    <sub><b>Jasmin Rana Bheda</b></sub>
                 </a>
              </td>
              <td align="center">
