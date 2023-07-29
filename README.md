@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sivadp">
+                    <img src="https://avatars.githubusercontent.com/u/90540454?s=96&v=4" width="100px;" alt="Siva duppalapudi"/>
+                    <br />
+                    <sub><b>Siva Duppalapudi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
