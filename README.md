@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/viukpe">
-                    <img src="https://avatars.githubusercontent.com/u/72993439?v=4" width="100px;" alt="Victor Ukpe"/>
+                    <img src="https://avatars.githubusercontent.com/u/72221782?v=4" width="100px;" alt="Victor Ukpe"/>
                     <br />
                     <sub><b>Victor Ukpe</b></sub>
                 </a>
