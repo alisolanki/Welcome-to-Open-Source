@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/hemantDwivedi">
+                    <img src="https://avatars.githubusercontent.com/u/96649329?v=4" width="100px;" alt="Hemant Dwiwedi"/>
+                    <br />
+                    <sub><b>Hemant Dwiwedi</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
