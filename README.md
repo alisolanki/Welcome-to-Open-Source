@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Jn-Aditya">
+                    <img src="https://avatars.githubusercontent.com/u/136417562?v=4" width="100px;" alt="Kartik Pal"/>
+                    <br />
+                    <sub><b>Aditya Jain</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
