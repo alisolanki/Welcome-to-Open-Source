@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Jn-Aditya">
-                    <img src="https://avatars.githubusercontent.com/u/136417562?v=4" width="100px;" alt="Kartik Pal"/>
+                    <img src="https://avatars.githubusercontent.com/u/136417562?v=4" width="100px;" alt="Aditya Jain"/>
                     <br />
                     <sub><b>Aditya Jain</b></sub>
                 </a>
