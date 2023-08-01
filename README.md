@@ -387,6 +387,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/eshal26">
+                    <img src="https://avatars.githubusercontent.com/u/124394813?v=4" width="100px;" alt="Eshal"/>
+                    <br />
+                    <sub><b>Eshal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Shahil093">
                     <img src="https://avatars.githubusercontent.com/u/96812916?v=4" width="100px;"
                      alt="Md Shahil Sheikh"/>
