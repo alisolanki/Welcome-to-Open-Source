@@ -1105,6 +1105,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/futurex7">
+                    <img src="https://avatars.githubusercontent.com/u/86584888?v=4" width="100px;" alt="Niraj kumar Agarwal"/>
+                    <br />
+                    <sub><b>Niraj kumar Agarwal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/codefaiz101">
                  <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
                     <br />
