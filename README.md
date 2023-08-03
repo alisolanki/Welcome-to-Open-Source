@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/prathi736">
+                    <img src="https://avatars.githubusercontent.com/u/63576303?v=4" width="100px;" alt="Pulkit Rathi"/>
+                    <br />
+                    <sub><b>Pulkit Rathi</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
