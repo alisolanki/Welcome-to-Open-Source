@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Yatharth-0413/">
                     <img src="https://avatars.githubusercontent.com/u/125243416?v=4" width="100px;" alt="Yatharth Bhardwaj"/>
                     <br />
-                    <sub><b>Yatharth Bhardwaj</b></sub>
+                    <sub><b>Yatharth-Bhardwaj</b></sub>
                 </a> 
             </td>
         </tr>
