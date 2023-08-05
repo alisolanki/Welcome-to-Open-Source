@@ -54,6 +54,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+        <tr>
+            <td align="center">
+                <a href="my-portfolio-bhar1gitr.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/97161064?v=4" width="100px;" alt="Bharat Sharma"/>
+                    <br />
+                    <sub><b>Bharat Sharma</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
