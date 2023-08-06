@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Abhishek-Maurya2">
                     <img src="https://avatars.githubusercontent.com/u/120308980?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Abhishek kumar Maurya</b></sub>
+                    <sub><b>Abhishek Kumar Maurya</b></sub>
                 </a> 
             </td>
             <td align="center">
