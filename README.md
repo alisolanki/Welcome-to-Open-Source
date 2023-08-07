@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/ibisoris">
+                    <img src="https://avatars.githubusercontent.com/u/108595895?v=4" width="100px;" alt="Ibinabo Orifama"/>
+                    <br />
+                    <sub><b>Ibinabo Orifama</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
