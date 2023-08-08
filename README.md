@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/tusharrana786">
+                    <img src="https://avatars.githubusercontent.com/u/65812005?s=400&v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Tushar Rana</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
