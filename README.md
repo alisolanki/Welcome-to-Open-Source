@@ -1710,7 +1710,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://imdeveshshukla.github.io/cv2/">
+                <a href="https://imdeveshshukla.github.io/aboutme/">
                     <img src="https://avatars.githubusercontent.com/u/93655594?v=4" width="100px;" alt="Devesh Shukla"/>
                     <br />
                     <sub><b>Devesh Shukla</b></sub>
