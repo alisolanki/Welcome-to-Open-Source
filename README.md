@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NayrPro">
+                    <img src="https://avatars.githubusercontent.com/u/114160558?v=4" width="100px;" alt="Nayir A"/>
+                    <br />
+                    <sub><b>Nayir A</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
