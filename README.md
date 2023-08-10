@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/RakeshBB08">
-                    <img src="https://avatars.githubusercontent.com/u/79214529?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/79214529?v=4" width="100px;" alt="Rakesh BB"/>
                     <br />
                     <sub><b>Rakesh BB</b></sub>
                 </a> 
