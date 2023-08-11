@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kushmohata">
+                    <img src="https://www.youtube.com/watch?v=v2X51AVgl3o" width="100px;" 
+                    alt="kush mohata"/>
+                    <br />
+                    <sub><b>kush mohata</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
