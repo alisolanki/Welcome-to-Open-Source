@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kanishkaadhaw">
+                    <img src="https://avatars.githubusercontent.com/u/113981587?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Kanishk Aadhaw P</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
