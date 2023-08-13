@@ -49,14 +49,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Senator Dev"/>
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Senator Olorunnisola</b></sub>
+                    <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/lightz2/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Senator Dev"/>
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lightz2">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Senator Olorunnisola"/>
                     <br />
                     <sub><b>Senator Olorunnisola</b></sub>
                 </a>
