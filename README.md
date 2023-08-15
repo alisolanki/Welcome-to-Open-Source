@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Athul28">
+                    <img src="https://avatars.githubusercontent.com/u/79209367?v=4" width="100px;" alt="Athul"/>
+                    <br />
+                    <sub><b>Athul</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
