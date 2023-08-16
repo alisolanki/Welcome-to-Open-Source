@@ -48,18 +48,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Ali Solanki</b></sub>
-                </a> 
-            </td>
-            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Adityathere">
+                    <img src="https://avatars.githubusercontent.com/u/130726632?v=4" width="100px;" alt="Aditya Patil"/>
+                    <br />
+                    <sub><b>Aditya Patil</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
