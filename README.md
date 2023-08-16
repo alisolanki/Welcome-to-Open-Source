@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://shrey-portfolioss.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt=" Shrey Chaudhari"/>
+                    <br />
+                    <sub><b>Shrey Chaudhari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
