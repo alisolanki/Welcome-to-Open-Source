@@ -1707,8 +1707,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
-                </a>
+                </a>    
             </td>
+            <td align="center">
+                <a href="https://github.com/DrManishSharma">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Manish Sharma"/>
+                    <br />
+                    <sub><b>Manish Sharma</b></sub>
+                </a>
+            </td>    
         </tr>
     </tbody>
 </table>
