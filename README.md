@@ -156,6 +156,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanket Zade</b></sub>
                 </a>
             </td>
+
+
+              <td align="center">
+                <a href="https://github.com/Sheral18">
+                    <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;" alt="Sheral"/>
+                    <br />
+                    <sub><b>Sheral</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
