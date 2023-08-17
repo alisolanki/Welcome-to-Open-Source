@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+     <td align="center">
+                <a href="https://github.com/thor-harsh">
+                    <img src="https://avatars.githubusercontent.com/u/105957576?v=4" width="100px;" alt="Harsh Prakash"/>
+                    <br />
+                    <sub><b>Harsh Prakash</b></sub>
+                </a>
+            </td>
+    
         </tr>
     </tbody>
 </table>
