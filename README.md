@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ChiragAg-31">
+                    <img src="https://avatars.githubusercontent.com/u/62792191?v=4" width="100px;" alt="Chirag Agrawal"/>
+                    <br />
+                    <sub><b>Chirag Agrawal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
