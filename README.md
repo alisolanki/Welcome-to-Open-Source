@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/126987357?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
@@ -1708,6 +1708,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mahirjambhule">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" 
+                    alt="Mahir Jambhule"/>
+                    <br />
+                    <sub><b>Mahir Jambhule</b></sub>
+                </a> 
             </td>
         </tr>
     </tbody>
