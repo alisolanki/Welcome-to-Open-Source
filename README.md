@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/EvelyneUmubyeyi">
+                    <img src="https://avatars.githubusercontent.com/u/88635088?v=4" width="100px;" alt="Umubyeyi Evelyne"/>
+                    <br />
+                    <sub><b>Umubyeyi Evelyne</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
