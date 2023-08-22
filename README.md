@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/realwasifahmed/">
+                    <img src="https://avatars.githubusercontent.com/u/129633325?v=4" width="100px;" alt="Wasif Ahmed"/>
+                    <br />
+                    <sub><b>Wasif Ahmed</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
