@@ -47,6 +47,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+    
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -150,17 +152,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
-                <a href="https://github.com/zsank">
-                    <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/132022388?v=4/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
                     <br />
                     <sub><b>Sanket Zade</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Lightning1806">
-                    <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/132022388?v=4" width="100px;" alt="Lynda Oguzie"/>
                     <br />
-                    <sub><b>Vishal Aynodkar</b></sub>
+                    <sub><b>Lynda Oguzie</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1708,7 +1710,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
-            </td>
+            </td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/132022388?v=4" width="100px;" alt="Lynda Oguzie"/>
+                    <br />
+                    <sub><b>Lynda Oguzie</b></sub>
+                </a> 
         </tr>
     </tbody>
 </table>
