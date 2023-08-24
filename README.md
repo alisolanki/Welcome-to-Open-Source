@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MUHMMADSALEH">
+                    <img src="https://avatars.githubusercontent.com/u/92333349?s=400&u=b45c4d4da61dc5fb3ca9b8313f988dd72d00133e&v=4" width="100px;" alt="Muhmmad Saleh"/>
+                    <br />
+                    <sub><b>Muhmmad Saleh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
