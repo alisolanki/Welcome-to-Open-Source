@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/shobhit9957">
+                    <img src="https://pbs.twimg.com/profile_images/1658465036581638145/kk3FFqSv_400x400.jpg" width="100px;" alt="Shobhit"/>
+                    <br />
+                    <sub><b>Shobhit Kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
