@@ -61,6 +61,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+	    <td align="center">
+                <a href="https://github.com/ujjwalsri1">
+                    <img src="https://avatars.githubusercontent.com/u/119431039?v=4" width="100px;" alt="Ujjwal Srivastava"/>
+                    <br />
+                    <sub><b>Ujjwal Srivastava</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
