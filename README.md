@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/alpharosto">
+                    <img src="https://avatars.githubusercontent.com/u/121320004?v=4" width="100px;" alt="Kharat Saurav"/>
+                    <br />
+                    <sub><b>Kharat Saurav</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
