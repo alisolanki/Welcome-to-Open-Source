@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sarangvs">
+                    <img src="https://media.licdn.com/dms/image/D5603AQGQuz7IeVrCSQ/profile-displayphoto-shrink_800_800/0/1671797236125?e=1698883200&v=beta&t=a-xG7-wGlkg2UL_rUokLMtXjIvgRR984FhFLd2osNwI" width="100px;" alt="Sarang vs"/>
+                    <br />
+                    <sub><b>Sarang vs</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
