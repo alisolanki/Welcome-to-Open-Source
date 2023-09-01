@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://https://github.com/trisid12">
+                    <img src="https://avatars.githubusercontent.com/u/113237020?v=4" width="100px;" alt="Siddhant Tripathi"/>
+                    <br />
+                    <sub><b>Siddhant Tripathi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
