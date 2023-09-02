@@ -61,9 +61,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://magician-s-portfolio.netlify.app/">
-                    <img src="https://avatars.githubusercontent.com/u/85820893?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/85820893?v=4" width="100px;" alt="Parthib Banerjee"/>
                     <br />
                     <sub><b>Parthib Banerjee</b></sub>
                 </a>
