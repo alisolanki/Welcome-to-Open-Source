@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+![image](https://github.com/vamshimorlawar/Welcome-to-Open-Source/assets/30666128/50c30a38-3444-474d-9c71-7c31754b31fc)# Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
@@ -59,6 +59,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vamshikiranm">
+                    <img src="https://avatars.githubusercontent.com/u/30666128?v=4" width="100px;" alt="Vamshikiran"/>
+                    <br />
+                    <sub><b>Vamshikiran M</b></sub>
                 </a>
             </td>
             <td align="center">
