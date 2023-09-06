@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vansh98789">
+                    <img src="https://avatars.githubusercontent.com/u/121272010?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Vansh Maheshwari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
