@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://youtube.com/@Fahad_Khan_777?si=O7zGp0EuO5TyZtq3">
+                    <img src="https://avatars.githubusercontent.com/u/136563884?v=4" width="100px;" alt="Fahad khan"/>
+                    <br />
+                    <sub><b>Fahad khan</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
