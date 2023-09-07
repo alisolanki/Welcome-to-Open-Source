@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/amrahs02">
+                    <img src="https://avatars.githubusercontent.com/u/65103353?v=4" width="100px;" alt="Sandeep Kumar Sharma"/>
+                    <br />
+                    <sub><b>Sandeep Kumar Sharma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
