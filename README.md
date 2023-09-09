@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/thilaknv">
-                    <img src="https://avatars.githubusercontent.com/u/122138981?v=4" width="100px;" alt="Thilak"/>
+                    <img src="https://avatars.githubusercontent.com/u/122138981?v=4" width="100px;" alt="Thilak N V"/>
                     <br />
                     <sub><b>Thilak</b></sub>
                 </a>
