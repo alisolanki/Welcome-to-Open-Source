@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Moazzum786">
+                    <img src="https://avatars.githubusercontent.com/u/100004601?v=4" width="100px;" alt="Md Moazzum Shah Ansari"/>
+                    <br />
+                    <sub><b>Md Moazzum Shah Ansari</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
