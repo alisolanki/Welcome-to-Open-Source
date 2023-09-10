@@ -12,6 +12,8 @@
     </a>
 </p>
 
+
+
 <p>List of actively participating individulas in open source contributions</p>
 
 - Add your own details to the contributor list
@@ -1707,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+
+            <td align="center">
+                <a href="https://github.com/Ganeshganap">
+                    <img src="https://avatars.githubusercontent.com/u/137705269?v=4" width="100px;" alt="Ganesh P"/>
+                    <br />
+                    <sub><b>Ganesh</b></sub>
                 </a>
             </td>
         </tr>
