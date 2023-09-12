@@ -19,16 +19,16 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
+    <a href="https://www.twitter.com/thiery">
+        <img height="50" src="https://images.nintendolife.com/90406eccd9002/545x385.jpg"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <a href="https://linkedin.com/in/NisengweThiery">
+        <img height="50" src="https://media.licdn.com/dms/image/D5603AQGiahxR9tvtrQ/profile-displayphoto-shrink_400_400/0/1666124478945?e=1700092800&v=beta&t=4HdfuEdtafCmUeaCsVWLUe9A0eNTbDVZtaMRH1TmlbY"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
+    <a href="https://www.youtube.com/thieryn">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
-    <a href="https://www.instagram.com/alisolankii">
+    <a href="https://www.instagram.com/im.thiery">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
