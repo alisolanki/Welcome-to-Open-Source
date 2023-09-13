@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Abhinavrajsrivastav">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDnbn4wcepq3Mv83OdeG142bsP8kI1qabhlM2GZbNA-qBi2AEC2sx2JvOzYtQgnMeL6k&usqp=CAU" width="100px;" alt="Abhinav Raj Srivastava"/>
+                    <br />
+                    <sub><b>Abhinav Raj Srivastava</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
