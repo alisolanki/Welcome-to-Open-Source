@@ -1705,9 +1705,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
-                    <br />
+                    <br /> 
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Harishkamble">
+                    <img src="https://avatars.githubusercontent.com/u/121177581?v=4" width="100px;" alt="Harish Kamble"/>
+                    <br />
+                    <sub><b>Harish Kamble</b></sub>
+                </a> 
             </td>
         </tr>
     </tbody>
