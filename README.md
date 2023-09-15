@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Eagles04">
+                    <img src="https://github.com/" width="100px;" alt="Eagles04"/>
+                    <br />
+                    <sub><b>Eagles04</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
