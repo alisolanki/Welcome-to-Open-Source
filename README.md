@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/janmejaysinghh">
                     <img src="https://avatars.githubusercontent.com/u/95363621?v=4" width="100px;" alt="Janmeay Kumar Singh"/>
                     <br />
-                    <sub><b>Janmeay Kumar Singh</b></sub>
+                    <sub><b>Janmejay Kumar Singh</b></sub>
                 </a>
             </td>
             <td align="center">
