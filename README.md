@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/luisrpavanelli">
+                    <img src="https://avatars.githubusercontent.com/u/102007776?v=4" width="100px;" alt="luisrpavanelli"/>
+                    <br />
+                    <sub><b>Luis R. Pavanello</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
