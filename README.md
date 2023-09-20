@@ -546,6 +546,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shubhamcr771">
+                    <img src="https://avatars.githubusercontent.com/u/105745200?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Shubham Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShuvenduSamanta">
                     <img src="https://avatars.githubusercontent.com/u/69745389?v=4" width="100px;" alt="Shuvendu Samanta"/>
                     <br />
