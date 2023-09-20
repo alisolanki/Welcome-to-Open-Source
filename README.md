@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sreshtech">
+                    <img src="https://github.com/account" width="100px;" alt="Sreshta"/>
+                    <br />
+                    <sub><b>Sreshta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
