@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShahJugal">
+                    <img src="https://avatars.githubusercontent.com/u/23151283?v=4" width="100px;" alt="Jugal Shah"/>
+                    <br />
+                    <sub><b>Jugal Shah</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
