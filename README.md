@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+            <a href ="https://github.com/parth656">
+                <img src="https://drive.google.com/file/d/11YLe9ldkE2x0pm6rSoi5wVHzXOUZE5lO/view?usp=sharing">
+                <br />
+                <sub><b>Parth Bijpuriya</b></sub>
+            </a>
+        </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
