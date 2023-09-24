@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ankit000111">
+                     <img src="https://avatars.githubusercontent.com/u/72993439?v=4" width="100px;" alt="Ankit Shahu"/>
+                    <br />
+                    <sub><b>Ankit Shahu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
+  
