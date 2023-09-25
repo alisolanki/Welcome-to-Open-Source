@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/neevgit25">
+                    <img src="https://avatars.githubusercontent.com/u/115336952?s=400&u=cc2ebf00bd1ebfa01a665aed1c9c6bbb88fdcd8b&v=4" width="100px;" alt="Nivedita Kar"/>
+                    <br />
+                    <sub><b>Nivedita Kar</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
