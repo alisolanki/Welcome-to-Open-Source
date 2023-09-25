@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mikixit">
+                    <img src="https://avatars.githubusercontent.com/u/66966279?v=4" width="100px;" alt="Michael Torres"/>
+                    <br />
+                    <sub><b>Michael Torres</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
