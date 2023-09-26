@@ -1708,6 +1708,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/ars1256">
+                    <img src="https://avatars.githubusercontent.com/u/126646460?s=400&u=2af65f9c8f08a5e7fd4a8c5ff139e05e6b038127&v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Amber Raj Saxena</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
