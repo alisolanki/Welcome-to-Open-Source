@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MahangareRohan1203">
+                    <img src="https://avatars.githubusercontent.com/u/115474818?v=4" width="100px;"
+                    alt="Rohan Mahangare"/>
+                    <br />
+                    <sub><b>Rohan Mahangare</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
