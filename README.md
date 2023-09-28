@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/razat-thapar">
-                    <img src="https://avatars.githubusercontent.com/u/35548328?v=4" width="100px;" alt="Razat Aggarwal"/>
+                    <img src="https://avatars.githubusercontent.com/u/35548328?v=4" width="100px;" alt="Razat Aggarwal "/>
                     <br />
                     <sub><b>Razat Aggarwal</b></sub>
                 </a>
