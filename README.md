@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/imsanjayr">
+                    <img src="https://avatars.githubusercontent.com/u/129269538?s=400&u=d850bfcc8d5617ab5a493696da38c495124d403d&v=4" width="100px;" alt="Sanjay R"/>
+                    <br />
+                    <sub><b>Sanjay R</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
