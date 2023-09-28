@@ -164,6 +164,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Michalis-Mel">
+                    <img src="https://avatars.githubusercontent.com/u/71785002?s=400&u=017a4b57a1a3108c6018543b633a9a2cd17c84a0&v=4" width="100px;" alt="Michael Meliopoulos"/>
+                    <br />
+                    <sub><b>Michael Meliopoulosr</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/2003aryansingh">
                     <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;" alt="Aryan Singh"/>
                     <br />
