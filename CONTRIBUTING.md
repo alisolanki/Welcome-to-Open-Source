@@ -6,7 +6,7 @@
 
 2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
 
-3) On the next page you will see  `create fork` button, press it.
+3) On the next page you will se  `create fork` button, press it.
 
 4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
 
