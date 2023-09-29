@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Anushka200310">
+                    <img src="https://avatars.githubusercontent.com/u/115928494?v=4" width="100px;" alt="Anushka Banerjee"/>
+                    <br />
+                    <sub><b>Anushka Banerjee</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
