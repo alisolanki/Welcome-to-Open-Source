@@ -47,9 +47,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-         <td align="center">
+           <td align="center">
                 <a href="https://github.com/kavyp12">
-                    <img src="https://avatars.githubusercontent.com/u/92688681?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/92688681?v=4"" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>kavy patel</b></sub>
                 </a> 
