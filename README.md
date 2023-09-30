@@ -227,6 +227,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rahul Lalwani</b></sub>
                 </a>
              </td>
+
+             <td align="center">
+                <a href="https://github.com/soham0005">
+                    <img src="https://avatars.githubusercontent.com/u/83421425?v=4" width="100px;" alt="Soham Adhyapak"/>
+                    <br />
+                    <sub><b>Soham Adhyapak</b></sub>
+                </a>
+            </td>
+
+
+
              <td align="center">
                  <a href="https://linktr.ee/_madhubalan">
                     <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
