@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/priyankaa-2004">
+                    <img src="https://avatars.githubusercontent.com/u/127417192?v=4" width="100px;" alt="Priyanka Panigrahi"/>
+                    <br />
+                    <sub><b>Priyanka Panigrahi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
