@@ -1550,6 +1550,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/SHIVAMKUMAR51">
+                    <img src="https://avatars.githubusercontent.com/u/101336306?v=4" width="100px;" alt="Shivam Kumar"/>
+                    <br />
+                    <sub><b>Shivam Kumar</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/manozjinagal">
                     <img src="https://avatars.githubusercontent.com/u/63463176?v=4" width="100px;" alt="Praveen Potturi"/>
                     <br />
