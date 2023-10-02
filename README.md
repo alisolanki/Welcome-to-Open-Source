@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/SrishtiCode">
                     <img src="https://avatars.githubusercontent.com/u/110818209?v=4" width="100px;" alt="Srishti Rathi"/>
                     <br />
-                    <sub><b>Srishti Rathi</b></sub>
+                    <sub><b>Srishti Code</b></sub>
                 </a>
             </td>
             <td align="center">
