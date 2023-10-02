@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kaushik2201">
+                    <img src="https://avatars.githubusercontent.com/u/118542939?v=4" width="100px;" alt="Kaushik Kudchadkar"/>
+                    <br />
+                    <sub><b>Kaushik Kudchadkar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
