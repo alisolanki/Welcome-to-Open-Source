@@ -89,6 +89,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Venkatesh k</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/shreyas-sridhar">
+                    <img src="https://avatars.githubusercontent.com/u/120266980?v=4" width="100px;" alt="Shreyas Sridhar"/>
+                    <br />
+                    <sub><b>Shreyas Sridhar</b></sub>
+                </a>
+            </td>
            <td align="center">
                 <a href="https://github.com/sahil-ansari01">
                     <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Sahil Ansari"/>
