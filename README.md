@@ -323,9 +323,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
               </td>
               <td align="center">
                   <a href="https://github.com/pranavashish">
-                    <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;" alt="Pranav Ashish"/>
+                    <img src="https://avatars.githubusercontent.com/u/109359994?v=4" width="100px;" alt="Pranav Ashish"/>
                     <br />
                     <sub><b>Pranav Ashish</b></sub>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://github.com/fgrdz">
+                    <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;" alt="fgrdz"/>
+                    <br />
+                    <sub><b>fgrdz</b></sub>
                   </a>
                </td>
                <td align="center">
