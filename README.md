@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Chitresh-code">
+                    <img src="https://avatars.githubusercontent.com/u/129378666?v=4" width="100px;" alt="Chitresh Gyanani"/>
+                    <br />
+                    <sub><b>Chitresh Gyanani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
