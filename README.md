@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/POOJASHREE28/">
+                    <img src="https://th.bing.com/th/id/OIP.wlzjRHPeIgFzfrklgHu9BwHaGl?pid=ImgDet&w=182&h=162&c=7&dpr=1.3" width="100px;" alt="Anime"/>
+                    <br />
+                    <sub><b>Poojashree</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
