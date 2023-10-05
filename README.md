@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/POOJASHREE28/Welcome-to-Open-Source">
+                    <img src="https://th.bing.com/th/id/OIP.6kk6kiVl5cpEv_cSkNOCqwHaF0?w=186&h=146&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100px;" alt="Poojashree"/>
+                    <br />
+                    <sub><b>Poojashree</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
