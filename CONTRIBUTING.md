@@ -24,11 +24,18 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
-     <td align="center">
+    <td align="center">
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Neeraj Madake</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kaushik-kalesh">
+            <img src="https://avatars.githubusercontent.com/u/67593056?v=4" width="100px;" alt="Kaushik Kalesh"/>
+            <br />
+            <sub><b>Kaushik Kalesh</b></sub>
         </a>
     </td>
     ```
