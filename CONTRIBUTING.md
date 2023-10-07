@@ -18,17 +18,17 @@
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://github.com/MrViradiya">
+            <img src="https://avatars.githubusercontent.com/u/102684321?s=400&u=82e58ec857b069d97897cd8d618a9118392f1778&v=4" width="100px;" alt="kaushik viradiya"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>KAUSHIK VIRADIYA</b></sub>
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://www.linkedin.com/in/kaushik-viradiya-a01a69175/">
+            <img src="https://www.linkedin.com/in/kaushik-viradiya-a01a69175/" width="100px;" alt="KAUSHIK VIRADIYA"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>KAUSHIK VIRADIYA
         </a>
     </td>
     ```
