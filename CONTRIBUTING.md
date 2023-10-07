@@ -4,7 +4,7 @@
 
 1) You will first need git which you can download from [here](https://git-scm.com/downloads).
 
-2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
+2) Now hea [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
 
 3) On the next page you will se  `create fork` button, press it.
 
