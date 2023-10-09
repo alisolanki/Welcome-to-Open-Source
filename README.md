@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ReapredatoR">
+                    <img src="https://avatars.githubusercontent.com/u/39975119?v=4" width="100px;" alt="Malinga Rajapaksha"/>
+                    <br />
+                    <sub><b>Malinga Rajapaksha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
