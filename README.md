@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/diwyanshuprasad19">
+                    <img src="https://res.cloudinary.com/dzmyfembe/image/upload/v1694772471/nsounkdqlnrtfqvsxgug.png" width="100px;" alt="Diwyanshu Prasad"/>
+                    <br />
+                    <sub><b>Diwyanshu Prasad</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
