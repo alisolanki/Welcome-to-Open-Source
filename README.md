@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://github.com/suraksha0244">
+                    <img src="https://avatars.githubusercontent.com/u/102415388?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Suraksha S Salian</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -109,7 +116,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
-                    <sub><b>Anuj sharma</b></sub>
+                    <sub><b>Anuj sharma</b></sub> 
                 </a>
             </td>
             <td align="center">
