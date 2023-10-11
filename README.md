@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/callmewan">
                     <img src="https://avatars.githubusercontent.com/u/98160144?v=4" width="100px;" alt="callmewan"/>
                     <br />
-                    <sub><b>callmewan</b></sub>
+                    <sub><b>Muhammad Syazwan</b></sub>
                 </a>
             </td>
         </tr>
