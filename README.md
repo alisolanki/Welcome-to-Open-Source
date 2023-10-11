@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sahil-Mandal15">
+                    <img src="https://avatars.githubusercontent.com/u/140172055?v=4" width="100px;" alt="Sahil Mandal"/>
+                    <br />
+                    <sub><b>Sahil Mandal</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
