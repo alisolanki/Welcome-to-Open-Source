@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/suraksha0244">
                     <img src="https://avatars.githubusercontent.com/u/102415388?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Suraksha S Salian</b></sub>
+                    <sub><b>Suraksha S Salian </b></sub>
                 </a> 
             </td>
             <td align="center">
