@@ -750,6 +750,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shubham13k">
+                    <img src="https://avatars.githubusercontent.com/u/98383688?s=400&v=4" width="100px;" alt="Shubham Kumar"/>
+                    <br />
+                    <sub><b>Shubham Kumar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/saffi-786">
                     <img src="https://avatars.githubusercontent.com/u/109434827?v=4" width="100px;" alt="Sk Saffi Ulla"/>
                     <br />
