@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/callmeweirdo">
+                    <img src="https://avatars.githubusercontent.com/u/54372821?v=4" width="100px;" alt="David Joseph"/>
+                    <br />
+                    <sub><b>David Joseph</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
