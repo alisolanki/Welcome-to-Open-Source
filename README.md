@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ebe25/">
-                    <img src="https://avatars.githubusercontent.com/u/35373105?s=400&u=a592cda02d11075c4d39bafad75804ab2c0f2a06&v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/35373105?s=400&u=a592cda02d11075c4d39bafad75804ab2c0f2a06&v=4" width="100px;" alt="Vedansh Bisht"/>
                     <br />
                     <sub><b>Vedansh Bisht</b></sub>
                 </a> 
