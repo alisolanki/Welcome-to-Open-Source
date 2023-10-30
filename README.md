@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://hamza-habib.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/47266546?v=4" width="100px;" alt="Hamza Habib Basra"/>
+                    <br />
+                    <sub><b>Hamza Habib Basra</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
