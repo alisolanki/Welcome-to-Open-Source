@@ -56,12 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
 
 
-<<<<<<< HEAD
 
-             <td align="center">
-                <a href="https://github.com/Ajay-016">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ajay Bakoliya"/>
-=======
             <td align="center">
                 <a href="https"//github.com/Ajay-016">
                     <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Ajay Bakoliya"/>
