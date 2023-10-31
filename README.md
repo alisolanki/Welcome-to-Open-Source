@@ -56,10 +56,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
 
 
+<<<<<<< HEAD
 
              <td align="center">
                 <a href="https://github.com/Ajay-016">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ajay Bakoliya"/>
+=======
+            <td align="center">
+                <a href="https"//github.com/Ajay-016">
+                    <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Ajay Bakoliya"/>
+>>>>>>> 05e12ea8b829436a76287068eaf19576b21cdf22
                     <br />
                     <sub><b>Ajay Bakoliya</b></sub>
                 </a> 
@@ -67,7 +73,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 05e12ea8b829436a76287068eaf19576b21cdf22
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
