@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/CharanTejaMangali">
-                    <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Charan Teja"/>
+                    <img src="https://avatars.githubusercontent.com/u/122254443?…00&u=9fd5e8031ee82e8908e0d311e207b4cfbc85e6d3&v=4" width="100px;" alt="Charan Teja"/>
                     <br />
                     <sub><b>Charan Teja</b></sub>
                 </a>
