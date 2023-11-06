@@ -242,6 +242,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sampoornap">
+                    <img src="https://avatars.githubusercontent.com/u/74110171?v=4" width="100px;" alt="Sam"/>
+                    <br />
+                    <sub><b>Sam</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/prayash24">
                     <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="Prayansh"/>
                     <br />
