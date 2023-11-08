@@ -351,7 +351,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              </td>
             <td align="center">
                 <a href="https://github.com/anushabukke">
-                    <img src="" width="100px;" alt="Anusha"/>
+                    <img src="https://avatars.githubusercontent.com/u/98937098?v=4" width="100px;" alt="Anusha"/>
                     <br />
                     <sub><b>Anusha Bukke</b></sub>
                  </a>
