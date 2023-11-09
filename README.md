@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Aum-Patel1234">
                     <img src="https://avatars.githubusercontent.com/u/150163017?v=4" width="100px;" alt="Aum Patel"/>
                     <br />
-                    <sub><b>Aum Patel</b></sub>
+                    <sub><b>Aum Jayraj Patel</b></sub>
                 </a>
             </td>
         </tr>
