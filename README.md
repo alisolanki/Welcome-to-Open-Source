@@ -620,6 +620,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com">
+                    <img src="https://avatars.githubusercontent.com/u/150649012?v=4" width="100px;" alt="Vaibhav Kumar"/>
+                    <br />
+                    <sub><b>Vaibhav Kumar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AlaSaiHarsha">
                     <img src="https://avatars.githubusercontent.com/u/108226790?v=4" width="100px;" alt="Sai Harsha Ala"/>
                     <br />
