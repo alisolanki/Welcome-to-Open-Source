@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/deveshbedmutha1406">    
+                    <img src="https://avatars.githubusercontent.com/u/87086193?v=4" width="100px;" alt="Devesh Bedmutha"/>
+                    <br />
+                    <sub><b>Devesh Bedmutha</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
