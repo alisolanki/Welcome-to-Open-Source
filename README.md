@@ -32,21 +32,6 @@
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
-
-<p align="center">
-    <a href="https://www.twitter.com/saidmahi">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
-    </a>
-    <a href="https://linkedin.com/in/muhammad_mahi_said">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-    </a>
-    <a href="https://studio.youtube.com/channel/UCGiQkF6YGvNP6r2OiONmDNA/editing/images">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
-    <a href="https://www.instagram.com/mahi_said">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-    </a>
-</p>
   
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
@@ -1249,6 +1234,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/90651968?v=4" width="100px;" alt="Shoaib"/>
                     <br />
                     <sub><b>Abhinav Upadhyay</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/muhdmaahee2000/">
+                    <img src="https://avatars.githubusercontent.com/u/111685495?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Mahi Sa'id</b></sub>
                 </a>
             </td>
             <td align="center">
