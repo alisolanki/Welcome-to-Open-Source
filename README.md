@@ -99,13 +99,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr> 
         <tr>
             <td align="center">
-                <a href="https://github.com/t4fita">
-                    <img src="https://avatars.githubusercontent.com/u/132291982?v=4" width="100px;" alt="Shino Shaji"/>
-                    <br />
-                    <sub><b>Tafita</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Shino-Shaji">
                     <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
@@ -1714,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/t4fita">
+                    <img src="https://avatars.githubusercontent.com/u/132291982?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Tafita</b></sub>
                 </a>
             </td>
         </tr>
