@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+        <a href="https://github.com/BhanujISNOTACODER">
+            <img src="https://avatars.githubusercontent.com/u/122614303?v=4" width="100px;" alt="Bhanuj Sharma"/>
+            <br />
+            <sub><b>Bhanuj Sharma</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
