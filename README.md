@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/account">
                     <img src="https://avatars.githubusercontent.com/u/130472842?v=4" width="100px;" alt="Sham Band"/>
                     <br />
-                    <sub><b>Sham Band</b></sub>
+                    <sub><b>Sham Baand</b></sub>
                 </a>
             </td>
             <td align="center">
