@@ -34,10 +34,10 @@ INSTRUCTIONS TO ADD A NEW `<td> </td>` TAG:
 
 8) Add one such `<td> </td>` tag inside the `README.md` file, Now save your changes and exit the editor.
 
-9) Go back to the terminal where you left inilially after step 6 and there type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
+9) Go back to the terminal where you left inilially after step 6 and there type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`. OR do it directly if using VScode using Ctrl+Shift+G then type your Name followed by 🍉 and then click on commit.
 
 10) Go to your forked repo page, click `Sync fork` to synchronise your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `Create pull request`.
 
-11) You have created a pull request, wait for a member to review and merge it :)
+11) You have created a pull request, wait for a member to review and merge it and do not forget to Add a post on LinkedIn along with the Repo's link and tagging the owner (Ali Solanki) and also add a Tweet with the Repo's link and tagging the owner (alisolankii) :)
 
 Predominantly, GitHub/Git is vital in open-source contributions, to learn more about it check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).
