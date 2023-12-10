@@ -36,7 +36,7 @@ INSTRUCTIONS TO ADD A NEW `<td> </td>` TAG:
 
 9) Go back to the terminal where you left inilially after step 6 and there type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`. OR do it directly if using VScode using Ctrl+Shift+G then type your Name followed by 🍉 and then click on commit.
 
-10) Go to your forked repo page, click `Sync fork` to synchronise your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `Create pull request`.
+10) Go to your forked repo page, click `Sync fork` to synchronise your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `Create pull request`. Set-up pull request as per on screen instructions and mention your name in Title followed by 🍉.
 
 11) You have created a pull request, wait for a member to review and merge it and do not forget to Add a post on LinkedIn along with the Repo's link and tagging the owner (Ali Solanki) and also add a Tweet with the Repo's link and tagging the owner (alisolankii) :)
 
