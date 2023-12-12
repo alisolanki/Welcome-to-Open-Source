@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Khalid-Siddiqi">
+                    <img src="https://avatars.githubusercontent.com/u/104347670?s=400&u=2ed559848be5304881321911d45a7ccea8af685f&v=4" width="100px;" alt="Khalid Khurshid Siddiqui"/>
+                    <br />
+                    <sub><b>Khalid Khurshid Siddiqui</b></sub>
+                </a>
+            </td>
+
         </tr>
     </tbody>
 </table>
