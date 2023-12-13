@@ -146,6 +146,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Naga Sai Purvaz</b></sub>
                 </a>
+             <td align="center">
+                <a href="https://x.com/garnett_coder73?s=21">
+                    <img src=https://avatars.githubusercontent.com/u/91024620?v=4 width="100px;" alt="Naga sai purvaz"/>
+                    <br />
+                    <sub><b>Lewis Garnett</b></sub>
+                </a>
             </td>
         </tr>
         <tr>
