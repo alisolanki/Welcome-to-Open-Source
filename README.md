@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/sivajisj/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Sivaji Gadidala"/>
+                    <img src="https://avatars.githubusercontent.com/u/93958018?v=4" width="100px;" alt="Sivaji Gadidala"/>
                     <br />
                     <sub><b>Sivaji Gadidala</b></sub>
                 </a>
