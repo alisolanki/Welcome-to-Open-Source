@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Omchaudhary1220">
+                    <img src="http://images.unsplash.com/photo-1556636530-6b7482d80e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8d2ViJTIwZGV2ZWxvcGVyfHwwfHx8fDE2MjA3MzY4MDE&ixlib=rb-1.2.1&q=80&w=1080" width="100px;" alt="Om chaudhary"/>
+                    <br />
+                    <sub><b>Om chaudhary</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
