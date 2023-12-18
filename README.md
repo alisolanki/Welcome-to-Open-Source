@@ -91,7 +91,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Nikhilbest">
-                    <img src="https://avatars.githubusercontent.com/u/103302893?v=4" width="100px;" alt="Nikhil Gupta"/>
+                    <img src="https://avatars.githubusercontent.com/u/103302893?v=4" width="100px;" alt="Nikhil"/>
                     <br />
                     <sub><b>doesntknkw</b></sub>
                 </a>
