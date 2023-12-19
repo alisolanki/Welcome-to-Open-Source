@@ -311,7 +311,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/mohan123re">
                     <img src="https://avatars.githubusercontent.com/u/121310535?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Mohan</b></sub>
+                    <sub><b>Mohan </b></sub>
                 </a>
              </td>
             <td align="center">
