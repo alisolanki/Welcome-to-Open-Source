@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+            <a href="https://nitesh32.github.io/nit_folio/">
+            <img src="https://avatars.githubusercontent.com/u/84772997?v=4" width="100px;" alt="Nitesh"/>
+            <br />
+            <sub><b>Nitesh Sharma</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
