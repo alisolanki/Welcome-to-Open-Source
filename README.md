@@ -28,7 +28,7 @@
     <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
-    <a href="https://www.instagram.com/alisolankii">
+    <a href="https://www.instagram.com/kuyaliami">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/LiamiDev">
+                    <img src="https://avatars.githubusercontent.com/u/110300520?v=4" width="100px;" alt="Liam Timberg"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Liam Timberg</b></sub>
                 </a> 
             </td>
             <td align="center">
