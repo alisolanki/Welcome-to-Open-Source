@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://www.google.com/search?q=hello&rlz=1C5CHFA_enIN1088&oq=hello&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhhDGLEDGMkDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDQgGEAAYkgMYgAQYigUyDQgHEAAYkgMYgAQYigUyDQgIEC4YgwEYsQMYgAQyDAgJEAAYQxiABBiKBdIBBzgzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
+                    <img src="https://camo.githubusercontent.com/8ca6b2d0f769f7d6f05a7a275bd41ce0bc98a4ff4c9a08439938a8ce1943f23c/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f76325835314156676c336f2f302e6a7067" width="100px;" alt="Aayush"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Aayush </b></sub>
                 </a> 
             </td>
             <td align="center">
