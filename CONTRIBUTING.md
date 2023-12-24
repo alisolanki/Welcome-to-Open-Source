@@ -31,6 +31,13 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/krish-italiya">
+            <img src="https://avatars.githubusercontent.com/u/117648932?v=4" width="100px;" alt="Krish Italiya"/>
+            <br />
+            <sub><b>Krish Italiya
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
