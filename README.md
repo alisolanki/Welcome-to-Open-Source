@@ -172,7 +172,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/lmutum">
-                    <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Lakshman Mutum"/>
+                    <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
                     <sub><b>Lakshman Mutum</b></sub>
                 </a>
@@ -1602,7 +1602,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/Adi0706">
-                 <img src="https://avatars.githubusercontent.com/u/98939735?v=4" width="100px;" alt="FAIZ SHAIKH"/>
+                 <img src="https://avatars.githubusercontent.com/u/98939735?v=4" width="100px;" alt="ADITYA BHATTACHARJEE"/>
                     <br />
                     <sub><b>ADITYA BHATTACHARJEE</b></sub>
                 </a>
@@ -1628,6 +1628,94 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ranjit Yadav</b></sub>
                </a>
            </td>
+        </tr>
+        <tr>
+           <td align="center">
+                <a href="https://github.com/kartikp962">
+                    <img src="https://avatars.githubusercontent.com/u/114161683?v=4" width="100px;" alt="Kartik Pal"/>
+                    <br />
+                    <sub><b>Kartik Pal</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ayushya0612">
+                    <img src="https://avatars.githubusercontent.com/u/93976369?s=400&u=e56b07e9cc932b36218896f18adf6f249a96281d&v=4" width="100px;" alt="Xiaobo Xing"/>
+                    <br />
+                    <sub><b>Ayush Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Siva9727">
+                    <img src="https://avatars.githubusercontent.com/u/95659745?v=4" width="100px;" alt="Sivasakthi M"/>
+                    <br />
+                    <sub><b>Sivasakthi M</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/iamtheSk">
+                    <img src="https://avatars.githubusercontent.com/u/116950828?v=4" width="100px;" alt="Salmankhan"/>
+                    <br />
+                    <sub><b>Salmankhan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vincenzochiovaro">
+                    <img src="https://avatars.githubusercontent.com/u/66358836?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
+                    <br />
+                    <sub><b>Vincenzo Chiovaro</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/faizvasaya">
+                    <img src="https://avatars.githubusercontent.com/u/29179470?v=4" width="100px;" alt="Faizal Vasaya"/>
+                    <br />
+                    <sub><b>Faizal Vasaya</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Avinash1271">
+                    <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Avinash 🍉</b></sub>
+               </a>
+            </td>
+        </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/shiro873">
+                    <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Ridwan"/>
+                    <br />
+                    <sub><b>Ridwanul Hasan</b></sub>
+               </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sukhendup">
+                    <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;" alt="Sukhendu Patra"/>
+                    <br />
+                    <sub><b>Sukhendu Patra</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shivamchoudhary19">
+                    <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
+                    <br />
+                    <sub><b>Shivam Choudhary</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ShubhamRaut280">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
