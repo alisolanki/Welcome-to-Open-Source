@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Alex-Thomas0828">
+                    <img src="https://avatars.githubusercontent.com/u/64977253?v=4" width="100px;" alt="Alex Thomas"/>
+                    <br />
+                    <sub><b>Alex Thomas</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
