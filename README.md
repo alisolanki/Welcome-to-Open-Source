@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/itsMrkakade">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Siddharth Kakade"/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
+                    <sub><b>Siddharth Kakade</b></sub>
                 </a>
             </td>
         </tr>
