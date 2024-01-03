@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://linktr.ee/zasyasatya">
+                    <img src="https://avatars.githubusercontent.com/u/65861106?v=4" width="100px;" alt="Zasya Satya"/>
+                    <br />
+                    <sub><b>Zasya Satya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
