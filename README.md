@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/souf11yane">
+                    <img src="https://avatars.githubusercontent.com/u/37966094?v=4" width="100px;" alt="soufiane oukattou"/>
+                    <br />
+                    <sub><b>Soufiane Oukattou</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
