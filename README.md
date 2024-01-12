@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/manojtharindu11">
+                    <img src="https://avatars.githubusercontent.com/u/114139836?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Tharindu Manoj Thilakarathna</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
