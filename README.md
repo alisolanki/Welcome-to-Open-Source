@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/manojtharindu11">
-                    <img src="https://avatars.githubusercontent.com/u/114139836?v=4" width="100px;" alt="Tharindu manojg"/>
+                    <img src="https://avatars.githubusercontent.com/u/114139836?v=4" width="100px;" alt="Tharindu manojgit"/>
                     <br />
                     <sub><b>Tharindu Manoj Thilakarathna</b></sub>
                 </a>
