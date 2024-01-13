@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/yigitcelik">
-                    <img src="https://avatars.githubusercontent.com/u/74431775?v=4" width="100px;" alt="Yigit Celik"/>
+                    <img src="https://avatars.githubusercontent.com/u/74431775?v=4" width="100px;" alt="yigit celik"/>
                     <br />
                     <sub><b>Yigit Celik</b></sub>
                 </a>
