@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/st4r-w4rs">
+                    <img src="https://avatars.githubusercontent.com/u/123484746?v=4" width="100px;" alt="Vajda Örs"/>
+                    <br />
+                    <sub><b>Vajda Örs</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
