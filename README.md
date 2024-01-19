@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/k-i-a-g-l">
+                    <img src="https://avatars.githubusercontent.com/u/155809711?v=4" width="100px;" alt="kia"/>
+                    <br />
+                    <sub><b>kia</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
