@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TanyaYadav8266">
+                    <img src="https://avatars.githubusercontent.com/u/128296728?v=4" width="100px;" alt="Tanya Yadav"/>
+                    <br />
+                    <sub><b>Tanya Yadav</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
