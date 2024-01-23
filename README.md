@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/suraj-soni-04">
+                    <img src="https://avatars.githubusercontent.com/u/154866411?v=4" width="100px;" alt="Suraj Soni"/>
+                    <br/>
+                    <sub><b>Suraj Soni</b></sub>
+                </a>
+            </td> 
         </tr>
     </tbody>
 </table>
