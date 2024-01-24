@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/jaydeep8806">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg" width="100px;" alt="Jaydeep Baldaniya"/>
+                    <br />
+                    <sub><b>Jaydeep Baldaniya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
