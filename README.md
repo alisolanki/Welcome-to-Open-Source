@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sensie2102">
+                    <img src="https://avatars.githubusercontent.com/u/111646216?v=4" width="100px;" alt="Mafaaz Sabir"/>
+                    <br />
+                    <sub><b>Mafaaz Sabir</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
