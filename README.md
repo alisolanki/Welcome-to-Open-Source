@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/zhangdout">
+                    <img src="https://avatars.githubusercontent.com/u/139045043?v=4" width="100px;" alt="Yichi Zhang"/>
+                    <br />
+                    <sub><b>Yichi Zhang</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
