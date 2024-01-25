@@ -315,6 +315,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://github.com/AnkitaDhiman650/">
+                    <img src="https://avatars.githubusercontent.com/u/157637119?v=4" width="100px;" alt="Ankita Dhiman"/>
+                    <br />
+                    <sub><b>Ankita Dhiman</b></sub>
+                </a>
+             </td>
+             <td align="center">
                  <a href="https://github.com/Nitesh232">
                     <img src="https://avatars.githubusercontent.com/u/92843270?v=4" width="100px;" alt="Nitesh Mishra"/>
                     <br />
