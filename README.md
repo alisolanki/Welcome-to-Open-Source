@@ -1707,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+            <td align="center">   
+                <a href="https://github.com/Soham-18272">
+                    <img src="https://avatars.githubusercontent.com/u/118503418?v=4" width="100px;" alt="Soham Choulwar"/>
+                    <br />
+                    <sub><b>Soham Choulwar</b></sub>
+                </a>
+            </td>
                 </a>
             </td>
         </tr>
