@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BhupenGupta05">
+                    <img src="https://avatars.githubusercontent.com/u/69306700?v=4" width="100px;" alt="Bhupen Gupta"/>
+                    <br />
+                    <sub><b>Bhupen Gupta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
