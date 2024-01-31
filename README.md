@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+        <a href="https://mayureshshitole.vercel.app">
+            <img src="https://avatars.githubusercontent.com/u/60806073?v=4" width="100px;" alt="Mayuresh Shitole"/>
+            <br />
+            <sub><b>Mayuresh Shitole</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
