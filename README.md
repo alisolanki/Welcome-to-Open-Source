@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arshu78">
+                    <img src="https://github.com/account" width="100px;" alt="Arshad Shirgave"/>
+                    <br />
+                    <sub><b>Arshad Shirgave</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
