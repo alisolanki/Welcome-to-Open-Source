@@ -1702,19 +1702,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
-<<<<<<< HEAD
+
              <td align="center">
                 <a href="https://github.com/jyzib">
                     <img src="https://avatars.githubusercontent.com/u/121748774?s=400&u=a7b7a0039f3c91af79d5321ff085c2891d49d399&v=4" width="100px;" alt="Jazib zaidi"/>
                     <br />
                     <sub><b>Jazib </b></sub>
-=======
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
->>>>>>> e340690502dd92e7e90c85b0cb53efd80704078b
+
                 </a>
             </td>
         </tr>
