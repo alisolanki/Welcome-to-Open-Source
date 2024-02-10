@@ -112,6 +112,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anuj sharma</b></sub>
                 </a>
             </td>
+            <td align="center">   
+                <a href="https://github.com/am5145">
+                    <img src="https://avatars.githubusercontent.com/u/94601019?v=4" width="100px;" alt="Akshay Modi"/>
+                    <br />
+                    <sub><b>Akshay Modi</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/akshaykamath45">
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
@@ -157,6 +164,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+            <td align="center">
+                <a href="https://github.com/druvkotwani">
+                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Dhruv Kotwani</b></sub>
+                </a>
+            </td>
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
                     <br />
