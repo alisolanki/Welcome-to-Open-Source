@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DhruvrajsinhRathod">
+                    <img src="https://avatars.githubusercontent.com/u/81242300?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Dhruvrajsinh Rathod</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
