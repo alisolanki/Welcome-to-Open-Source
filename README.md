@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/lohitakshaaa">
-                    <img src="https://avatars.githubusercontent.com/u/126335841?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/126335841?v=4" width="100px;" alt="mrLohitakshabillonaire"/>
                     <br />
                     <sub><b>Lohitakshaaa</b></sub>
                 </a>
