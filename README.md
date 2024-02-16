@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rajanarahul93">
+                    <img src="https://avatars.githubusercontent.com/u/123227543?v=4" width="100px;" alt="Vara Rahul Rajana"/>
+                    <br />
+                    <sub><b>Vara Rahul Rajana</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
