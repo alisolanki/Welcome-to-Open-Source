@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.pritishpurav.in/">
+                    <img src="https://avatars.githubusercontent.com/u/90410463?v=4" width="100px;" alt="Pritish Purav"/>
+                    <br />
+                    <sub><b>Pritish Purav</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
