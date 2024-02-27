@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://twitter.com/HarshalBhute5">
+                    <img src="https://avatars.githubusercontent.com/u/114854206?s=400&u=7490c7aef99060a805760b379ab620da1c481c72&v=4" width="100px;" alt="Harshal Bhute"/>
+                    <br />
+                    <sub><b>Harshal Bhute</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
