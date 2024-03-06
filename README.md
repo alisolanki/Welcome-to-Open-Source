@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ReshmaRaj13">
+                    <img src="https://avatars.githubusercontent.com/u/148909578?v=4" width="100px;" alt="Reshma"/>
+                    <br />
+                    <sub><b>Reshma</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
