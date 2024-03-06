@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/km-wambua">
                     <img src="https://avatars.githubusercontent.com/u/35791472?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
-                    <sub><b>Kisaa Manasseh</b></sub>
+                    <sub><b>Kisaa Manasseh Wambua</b></sub>
                 </a>
             </td>
         </tr>
