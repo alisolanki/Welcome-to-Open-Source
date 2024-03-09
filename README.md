@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dipayan1506">
+                    <img src="https://avatars.githubusercontent.com/u/122562669?v=4" width="100px;" alt="Dipayan Debnath"/>
+                    <br />
+                    <sub><b>Dipayan Debnath</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
