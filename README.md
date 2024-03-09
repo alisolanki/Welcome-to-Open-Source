@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+               <a href="https://github.com/sansan-sakura">
+                 <img src="https://avatars.githubusercontent.com/u/98739369?s=400&u=e9207f779f9d9063f7576f6fb32a9d01c0000e22&v=4" width="100px;" alt="Sakura Tanaka"/>
+                   <br />
+                   <sub><b>Sakura Tanaka</b></sub>
+           </a>
+          </td>
         </tr>
     </tbody>
+
 </table>
