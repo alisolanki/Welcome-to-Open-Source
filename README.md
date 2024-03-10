@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Arnold-roy">
                     <img src="https://avatars.githubusercontent.com/u/146228011?s=400&u=eaca5bb56cac7f6e2213e0f3c1623318ece30021&v=4" width="100px;" alt="Arnold Roy"/>
                     <br />
-                    <sub><b>Arnold  Roy</b></sub>
+                    <sub><b>Arnold Roy</b></sub>
                 </a>
             </td>
                 </a>
