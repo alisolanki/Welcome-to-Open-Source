@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/the-mova">
+                    <img src="https://avatars.githubusercontent.com/u/23267418?v=4" width="100px;" alt="mova"/>
+                    <br />
+                    <sub><b>mova</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
