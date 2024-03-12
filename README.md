@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Akanksha10029">
+                    <img src="https://avatars.githubusercontent.com/u/112504655?v=4" width="100px;" alt="Akanksha rani"/>
+                    <br />
+                    <sub><b>Akanksha Rani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
