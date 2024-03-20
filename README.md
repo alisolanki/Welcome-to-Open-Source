@@ -1425,6 +1425,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Arryaman Mishra</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/LoiueFragosoUwUr">
+                    <img src="https://avatars.githubusercontent.com/u/126754704?v=4" width="100px;" alt="壮真　柔　UwUr Ludwigchen"/>
+                    <br />
+                    <sub><b>壮真　柔　UwUr Ludwigchen</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://johannes-kofler.com">
                     <img src="https://avatars.githubusercontent.com/u/96773835?v=4" width="100px;" alt="Johannes Kofler"/>
