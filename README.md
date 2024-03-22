@@ -1711,9 +1711,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/thilinaabey">
-                    <img src="https://avatars.githubusercontent.com/u/107211493?v=4" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://avatars.githubusercontent.com/u/107211493?v=4" width="100px;" alt="Thilina Abeysinghe"/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
+                    <sub><b>Thilina Abeysinghe</b></sub>
                 </a>
             </td>
         </tr>
