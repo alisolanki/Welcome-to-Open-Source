@@ -1712,7 +1712,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Ceruin3012">
                     <img src="https://avatars.githubusercontent.com/u/88962035?v=4" width="100px;" alt="Archit Tyagi"/>
-                    <br />
+                    <br/>
                     <sub><b>Archit Tyagi</b></sub>
                 </a>
             </td>
