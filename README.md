@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/SanviNora">
-                    <img src="https://avatars.githubusercontent.com/u/90399644?v=4" width="100px;" alt="SanviNora"/>
+                    <img src="https://avatars.githubusercontent.com/u/90399644?v=4" width="100px;" alt="Sanvi Jagtap"/>
                     <br />
                     <sub><b>Sanvi Jagtap</b></sub>
                 </a> 
