@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NAVILANDE">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Vaishnavi lande"/>
+                    <br />
+                    <sub><b>Vaishnavi lande</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
