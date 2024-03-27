@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://AditiChandel.com/">
+                    <img src="IMG-20230213-WA0004.jpg" width="100px;" alt="Aditi Chandel"/>
+                    <br />
+                    <sub><b>Aditi Chandel</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
