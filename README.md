@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/imanisul">
+                    <img src="https://avatars.githubusercontent.com/u/91343628?v=4" width="100px;" alt="Anisul Islam"/>
+                    <br />
+                    <sub><b>Anisul Islam</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
