@@ -67,6 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/MdSaifAliMolla">
+                    <img src="https://avatars.githubusercontent.com/u/145194907?v=4" width="100px;" alt="Saif Ali"/>
+                    <br />
+                    <sub><b>Saif Ali</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
