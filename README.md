@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/amitarp">
+                    <img src="https://avatars.githubusercontent.com/u/92806716?v=4" width="100px;" alt="Neeraj Madake"/>
+                    <br />
+                    <sub><b>Pratima Yadav
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
