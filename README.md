@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShaikhAbubakar-75">
+                    <img src="https://avatars.githubusercontent.com/u/71544595?v=4" width="100px;" alt="Shaikh Abubakar Shamshoddin"/>
+                    <br />
+                    <sub><b>Shaikh Abubakar Shamshoddin</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
