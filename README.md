@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/alegiardi">
                     <img src="https://avatars.githubusercontent.com/u/144006554?v=4" width="100px;" alt="Alessia Giardinelli"/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
+                    <sub><b>Alessia Giardinelli</b></sub>
                 </a>
             </td>
         </tr>
