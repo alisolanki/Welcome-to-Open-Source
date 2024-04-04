@@ -83,10 +83,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Kandi-Venkatesh99">
-                    <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
+                <a href="https://github.com/Preetiraj3697">
+                    <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
-                    <sub><b>Venkatesh k</b></sub>
+                    <sub><b>Preeti Raj</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shailsharma2604">
+                    <img src="https://avatars.githubusercontent.com/u/125866925?v=4" width="100px;" alt="Shail Sharma"/>
+                    <br />
+                    <sub><b>Shail Sharma</b></sub>
                 </a>
             </td>
            <td align="center">
