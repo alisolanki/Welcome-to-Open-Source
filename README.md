@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+           <td align="center">
+                <a href="https://github.com/mubarakali826">
+                    <img src="https://avatars.githubusercontent.com/u/122211700?v=4" width="100px;" alt="Mubarak ali"/>
+                    <br />
+                    <sub><b>Mubarak ali</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
