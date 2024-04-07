@@ -56,9 +56,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/PriyangshuCSE">
-                    <img src="https://avatars.githubusercontent.com/u/145053629?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/145053629?v=4" width="100px;" alt="Priyangshu"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Piyangshu</b></sub>
                 </a>
             </td>
             <td align="center">
