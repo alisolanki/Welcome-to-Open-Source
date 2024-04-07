@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Codeclas">
+                    <img src="https://avatars.githubusercontent.com/u/94636554?v=4" width="100px;" alt="Chandra Prakash"/>
+                    <br />
+                    <sub><b>Chandra Prakash</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
