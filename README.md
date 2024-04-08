@@ -1709,6 +1709,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-        </tr>
+                    <td align="center">
+                <a href="https://github.com/rajveerisme">
+                    <img src="https://avatars.githubusercontent.com/u/100502721?v=4" width="100px;" alt="Rajveer Singh"/>
+                    <br />
+                    <sub><b>Rajveer Singh</b></sub>
+                </a> 
+            </td></tr>
     </tbody>
 </table>
