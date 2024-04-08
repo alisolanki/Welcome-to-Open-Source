@@ -32,6 +32,14 @@
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
+
+ <td align="center">
+        <a href="https://github.com/luna1902">
+            <img src="https://avatars.githubusercontent.com/u/112109952?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Shambhavi rai</b></sub>
+        </a>
+    </td>
   
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
