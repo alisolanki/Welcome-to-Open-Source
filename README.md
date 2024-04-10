@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/GangadharYande">
+                    <img src="https://avatars.githubusercontent.com/u/36783781?s=96&v=4" width="100px;" alt="Gangadhar Yande"/>
+                    <br />
+                    <sub><b>Gangadhar Yande</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
