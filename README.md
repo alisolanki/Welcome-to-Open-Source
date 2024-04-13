@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/r-a-j-a-n">
+                    <img src="https://avatars.githubusercontent.com/u/117752332?v=4" width="100px;"  alt="Rajan Poudel"/>
+                    <br />
+                    <sub><b>Rajan Poudel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
