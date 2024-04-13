@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rishika0602">
+                    <img src="https://avatars.githubusercontent.com/u/159193352?v=4" width="100px;" alt="Rishika"/>
+                    <br />
+                    <sub><b>Rishika</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
