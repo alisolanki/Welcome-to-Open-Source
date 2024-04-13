@@ -416,11 +416,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yashwanth Reddy</b></sub>
                </a>
            </td>
-           <td align="center">
-                <a href="https://github.com/imaxmayur">
-                    <img src="https://avatars.githubusercontent.com/u/110410744?v=4" width="100px;" alt="Mayur Gosavi"/>
+            <td align="center">
+                <a href="https://github.com/Yashwanthreddy711">
+                    <img src="https://avatars.githubusercontent.com/u/99392805?s=400&u=5b23486c0e96873044257c5905dcb0c007a62e6b&v=4" width="100px;" alt="Yashwanth Reddy"/>
                     <br />
-                    <sub><b>Mayur Gosavi</b></sub>
+                    <sub><b>Yashwanth Reddy</b></sub>
+               </a>
+           </td>
+           <td align="center">
+                <a href="https://github.com/Vicky8180">
+                    <img src="https://avatars.githubusercontent.com/u/76256436?v=4" width="100px;" alt="Anoop Yadav"/>
+                    <br />
+                    <sub><b>Anoop Yadav</b></sub>
                </a>
            </td>
            <td align="center">
