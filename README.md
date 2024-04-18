@@ -1711,12 +1711,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/mattkn1012">
-                    <img src="https://avatars.githubusercontent.com/u/81335503?v=4" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://avatars.githubusercontent.com/u/81335503?v=4" width="100px;" alt="Matt Kim"/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
+                    <sub><b>Matt Kim</b></sub>
                 </a>
             </td>
-            https://avatars.githubusercontent.com/u/81335503?v=4
         </tr>
     </tbody>
 </table>
