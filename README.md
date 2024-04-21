@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Aayush20031">
                     <img src="https://avatars.githubusercontent.com/u/91630720?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Aayush Kudalkar</b></sub>
                 </a>
             </td>
             <td align="center">
