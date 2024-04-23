@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/StackOverflowIsBetterThanAnyAI">
+                    <img src="https://avatars.githubusercontent.com/u/140268904?s=400&u=38f6dca357b584f1aeaac72ab1b8ea16ec38c881&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>StackOverflowIsBetterThanAnyAI</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
