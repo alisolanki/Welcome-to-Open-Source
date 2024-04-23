@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/fayinana">
+                    <img src="https://avatars.githubusercontent.com/u/151903622?s=96&v=4" width="100px;" alt="fayinana"/>
+                    <br />
+                    <sub><b>ananiya fekede</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
