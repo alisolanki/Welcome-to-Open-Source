@@ -366,12 +366,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/thiunuwan">
+                <a href="https://github.com/Exhuzaifa">
                     <img src="https://avatars.githubusercontent.com/u/83197833?v=4" width="100px;" alt="thiunuwan"/>
                     <br />
                     <sub><b>thiunuwan</b></sub>
                </a>
            </td>
+<td align="center">
+                <a href="https://github.com/Exhuzaifa">
+                    <img src="https://avatars.githubusercontent.com/u/167966669?s=400&u=63c78293d9e89a35ff32bcc7237bac33f9c14b40&v=4" width="100px;" alt="Huzaifa"/>
+                    <br />
+                    <sub><b>thiunuwan</b></sub>
+               </a>
+           </td>
+
+
+
            <td align="center">
                 <a href="https://onlyanand10.github.io/portfolio/">
                     <img src="https://avatars.githubusercontent.com/u/72151612?v=4" width="100px;" alt="Anand Suryawanshi"/>
