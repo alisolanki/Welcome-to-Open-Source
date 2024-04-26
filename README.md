@@ -51,14 +51,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Jaydeep Rokade</b></sub>
                 </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Sweeti Sharma</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -211,6 +211,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
                     <sub><b>Amrithshagar</b></sub>
+                </a>
+            </td>   
+            <td align="center">
+                <a href="https://github.com/Amrithshagar">
+                    <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Rinku Singh</b></sub>
                 </a>
             </td>   
             <td align="center">
