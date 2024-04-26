@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/paige-ingram">
+                    <img src="https://avatars.githubusercontent.com/u/77078416?v=4" width="100px;" alt="Paige Ingram"/>
+                    <br />
+                    <sub><b>Paige Ingram</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
