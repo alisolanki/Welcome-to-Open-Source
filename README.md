@@ -1709,6 +1709,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/sayanfrontdev">
+                    <img src="https://avatars.githubusercontent.com/u/105246671?v=4" width="100px;" alt="Sayan"/>
+                    <br />
+                    <sub><b>Sayan Mandal</b></sub>
+                </a>
         </tr>
     </tbody>
 </table>
