@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Tailung42">
                     <img src="https://avatars.githubusercontent.com/u/142653093?v=4" width="100px;" alt="Bipin Thapa"/>
                     <br />
-                    <sub><b>Bipin Thapa
+                    <sub><b>Bipin Thapa<b></sub>
                     </b></sub>
                 </a>
             </td>
