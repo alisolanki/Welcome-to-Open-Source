@@ -1709,7 +1709,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-            r>
+            
             <td align="center">
                 <a href="https://github.com/Tanisha303">
                     <img src="https://avatars.githubusercontent.com/Tanisha303" width="100px;" alt="Tanisha Talukdar"/>
