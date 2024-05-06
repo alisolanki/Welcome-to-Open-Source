@@ -1019,13 +1019,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/sandyg6">
-                    <img src="https://avatars.githubusercontent.com/u/118624179?v=4" width="100px;" alt="Sandhiya Ganesan"/>
-                    <br />
-                    <sub><b>Sandhiya Ganesan</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/tanbirali">
                     <img src="https://avatars.githubusercontent.com/u/124070023?v=4" width="100px;" alt="Tanbir Ali"/>
                     <br />
@@ -1714,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sandyg6">
+                    <img src="https://avatars.githubusercontent.com/u/118624179?v=4" width="100px;" alt="Sandhiya Ganesan"/>
+                    <br />
+                    <sub><b>Sandhiya Ganesan</b></sub>
                 </a>
             </td>
         </tr>
