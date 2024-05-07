@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/yash4882/">
-                    <img src="https://avatars.githubusercontent.com/u/82277190?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/82277190?v=4" width="100px;" alt="Yash Vasundhariya"/>
                     <br />
                     <sub><b>Yash Vasundhariya</b></sub>
                 </a>
