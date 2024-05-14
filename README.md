@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Priyamjain1105">
+                    <img src="https://avatars.githubusercontent.com/u/139670144?v=4" width="100px;" alt="Priyam Jain"/>
+                    <br />
+                    <sub><b>Priyam Jain</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
