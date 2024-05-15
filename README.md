@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/VIMALKUMAR23">
+                    <img src="https://avatars.githubusercontent.com/u/134368273?v=4" width="100px;" alt="Vimal Kumar"/>
+                    <br />
+                    <sub><b>Vimal kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
