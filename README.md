@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ninja-noodle">
-                    <img src="https://avatars.githubusercontent.com/u/149285885?v=4" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://avatars.githubusercontent.com/u/149285885?v=4" width="100px;" alt="C Tu"/>
                     <br />
                     <sub><b>C Tu</b></sub>
                 </a>
