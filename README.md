@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/kavyagoel1707>
-                    <img src="https://avatars.githubusercontent.com/u/75795782?v=4" width="100px;" alt="Kavya Goel"/>
+                    <img src="https://avatars.githubusercontent.com/u/75795782?v=4" width="110px;" alt="Kavya Goel"/>
                     <br />
                     <sub><b>Kavya Goel</b></sub>
                 </a>
