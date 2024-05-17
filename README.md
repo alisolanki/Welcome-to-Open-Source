@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kavyagoel1707>
+                    <img src="https://avatars.githubusercontent.com/u/75795782?v=4" width="100px;" alt="Kavya Goel"/>
+                    <br />
+                    <sub><b>Kavya Goel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
