@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="404reese.github.io">
+                    <img src="https://avatars.githubusercontent.com/u/135740066?v=4" width="100px;" alt="404reese"/>
+                    <br />
+                    <sub><b>Riddhesh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
