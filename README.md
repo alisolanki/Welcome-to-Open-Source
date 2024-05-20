@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Aterolite24">
                     <img src="https://avatars.githubusercontent.com/u/117446220?v=4" width="100px;" alt="Achal Gawande"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Achal Gawande</b></sub>
                 </a> 
             </td>
             <td align="center">
