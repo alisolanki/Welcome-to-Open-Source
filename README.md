@@ -1710,7 +1710,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             <td align="center">
                 <a href="https://github.com/IITApurba">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Apurba kumar show"/>
+                    <img src="https://avatars.githubusercontent.com/u/156194221?v=4" width="100px;" alt="Apurba kumar show"/>
                     <br />
                     <sub><b>Apurba kumar show</b></sub>
                 </a>
