@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://kadambari68.github.io/Personal-Portfolio/">
+                    <img src="https://cdn4.iconfinder.com/data/icons/women-avatars-icons-set-1/300/7-512.png" width="100px;" alt="Kadambari Purohit"/>
+                    <br />
+                    <sub><b>Kadambari Purohit</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
