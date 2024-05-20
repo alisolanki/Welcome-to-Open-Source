@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
              <td align="center">
-                <a href="https://earnest-rugelach-4cc81c.netlify.app/">
+                <a href="https://kadambari68.github.io/Personal-Portfolio/">
                     <img src="https://cdn4.iconfinder.com/data/icons/women-avatars-icons-set-1/300/7-512.png" width="100px;" alt="Kadambari Purohit"/>
                     <br />
                     <sub><b>Kadambari Purohit</b></sub>
