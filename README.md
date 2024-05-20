@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anudeep009">
+                    <img src="https://avatars.githubusercontent.com/u/148236417?v=4" width="100px;" alt="Anudeep Avula"/>
+                    <br />
+                    <sub><b>Anudeep Avula</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
