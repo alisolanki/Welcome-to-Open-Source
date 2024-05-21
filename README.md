@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Kaustuv05">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73yRzJjXO-4CWI8VA-7lPOM_f6mvlX6WoKQ77pfsfCgeGMo9G4l1j4tqAM7n3gX_fGJg&usqp=CAU" width="100px;" alt="Kaustuv Choudhary"/>
+                    <br />
+                    <sub><b>Kaustuv Choudhary</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
