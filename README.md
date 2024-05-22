@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BaraSedih11">
+                    <img src="https://avatars.githubusercontent.com/u/98843912?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Bara Al-Sedih</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
