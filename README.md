@@ -96,7 +96,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
-        </tr> 
+        </tr>
+        <td align="center">
+                <a href="https://github.com/Harshita-jh">
+                    <img src="https://avatars.githubusercontent.com/u/48977975?v=4" width="100px;" alt="Harshita"/>
+                    <br />
+                    <sub><b>Harshita</b></sub>
+                </a>
+        </td>
         <tr>
             <td align="center">
                 <a href="https://github.com/Shino-Shaji">
