@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arun-0597">
+                    <img src="https://avatars.githubusercontent.com/u/70059575?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Arun B S</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
