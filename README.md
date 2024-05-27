@@ -1707,6 +1707,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+            <td align="center">
+                <a href="https://github.com/BadakalaYashwanth">
+                    <img src="https://avatars.githubusercontent.com/u/170221536?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Badakala Yaswanth</b></sub>
                 </a>
             </td>
         </tr>
