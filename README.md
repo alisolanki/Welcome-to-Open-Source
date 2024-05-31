@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            td align="center">
+                <a href="https://github.com/abhijeetkakade1234">
+                    <img src="https://avatars.githubusercontent.com/u/116942456?v=4" width="100px;" alt="Abhijeet Kakade"/>
+                    <br />
+                    <sub><b>Abhijeet Kakadet</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
