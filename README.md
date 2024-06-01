@@ -184,10 +184,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/a60231023">
+                <a href="https://github.com/anshgoyal04/">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
                     <br />
                     <sub><b>Ayush Tiwari</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/a60231023">
+                    <img src="https://avatars.githubusercontent.com/u/96487283?s=400&u=0f8380abfbccbed7cf0e61b0852ab31e779f2c37&v=4" width="100px;" alt="Ansh Goyal"/>
+                    <br />
+                    <sub><b>Ansh Goyal</b></sub>
                 </a>
             </td>
             <td align="center">
