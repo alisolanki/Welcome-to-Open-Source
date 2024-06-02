@@ -31,11 +31,11 @@
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
+    <a href="">
+        <img height="50" src=""/>
+    </a>
 </p>
-  
-<p align="center">
-  <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
-</p>
+
 
 ## Contributors 🍉
 
@@ -53,6 +53,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/VishnuRaika04">
+                    <img src="https://avatars.githubusercontent.com/u/108605628?v=4" width="100px;" alt="Vishnu Solanki Raika"/>
+                    <br />
+                    <sub><b>Vishnu Solanki Raika</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
