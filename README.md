@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Tapraj-Pathak">
+                    <img src="https://avatars.githubusercontent.com/u/165466587?s=400&u=392a619ed67793f8d7d583a651233760a3ea2a34&v=4" width="100px;" alt="Tapraj Pathak"/>                    
+                    <br />
+                    <sub><b>Tapraj Pathak</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
