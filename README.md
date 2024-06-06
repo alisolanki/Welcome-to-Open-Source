@@ -343,6 +343,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   </a>
             </td>
             <td align="center">
+                <a href="google.com">
+                 <img src="www.google.com">
+                 <br>
+                 <sub><b>Google</b></sub>
+                 </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/priyanshu-11000/">
                     <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
                     <br />
