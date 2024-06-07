@@ -60,6 +60,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
+                </td>
+            <td align="center">
+                <a href="https://github.com/sidshehria">
+                    <img src="https://avatars.githubusercontent.com/u/83392744?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Siddharth Shehria</b></sub>
+                </a>
+            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
