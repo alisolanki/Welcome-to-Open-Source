@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://avatars.githubusercontent.com/u/120329440?v=4">
+                    <img src="https://github.com/account" width="100px;" alt="Kunj Rastogi"/>
+                    <br />
+                    <sub><b>Kunj Rastogi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
