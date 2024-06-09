@@ -1709,7 +1709,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/AlanJuker">
                     <img src="https://avatars.githubusercontent.com/u/75257308?v=4" width="100px;" alt="Alan Juker"/>
                     <br />
