@@ -321,6 +321,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Nitesh Mishra</b></sub>
                  </a>
               </td>
+
+
+            <td align="center">
+                    <a href="https://github.com/hardik-z1">
+                        <img src="https://userpic.codeforces.org/3890906/title/a22b2532aec5594d.jpg" width="100px;" alt="Hardik_z1"/>
+                        <br />
+                        <sub><b>Hardik_z1</b></sub>
+                    </a> 
+             </td>
+
+
               <td align="center">
                   <a href="https://github.com/pranavashish">
                     <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;" alt="Pranav Ashish"/>
