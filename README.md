@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/karann09">
-                    <img src="https://avatars.githubusercontent.com/u/126327364?v=4" width="100px;" alt="Karann09"/>
+                    <img src="https://avatars.githubusercontent.com/u/126327364?v=4" width="100px;" alt="Karan Kumar"/>
                     <br />
                     <sub><b>Karan Kumar</b></sub>
                 </a> 
