@@ -55,10 +55,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/Aachiie">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/152932297?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Angel Oris</b></sub>
                 </a>
             </td>
             <td align="center">
