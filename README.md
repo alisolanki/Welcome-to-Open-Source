@@ -62,10 +62,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                <a href="https://github.com/TJ288">
+                    <img src="https://avatars.githubusercontent.com/u/172352044?v=4" width="100px;" alt="Talacay Jem"/>
                     <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
+                    <sub><b>Talacay Jem</b></sub>
                 </a>
             </td>
             <td align="center">
