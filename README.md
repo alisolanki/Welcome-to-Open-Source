@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Anshx-xx">
                     <img src="https://avatars.githubusercontent.com/u/112805566?v=4" width="100px;" alt="Ansh Somaiya"/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
+                    <sub><b>Ansh Somaiya</b></sub>
                 </a>
             </td>
         </tr>
