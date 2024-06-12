@@ -1708,6 +1708,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/Haizennr">
+                    <img src="https://avatars.githubusercontent.com/u/153291030?s=400&u=6ef51f14c244b2182a9b438ac38bcb61de66c7cc&v=4" width="100px;" alt="John Michael"/>
+                    <br />
+                    <sub><b>John Michael</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
