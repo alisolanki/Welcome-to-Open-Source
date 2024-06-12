@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/nirajkumar999">
                     <img src="https://avatars.githubusercontent.com/u/84171890?s=400&u=d6dd7a441bb5ed00e170abf3c9f432714cf6d5b6&v=4" width="100px;" alt="Niraj Kumar"/>
                     <br />
-                    <sub><b>Niraj Kumar</b></sub>
+                    <sub><b>Niraj Raut</b></sub>
                 </a>
             </td>
         </tr>
