@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/stipinnn">
+                    <img src="https://avatars.githubusercontent.com/u/152931710?v=4" width="100px;" alt="stipinnn"/>
+                    <br />
+                    <sub><b>stipinnn</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
