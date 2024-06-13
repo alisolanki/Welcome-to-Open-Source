@@ -171,11 +171,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/lmutum">
-                    <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;" alt="Lakshman Mutum"/>
+                <a href="https://github.com/JanFojtik21">
+                    <img src="https://avatars.githubusercontent.com/u/50570415?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
-                    <sub><b>Lakshman Mutum</b></sub>
+                    <sub><b>JanFojtik21</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/gmaheshraju">
+                    <img src="https://avatars.githubusercontent.com/u/21260123?v=4" width="100px;" alt="Mahesh Guntumadugu"/>
+                    <br />
+                    <sub><b>Mahesh Guntumadugu</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/gmaheshraju">
                     <img src="https://avatars.githubusercontent.com/u/21260123?v=4" width="100px;" alt="Mahesh Guntumadugu"/>
