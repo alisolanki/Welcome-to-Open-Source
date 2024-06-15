@@ -417,6 +417,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/immanuellukwago">
+                    <img src="https://github.com/account" width="100px;" alt="Immanuel Lukwago"/>
+                    <br />
+                    <sub><b>Immanuel Lukwago</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <img src="https://avatars.githubusercontent.com/u/110410744?v=4" width="100px;" alt="Mayur Gosavi"/>
                     <br />
