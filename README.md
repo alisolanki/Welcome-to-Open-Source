@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+    
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
@@ -61,6 +62,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/ManthanMoudgaly">
+                    <img src="https://avatars.githubusercontent.com/u/166141110?v=4" width="100px;" alt="Manthan"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
