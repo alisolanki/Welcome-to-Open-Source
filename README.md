@@ -1557,6 +1557,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Gaurav1801">
+                    <img src="https://avatars.githubusercontent.com/u/129906363?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Gaurav Tiwari</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/hirakjyoti08">
                     <img src="https://avatars.githubusercontent.com/u/76906387?v=4" width="100px;" alt="Hirakjyoti Talukdar"/>
                     <br />
