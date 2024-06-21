@@ -55,13 +55,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Kishore007raj">
-                    <img src="https://avatars.githubusercontent.com/u/141572538?v=4" width="100px;" alt="Harsh Pandey"/>
-                    <br />
-                    <sub><b>Harsh Pandey</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
@@ -1707,6 +1700,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Kishore007raj">
+                    <img src="https://avatars.githubusercontent.com/u/141572538?v=4" width="100px;" alt="M.Kishoreraj"/>
+                    <br />
+                    <sub><b>M.Kishoreraj</b></sub>
                 </a>
             </td>
         </tr>
