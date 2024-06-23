@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BhaktiMore18">
+                    <img src="https://avatars.githubusercontent.com/u/99724683?v=4" width="100px;" alt="Bhakti More"/>
+                    <br />
+                    <sub><b>Bhakti More</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
