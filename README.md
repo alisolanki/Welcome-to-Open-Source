@@ -1710,12 +1710,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <a href="https://github.com/chikezie22">
-                <img src="https://avatars.githubusercontent.com/u/71356137?v=4" width="100px;" alt="Simon Chikezie"/>
-                <br />
-                <sub><b>Simon Chikezie</b></sub>
-            </a>
-        </td>
+                <a href="https://github.com/chikezie22">
+                    <img src="https://avatars.githubusercontent.com/u/71356137?v=4" width="100px;" alt="Simon Chikezie"/>
+                    <br />
+                    <sub><b>Simon Chikezie</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
