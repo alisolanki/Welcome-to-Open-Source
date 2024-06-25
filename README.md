@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://www.linkedin.com/in/vikasgaur1709/">
+                    <img src="https://media.licdn.com/dms/image/D4D03AQH3tTh5x3JBOQ/profile-displayphoto-shrink_200_200/0/1666032334943?e=1724889600&v=beta&t=vh34w31VdiVfcHkhLSaofEBLeGmu0PFwQXG7l6Aspgo" width="100px;" alt="Vicky Master"/>
+                    <br />
+                    <sub><b>Vikas Gaur/b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
