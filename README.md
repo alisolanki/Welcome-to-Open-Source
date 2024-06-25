@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/The-Peacemaker">
+                    <img src="https://avatars.githubusercontent.com/u/90237831?v=4" width="100px;" alt="benedict Chacko"/>
+                    <br />
+                    <sub><b>Benedict Chacko</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
