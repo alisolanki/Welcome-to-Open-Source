@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TheJuster23">
+                    <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Thejus Pradeep"/>
+                    <br />
+                    <sub><b>Thejus Pradeep</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
