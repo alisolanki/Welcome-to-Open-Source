@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://linktr.ee/fenil_patel_04">
-                    <img src="https://avatars.githubusercontent.com/u/126600325?s=400&u=3055bee9e428823e85cf7fde2a32ea49115dd815&v=4width="100px;" alt="Fenil Patel"/>
+                    <img src="https://avatars.githubusercontent.com/u/126600325?v=4" width="100px;" alt="Fenil Patel"/>
                     <br />
                     <sub><b>Fenil Patel</b></sub>
                 </a> 
