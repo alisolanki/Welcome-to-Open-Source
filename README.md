@@ -62,9 +62,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/swapniljadhav96">
+                <a href="https://www.linkedin.com/in/swapniljadhav96/">
                     <img src="https://avatars.githubusercontent.com/u/114515514?v=4" width="100px;" alt="Swapnil Jadhav"/>
-                    <br />
+                    <br/>
                     <sub><b>Swapnil Jadhav</b></sub>
                 </a> 
             </td>
