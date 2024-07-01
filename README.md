@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/shangeethAlex">
                     <img src="https://avatars.githubusercontent.com/u/91450175?v=4" width="100px;" alt="Alex shangeeth"/>
                     <br />
-                    <sub><b>Alex shangeeth</b></sub>
+                    <sub><b>Alex_shangeeth</b></sub>
                 </a>
             </td>
         </tr>
