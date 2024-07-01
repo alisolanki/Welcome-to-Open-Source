@@ -1714,6 +1714,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Aryashi Nanda</b></sub>
                 </a>
+            </td>    
         </tr>
     </tbody>
 </table>
