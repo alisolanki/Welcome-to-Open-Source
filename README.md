@@ -1708,6 +1708,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
             <td align="center">
                  <a href="https://github.com/mintera10">
                     <img src="https://avatars.githubusercontent.com/u/103426279?v=4" width="100px;" alt="Aryashi Nanda"/>
