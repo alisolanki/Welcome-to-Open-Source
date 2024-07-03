@@ -946,6 +946,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Navakanth95">
+                    <img src="https://avatars.githubusercontent.com/u/142103388?v=4" width="100px;" alt="Navakanth"/>
+                    <br />
+                    <sub><b>Navakanth</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kiranism431">
                     <img src="https://avatars.githubusercontent.com/u/64724286?v=4" width="100px;" alt="Kiran Pahadi"/>
                     <br />
