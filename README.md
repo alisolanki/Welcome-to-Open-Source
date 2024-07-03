@@ -1712,3 +1712,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+            <td align="center">
+                <a href="https://github.com/saivasanthg">
+                    <img src="https://avatars.githubusercontent.com/u/113130253?v=4" width="100px;" alt="Sai Vasanth G"/>
+                    <br />
+                    <sub><b>Sai Vasanth G</b></sub>
+                </a>
+            </td>
