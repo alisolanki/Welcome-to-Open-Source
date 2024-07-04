@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">   
                 <a href="https://github.com/Mufli-Mohideen">
-                    <img src="https://avatars.githubusercontent.com/u/145528271?v=4" width="100px;" alt="Anuj sharma"/>
+                    <img src="https://avatars.githubusercontent.com/u/145528271?v=4" width="100px;" alt="Mufli Mohideen"/>
                     <br />
                     <sub><b>Mufli Mohideen</b></sub>
                 </a>
