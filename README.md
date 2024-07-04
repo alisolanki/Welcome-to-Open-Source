@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/CHASHUR">
+                    <img src="https://avatars.githubusercontent.com/u/103360666?v=4" width="100px;" alt="Shaik Chashur"/>
+                    <br />
+                    <sub><b>Shaik Chashur</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
