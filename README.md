@@ -164,6 +164,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Vedant7077">
+                    <img src="https://avatars.githubusercontent.com/u/101451970?v=4" width="100px;" alt="Vedant Palekar"/>
+                    <br />
+                    <sub><b>Vedant Palekar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/2003aryansingh">
                     <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;" alt="Aryan Singh"/>
                     <br />
