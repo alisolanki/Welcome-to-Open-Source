@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Ayushigupta7453">
+                <img src="https://avatars.githubusercontent.com/u/133493980?s=400&u=c8666e31b00dfd565fe9f7dc093945559d5a6c23&v=4" width="100px;" alt="Ayushi Gupta"/>
+                <br />
+                <sub><b>Ayushi gupta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
