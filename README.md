@@ -62,7 +62,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <td align="center">
                 <a href="https://github.com/adilsyed003">
                     <img src="https://avatars.githubusercontent.com/u/129985270?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
