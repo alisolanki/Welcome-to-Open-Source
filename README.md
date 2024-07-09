@@ -335,6 +335,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                      <sub><b>Aalam Ansari</b></sub>
                    </a>
                </td>
+                <td align="center">
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
                <td align="center">
                   <a href="https://github.com/SIDDHARTH-PAT">
                     <img src="https://avatars.githubusercontent.com/u/57358395?s=400&u=4fca6a7934fe52b320bd41e84fb583b515883d2c&v=4" width="100px;" alt="Siddharth Patel"/>
@@ -344,7 +351,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/priyanshu-11000/">
-                    <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Femoji%2F&psig=AOvVaw11aObrLvjhMKtjN5JbnpyV&ust=1720629097509000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCcuoOxmocDFQAAAAAdAAAAABAE" width="100px;" alt="Priyanshu Kumar Singh"/>
                     <br />
                     <sub><b>Priyanshu Kumar Singh</b></sub>
                  </a>
