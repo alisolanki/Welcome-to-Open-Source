@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/hitzkii"
-                    <img src="https://avatars.githubusercontent.com/u/70104347?v=4" width="100px;" alt="Shivam Choudhary"/>
+                    <img src="https://avatars.githubusercontent.com/u/70104347?v=4" width="100px;" alt="Aditya"/>
                     <br />
                     <sub><b>Aditya</b></sub>
                 </a>
