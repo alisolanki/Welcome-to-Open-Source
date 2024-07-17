@@ -1714,6 +1714,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
+             <td align="center">
+                <a href="https://github.com/nihal514t">
+                    <img src="https://avatars.githubusercontent.com/u/137866054?v=4" width="100px;" alt="Nihal"/>
+                    <br />
+                    <sub><b>Nihal</b></sub>
+                </a>        
                 </a>
             </td>
         </tr>
