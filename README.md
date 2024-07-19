@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shyamjames">
+                    <img src="https://avatars.githubusercontent.com/u/73977553?v=4" width="100px;" alt="Shyam James"/>
+                    <br />
+                    <sub><b>Shyam James</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
