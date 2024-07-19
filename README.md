@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/raulfbr">
+                    <img src="https://avatars.githubusercontent.com/u/16632335?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Raul Rodrigues</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
