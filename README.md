@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
               <td align="center">
                 <a href="https://github.com/paras-verma7454">
-                    <img src="https://avatars.githubusercontent.com/u/134628559?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/134628559?v=4" width="100px;" alt="Paras Verma"/>
                     <br />
                     <sub><b>Paras Verma</b></sub>
                 </a> 
