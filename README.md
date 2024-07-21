@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/HMSagar2701">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="H M Sagar"/>
+                    <br />
+                    <sub><b>H M Sagar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
