@@ -953,6 +953,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sayalibankar2002">
+                    <img src="https://avatars.githubusercontent.com/u/84892351?s=400&u=6c34bf733becd38d634dd290179780cb9b8e2d3e&v=4" width="100px;" alt="Sayali Bankar"/>
+                    <br />
+                    <sub><b>Sayali Bankar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AS-Danish">
                     <img src="https://avatars.githubusercontent.com/u/112323639?v=4" width="100px;" alt="Abdul Salaam Danish"/>
                     <br />
