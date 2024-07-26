@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rpattekar">
+                    <img src="https://avatars.githubusercontent.com/u/176637100?v=4" width="100px;" alt="Ria Pattekar"/>
+                    <br />
+                    <sub><b>Ria Pattekar</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
