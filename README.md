@@ -163,6 +163,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishal Aynodkar</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/mandip-kamaliya">
+                    <img src="https://avatars.githubusercontent.com/u/144941685?s=48&v=4" width="100px;" alt="mk"/>
+                    <br />
+                    <sub><b>mandip</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/2003aryansingh">
                     <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;" alt="Aryan Singh"/>
