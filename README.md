@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harshvvardhann">
+                    <img src="https://avatars.githubusercontent.com/u/151760106?v=4" width="100px;" alt="Rajput Harshvardhan Singh"/>
+                    <br />
+                    <sub><b>Rajput Harshvardhan Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
