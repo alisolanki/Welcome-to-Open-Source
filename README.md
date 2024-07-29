@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://blahblahblah1920.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/33575272?v=4" width="100px;" alt="Pranav Moses"/>
+                    <br />
+                    <sub><b>Pranav Moses</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
