@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/vinayky/">
-                    <img src="https://media.licdn.com/dms/image/D4E03AQGgYcAHneb8MQ/profile-displayphoto-shrink_200_200/0/1710801312327?e=1727308800&v=beta&t=UOBwOe3xX4JCltdAf2bxt51LxXjuCJLHa9MjZij8GfU" width="100px;" alt="Vinay Kumar Yadav"/>
+                    <img src="https://avatars.githubusercontent.com/u/11027438?v=4" width="100px;" alt="Vinay Kumar Yadav"/>
                     <br />
                     <sub><b>Vinay Kumar Yadav</b></sub>
                 </a> 
