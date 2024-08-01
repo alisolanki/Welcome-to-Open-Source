@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="http://padmashree_gk.com/">
-                    <img src="https://avatars.githubusercontent.com/u/83513325?v=4" width="100px;" alt="Padmashree"/>
+                    <img src="https://avatars.githubusercontent.com/u/83513325?v=4" width="100px;" alt="Padmashree_gk"/>
                     <br />
                     <sub><b>Padmashree G K</b></sub>
                 </a>
