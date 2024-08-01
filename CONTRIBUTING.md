@@ -31,13 +31,6 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/Priti-Aware">
-            <img src="https://avatars.githubusercontent.com/u/88395495?v=4" width="100px;" alt="Priti Aware"/>
-            <br />
-            <sub><b>Priti Aware
-        </a>
-    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
