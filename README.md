@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+            <a href="https://github.com/Priti-Aware">
+            <img src="https://avatars.githubusercontent.com/u/88395495?v=4" width="100px;" alt="Priti Aware"/>
+            <br />
+            <sub><b>Priti Aware
+            </a>
+    </td>
         </tr>
     </tbody>
 </table>
