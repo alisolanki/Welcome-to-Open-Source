@@ -28,7 +28,7 @@
         <a href="https://github.com/divye07">
             <img src="https://avatars.githubusercontent.com/u/154756441?v=4" width="100px;" alt="Neeraj Madake"/>
             <br />
-            <sub><b>Divye Prakash</b></sub>
+            <sub><b>Divye Prakash
         </a>
     </td>
     ```
