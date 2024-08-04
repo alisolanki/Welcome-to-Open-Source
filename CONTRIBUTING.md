@@ -32,13 +32,6 @@
         </a>
     </td>
     ```
-     <td align="center">
-        <a href="https://github.com/pmutyalu">
-            <img src="https://avatars.githubusercontent.com/u/130680906?v=4" width="100px;" alt="P.Mutyalu"/>
-            <br />
-            <sub><b>P.Mutyalu</b></a>
-        </a>
-    </td>
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
