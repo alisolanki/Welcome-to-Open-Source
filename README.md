@@ -249,6 +249,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Shubhh4">
+                    <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
+                    <br />
+                    <sub><b>Jaydeep Rokade</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/prayash24">
                     <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="Prayansh"/>
                     <br />
