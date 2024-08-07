@@ -8,7 +8,7 @@
 
 3) On the next page you will see a `create fork` button, press it.
 
-4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
+4) You will land on fffk a `<> Code` button marked in green, click on it and copy the url.
 
 5) Open your terminal and type git clone <url you copied> and press enter.
 
