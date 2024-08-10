@@ -1,5 +1,4 @@
 # Welcome-to-open-source Contributor Guide
-
 ## Steps to add yourself to the contributers list.
 
 1) You will first need git which you can download from [here](https://git-scm.com/downloads).
@@ -22,13 +21,6 @@
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
             <sub><b>Ali Solanki</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
-            <br />
-            <sub><b>Neeraj Madake
         </a>
     </td>
     ```
