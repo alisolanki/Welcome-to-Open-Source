@@ -1,5 +1,4 @@
 # Welcome-to-open-source Contributor Guide
-
 ## Steps to add yourself to the contributers list.
 
 1) You will first need git which you can download from [here](https://git-scm.com/downloads).
