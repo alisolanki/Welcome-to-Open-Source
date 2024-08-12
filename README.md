@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Yashraj-Singh-Chouhan">
-                    <img src="https://avatars.githubusercontent.com/u/139239490?v=4" width="100px;" alt="Yankee"/>
+                    <img src="https://avatars.githubusercontent.com/u/139239490?v=4" width="100px;" alt="Yashraj Singh Chouhan"/>
                     <br />
                     <sub><b>Yashraj Singh Chouhan</b></sub>
                 </a> 
