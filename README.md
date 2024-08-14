@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/saipooja-jagarlamudi">
                     <img src="https://avatars.githubusercontent.com/u/113659937?v=4" width="100px;" alt="saipooja"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Sai Pooja Jagarlamudi</b></sub>
                 </a>
             </td>
             <td align="center">
