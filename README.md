@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shakthik97">
+                    <img src="https://avatars.githubusercontent.com/u/156213696?v=4" width="100px;" alt="Chathuranga shakthi"/>
+                    <br />
+                    <sub><b>Chathuranga Shakthi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
