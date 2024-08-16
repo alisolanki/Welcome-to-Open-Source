@@ -70,7 +70,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/SanjnaGujral5">
-                    <img src="https://avatars.githubusercontent.com/u/158586446?v=4" width="100px;" alt="Sanjna Gujral"/>
+                    <img src="https://avatars.githubusercontent.com/u/158586446?v=4" width="100px;" alt="Sanjna "/>
                     <br />
                     <sub><b>Sanjna Gujral</b></sub>
                 </a>
