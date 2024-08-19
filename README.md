@@ -93,7 +93,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AbrarUS">
                     <img src="https://avatars.githubusercontent.com/u/71228606?v=4" width="100px;" alt="Venkatesh k"/>
                     <br />
-                    <sub><b>Abrar Shaikh</b></sub>
+                    <sub><b>Abrar Shaikh </b></sub>
                 </a>
             </td>
            <td align="center">
