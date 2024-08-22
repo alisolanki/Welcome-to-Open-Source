@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sudipta1254">
+                    <img src="https://avatars.githubusercontent.com/u/115441575?v=4" width="100px;" alt="Sudipta Singha"/>
+                    <br />
+                    <sub><b>Sudipta Singha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
