@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BRade93">
+                    <img src="https://avatars.githubusercontent.com/u/106112839?v=4" width="100px;" alt="Bjelic Radivoje"/>
+                    <br />
+                    <sub><b>Bjelic Radivoje</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
