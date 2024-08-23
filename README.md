@@ -61,6 +61,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+
+<td align="center">
+                <a href="https://github.com/versatilemade">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Eruke Shine"/>
+                    <br />
+                    <sub><b>Eruke Shine</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
