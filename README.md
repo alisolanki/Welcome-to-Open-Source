@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AJAY5503">
+                    <img src="https://avatars.githubusercontent.com/u/126370693?v=4" width="100px;" alt="venkata ajay kandregula"/>
+                    <br />
+                    <sub><b>Venkata Ajay Kandregula</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
