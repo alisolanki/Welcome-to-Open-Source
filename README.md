@@ -1710,10 +1710,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/IzzyDevOps">
+                <a href="https://github.com/Muraina020">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/IzzyDevOps">
+                    <img src="https://avatars.githubusercontent.com/u/117749623?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Lam Booking</b></sub>
                 </a>
             </td>
         </tr>
