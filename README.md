@@ -220,6 +220,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Pathak</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/finnyjoshua">
+                    <img src="https://avatars.githubusercontent.com/u/138249569?v=4" width="100px;" alt="Finny Joshua"/>
+                    <br />
+                    <sub><b>Finny Joshua</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Rahul-lalwani-learner">
                     <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
