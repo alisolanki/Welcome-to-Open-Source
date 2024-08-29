@@ -212,7 +212,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Amrithshagar</b></sub>
                 </a>
-            </td>   
+            </td>
+            <td align="center">
+                <a href="https://github.com/Duddu-harsha">
+                    <img src="https://avatars.githubusercontent.com/u/176312627?v=4" width="100px;" alt="Harsha Duddu"/>
+                    <br />
+                    <sub><b>Harsha duddu</b></sub>
+                </a>
+            </td> 
             <td align="center">
                 <a href="https://github.com/Shubhh4">
                     <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
