@@ -1108,7 +1108,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/codefaiz101">
                  <img src="https://avatars.githubusercontent.com/u/100228143?v=4" width="100px;" alt="FAIZ SHAIKH"/>
                     <br />
-                    <sub><b>Mukesh Mallula</b></sub>
+                    <sub><b>Faiz Shaikh</b></sub>
                 </a>
             </td>
         </tr>
@@ -1714,6 +1714,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/173032576?v=4" width="100px;" alt="Arjun Shettigar"/>
                     <br />
                     <sub><b>Arjun Shettigar</b></sub>
+                </a>
+             </td>
+             <td align="center">
+                <a href="https://github.com/IzzyDevOps">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Kaone Keboetseng</b></sub>
+
                 </a>
             </td>
         </tr>
