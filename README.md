@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/SharathChandraPN">
                     <img src="https://avatars.githubusercontent.com/u/170246518?v=4" width="100px;" alt="harathChandraPN"/>
                     <br />
-                    <sub><b>SharathChandraPN</b></sub>
+                    <sub><b>SharathPN</b></sub>
                 </a>
             </td>
             <td align="center">
