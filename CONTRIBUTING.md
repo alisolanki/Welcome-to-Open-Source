@@ -35,7 +35,7 @@
        <a href="https://github.com/c-a-narain/">
            <img src="https://avatars.githubusercontent.com/u/61541358?v=4" width="100px;" alt="Narain C A"/>
            <br />
-           <sub><b>Neeraj Madake
+           <sub><b>Narain C A
        </a>
    </td>
    ```
