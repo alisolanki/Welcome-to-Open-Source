@@ -35,7 +35,7 @@
         <a href="https://github.com/SimranShaikh20">
             <img src="https://avatars.githubusercontent.com/u/141727239?v=4" width="100px;" alt="Simran Shaikh"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub>
         </a>
     </td>
 
