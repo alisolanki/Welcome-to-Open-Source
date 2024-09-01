@@ -1716,6 +1716,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
+            <td align="center">
+                <a href="https://github.com/UTTAM-HEGDE31">
+                    <img src="https://avatars.githubusercontent.com/u/155240682?v=4" width="100px;" alt="UTTAM HEGDE"/>
+                    <br />
+                    <sub><b>UTTAM HEGDE</b></sub>
+                    <a>
+              </td>
+        </tbody>
+   </table>
