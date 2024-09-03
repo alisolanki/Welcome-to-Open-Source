@@ -1720,7 +1720,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/devdatta1429">
                     <img src="https://avatars.githubusercontent.com/u/141704064?s=400&u=0cbdafd4d5a1c05f9ed3815f01126997aaa7ef46&v=4" width="100px;" alt="devdatta thorat"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>devdatta thorat</b></sub>
                 </a>
             </td>
         </tr>
