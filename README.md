@@ -1720,8 +1720,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Kush-17">
                     <img src="https://avatars.githubusercontent.com/u/99340017?v=4" width="100px;" alt="Kush Dalsaniya "/>
                     <br />
-                    <sub><b>Shubham Raut</b></sub>
-                </a>
+                    <sub><b>Kush Dalsaniya</b></sub>
             </td>
         </tr>
     </tbody>
