@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KushagraSaxena77">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Kushagra Saxena"/>
+                    <br />
+                    <sub><b>Kushagra Saxena</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
