@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/Dan-dev01">
+                    <img src="https://avatars.githubusercontent.com/u/180811468?v=4" width="100px;" alt="Dan-dev01"/>
+                    <br />
+                    <sub><b>Dan-dev01</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
