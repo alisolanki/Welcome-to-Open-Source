@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Amogh04">
+                    <img src="https://avatars.githubusercontent.com/u/167941459?v=4" width="100px;" alt="Amogh Jain"/>
+                    <br />
+                    <sub><b>Amogh Jain</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
