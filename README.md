@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Ananth09">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ananth S"/>
+                    <img src="https://avatars.githubusercontent.com/u/83899514?v=4" width="100px;" alt="Ananth S"/>
                     <br />
                     <sub><b>Ananth S</b></sub>
                 </a>
