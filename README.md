@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sadaf2005">
+                    <img src="https://avatars.githubusercontent.com/u/129950625?v=4" width="100px;" alt="Sadaf"/>
+                    <br />
+                    <sub><b>Sadaf</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
