@@ -213,6 +213,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amrithshagar</b></sub>
                 </a>
             </td>   
+             <td align="center">
+                <a href="https://github.com/Joyce3924">
+                    <img src="https://avatars.githubusercontent.com/u/113997826?v=4" width="100px;" alt="Joyce Mutati"/>
+                    <br />
+                    <sub><b>Joyce Mutati</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Shubhh4">
                     <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
