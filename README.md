@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/eksandy">
+                    <img src="https://avatars.githubusercontent.com/u/180495665?v=4" width="150px;" alt="eksandy"/>
+                    <br />
+                    <sub><b>Eksandy</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
