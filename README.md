@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AlexWoodroof">
+                    <img src="https://avatars.githubusercontent.com/u/126688581?v=4" width="100px;" alt="Alex Woodroof"/>
+                    <br />
+                    <sub><b>Alex Woodroof 🍉</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
