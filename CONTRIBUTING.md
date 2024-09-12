@@ -19,16 +19,16 @@
     ```
     <td align="center">
         <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Adarsh Singh"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Adarsh Singh</b></sub>
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/AdarshSingh7647">
+            <img src="https://avatars.githubusercontent.com/u/61075561?v=4" width="100px;" alt="Adarsh Singh"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Adarsh Singh
         </a>
     </td>
     ```
