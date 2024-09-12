@@ -329,6 +329,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   </a>
                </td>
                <td align="center">
+                <a href="https://github.com/Freehiei">
+                    <img src="https://avatars.githubusercontent.com/u/109739568?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Ryan Deida</b></sub>
+               </a>
+             </td>
+               <td align="center">
                    <a href="https://github.com/Aalamansari">
                      <img src="https://avatars.githubusercontent.com/u/88039948?s=400&u=a3bc0809eedebe4c362970a8f6b830623aa092e3&v=4" width="100px;" alt="Aalam Ansari"/>
                      <br/>
