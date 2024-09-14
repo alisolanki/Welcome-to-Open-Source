@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/PradunyaDarkonde">
+                    <img src="https://avatars.githubusercontent.com/u/144816742?v=4" width="100px;" alt="Pradunya Darkonde"/>
+                    <br />
+                    <sub><b>Pradunya Darkonde</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/IzzyDevOps">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
