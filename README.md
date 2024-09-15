@@ -134,6 +134,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://www.linkedin.com/in/rohit-chauhan-40242429b">
+                 <img src="https://avatars.githubusercontent.com/u/114080336?s=400&u=dcbf5661327328316a9e606855a4ce97675dab18&v=4" width="100px;" alt="Rohit chauhan"/>
+                    <br />
+                    <sub><b>Rohit chauhan</b></sub>
+                </a>
+             </td>
+             <td align="center">
                 <a href="https://www.linkedin.com/in/mukesh-mallula-bbab8b1aa/">
                  <img src="https://avatars.githubusercontent.com/u/117512070?v=4" width="100px;" alt="Mukesh Mallula"/>
                     <br />
