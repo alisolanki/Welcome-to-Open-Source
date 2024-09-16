@@ -61,6 +61,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/gagan-bihari-nisal">
+                    <img src="https://avatars.githubusercontent.com/u/67864420?v=4" width="100px;" alt="Gagan Bihari Nisal"/>
+                    <br />
+                    <sub><b>Gagan Bihari Nisal</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
