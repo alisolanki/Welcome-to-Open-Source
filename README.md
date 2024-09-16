@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mukeshbuwade1">
+                    <img src="https://avatars.githubusercontent.com/u/89636827?v=4" width="100px;" alt="Mukesh buwade"/>
+                    <br />
+                    <sub><b>Mukesh Buwade</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
