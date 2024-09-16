@@ -6,11 +6,7 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
-    </a>
-</p>
+
 
 <p>List of actively participating individulas in open source contributions</p>
 
@@ -154,6 +150,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
                     <br />
                     <sub><b>Sanket Zade</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Safarfan">
+                    <img src="https://avatars.githubusercontent.com/u/134365142?v=4" width="100px;" alt="Safarfan"/>
+                    <br />
+                    <sub><b>Safarfan</b></sub>
                 </a>
             </td>
             <td align="center">
