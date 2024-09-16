@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/v-8149">
+                    <img src="https://avatars.githubusercontent.com/u/153433118?v=4" width="100px;" alt="Vaishnavi Shivade"/>
+                    <br />
+                    <sub><b>Vaishnavi Shivade</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
