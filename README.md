@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Drupitha-Chandrashekar">
+                    <img src="https://avatars.githubusercontent.com/u/123653841?v=4" width="100px;" alt="Drupitha"/>
+                    <br />
+                    <sub><b>Drupitha</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
