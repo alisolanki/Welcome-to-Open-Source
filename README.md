@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rajnishpsinha">
+                    <img src="https://avatars.githubusercontent.com/u/53823135?v=4" width="100px;" alt="Rajnish Sinha"/>
+                    <br />
+                    <sub><b>Rajnish Sinha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
