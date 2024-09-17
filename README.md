@@ -76,6 +76,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/HarshitGoyal12">
+                    <img src="https://github.com/account" width="100px;" alt="Harshit Goyal"/>
+                    <br />
+                    <sub><b>Harshit Goyal</b></sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
