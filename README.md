@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AnkushGemnani">
+                    <img src="https://avatars.githubusercontent.com/u/73345398?v=4" width="100px;" alt="Ankush Gemnani"/>
+                    <br />
+                    <sub><b>Ankush Gemnani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
