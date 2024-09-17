@@ -53,6 +53,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
+                <td align="center">
+                <a href="[https://alisolanki.com/](https://github.com/rubulhoquechoudhury)">
+                    <img src="[https://avatars.githubusercontent.com/u/55312000?v=4](https://github.com/account)" width="100px;" alt="Rubul Hoque Choudhury"/>
+                    <br />
+                    <sub><b>Rubul Hoque Choudhury</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
