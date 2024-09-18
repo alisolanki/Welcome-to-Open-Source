@@ -12,6 +12,7 @@
     </a>
 </p>
 
+
 <p>List of actively participating individulas in open source contributions</p>
 
 - Add your own details to the contributor list
@@ -54,11 +55,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
-            <td align="center">
+             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Heshan-Lahiru/">
+                    <img src="https://avatars.githubusercontent.com/u/145315285?v=4" width="100px;" alt="Lahiru Heshan"/>
+                    <br />
+                    <sub><b>Lahiru Heshan</b></sub>
                 </a>
             </td>
             <td align="center">
