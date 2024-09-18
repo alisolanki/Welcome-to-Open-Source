@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Treesa-Binoy">
+                    <img src="https://github.com/account" width="100px;" alt="Treesa Binoy"/>
+                    <br />
+                    <sub><b>Treesa Binoy</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
