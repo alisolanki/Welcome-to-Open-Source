@@ -596,7 +596,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Byomkesh Mahato</b></sub>
                 </a>
             </td>
-            </td>
             <td align="center">
                 <a href="https://github.com/sahilshahdesign3">
                     <img src="https://avatars.githubusercontent.com/u/80432860?v=4" width="100px;" alt="Sahil Shah"/>
