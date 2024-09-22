@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KevalBavadiya">
+                    <img src="https://avatars.githubusercontent.com/u/60056875?v=4" width="100px;" alt="Keval Bavadiya"/>
+                    <br />
+                    <sub><b>Keval Bavadiya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
