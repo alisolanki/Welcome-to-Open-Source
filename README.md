@@ -1149,6 +1149,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/lakshmirajvagu">
+                    <img src="https://avatars.githubusercontent.com/u/173184793?s=400&u=ffcb0b1f1595aa737f9038798e940043db885669&v=4" width="100px;" alt="Priyanka Mohanty"/>
+                    <br />
+                    <sub><b>Lakshmi Raj vagu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/p6297">
                     <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Prtha Jyoti Pandey"/>
                     <br />
