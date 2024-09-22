@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ChetanReddy1303">
+                    <img src="https://avatars.githubusercontent.com/u/179363965?v=4" width="100px;" alt="Chetan Reddy"/>
+                    <br />
+                    <sub><b>Chetan Reddy</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
