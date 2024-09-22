@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShobhitDiggikar">
+                    <img src="https://avatars.githubusercontent.com/u/155577402?v=4" width="100px;" alt="Shobhit Diggikar"/>
+                    <br />
+                    <sub><b>Shobhit Diggikar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
