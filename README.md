@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/square-story">
+                    <img src="https://avatars.githubusercontent.com/u/139070345?v=4" width="100px;" alt="Square-story"/>
+                    <br />
+                    <sub><b>MOHAMMED SADIK KP</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
