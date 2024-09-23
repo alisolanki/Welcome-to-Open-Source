@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rajeev Kumar</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://rajeev03.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/92223076?v=4" width="100px;" alt="Rajeev Kumar"/>
+                    <br />
+                    <sub><b>Rajeev Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
