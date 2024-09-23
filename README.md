@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nidhi8404">
+                    <img src="https://avatars.githubusercontent.com/u/102024307?v=4" width="100px;" alt="Nidhi :)"/>
+                    <br />
+                    <sub><b>Nidhi Shinde</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
