@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/akashformcept">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Akash G"/>
+                    <br />
+                    <sub><b>Akash G </b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
