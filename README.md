@@ -149,6 +149,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
+             <td align="center">
+                <a href="https://github.com/AyanT01">
+                    <img src="https://wallpapercave.com/wp/wp2007272.jpg" width="100px;" alt="Abdul Ayantayo"/>
+                    <br />
+                    <sub><b>Abdul A</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/zsank">
                     <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
