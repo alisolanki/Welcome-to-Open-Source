@@ -227,6 +227,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rahul Lalwani</b></sub>
                 </a>
              </td>
+            <td align="center">
+                <a href="https://github.com/shamruddin">
+                    <img src="https://avatars.githubusercontent.com/u/124250239?v=4git" width="100px;" alt="Shamruddin Shaik"/>
+                    <br />
+                    <sub><b>Shamruddin Shaik</b></sub>
+                </a>
+            </td>
              <td align="center">
                  <a href="https://linktr.ee/_madhubalan">
                     <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
