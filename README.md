@@ -1672,6 +1672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Harish-Shejokar">
+                    <img src="https://avatars.githubusercontent.com/u/90904311?s=400&u=0dadabe078c78396de8911e94d1eace6cc0ac0b2&v=4" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Harish🍉</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
              <td align="center">
