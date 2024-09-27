@@ -31,6 +31,7 @@
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
+    
 </p>
   
 <p align="center">
@@ -1714,6 +1715,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AneeshPathak">
+                    <img src="https://avatars.githubusercontent.com/u/108947656?v=4" width="100px;" alt="Aneesh Pathak"/>
+                    <br />
+                    <sub><b>Aneesh Pathak</b></sub>
                 </a>
             </td>
         </tr>
