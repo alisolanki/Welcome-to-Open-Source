@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/zsegla">
+                    <img src="https://cdn.pixabay.com/photo/2020/05/31/16/41/amazing-5243207_1280.jpg" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
-            </td>
+            </td>   
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
