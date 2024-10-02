@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/valay30">
+                    <img src="https://avatars.githubusercontent.com/u/113221655?v=4" width="100px;" alt="Valay Patel"/>
+                    <br />
+                    <sub><b>Valay Patel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
