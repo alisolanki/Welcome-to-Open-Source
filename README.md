@@ -1695,6 +1695,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shivam Choudhary</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/23wh1a0516">
+                    <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Vaishnavi"/>
+                    <br />
+                    <sub><b>Vaishnavi 🍉</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
