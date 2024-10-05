@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rishparna02">
+                    <img src="https://avatars.githubusercontent.com/u/109991962?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Rishparna Bandopadhyay</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
