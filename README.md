@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/rishita-badole">
-                    <img src="https://avatars.githubusercontent.com/u/86981555?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/86981555?v=4" width="100px;" alt="Rishita Badole"/>
                     <br />
                     <sub><b>Rishita Badole</b></sub>
                 </a>
