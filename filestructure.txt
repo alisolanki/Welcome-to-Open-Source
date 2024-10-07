@@ -1,0 +1,7 @@
+|-- .github
+    |-- FUNDING.yml
+    |-- workflows
+        |-- pull_request_validation.yml
+        |-- validate_pr.py
+|-- CONTRIBUTING.md
+|-- README.md
