@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nikunjk9">
+                    <img src="https://avatars.githubusercontent.com/u/140910919?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Nikunj Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
