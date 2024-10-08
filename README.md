@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Code-o-pathy">
+                    <img src="https://avatars.githubusercontent.com/u/118040049?v=4" width="100px;" alt="Ankit Yadav"/>
+                    <br />
+                    <sub><b>Ankit Yadav</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
