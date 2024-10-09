@@ -19,10 +19,10 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
+    <a href="https://www.twitter.com/alisolanki">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
+    <a href="https://linkedin.com/in/aliSolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
     <a href="https://www.youtube.com/AliSolanki">
@@ -54,6 +54,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/iamshreyash7">
+                    <img src="https://avatars.githubusercontent.com/u/131405929?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Shreyash Sharma</b></sub>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
