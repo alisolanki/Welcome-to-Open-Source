@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/github4maninder">
+                    <img src="https://avatars.githubusercontent.com/u/90073393?v=4" width="100px;" alt="Maninder Sidhu"/>
+                    <br />
+                    <sub><b>Maninder Sidhu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
