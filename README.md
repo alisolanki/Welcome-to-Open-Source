@@ -1009,13 +1009,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Piyush Aditya Kar</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Sunny-25">
-                    <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
-                    <br />
-                    <sub><b>Praveen Kumar Potturi</b></sub>
-                </a>
-            </td> 
         </tr>
         <tr>
             <td align="center">
@@ -1723,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sunny-25">
+                    <img src="https://avatars.githubusercontent.com/u/107023613?v=4" width="100px;" alt="Praveen Potturi"/>
+                    <br />
+                    <sub><b>Praveen Kumar Potturi</b></sub>
+                </a>
+            </td> 
         </tr>
     </tbody>
 </table>
