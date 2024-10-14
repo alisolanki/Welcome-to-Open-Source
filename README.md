@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/Narayan-cpu">
+                    <img src="https://avatars.githubusercontent.com/u/125474254?v=4" width="100px;" alt="Narayan naik"/>
+                    <br />
+                    <sub><b>Narayan cpu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
