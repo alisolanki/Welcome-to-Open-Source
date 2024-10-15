@@ -1715,6 +1715,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
+                <a href="https://github.com/aviyan171">
+                    <img src="https://avatars.githubusercontent.com/u/77622129?v=4" width="100px;" alt="Abhiyan Upreti"/>
+                    <br />
+                    <sub><b>Abhiyan Upreti</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
