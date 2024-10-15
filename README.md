@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vaswanianmol">
+                    <img src="https://avatars.githubusercontent.com/u/111975195?s=400&v=4" width="100px;" alt="Anmol Vaswani"/>
+                    <br />
+                    <sub><b>Anmol Vaswani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
