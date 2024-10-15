@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arkapaal">
+                    <img src="https://avatars.githubusercontent.com/u/156821082?v=4" width="100px;" alt="Arka Pal"/>
+                    <br />
+                    <sub><b>Arka Pal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
