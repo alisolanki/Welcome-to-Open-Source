@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/santoshvandari">
+                    <img src="https://github.com/santoshvandari.png" width="100px;" alt="Santosh Bhandari"/>
+                    <br />
+                    <sub><b>Santosh Bhandari</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
