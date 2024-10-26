@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/shashankch2003">
-                    <img src="https://avatars.githubusercontent.com/u/122424766?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/122424766?v=4" width="100px;" alt="shashank cheere"/>
                     <br />
                     <sub><b>shashank cheere</b></sub>
                 </a> 
