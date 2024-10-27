@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sahilgehani10">
+                    <img src="https://avatars.githubusercontent.com/u/122249506?v=4" width="100px;" alt="Sahil Gehani"/>
+                    <br />
+                    <sub><b>Sahil Gehani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
