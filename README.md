@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/munsif-dev">
+                    <img src="https://avatars.githubusercontent.com/u/113419042?v=4" width="100px;" alt="Munsif Dev"/>
+                    <br />
+                    <sub><b>Munsif-Dev</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
