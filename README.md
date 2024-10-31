@@ -74,6 +74,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
+            </td> <td align="center">
+                <a href="https://www.harshitakatariya.dev/">
+                    <sub><b>Harshit Katariya</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
