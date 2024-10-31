@@ -76,7 +76,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> <td align="center">
                 <a href="https://www.harshitakatariya.dev/">
-                    <sub><b>HK</b></sub>
+                    <sub><b>Harshita Katariya (HK)</b></sub>
                 </a>
             </td>
             <td align="center">
