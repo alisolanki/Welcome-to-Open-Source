@@ -5,6 +5,20 @@
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
+<td align="center">
+    <a href="https://alisolanki.com/">
+        <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <br />
+        <sub><b>Ali Solanki</b></sub>
+    </a>
+</td>
+ <td align="center">
+    <a href="https://github.com/nrk8008">
+        <img src="https://avatars.githubusercontent.com/u/104249073?v=4"/>
+        <br />
+        <sub><b>Rajesh kumar</b>
+    </a>
+</td>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
