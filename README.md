@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">   
                 <a href="https://github.com/CodeByAshuu">
-                    <img src="https://avatars.githubusercontent.com/u/141819298?v=4" width="100px;" alt="Sagar Sahu"/>
+                    <img src="https://avatars.githubusercontent.com/u/141819298?v=4" width="100px;" alt="Sagar"/>
                     <br />
                     <sub><b>Sagar Sahu</b></sub>
                 </a>
