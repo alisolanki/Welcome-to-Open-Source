@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ChristianBustamante29">
-                    <img src="https://avatars.githubusercontent.com/u/167146436?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/167146436?v=4" width="100px;" alt="Christian Bustamante"/>
                     <br />
                     <sub><b>Christian Bustamante</b></sub>
                 </a>
