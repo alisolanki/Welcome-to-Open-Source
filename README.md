@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/vijay0984567">
+                    <img src="https://avatars.githubusercontent.com/u/159708609?s=400&u=905cf744df2dc61886e1b40eb60a3aacbf5cb4c9&v=4" width="100px;" alt="Vijay Kumar"/>
+                    <br />
+                    <sub><b>Vijay Kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
