@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<p>List of actively participating individulas in open source contributions</p>
+
 
 - Add your own details to the contributor list
 - Make a Pull Request
