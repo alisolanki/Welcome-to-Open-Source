@@ -1620,6 +1620,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Xiaobo Xing</b></sub>
                </a>
+           </td> 
+           <td align="center">
+                <a href="https://github.com/CaptainSyrus2000">
+                    <img src="https://avatars.githubusercontent.com/u/188002532?v=4" width="100px;" alt="Xiaobo Xing"/>
+                    <br />
+                    <sub><b>Furuya Testuya</b></sub>
+               </a>
            </td>
         </tr>
         <tr>
