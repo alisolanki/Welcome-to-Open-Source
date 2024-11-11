@@ -22,13 +22,13 @@
     <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
+    <a href="https://linkedin.com/in/that-ar-guy">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
+    <a href="https://www.youtube.com/">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
-    <a href="https://www.instagram.com/alisolankii">
+    <a href="https://www.instagram.com/that.ar.guy">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
