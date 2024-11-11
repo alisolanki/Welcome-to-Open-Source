@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SarthakHingankar">
+                    <img src="https://avatars.githubusercontent.com/u/92807189?v=4" width="100px;" alt="Sarthak Hingankar"/>
+                    <br />
+                    <sub><b>Sarthak Hingankar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
