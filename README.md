@@ -1716,6 +1716,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/DhavalRavaliya">
+                    <img src="https://avatars.githubusercontent.com/u/126508252?v=4" width="100px;" alt="Dhaval Ravaliya"/>
+                    <br />
+                    <sub><b>Dhaval Ravaliya</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
