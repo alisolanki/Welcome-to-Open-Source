@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Darshit-Thakkar">
-                    <img src="https://github.com/account" width="100px;" alt="Darshit Thakkar"/>
+                    <img src="https://avatars.githubusercontent.com/u/172064491?v=4" width="100px;" alt="Darshit Thakkar"/>
                     <br />
                     <sub><b>Darshit Thakkar</b></sub>
                 </a>
