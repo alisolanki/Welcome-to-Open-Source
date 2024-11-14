@@ -1716,6 +1716,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/IzzyDevOps">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="PB"/>
+                    <br />
+                    <sub><b>PB</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jdsjhjkfhsd">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="PB"/>
+                    <br />
+                    <sub><b>GOOD</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
