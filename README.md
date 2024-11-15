@@ -1714,7 +1714,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
-                </a>
+                </a>                
+            </td>
+            <td align="center">
+                <a href="https://github.com/ovielee">
+                    <img src="https://avatars.githubusercontent.com/u/62611725?v=4" width="100px;" alt="Ovie Oke"/>
+                    <br />
+                    <sub><b>Ovie Oke</b></sub>
+                </a>                
             </td>
         </tr>
     </tbody>
