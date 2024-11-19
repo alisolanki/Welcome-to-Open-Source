@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dagiStark">
+                    <img src="https://avatars.githubusercontent.com/u/160214504?v=4" width="100px;" alt="Dagim Gelaneh"/>
+                    <br />
+                    <sub><b>Dagim Gelaneh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
