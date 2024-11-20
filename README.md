@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Aryan2727-debug">
+                    <img src="https://avatars.githubusercontent.com/u/78311368?v=4" width="100px;" alt="Aryan Dev Shourie"/>
+                    <br />
+                    <sub><b>Aryan Dev Shourie</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
