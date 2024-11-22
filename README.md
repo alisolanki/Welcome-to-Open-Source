@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/amitrawani07">
                     <img src="https://img.freepik.com/premium-photo/cute-handsome-anime-boy-blue-light_675932-435.jpg" width="100px;" alt="Amit"/>
                     <br />
-                    <sub><b>Amit Kumar</b></sub>
+                    <sub><b>Amit</b></sub>
                 </a> 
             </td>
             <td align="center">
