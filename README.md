@@ -1,7 +1,7 @@
 # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
-    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
+    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Snehal Salvi)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
@@ -49,9 +49,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Snehal Salvi</b></sub>
                 </a> 
             </td>
             <td align="center">
@@ -309,7 +309,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/debashishbordoloi/">
-                    <img src="https://avatars.githubusercontent.com/u/116879082?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/116879082?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
                     <sub><b>Debashish Bordoloi</b></sub>
                 </a>
@@ -940,7 +940,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ayush-aks">
-                    <img src="https://avatars.githubusercontent.com/u/88273791?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/88273791?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
                     <sub><b>Ayush Shrivastav</b></sub>
                 </a>
@@ -969,7 +969,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/therealtmmy">
-                    <img src="https://avatars.githubusercontent.com/u/107879861?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/107879861?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
                     <sub><b>Oluwatimilehin Esan</b></sub>
             </td>
@@ -1411,7 +1411,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/420sanjaykumar">
-                    <img src="https://avatars.githubusercontent.com/u/64832308?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/64832308?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
                     <sub><b>Sanjay Bhardwaj</b></sub>
                 </a>
@@ -1506,7 +1506,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://harshdeep.com/">
-                    <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Snehal Salvi"/>
                     <br />
                     <sub><b>Hasrhdeep</b></sub>
                 </a>
