@@ -47,7 +47,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
+            <td align="center">
                 <a href="https://github.com/amitrawani07">
                     <img src="https://img.freepik.com/premium-photo/cute-handsome-anime-boy-blue-light_675932-435.jpg" width="100px;" alt="Amit"/>
                     <br />
