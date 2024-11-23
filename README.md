@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/amitrawani07">
-                    <img src="https://img.freepik.com/premium-photo/cute-handsome-anime-boy-blue-light_675932-435.jpg" width="100px;" alt="Amit"/>
+                    <img src="https://avatars.githubusercontent.com/u/178783034?v=4" width="100px;" alt="Amit"/>
                     <br />
                     <sub><b>Amit</b></sub>
                 </a> 
