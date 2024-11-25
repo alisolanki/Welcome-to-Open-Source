@@ -12,7 +12,8 @@
     </a>
 </p>
 
-<p>List of actively participating individulas in open source contributions</p>
+<p>List of actively participating individulas in open source contributions
+</p>
 
 - Add your own details to the contributor list
 - Make a Pull Request
@@ -1708,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Maxiemad">
+                    <img src="https://avatars.githubusercontent.com/u/182759289?s=400&u=7f50ceedcccdc5643924a5ddaf9fcff5a9b409f8&v=4" width="100px;" alt="Akanksha"/>
+                    <br />
+                    <sub><b>Akanksha</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/IzzyDevOps">
