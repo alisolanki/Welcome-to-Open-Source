@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hitarthsh">
+                    <img src="https://avatars.githubusercontent.com/u/90967985?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Hitarth Shah</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
