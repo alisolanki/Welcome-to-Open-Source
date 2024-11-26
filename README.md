@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
+                <a href="https://github.com/devTanmayBang2104">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="https://i.pinimg.com/originals/34/22/2a/34222a8f0d41c9158729fe194a789268.jpg" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
