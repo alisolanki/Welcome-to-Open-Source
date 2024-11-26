@@ -1056,12 +1056,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/mahaveer82">
                     <img src="https://avatars.githubusercontent.com/u/77223066?v=4" width="100px;" alt="Praveen Potturi"/>
-                    <br />
+                    <br />https://avatars.githubusercontent.com/u/114165675?s=400&u=1195246982166aad2e3d238bf8acdc1161f7ee59&v=4
                     <sub><b>Mahaveer Jain</b></sub>
                 </a>
             </td>
         </tr>
         <tr>
+            <td align="center">
+                <a href="https://github.com/vijaytakbhate2002">
+                    <img src="https://avatars.githubusercontent.com/u/114165675?s=400&u=1195246982166aad2e3d238bf8acdc1161f7ee59&v=4" width="100px;" alt="Vijay Takbhate"/>
+                    <br />
+                    <sub><b>Vijay Takbhate</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/KHAGENDRA0P">
                     <img src="https://avatars.githubusercontent.com/u/115104341?v=4" width="100px;" alt="KHAGENDRA"/>
