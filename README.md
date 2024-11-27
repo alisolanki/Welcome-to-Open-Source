@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/KelFrontEndDev">
+                    <img src="https://avatars.githubusercontent.com/u/55640509?v=4" width="100px;" alt="Kelvin Arias"/>
+                    <br />
+                    <sub><b>Kelvin Arias</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
