@@ -671,6 +671,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/webkadirlivi">
+                    <img src="https://avatars.githubusercontent.com/u/114938890?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Kadir Livi</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/Sannitya-13">
                     <img src="https://avatars.githubusercontent.com/u/97282952?v=4" width="100px;" alt="Sannitya"/>
                     <br />
