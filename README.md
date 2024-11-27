@@ -38,7 +38,6 @@
 </p>
 
 ## Contributors 🍉
-
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -124,6 +123,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
                     <sub><b>Kaushal Lohar</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sum-it07">
+                    <img src="https://avatars.githubusercontent.com/u/156155151?v=4" width="100px;" alt="Sumit Shrestha"/>
+                    <br />
+                    <sub><b>Sumit Shrestha</b></sub>
                 </a>
             </td>
             <td align="center">
