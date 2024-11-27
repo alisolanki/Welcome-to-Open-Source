@@ -141,6 +141,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://github.com/Shanayshah44/">
+                    <img src="https://github.com/settings/profile"
+                     width="100px;" alt="Shanay Shah"/>
+                    <br />
+                    <sub><b>Shanay Shah</b></sub>
+                </a> 
+            </td>
+             <td align="center">
                 <a href="https://github.com/nagasaipurvaz">
                     <img src="https://avatars.githubusercontent.com/u/68222105?s=400&u=5469ebc36d12828efbef25500427568051369196&v=4" width="100px;" alt="Naga sai purvaz"/>
                     <br />
