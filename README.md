@@ -55,10 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/EnigmaShi">
+                    <img src="https://avatars.githubusercontent.com/u/156432146?s=400&u=27985ae197e33e7d9dbb596b79684246e10352bd&v=4" width="100px;" alt="Shivangi Chandra"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Shivangi Chandra</b></sub>
                 </a>
             </td>
             <td align="center">
