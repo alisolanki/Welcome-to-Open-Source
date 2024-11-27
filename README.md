@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://www.notesveda.com/">
+                    <img src="https://avatars.githubusercontent.com/itanuranjan" width="100px;" alt="Anuranjan Kumar"/>
+                    <br />
+                    <sub><b>Anuranjan Kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
