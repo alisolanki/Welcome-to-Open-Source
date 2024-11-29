@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/junaidcodes/">
+                    <img src="https://avatars.githubusercontent.com/u/190106737?v=4" width="100px;" alt="Mohd Junaid"/>
+                    <br />
+                    <sub><b>Mohd Junaid</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
