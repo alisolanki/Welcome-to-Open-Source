@@ -55,10 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/kushal961">
+                    <img src="https://avatars.githubusercontent.com/u/145090010?s=400&u=8835b4ff95149bddff5d1c0355787c510e88f36b&v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Kushal Katare</b></sub>
                 </a>
             </td>
             <td align="center">
