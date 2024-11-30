@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/jaswanthkumarreddy999">
-                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/155978069?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>jaswanth kumar reddy</b></sub>
                 </a>
