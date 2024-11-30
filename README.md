@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Jeevajothiga">
-                    <img src="https://avatars.githubusercontent.com/u/123095643?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/123095643?v=4" width="100px;" alt="jeevajothiga"/>
                     <br />
                     <sub><b>Jeeva Jothiga</b></sub>
                 </a> 
