@@ -1720,7 +1720,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/deekshitha-03">
                     <img src="https://avatars.githubusercontent.com/u/154053330?v=4&size=64" width="100px;" alt="Deekshitha M"/>
                     <br />
-                    <sub><b>Deekshitha M</b></sub>
+                    <sub><b>Deekshitha_M</b></sub>
                 </a>
             </td>
         </tr>
