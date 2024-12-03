@@ -1710,6 +1710,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/DeveloperLevin">
+                    <img src="https://avatars.githubusercontent.com/u/107058217?v=4" width="100px;" alt="Levin Samson Moras"/>
+                    <br />
+                    <sub><b>Levin Samson Moras</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/IzzyDevOps">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
