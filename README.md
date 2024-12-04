@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ManInTheHam">
-                    <img src="https://avatars.githubusercontent.com/u/91250124?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/91250124?v=4" width="100px;" alt="ManInTheHam"/>
                     <br />
                     <sub><b>ManInTheHam</b></sub>
                 </a>
