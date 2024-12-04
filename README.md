@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/battlesofarmy">
+                    <img src="https://avatars.githubusercontent.com/u/155252694?v=4" width="100px;" alt="Muntasir Ahmed Fahim"/>
+                    <br />
+                    <sub style="color:red"><b><i> Muntasir Ahmed Fahim </i></b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
