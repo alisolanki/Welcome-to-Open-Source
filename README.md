@@ -1716,6 +1716,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DivyaSimhadri1004">
+                    <img src="https://avatars.githubusercontent.com/u/159693146?s=400&u=7dfc0eb4da2231528bd4e4fe152aa81cc2772c1f&v=4" 
+                    width="100px;" alt="Simhadri Divya"/>
+                    <br />
+                    <sub><b>Simhadri Divya</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
