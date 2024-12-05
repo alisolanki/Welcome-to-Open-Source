@@ -1723,7 +1723,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mehfila Parkkulthil </b></sub>
                 </a>
             </td>
-
         </tr>
     </tbody>
 </table>
