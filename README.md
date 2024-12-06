@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+    <a href="ttps://avatars.githubusercontent.com/u/55312000?v=4">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
 </p>
