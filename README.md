@@ -74,6 +74,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/Harsh772005">
+                    <img src="https://avatars.githubusercontent.com/u/120744063?v=4" width="100px;" alt="Harsh Bhanushali"/>
+                    <br />
+                    <sub><b>Harsh Bhanushali</b></sub>
+                </a>
+            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
