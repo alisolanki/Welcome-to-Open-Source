@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
               <td align="center">
                 <a href="https://github.com/Dhanajaysingh">
-                    <img src="C:\Users\dhana\Downloads\Picsart_24-09-15_22-20-16-042.jpg" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/98646657?v=4" width="100px;" alt="Dhananjay Singh"/>
                     <br />
                     <sub><b>Dhananjay Singh</b></sub>
                 </a>
