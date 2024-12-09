@@ -67,6 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/salonikhanapure">
+                    <img src="https://avatars.githubusercontent.com/u/103118243?s=400&v=4" width="100px;" alt="Saloni Khanapure"/>
+                    <br />
+                    <sub><b>Saloni Khaanpure</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
