@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Dhanajaysingh">
+                    <img src="C:\Users\dhana\Downloads\Picsart_24-09-15_22-20-16-042.jpg" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Dhananjay Singh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
