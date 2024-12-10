@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/atharvadhurwey">
+                    <img src="https://avatars.githubusercontent.com/u/67039916?v=4" width="100px;" alt="Atharva Dhurwey"/>
+                    <br />
+                    <sub><b>Atharva Dhurwey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
