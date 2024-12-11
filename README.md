@@ -1716,6 +1716,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/ShubhAgarwal-03">
+                    <img src="https://avatarfiles.alphacoders.com/336/thumb-1920-336858.jpg" width="100px;" alt="Shubh Agarwal"/>
+                    <br />
+                    <sub><b>Shubh Agarwal</b></sub>
+                </a>
+            </td>
+            
         </tr>
     </tbody>
 </table>
+
+
