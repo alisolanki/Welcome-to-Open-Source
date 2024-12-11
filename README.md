@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShankhanilSaha">
+                    <img src="https://ahttpsvatars.githubusercontent.com/u/182421425?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Shankhanil Saha</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
