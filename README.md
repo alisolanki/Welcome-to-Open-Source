@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mihu008">
+                    <img src="https://avatars.githubusercontent.com/u/93091501?s=400&u=bef815296f560606b16dd017beee3b187ae8f9e5&v=4" width="100px;" alt="Mihir Singh Netam"/>
+                    <br />
+                    <sub><b>Mihir Singh Netam</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
