@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/Pushkar021">
+                <img src="https://avatars.githubusercontent.com/u/157273057?v=4" width="100px;" alt="Pushkar Patel"/>
+                <br />
+                <sub><b>Pushkar Patel</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
