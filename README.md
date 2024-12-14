@@ -1717,5 +1717,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <td align="center">
+                <a href="https://github.com/TanmayChawhan">
+                    <img src="https://avatars.githubusercontent.com/u/148749483?v=4" width="100px;" alt="Tanmay Chawhan"/>
+                    <br />
+                    <sub><b>Tanmay Chawhan</b></sub>
+                </a>
+</td>
     </tbody>
 </table>
