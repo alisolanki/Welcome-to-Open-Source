@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+    <a href="https://github.com/SMishra-12">
+        <img src="https://private-avatars.githubusercontent.com/u/155186632?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNjMwMjAsIm5iZiI6MTczNDE2MTgyMCwicGF0aCI6Ii91LzE1NTE4NjYzMiJ9.co6p514DkhO-rhkpC64_NYbYlpf2vJzOWlMAYJGqNIU&v=4" width="100px;" alt="Shreya Mishra"/>
+        <br />
+        <sub><b>Shreya Mishra</b></sub>
+    </a>
+                                                                                                                                                                                 
         </tr>
     </tbody>
 </table>
