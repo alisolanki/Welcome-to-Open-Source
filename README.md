@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kunall03">
+                <img src="https://avatars.githubusercontent.com/u/141168287?v=4" width="100px;" alt="Ali Solanki"/>
+                <br />
+                <sub><b>Knal Keshri</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
