@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Gagan232004">
+                    <img src="https://avatars.githubusercontent.com/u/153422944?v=4" width="100px;" alt="Gagan Shetty"/>
+                    <br />
+                    <sub><b>Gagan Shetty</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
