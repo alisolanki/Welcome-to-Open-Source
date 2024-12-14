@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/patilprathamesh07">
+                    <img src="https://avatars.githubusercontent.com/u/172136259?v=4" width="100px;" alt="Prathamesh Patil"/>
+                    <br />
+                    <sub><b>Prathamesh Patil</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1714,13 +1721,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/patilprathamesh07">
-                    <img src="https://avatars.githubusercontent.com/u/172136259?v=4" width="100px;" alt="Prathamesh Patil"/>
-                    <br />
-                    <sub><b>Prathamesh Patil</b></sub>
                 </a>
             </td>
         </tr>
