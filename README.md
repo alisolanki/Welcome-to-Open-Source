@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JeetSDE">
+                    <img src="https://avatars.githubusercontent.com/u/191666659?s=48&v=4" width="100px;" alt="Vishwajeet Gupta"/>
+                    <br />
+                    <sub><b>Vishwajeet Gupta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
