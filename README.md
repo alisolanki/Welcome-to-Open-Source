@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/patilprathamesh07">
+                <a href="https://github.com/prathamesh-patil-5090">
                     <img src="https://avatars.githubusercontent.com/u/172136259?v=4" width="100px;" alt="Prathamesh Patil"/>
                     <br />
                     <sub><b>Prathamesh Patil</b></sub>
