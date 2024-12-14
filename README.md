@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/GauravPrabhu234">
+                    <img src="https://avatars.githubusercontent.com/u/112855241?s=400&u=26517e4022f6deb40d6d0fb8624113caffcf7e7d&v=4" width="100px;" alt="Gaurav Prabhu"/>
+                    <br />
+                    <sub><b>Gaurav Prabhu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
