@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Bhavesh Kumavat</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Bhaveshkumavat8855">
+                    <img src="https://avatars.githubusercontent.com/u/140584811?v=4" width="100px;" alt="Bhavesh Kumavat"/>
+                    <br />
+                    <sub><b>Bhavesh Kumavat</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
