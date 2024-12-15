@@ -1724,12 +1724,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
-                <a href="https://github.com/wingcheew">
-                    <img src="https://avatars.githubusercontent.com/u/191438807?v=4" width="100px;" alt="Wingchee W"/>
-                    <br />
-                    <sub><b>Wingchee W</b></sub>
-                </a> 
-            </td>
+            <a href="https://github.com/wingcheew">
+                <img src="https://avatars.githubusercontent.com/u/191438807?v=4" width="100px;" alt="Wingchee W"/>
+                <br />
+                <sub><b>Wingchee W</b></sub>
+            </a> 
+        </td>
         </tr>
     </tbody>
 </table>
