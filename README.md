@@ -164,8 +164,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/kumar">
-                    <img src="https://avatars.githubusercontentjsdfhisjdf.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
+                <a href="https://github.com/abhishekbitturaja">
+                    <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;" alt="Vishal Aynodkar"/>
                     <br />
                     <sub><b>bitturaja</b></sub>
                 </a>
