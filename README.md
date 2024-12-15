@@ -171,6 +171,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/tyarram262">
+                    <img src="https://avatars.githubusercontent.com/u/138905100?v=4" width="100px;" alt="Tanush Yarram"/>
+                    <br />
+                    <sub><b>Tanush Yarram</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lmutum">
                     <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
