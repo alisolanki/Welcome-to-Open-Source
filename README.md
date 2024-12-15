@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/MahirAbrar">
+                <img src="https://avatars.githubusercontent.com/u/61085727?v=4" width="100px;" alt="Hamid Abrar Mahir"/>
+                <br />
+                <sub><b>Hamid Abrar Mahir</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
