@@ -1717,6 +1717,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/dhruvi2403">
+                    <img src="https://avatars.githubusercontent.com/u/175338002?v=4" width="100px;" alt="Dhruvi Patel"/>
+                    <br />
+                    <sub><b>Dhruvi Patel</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
