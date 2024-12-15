@@ -352,6 +352,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
+                <a href="https://github.com/Stranger-One">
+                    <img src="https://avatars.githubusercontent.com/u/149139274?v=4" width="100px;" alt="Dolamani Rohidas"/>
+                    <br />
+                    <sub><b>Dolamani Rohidas</b></sub>
+               </a>
+           </td>
+            <td align="center">
                 <a href="https://github.com/Zydiag">
                     <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
                     <br />
@@ -1717,12 +1724,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <a href="https://github.com/jprabhat">
-                <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
-                <br />
-                <sub><b>Prabhat Jha</b></sub>
-            </a>
-        </td>
+                <a href="https://github.com/jprabhat">
+                    <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
+                    <br />
+                    <sub><b>Prabhat Jha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
