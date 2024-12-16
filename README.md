@@ -1098,6 +1098,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                  </a>
              </td>
             <td align="center">
+    <a href="https://github.com/LifnaJos/">
+        <img src="https://avatars.githubusercontent.com/u/7581840?v=4" width="100px;" alt="Lifna C S"/>
+        <br />
+        <sub><b>Lifna C S</b></sub>
+    </a>
+</td>
+            <td align="center">
                 <a href="https://github.com/anikk94">
                     <img src="https://avatars.githubusercontent.com/u/44950099?v=4" width="100px;" alt="Anirudh Krishnan"/>
                     <br />
