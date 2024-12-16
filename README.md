@@ -1689,8 +1689,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/shivamchoudhary19">
-                    <img src="https://avatars.githubusercontent.com/u/102156046?v=4" width="100px;" alt="Shivam Choudhary"/>
+                <a href="https://github.com/urmishikha">
+                    <img src="https://avatars.githubusercontent.com/u/123965835?s=400&u=546e75756fe7f3e2232c82006a3444eff28daca2&v=4" width="100px;" alt="Shivam Choudhary"/>
                     <br />
                     <sub><b>Shivam Choudhary</b></sub>
                 </a>
@@ -1703,6 +1703,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ShubhamRaut280">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
