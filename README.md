@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/YashMahajan45">
-                    <img src="https://avatars.githubusercontent.com/u/191863710?v=4" width="100px;" alt="Yash Mahajan"/>
+                    <img src="https://avatars.githubusercontent.com/u/191863710?s=16&v=4" width="100px;" alt="Yash Mahajan"/>
                     <br />
                     <sub><b>Yash Mahajan</b></sub>
                 </a>
