@@ -715,6 +715,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tanishka-Sharma774">
+                    <img src="https://avatars.githubusercontent.com/u/182122623?v=4" width="100px;" alt="Tanishka Sharma"/>
+                    <br />
+                    <sub><b>Tanishka Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/abhisiva">
                     <img src="https://avatars.githubusercontent.com/u/109434827?v=4" width="100px;" alt="Abhi Siva"/>
                     <br />
