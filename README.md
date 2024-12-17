@@ -11,6 +11,13 @@
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
 </p>
+ <td align="center">
+        <a href="https://github.com/IQRAZAM">
+            <img src="https://avatars.githubusercontent.com/u/139967916?v=4" width="100px;" alt="Iqra Azam"/>
+            <br />
+            <sub><b>Iqra Azam
+        </a>
+    </td>
 
 <p>List of actively participating individulas in open source contributions</p>
 
