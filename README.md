@@ -1725,7 +1725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
             <td align="center">
                 <a href="https://github.com/SiddharthSomal">
-                    <img src="https://avatars.githubusercontent.com/u/80042665?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/80042665?v=4" width="100px;" alt="Siddharth Somal"/>
                     <br />
                     <sub><b>Siddharth Somal</b></sub>
                 </a>
