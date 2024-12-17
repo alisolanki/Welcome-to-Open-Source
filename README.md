@@ -1709,6 +1709,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+            <a href="https://github.com/Hari1585">
+                <img src="https://avatars.githubusercontent.com/u/46213054?v=4" width="100px;" alt="Hari Prasad Reddy Marri"/>
+                <br />
+                <sub><b>Hari Prasad Reddy Marri</b></sub>
+            </a>
+        </td>
             <td align="center">
                 <a href="https://github.com/IzzyDevOps">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
@@ -1723,6 +1731,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        
         </tr>
     </tbody>
 </table>
