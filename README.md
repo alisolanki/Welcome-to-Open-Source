@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/venkatttttt">
+                    <img src="https://avatars.githubusercontent.com/u/136974098?v=4" width="100px;" alt="Venkat Ganta"/>
+                    <br />
+                    <sub><b>Venkat Ganta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
