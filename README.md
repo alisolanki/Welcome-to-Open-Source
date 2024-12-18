@@ -1717,6 +1717,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/unn-info-tech">
+                    <img src="https://private-avatars.githubusercontent.com/u/123865261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQwMDQ4NjAsIm5iZiI6MTczNDAwMzY2MCwicGF0aCI6Ii91LzEyMzg2NTI2MSJ9.mkOBHWcZ7O-XOjOIyV3HVigqEEjAxtXU8eKTsjgWmCc&v=4" width="100px;" alt="Nematillo Uktamov"/>
+                    <br />
+                    <sub><b>Nematillo Uktamov</b></sub>
+                </a> 
+            </td>
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
