@@ -171,6 +171,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/monk0707">
+                    <img src="https://private-avatars.githubusercontent.com/u/115211980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzY4MDAsIm5iZiI6MTczNDY3NTYwMCwicGF0aCI6Ii91LzExNTIxMTk4MCJ9.RETg5EnEdmgDtyP2xPE6F4cqXtds3WB0lhC7WvY6vNA&v=4" width="100px;" alt="Arvind Sharma"/>
+                    <br />
+                    <sub><b>Arvind Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lmutum">
                     <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
