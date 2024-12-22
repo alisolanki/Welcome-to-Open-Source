@@ -82,12 +82,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Preeti Raj</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Kandi-Venkatesh99">
-                    <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
-                    <br />
-                    <sub><b>Venkatesh k</b></sub>
-                </a>
             </td>
            <td align="center">
                 <a href="https://github.com/sahil-ansari01">
@@ -182,7 +176,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Mahesh Guntumadugu</b></sub>
                 </a>
-            </td>
+            </td>    
+                <td align="center">
+                    <a href="https://github.com/madcs50">
+                         <img scr="https://avatars.githubusercontent.com/u/192332696?v=4" width="100px;" alt="madhav gampa"/>
+                         <br />
+                         <sub><b>gampa sri madhav</b></sub>
+                    </a>
+                </td>        
             <td align="center">
                 <a href="https://github.com/a60231023">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
