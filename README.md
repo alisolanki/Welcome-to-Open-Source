@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+                <a href="https://github.com/AjinkyaSalunke22">
+                    <img src="https://avatars.githubusercontent.com/u/114003751?s=400&u=bd8edb3e9970b4037f72570b6007852222f56912&v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Ajinkya Salunke</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
