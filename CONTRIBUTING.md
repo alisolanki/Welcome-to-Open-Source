@@ -26,7 +26,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Sahitha03">
-            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Ali Solanki"/>
+            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
             <br />
             <sub><b>Aluri Sai Sahitha</b></sub>
         </a>
