@@ -1723,7 +1723,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-         <td align="center">
+        </tr>
+        <tr>
+             <td align="center">
                 <a href="https://github.com/ArpitaBaraskar">
                     <img src="https://avatars.githubusercontent.com/u/161856961?v=4" width="100px;" alt="Arpita Baraskar"/>
                     <br />
