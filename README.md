@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/frahaman786">
+                    <img src="https://avatars.githubusercontent.com/u/173647537?v=4" width="100px;" alt="Fazley Rahaman Molla"/>
+                    <br />
+                    <sub><b>Fazley Rahaman Molla</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
