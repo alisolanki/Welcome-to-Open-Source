@@ -1696,6 +1696,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+				<a href="https://github.com/garvitpathak27">
+				<img src="https://avatars.githubusercontent.com/u/57597372?s=96&v=4" width="100px;" alt="Neeraj Madake"/>
+				<br />
+				<sub><b>Neeraj Madake
+				</a>
+			</td>
+             <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
@@ -1724,5 +1731,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        
+        
     </tbody>
 </table>
