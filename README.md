@@ -1722,6 +1722,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <a href="https://github.com/SanjayUG">
+                <img src="https://avatars.githubusercontent.com/u/122535741?v=4" width="100px;" alt="Sanjay UG"/>
+                <br />
+                <sub><b>Sanjay UG</b></sub>
+            </a>
         </td>
         </tr>
     </tbody>
