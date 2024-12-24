@@ -105,11 +105,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shino Shaji</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/tiggachris">
+                    <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Shino Shaji</b></sub>
+                </a>
+            </td>
             <td align="center">   
                 <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
+                    <img src="https://avatars.githubusercontent.com/u/169353352?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
-                    <sub><b>Anuj sharma</b></sub>
+                    <sub><b>Chris Tigga</b></sub>
                 </a>
             </td>
             <td align="center">
