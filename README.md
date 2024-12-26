@@ -147,6 +147,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Naga Sai Purvaz</b></sub>
                 </a>
             </td>
+            </td>
+             <td align="center">
+                <a href="https://github.com/JigneshkumarGadhwal">
+                    <img src="https://avatars.githubusercontent.com/u/121464126?v=4" width="100px;" alt="Naga sai purvaz"/>
+                    <br />
+                    <sub><b>Jigneshkumar Gadhwal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
