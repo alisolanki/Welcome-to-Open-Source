@@ -1724,5 +1724,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/MithileshGandhe">
+                    <img src="https://avatars.githubusercontent.com/u/145708286?s=400&v=4" width="100px;" alt="Mithilesh Gandhe"/>
+                    <br />
+                    <sub><b>Mithilesh Gandhe</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
