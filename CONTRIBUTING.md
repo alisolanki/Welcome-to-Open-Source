@@ -24,13 +24,13 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
-     <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+    <td align="center">
+        <a href="https://github.com/ParamSingh24">
+            <img src="https://avatars.githubusercontent.com/u/178141390?v=4" width="100px;" alt="PARAM SINGH"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>PARAM SINGH</b></sub>
         </a>
-    </td>
+        </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
