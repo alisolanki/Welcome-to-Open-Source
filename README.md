@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/pqun7">
+                <img src="https://avatars.githubusercontent.com/u/49954932?v=4" width="100px;" alt="Prabhat Jha"/>
+                <br />
+                <sub><b>The goat pqun</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
