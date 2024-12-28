@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+           <td align="center">
+                <a href="https://github.com/devshree-bhati">
+                    <img src="https://avatars.githubusercontent.com/u/147095250?v=4&size=64" width="100px;" alt="Devshree Bhati"/>
+                    <br />
+                    <sub><b>Devshree Bhati</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
