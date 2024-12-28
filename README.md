@@ -82,6 +82,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Preeti Raj</b></sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ayanhakeem">
+                    <img src="https://avatars.githubusercontent.com/u/165511523?s=400&u=4293c198e1985a040cc24eb5427643bd0d06d509&v=4" width="100px;" alt="Mahmadayan  Hakeem"/>
+                    <br />
+                    <sub><b>Mahmadayan Hakeem</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
