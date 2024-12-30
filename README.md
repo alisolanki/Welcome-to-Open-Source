@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/manish-awtani">
+                    <img src="https://avatars.githubusercontent.com/u/92393113?v=4" width="100px;" alt="Manish Awtani"/>
+                    <br />
+                    <sub><b>Manish Awtani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
