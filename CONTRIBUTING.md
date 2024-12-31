@@ -25,10 +25,10 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/jaiakash657">
+            <img src="https://avatars.githubusercontent.com/u/82265889?s=400&u=c1fb5c6e41066ee251debba3dc153e1c1b6d022f&v=4" width="100px;" alt="Jai Akash"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Jai Akash
         </a>
     </td>
     ```
