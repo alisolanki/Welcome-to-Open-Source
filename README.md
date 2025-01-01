@@ -1729,7 +1729,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>K Rajtilak</b></sub>
                 </a>
             </td>
-        </td>
         </tr>
     </tbody>
 </table>
