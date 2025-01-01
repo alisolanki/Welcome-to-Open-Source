@@ -1722,6 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+                <a href="https://krajtilak.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/187183210?v=4" width="100px;" alt="K Rajtilak"/>
+                    <br />
+                    <sub><b>K Rajtilak</b></sub>
+                </a>
+            </td>
         </td>
         </tr>
     </tbody>
