@@ -1722,6 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            </td>
+            <td align="center">
+            <a href="https://github.com/dhruv291103">
+                <img src="https://avatars.githubusercontent.com/u/111176562?v=4" width="100px;" alt="Prabhat Jha"/>
+                <br />
+                <sub><b>Dhruv Pandit</b></sub>
+            </a>
         </td>
         </tr>
     </tbody>
