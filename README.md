@@ -75,6 +75,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Narasima-6720/Welcome-to-Open-Source">
+                    <img src="./profile pic.png" width="100px;" alt="Narasimha reddy"/>
+                    <br />
+                    <sub><b>Narasimha Reddy</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
