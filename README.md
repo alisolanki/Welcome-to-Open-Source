@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+                    <td align="center">
+                <a href="https://github.com/CodeByMoriarty">
+                    <img src="https://avatars.githubusercontent.com/u/150874905?s=400&v=4" width="100px;" alt="Andrew Lacambra"/>
+                    <br />s
+                    <sub><b>Andrew M. Lacambra</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
