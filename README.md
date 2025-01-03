@@ -1727,7 +1727,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/CodeByMoriarty">
                     <img src="https://avatars.githubusercontent.com/u/150874905?s=400&v=4" width="100px;" alt="Andrew Lacambra"/>
                     <br />s
-                    <sub><b>Andrew Lacambra</b></sub>
+                    <sub><b>Andrew M. Lacambra</b></sub>
                 </a>
             </td>
         </tr>
