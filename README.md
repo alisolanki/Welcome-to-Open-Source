@@ -1723,13 +1723,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/Sidhant-Mishra1">
-                <img src="https://avatars.githubusercontent.com/u/100593956?v=4" width="100px;" alt="Sidhant Mishra"/>
-                <br />
-                <sub><b>Sidhant Mishra</b></sub>
-            </a>
-        </td>
         </tr>
     </tbody>
 </table>
