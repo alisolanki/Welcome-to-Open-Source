@@ -1724,5 +1724,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <tr>
+           <td align="center">
+                <a href="https://github.com/parth6013">
+                    <img src="https://avatars.githubusercontent.com/u/61504051?v=4" width="100px;" alt="Kartik Pal"/>
+                    <br />
+                    <sub><b>Parth Bhardwaj</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
