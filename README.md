@@ -1382,6 +1382,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/151808871?v=4" width="100px;" alt="Riddhi Shukla"/>
+                    <br />
+                    <sub><b>Riddhi Shukla</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/yashhhh04">
                     <img src="https://avatars.githubusercontent.com/u/120311109?v=4" width="100px;" alt="Yash Samar"/>
                     <br />
