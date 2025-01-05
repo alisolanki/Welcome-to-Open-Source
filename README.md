@@ -1725,7 +1725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
             <a href="https://github.com/Dev05d">
-                <img src="https://avatars.githubusercontent.com/u/67167744?v=4" width="100px;" alt="Aryan Singh"/>
+                <img src="https://avatars.githubusercontent.com/u/67167744?v=4" width="100px;" alt="Devansh M"/>
                 <br />
                 <sub><b>Devansh M</b></sub>
             </a>
