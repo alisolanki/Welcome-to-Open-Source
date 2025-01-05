@@ -53,13 +53,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
-            </td>
+            </td> 
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
+            </td>
+                <td align="center">
+                <a href="https://github.com/MohamedRafshan">
+                    <img src="https://avatars.githubusercontent.com/u/129321627?v=4" width="100px;" alt="Rafshan Rakeeb"/>
+                    <br />
+                    <sub><b>Rafshan Rakeeb</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
