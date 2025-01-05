@@ -112,6 +112,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rishit Raj</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/polty-rishit">
+                    <img src="https://avatars.githubusercontent.com/u/175523379?v=4" width="100px;" alt="polty-rishit"/>
+                    <br />
+                    <sub><b>polty-rishit</b></sub>
+                </a>
+            </td>
             <td align="center">   
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
