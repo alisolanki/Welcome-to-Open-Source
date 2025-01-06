@@ -76,6 +76,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://www.vivekthakur.dev/">
+                    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRUn_34ckJjxmbDOEKLhzCQtxJHjguiMU4aXRehq8zTj1AxUmcYoRLRh5spyuLSnBpajm08lD9GrFjv4F-zPRvS7uyRVpCljawzzE9cBg" width="100px;" alt="Vivek Thakur"/>
+                    <br />
+                    <sub><b>Phani</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
