@@ -1723,7 +1723,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-        <td align="center">
+            <td align="center">
                 <a href="https://github.com/Mabhusubhani001">
                     <img src="https://avatars.githubusercontent.com/u/139627113?v=4" width="100px;" alt="Mabhu Subhani"/>
                     <br />
