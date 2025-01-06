@@ -1722,7 +1722,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+
+            <td align="center">
+                <a href="https://github.com/rahulgaharwar">
+                    <img src="https://github.com/account" width="100px;" alt="Rahul Gaharwar"/>
+                    <br />
+                    <sub><b>Rahul Gaharwar</b></sub>
+                </a>
+            </td>
+
         </tr>
     </tbody>
 </table>
