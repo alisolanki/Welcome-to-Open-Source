@@ -1289,7 +1289,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/AryamanSi17">
-                    <img src="https://avatars.githubusercontent.com/u/106659803?v=4" width="100px;" alt="Aryaman Sinha"/>
+                    <img src="https://avatars.githubusercontent.com/u/106659803?v=4" width="100px;" alt="Aryaman "/>
                     <br />
                     <sub><b>Aryaman Sinha</b></sub>
                 </a>
