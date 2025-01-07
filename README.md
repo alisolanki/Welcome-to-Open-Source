@@ -1288,6 +1288,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AryamanSi17">
+                    <img src="https://avatars.githubusercontent.com/u/106659803?v=4" width="100px;" alt="Aryaman Sinha"/>
+                    <br />
+                    <sub><b>Aryaman Sinha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chromo4">
                     <img src="https://avatars.githubusercontent.com/u/96817905?v=4" width="100px;" alt="Ayush Tibrewal"/>
                     <br />
