@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Nandan8095">
+                    <img src="https://avatars.githubusercontent.com/u/193695512?s=400&v=4" width="100px;" alt="Nandan M"/>
+                    <br />
+                    <sub><b>Nandan M</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
