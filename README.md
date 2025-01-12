@@ -124,7 +124,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Imama-Kainat">
                     <img src="https://github.com/account" width="100px;" alt="Mamai Nataki"/>
                     <br />
-                    <sub><b>Mamai Nataki</b></sub>
+                    <sub><b>Mamai Natakii</b></sub>
                 </a>
             </td>
             <td align="center">
