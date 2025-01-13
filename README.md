@@ -5,6 +5,13 @@
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+    </a>
+</p>
+
 <p>List of actively participating individulas in open source contributions</p>
 
 - Add your own details to the contributor list
