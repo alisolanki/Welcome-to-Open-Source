@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+          <td align="center">
+                <a href="https://github.com/varghese25">
+                    <img src="https://avatars.githubusercontent.com/u/68038057?v=4" width="100px;" alt="Varghese Baby"/>
+                    <br />
+                    <sub><b>Varghese Baby</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
