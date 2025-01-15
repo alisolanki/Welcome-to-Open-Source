@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+                <a href="https://github.com/Coden-inja">
+                    <img src="https://avatars.githubusercontent.com/u/97733620?v=4" width="100px;" alt="Yogesh Kumar"/>
+                    <br />
+                    <sub><b>Yogesh Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
