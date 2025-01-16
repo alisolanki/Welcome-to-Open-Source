@@ -9,18 +9,18 @@ on:
 jobs:
   validate-pull-request:
     runs-on: ubuntu-latest
-    steps:
+    step 1:
       - name: Check out base branch
         uses: actions/checkout@v2
         with:
           ref: ${{ github.base_ref }}
-
+    step 2:
       - name: Check out head branch
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
           path: head
-
+    step3:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
