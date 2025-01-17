@@ -1723,6 +1723,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td>
+            <a href = "https://github.com/Suke2004">
+            <img src="https://avatars.githubusercontent.com/u/137488933?v=4" width="100px;"
+            alt="Sukesh Reddy" />
+            <br />
+            <sub><b>Sukesh Reddy</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
