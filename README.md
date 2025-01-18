@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sumanjeet0012/">
+                    <img src="https://cdn.iconscout.com/icon/free/png-512/avatar-370-456322.png" width="100px;" alt="Sumanjeet"/>
+                    <br />
+                    <sub><b>Sumanjeet</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
