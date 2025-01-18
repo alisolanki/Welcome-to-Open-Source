@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://https://github.com/DJier">
+                    <img src="https://avatars.githubusercontent.com/u/164504063?v=4" width="100px;" alt="Abhishek Shukla"/>
+                    <br />
+                    <sub><b>Abhishek Shukla</b></sub>
+                </a>
+             </td>
         </tr>
     </tbody>
 </table>
