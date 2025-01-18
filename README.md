@@ -106,10 +106,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">   
+                <a href="https://github.com/abeerhereyes">
+                    <img src="https://avatars.githubusercontent.com/u/123292551?v=4" width="100px;" alt="Abeer Arora"/>
+                    <br />
+                    <sub><b>Anuj sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">   
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
-                    <sub><b>Anuj sharma</b></sub>
+                    <sub><b>Abeer Arora</b></sub>
                 </a>
             </td>
             <td align="center">
