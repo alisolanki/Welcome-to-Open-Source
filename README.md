@@ -1723,6 +1723,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
             </td>
+        <tr>
             <td align="center">
                 <a href="https://github.com/manojtharindu11">
                     <img src="https://avatars.githubusercontent.com/u/114139836?v=4" width="100px;" alt="Manoj Thilakarathna"/>
@@ -1730,6 +1731,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Manoj Thilakarathna</b></sub>
                 </a>
             </td>
+        </tr>
+
         </tr>
     </tbody>
 </table>
