@@ -221,8 +221,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Rahul-lalwani-learner">
-                    <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;" alt="Rahul Lalwani"/>
+                <a href="https://github.com/KeertikaAnand">
+                    <img src="https://avatars.githubusercontent.com/u/181926936?v=4" width="100px;" alt="KEERTIKA "/>
                     <br />
                     <sub><b>Rahul Lalwani</b></sub>
                 </a>
