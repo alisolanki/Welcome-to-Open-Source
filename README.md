@@ -14,9 +14,9 @@
 
 <p>List of actively participating individulas in open source contributions</p>
 
-- Add your own details to the contributor list
-- Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+-   Add your own details to the contributor list
+-   Make a Pull Request
+-   [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
@@ -1717,20 +1717,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <a href="https://github.com/jprabhat">
-                <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
-                <br />
-                <sub><b>Prabhat Jha</b></sub>
-            </a>
+                <a href="https://github.com/jprabhat">
+                    <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
+                    <br />
+                    <sub><b>Prabhat Jha</b></sub>
+                </a>
             </td>
-            <td align="center">
+        </tr>
+        <tr>
+             <td align="center">
                 <a href="https://github.com/MeowlandUA">
                     <img src="https://avatars.githubusercontent.com/u/34038093?v=4" width="100px;" alt="MeowlandUA"/>
                     <br />
                     <sub><b>MeowlandUA
                 </a>
             </td>
-        </td>
         </tr>
     </tbody>
 </table>
