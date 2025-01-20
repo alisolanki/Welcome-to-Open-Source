@@ -111,6 +111,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Anuj sharma</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/harshit-69">
+                    <img src="https://avatars.githubusercontent.com/u/124885889?v=4" width="100px;" alt="Harshit"/>
+                    <br />
+                    <sub><b>Harshit</b></sub>
+                </a>
+            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/akshaykamath45">
