@@ -1722,6 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+                <a href="https://github.com/MeowlandUA">
+                    <img src="https://avatars.githubusercontent.com/u/34038093?v=4" width="100px;" alt="MeowlandUA"/>
+                    <br />
+                    <sub><b>MeowlandUA
+                </a>
+            </td>
         </td>
         </tr>
     </tbody>
