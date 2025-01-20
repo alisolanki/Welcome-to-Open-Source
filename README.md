@@ -1724,5 +1724,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/chinnyjane">
+                    <img src="https://avatars.githubusercontent.com/u/39691922?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Chinny Guinabo</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
