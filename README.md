@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/MohamedAazil">
+                <img src="https://avatars.githubusercontent.com/u/142242204?s=400&u=cad862d1b04e79668d6ce8da3041666344e32936&v=4" width="100px;" alt="Mohamed Aazil S"/>
+                <br />
+                <sub><b>Mohamed Aazil S</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
