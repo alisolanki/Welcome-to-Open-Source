@@ -342,6 +342,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Siddharth Patel</b></sub>
                   </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/priyanka1828/">
+                    <img src="https://avatars.githubusercontent.com/u/191217474?v=4" width="100px;" alt="Priyanka Dumre"/>
+                    <br />
+                    <sub><b>Priyanka Dumre</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/priyanshu-11000/">
                     <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
