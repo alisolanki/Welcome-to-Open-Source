@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://www.linkedin.com/in/pratham-shirol-77b0b3230/">
+                 <img src="https://avatars.githubusercontent.com/u/117512070?v=4" width="100px;" alt="Mukesh Mallula"/>
+                    <br />
+                    <sub><b>Pratham </b></sub>
+                </a>
+             </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
