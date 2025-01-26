@@ -55,6 +55,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/TimelyCo" title="Full Stack Developer and Open Source Contributor">
+                    <img src="https://avatars.githubusercontent.com/u/166889304?v=4" width="100px;" alt="Anmol Raturi"/>
+                    <br />
+                    <sub><b>Anmol Raturi</b></sub>
+                </a> 
+                <p><em>"Code. Coffee. Repeat."</em></p>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
