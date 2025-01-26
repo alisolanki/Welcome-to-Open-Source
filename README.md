@@ -48,10 +48,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/MOHAMMEDFAISALSM">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://github.com/account" width="100px;" alt="Mohammed faisal SM"/>
+                    <br />
+                    <sub><b>Mohammed Faisal SM</b></sub>
                 </a> 
             </td>
             <td align="center">
