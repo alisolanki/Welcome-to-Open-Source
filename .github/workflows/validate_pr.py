@@ -1,6 +1,6 @@
 import os
 import sys
-from lxml import html
+from lxml import html # type: ignore
 
 def get_names_from_readme(readme_path):
     with open(readme_path, "r") as file:
