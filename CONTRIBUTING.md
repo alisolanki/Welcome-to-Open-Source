@@ -14,7 +14,7 @@
 
 6) Now you will see a folder named `Welcome-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
 
-7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+7) Below is a code snippet for reference as to what has to be ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
     ```
     <td align="center">
