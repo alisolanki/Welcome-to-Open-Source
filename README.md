@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+                <a href="https://github.com/nandini2727/">
+                    <img src="https://avatars.githubusercontent.com/u/143333136?v=4" width="100px;" alt="Nandini Upadhyay"/>
+                    <br />
+                    <sub><b>Nandini Upadhyay</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
