@@ -1722,6 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+                <a href="https://github.com/shantodey">
+                    <img src="https://avatars.githubusercontent.com/u/126257294?v=4" width="100px;" alt="Shanto Dey"/>
+                    <br />
+                    <sub><b>Shanto Dey</b></sub>
+                </a>
+            </td>
         </td>
         </tr>
     </tbody>
