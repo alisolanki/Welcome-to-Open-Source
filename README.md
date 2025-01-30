@@ -1723,6 +1723,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/SaurabhGade">
+                <img src="https://avatars.githubusercontent.com/u/104384132?v=4" width="100px;" alt="Saurabh Gade"/>
+                <br />
+                <sub><b>Saurabh Gade</b></sub>
+            </a>
         </tr>
     </tbody>
 </table>
