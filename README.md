@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Abhi-Ptdr">
-                    <img src="https://avatars.githubusercontent.com/u/85992199?v=4" width="100px;" alt="Abhishek Patidar"/>
+                    <img src="https://avatars.githubusercontent.com/u/85992199?v=4" width="100px;" alt="Abhishek Patidar"/> 
                     <br />
                     <sub><b>Abhishek Patidar</b></sub>
                 </a> 
