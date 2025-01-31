@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Tejas-00">
+                    <img src="https://avatars.githubusercontent.com/u/119691963?s=400&u=3f5526f852f51fa070e91de0fccab0a8fa378f48&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Tejas Sonawane</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
