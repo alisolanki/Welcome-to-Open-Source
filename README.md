@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/Sahilverse-web">
+                <img src="https://avatars.githubusercontent.com/u/189046297?v=4" width="100px;" alt="Sahil Bhasin"/>
+                <br />
+                <sub><b>Sahil Bhasin</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
