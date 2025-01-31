@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+                <td align="center">
+                <a href="https://github.com/Rayan-360">
+                    <img src="https://avatars.githubusercontent.com/u/175423121?v=4" width="100px;" alt="Shaik Rayan"/>
+                    <br />
+                    <sub><b>Shaik Rayan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
