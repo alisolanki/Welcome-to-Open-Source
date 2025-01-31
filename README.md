@@ -1722,7 +1722,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+            <a href="https://github.com/solo-source">
+                <img src="https://avatars.githubusercontent.com/u/153061395?v=4" width="100px;" alt="Samrendra Singh"/>
+                <br />
+                <sub><b>Samrendra Singh</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
