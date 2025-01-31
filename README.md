@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/transmogrify-cell">
+                <img src="https://avatars.githubusercontent.com/u/175687781?v=4" width="100px;" alt="HIMANSHU CHANDELA"/>
+                <br />
+                <sub><b>HIMANSHU CHANDELA</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
