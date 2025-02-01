@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/prajjukorban">
+                <img src="https://avatars.githubusercontent.com/u/128471316?v=4" width="100px;" alt="Prabhat Jha"/>
+                <br />
+                <sub><b>Prajwal Korban</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
