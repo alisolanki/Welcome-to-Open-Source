@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            </td>
+            <td align="center">
+            <a href="https://github.com/IbhavMalviya">
+                <img src="https://avatars.githubusercontent.com/u/144520056?v=4" width="100px;" alt="Ibhav Malviya"/>
+                <br />
+                <sub><b>Ibhav Malviya</b></sub>
+            </a>
         </tr>
     </tbody>
 </table>
