@@ -787,6 +787,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Jainex2">
+                    <img src="https://avatars.githubusercontent.com/u/127192581?v=4" width="100px;" alt="It's Me"/>
+                    <br />
+                    <sub><b>It's Me J.</b></sub>
+                </a>
+            </td>
+            <td align="center">
                   <a href="https://github.com/ADKR-26">
                       <img src="https://avatars.githubusercontent.com/u/81681210?v=4" width="100px;" alt="Suresh Chaudhary"/>
                       <br />
