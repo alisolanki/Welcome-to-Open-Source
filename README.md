@@ -263,6 +263,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Manaswini Verma</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/Dildarsd">
+                    <img src="https://avatars.githubusercontent.com/u/156205358?v=4" width="100px;" alt="Abdul Dildar"/>
+                    <br />
+                    <sub><b>Abdul Dildar</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/sumedhuv">
