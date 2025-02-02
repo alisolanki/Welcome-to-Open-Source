@@ -265,6 +265,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/GuduriAmulya">
+                    <img src="https://avatars.githubusercontent.com/u/178359840?v=4" width="100px;" alt="Amulya"/>
+                    <br />
+                    <sub><b>Guduri Amulya</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sumedhuv">
                     <img src="https://avatars.githubusercontent.com/u/63589821?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
