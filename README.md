@@ -1709,6 +1709,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            
+            <td align="center">
+                <a href="https://github.com/IzzyDevOps">
+                    <img src="https://avatars.githubusercontent.com/u/69196973?s=400&u=af03e60e588f9457155a149af596bf8081918fe6&v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Muddassar Shabbir</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/IzzyDevOps">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
