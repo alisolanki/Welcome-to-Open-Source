@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/Cairo09">
+                <img src="https://avatars.githubusercontent.com/u/160388974?v=4" width="100px;" alt="Janhavi K"/>
+                <br />
+                <sub><b>Janhavi K</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
