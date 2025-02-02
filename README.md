@@ -242,10 +242,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/prayash24">
-                    <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100px;" alt="Prayansh"/>
+                <a href="https://github.com/a60231023">
+                    <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
                     <br />
-                    <sub><b>Prayash Naik</b></sub>
+                    <sub><b>Ayush Tiwari</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/srujan0516">
+                    <img src="https://avatars.githubusercontent.com/u/181267927?s=400&u=026503a8eb5f3642cc15d979d702da4403a91532&v=4" width="100px;" alt="Srujan"/>
+                    <br />
+                    <sub><b>Sai srujan</b></sub>
                </a>
             </td>
         </tr>
