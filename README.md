@@ -1730,6 +1730,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aditya Lodhi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Adityalodhi">
+                    <img src="https://avatars.githubusercontent.com/u/106116888?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Aditya Lodhi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
