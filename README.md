@@ -353,7 +353,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/Zydiag">
-                    <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <img src="https://avatars.githubusercontent.com/u/96966190?v=" width="100px;" alt="Anshuman Atrey"/>
                     <br />
                     <sub><b>Sahil</b></sub>
                </a>
@@ -363,6 +363,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/43928825?v=4" width="100px;" alt="Samyak Jain"/>
                     <br />
                     <sub><b>Samyak Jain</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/roboanonymous">
+                    <img src="https://avatars.githubusercontent.com/u/163739563?v=4" width="100px;" alt="Samyak Jain"/>
+                    <br />
+                    <sub><b>Rahul Kumar</b></sub>
                 </a>
             </td>
             <td align="center">
