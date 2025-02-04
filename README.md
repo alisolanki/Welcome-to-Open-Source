@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+               <a href="https://github.com/Shubhajiit">
+                   <img src="https://avatars.githubusercontent.com/u/192318674?v=4" width="100px;" alt="Shubhajit Basak"/>
+                   <br />
+                   <sub><b>Shubhajit Basak</b></sub>
+               </a>
+           </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1717,12 +1724,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <a href="https://github.com/jprabhat">
-                <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
-                <br />
-                <sub><b>Prabhat Jha</b></sub>
-            </a>
-        </td>
+                <a href="https://github.com/jprabhat">
+                    <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
+                    <br />
+                    <sub><b>Prabhat Jha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
