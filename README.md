@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/elvin-joshy">
+                <img src="https://avatars.githubusercontent.com/u/146840905?v=4" width="100px;" alt="Elvin Joshy"/>
+                <br />
+                <sub><b>Elvin Joshy</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
