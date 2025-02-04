@@ -53,6 +53,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
+            </td><td align="center">
+                <a href="https://github.com/gauravtailor8520">
+                    <img src="https://avatars.githubusercontent.com/u/145110342?v=4" width="100px;" alt="Gaurav Tailor"/>
+                    <br />
+                    <sub><b>Gaurav Tailor</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
