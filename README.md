@@ -76,6 +76,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://ramgo.click/">
+                    <img src="https://avatars.githubusercontent.com/u/172289466?v=4" width="100px;" alt="Saqket Ram"/>
+                    <br />
+                    <sub><b>Saqket Ram</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
                     <br />
