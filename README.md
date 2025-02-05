@@ -1723,6 +1723,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-        </tr>
-    </tbody>
+        <td align="center">
+            <a href="https://github.com/KashakKishor">
+                <img src="https://avatars.githubusercontent.com/u/197928382?v=4" width="100px;" 
+                alt="KASHAK KISHOR "/>
+                <br />
+                <sub><b>KASHAK KISHOR</b></sub>
+            </a>
+
+        </td>
+    </tr>
+</tbody>
 </table>
