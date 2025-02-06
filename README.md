@@ -1722,6 +1722,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+            <a href="https://github.com/mj-stack">
+                <img src="https://avatars.githubusercontent.com/u/119475992?v=4" width="100px;" alt="Mukul Joshi"/>
+                <br />
+                <sub><b>Mukul Joshi</b></sub>
+            </a>
         </td>
         </tr>
     </tbody>
