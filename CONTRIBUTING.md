@@ -25,18 +25,18 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/SanviNora">
+            <img src="https://avatars.githubusercontent.com/u/90399644?v=4" width="100px;" alt="Sanvi Jagtap"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Sanvi Jagtap
         </a>
     </td>
     ```
 
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
+8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🎀"` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
-10) You have created a pull request, wait for a member to review and merge it : )
+10) You have created a pull request, wait for a member to review and merge it : 
 
 Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).
