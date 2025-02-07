@@ -19,21 +19,21 @@
     ```
     <td align="center">
         <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Arun  Babu"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Arun Babu</b></sub>
         </a>
     </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Arun Babu"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Arun Babu
         </a>
     </td>
     ```
 
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
+8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<Arun Babu> 🍉"` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
