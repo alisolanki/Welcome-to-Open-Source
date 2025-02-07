@@ -17,18 +17,12 @@
 7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
     ```
-    <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
-            <br />
-            <sub><b>Ali Solanki</b></sub>
-        </a>
-    </td>
+   
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/SanjnaGujral5">
+            <img src="https://avatars.githubusercontent.com/u/158586446?v=4" width="100px;" alt="Sanjna Gujral"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Sanjna Gujral
         </a>
     </td>
     ```
