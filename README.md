@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/account">
                     <img src="https://avatars.githubusercontent.com/u/145648691?v=4" width="100px;" alt="Aishwarya"/>
                     <br />
-                    <sub><b>Aishwarya</b></sub>
+                    <sub><b>Aish</b></sub>
                 </a> 
             </td>
             <td align="center">
