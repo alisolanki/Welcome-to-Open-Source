@@ -1724,5 +1724,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://https://github.com/Mokshu3242">
+                    <img src="https://avatars.githubusercontent.com/u/72201878?v=4" width="100px;" alt="Ridwan"/>
+                    <br />
+                    <sub><b>Mokshad Sankhe</b></sub>
+               </a>
+            </td>
+        </tr>
     </tbody>
 </table>
