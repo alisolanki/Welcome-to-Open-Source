@@ -1722,6 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+                <a href="https://github.com/shreyanshi5">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLAQ_rIZXD96nYD_HDvm5PYWoAvp323VUhg&s" width="100px;" alt="Shreyanshi Sharma"/>
+                    <br />
+                    <sub><b>Shreyanshi Sharma</b></sub>
+                </a> 
+            </td>
         </td>
         </tr>
     </tbody>
