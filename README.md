@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="https://avatars.githubusercontent.com/u/189129985?v=4"/>
     </a>
 </p>
 
