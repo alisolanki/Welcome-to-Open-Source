@@ -47,11 +47,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-            <td align="center">
+         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/HookdaCode">
+                    <img src="https://avatars.githubusercontent.com/u/183976910?v=4" width="100px;" alt="Giannis Fourikis"/>
+                    <br />
+                    <sub><b>Giannis Fourikis</b></sub>
                 </a> 
             </td>
             <td align="center">
