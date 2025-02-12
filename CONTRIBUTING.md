@@ -31,6 +31,14 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
+    
+    <td align="center">
+        <a href="https://github.com/akshayGit12">
+            <img src="https://drive.google.com/file/d/1cRy49g4YZlbWfrGJN_0nC-4O7gFN1c8g/view?usp=drivesdk" width="100px;" alt="Akshay Pawar "/>
+            <br />
+            <sub><b>Akshay Pawar
+        </a>
+    </td>	
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
