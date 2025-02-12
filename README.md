@@ -1615,6 +1615,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Shreyas-Patil-01">
+                    <img src="https://avatars.githubusercontent.com/u/95659745?v=4" width="100px;" alt="Shreyas"/>
+                    <br />
+                    <sub><b>Shreyas Patil</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Dedicate66">
                     <img src="https://avatars.githubusercontent.com/u/109079705?v=4" width="100px;" alt="Xiaobo Xing"/>
                     <br />
