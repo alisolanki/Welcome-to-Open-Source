@@ -1722,7 +1722,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+
+                    <td align="center">
+                <a href="https://github.com/manishtulabandu">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Mani Shankar Tulabandu</b></sub>
+                </a>
+            </td>
+
         </tr>
     </tbody>
+
 </table>
