@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+         <td align="center">
+                <a href="https://github.com/hudsonshoffih">
+                    <img src="https://avatars.githubusercontent.com/u/144528267?v=4" width="100px;" alt="Hudson Shoffi"/>
+                    <br />
+                    <sub><b>Hudson Shoffi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
