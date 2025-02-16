@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/priyanshiagarwall">
+                    <img src="https://avatars.githubusercontent.com/u/169628346?v=4" width="100px;" alt="Priyanshi Agarwal"/>
+                    <br />
+                    <sub><b>Priyanshi Agarawl</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
