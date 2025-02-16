@@ -61,11 +61,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+             <td align="center">
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/StianOzzy">
+                    <img src="https://avatars.githubusercontent.com/u/35351828?v=4" width="100px;" alt="Stian Ozzy"/>
+                    <br />
+                    <sub><b>Stian Ozzy</b></sub>
                 </a>
             </td>
             <td align="center">
