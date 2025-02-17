@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/hjoseph">
+                    <img src="https://avatars.githubusercontent.com/u/102409103?s=400&u=a9032f1682c7830d77db739a8c9614e7b6d423b9&v=4" width="100px;" alt="Hema Joseph"/>
+                    <br />
+                    <sub><b>Hema Joseph</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
