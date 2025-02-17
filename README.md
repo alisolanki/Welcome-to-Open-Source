@@ -322,6 +322,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                  </a>
               </td>
               <td align="center">
+                 <a href="https://avatars.githubusercontent.com/u/186844786?v=4">
+                    <img src="C:\Users\HP\Desktop\kuch_nhi\profile_photo.jpg" width="100px;" alt="Sweety Manadal"/>
+                    <br />
+                    <sub><b>Sweety Mandal</b></sub>
+                 </a>
+              </td>
+              <td align="center">
                   <a href="https://github.com/pranavashish">
                     <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;" alt="Pranav Ashish"/>
                     <br />
