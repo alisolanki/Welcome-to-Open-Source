@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/sushanksingh00">
-                    <img src="![alt text](image.png)" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/177721555?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Sushank Singh</b></sub>
                 </a>
