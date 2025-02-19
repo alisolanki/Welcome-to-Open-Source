@@ -313,6 +313,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Debashish Bordoloi</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/DishaA06">
+                    <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" 
+                    alt="Disha Oza "/>
+                    <br />
+                    <sub><b>Disha</b></sub>
+               </a>
+           </td>
              </td>
              <td align="center">
                  <a href="https://github.com/Nitesh232">
@@ -352,6 +360,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
+                <a href="https://github.com/Zydiag">
+                    <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Sahil</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/Zydiag">
                     <img src="https://avatars.githubusercontent.com/u/96966190?v=4" width="100px;" alt="Anshuman Atrey"/>
                     <br />
