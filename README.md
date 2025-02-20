@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/codewizards-academy">
+                <img src="https://avatars.githubusercontent.com/u/54895897?v=4" width="100px;" alt="Prabhat Jha"/>
+                <br />
+                <sub><b>codewizards-academy</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
