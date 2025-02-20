@@ -699,6 +699,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/vyukk">
+                    <img src="https://avatars.githubusercontent.com/u/159533906?v=4" width="100px;" alt="Aditya Raj"/>
+                    <br />
+                    <sub><b>Aditya Raj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/codermal7">
                     <img src="https://avatars.githubusercontent.com/u/83698322?v=4" width="100px;" alt="Anuj Pandey"/>
                     <br />
