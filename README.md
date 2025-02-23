@@ -75,6 +75,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/KumarMangalamSingh">
+                    <img src="https://avatars.githubusercontent.com/u/125680468?v=4" width="100px;" alt="Vivek Thakur"/>
+                    <br />
+                    <sub><b>Kumar Mangalam</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
