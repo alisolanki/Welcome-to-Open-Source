@@ -134,10 +134,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
-                <a href="https://www.linkedin.com/in/mukesh-mallula-bbab8b1aa/">
-                 <img src="https://avatars.githubusercontent.com/u/117512070?v=4" width="100px;" alt="Mukesh Mallula"/>
+                <a href="https://www.linkedin.com/in/abid-hasan-plabon-a4aa222a1/">
+                 <img src="https://avatars.githubusercontent.com/u/159808871?v=4" width="100px;" alt="Abid Hasan Plabon"/>
                     <br />
-                    <sub><b>Mukesh Mallula</b></sub>
+                    <sub><b>Abid Hasan Plabon</b></sub>
                 </a>
              </td>
              <td align="center">
