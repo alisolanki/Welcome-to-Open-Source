@@ -120,6 +120,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Abdullah-Niaz">
+                    <img src="https://avatars.githubusercontent.com/u/88460642?v=4" width="100px;" alt="Abdullah Niaz"/>
+                    <br />
+                    <sub><b>Abdullah Niaz</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
