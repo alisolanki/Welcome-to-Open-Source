@@ -69,10 +69,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.vivekthakur.dev/">
+                <a href="https://github.com/khush-patel-09">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.vivekthakur.dev/">
+                    <img src="https://avatars.githubusercontent.com/u/185712762?s=400&u=d62c6995b2e098be428d698b0a74031372a801ef&v=4" width="100px;" alt="Vivek Thakur"/>
+                    <br />
+                    <sub><b>Khush Patel</b></sub>
                 </a>
             </td>
             <td align="center">
