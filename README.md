@@ -46,6 +46,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- markdownlint-disable -->
 <table>
     <tbody>
+      <tr>
+            <td align="center">
+                <a href="https://aruly.vercel.com.com/">
+                    <img src="https://avatars.githubusercontent.com/u/153939531?s=400&u=2ee39e765ee85e26a08f5ea98de43be8d8ac0846&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Arul</b></sub>
+                </a> 
+            </td>
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
