@@ -1721,6 +1721,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
+            <td align="center">
+                <a href="https://github.com/anushkajiyaa">
+                    <img src="https://avatars.githubusercontent.com/u/173372571?s=48&v=4" width="100px;" alt="Anushka Singh"/>
+                    <br />
+                    <sub><b>Anushka Singh</b></sub>
+                </a>
+            </td>
             </a>
         </td>
         </tr>
