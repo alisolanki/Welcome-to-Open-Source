@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SanuKumar">
+                    <img src="https://avatars.githubusercontent.com/u/14020937?v=4" width="100px;" alt="Sanu Kumar"/>
+                    <br />
+                    <sub><b>Sanu Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
