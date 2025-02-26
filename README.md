@@ -1671,6 +1671,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Avinash 🍉</b></sub>
                </a>
+            <td align="center">
+                <a href="https://github.com/AryanChevil">
+                    <img src="https://avatars.githubusercontent.com/u/91732143?v=4" width="100px;" alt="Aryan"/>
+                    <br />
+                    <sub><b>Aryan🍉</b></sub>
+               </a>
             </td>
         </tr>
         <tr>
