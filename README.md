@@ -197,6 +197,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
              </td>
+            <td align="center">
+                <a href="https://github.com/Uzairr21">
+                    <img src="https://media.gettyimages.com/id/2158303299/photo/studio-headshot-portrait-of-a-young-black-man.jpg?s=612x612&w=gi&k=20&c=L_kU9_tNRE5O7bJiCbqHpG2iJFsU4zGnwNu2NW7LrBM=" width="100px;" alt="Anshuman Atrey"/>
+                    <br />
+                    <sub><b>Uzair Shaikh</b></sub>
+               </a>
+             </td>
        </tr>
        <tr>
            <td align="center">
