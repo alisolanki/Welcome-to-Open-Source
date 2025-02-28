@@ -1722,7 +1722,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+            <a href="https://github.com/Mainak2002">
+                <img src="https://avatars.githubusercontent.com/u/100481249?v=4" width="100px;" alt="Mainak Ganguly"/>
+                <br />
+                <sub><b>Mainak Ganguly</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
