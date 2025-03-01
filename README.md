@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/muskan572">
+                <img src="https://avatars.githubusercontent.com/u/172468577?s=400&u=3b75ff610191673cb18ba44aec30397ff44609e8&v=4" width="100px;" alt="muskan"/>
+                <br />
+                <sub><b>Muskan</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
