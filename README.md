@@ -1726,3 +1726,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+
+<td align="center">
+            <a href="https://github.com/thesuhailnawaz">
+                <img src="https://avatars.githubusercontent.com/u/199624448?v=4" width="100px;" alt="Suhail Nawaz"/>
+                <br />
+                <sub><b>Suhail Nawaz</b></sub>
+            </a>
+        </td>
+        </tr>
+    </tbody>
+</table>
