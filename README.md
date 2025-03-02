@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/rupesshhh">
+                <img src="https://media.istockphoto.com/id/1475568218/photo/the-india-gate-is-a-war-memorial-located-at-kartavya-path-new-delhi-india.jpg?s=612x612&w=0&k=20&c=gpsGqunmvZsOLAK5320GA6tUnSf6DpmeVcSEAqUmNKs=" width="100px;" alt="Image"/>
+                <br />
+                <sub><b>rupesshhh</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
