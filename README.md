@@ -1717,6 +1717,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ayush-Tiwari-Great">
+                    <img src="https://unsplash.com/illustrations/a-smiley-face-with-a-hat-on-top-of-it-vlGp55XDVow" width="100px;" alt="Ayush Tiwari"/>
+                    <br />
+                    <sub><b>Ayush Tiwari</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
