@@ -1600,6 +1600,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaushik C</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/saumyatiwaryy">
+                    <img src="https://avatars.githubusercontent.com/u/122469210?v=4" width="100px;" alt="Kaushik C"/>
+                    <br />
+                    <sub><b>Saumya Tiwari</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Adi0706">
                  <img src="https://avatars.githubusercontent.com/u/98939735?v=4" width="100px;" alt="ADITYA BHATTACHARJEE"/>
