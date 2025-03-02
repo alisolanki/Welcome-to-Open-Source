@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/SasidharanMahadevan">
+                <img src="https://avatars.githubusercontent.com/u/198742847?v=4" width="100px;" alt="Sasidharan"/>
+                <br />
+                <sub><b>Sasidharan</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
