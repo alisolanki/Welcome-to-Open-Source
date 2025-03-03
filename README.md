@@ -1710,8 +1710,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rathodsachin866">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Sachin Rathod</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/IzzyDevOps">
-                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <img src="https://avatars.githubusercontent.com/u/155256503?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
