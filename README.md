@@ -646,7 +646,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                    <img src="https://avatars.githubusercontent.com/u/71706634?v=4" width="100px;" alt="Ankit Patil"/>
                    <br />
                    <sub><b>Ankit Patil</b></sub>
-               </a>
+               </a> 
            </td>
            <td align="center">
                <a href="https://github.com/raghu-007">
