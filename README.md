@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+             <td align="center">
+            <a href="https://github.com/mayen007">
+                <img src="https://avatars.githubusercontent.com/u/139054881?s=400&u=15ef540a98bfc567c931dda79f8e048d2a99fca1&v=4" width="100px;" alt="Mayen"/>
+                <br />
+                <sub><b>Mayen Akech</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
