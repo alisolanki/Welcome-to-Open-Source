@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+         <td align="center">
+            <a href="https://github.com/r0ktech">
+                <img src="https://avatars.githubusercontent.com/u/198620210?s=400&u=4ce991bbd761d157429b61c6e5b713f478b08b66&v=4" width="100px;" alt="Raphael Okeke"/>
+                <br />
+                <sub><b>Raphael Okeke</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
