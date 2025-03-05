@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/ManoHarshaSappa">
+                <img src="https://avatars.githubusercontent.com/u/160296860?v=4" width="100px;" alt="Mano Harsha Sappa"/>
+                <br />
+                <sub><b>Mano Harsha Sappa</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
