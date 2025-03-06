@@ -1723,6 +1723,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
             </td>
+            </tr>
+            <tr>
             <td align="center">
             <a href="https://github.com/ariktheone">
                 <img src="https://avatars.githubusercontent.com/u/117704271?v=4" width="100px;" alt="Arijit Mondal"/>
