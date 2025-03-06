@@ -1717,18 +1717,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+            <a href="https://github.com/Shashwati212324">
+                <img src="https://avatars.githubusercontent.com/u/141508757?v=4" width="100px;" alt="Shashwati Jha"/>
+                <br />
+                <sub><b>Shashwati Jha</b></sub>
+            </a>
+        </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-            <td align="center">
-                <a href="https://github.com/Shashwati212324">
-                    <img src="https://avatars.githubusercontent.com/u/141508757?v=4" width="100px;" alt="Shashwati Jha"/>
-                    <br />
-                    <sub><b>Shashwati Jha</b></sub>
-                </a>
-             </td>
         </td>
         </tr>
     </tbody>
