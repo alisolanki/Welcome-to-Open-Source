@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+            <a href="https://github.com/ariktheone">
+                <img src="https://avatars.githubusercontent.com/u/117704271?v=4" width="100px;" alt="Arijit Mondal"/>
+                <br />
+                <sub><b>Arijit Mondal</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
