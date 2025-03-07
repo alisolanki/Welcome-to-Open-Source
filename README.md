@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vishvas04">
+                    <img src="https://avatars.githubusercontent.com/u/96198022?v=4" width="100px;" alt="Vishvas Devarasetty"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
