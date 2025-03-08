@@ -1724,5 +1724,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <tr>
+        <td align="center">
+            <a href="https://github.com/Rjk-Jami">
+                <img src="https://avatars.githubusercontent.com/u/77094939?v=4" width="100px;" alt="Jami Khan"/>
+                <br />
+                <sub><b>Jami Khan</b></sub>
+            </a>
+        </td>
+        </tr>
     </tbody>
 </table>
