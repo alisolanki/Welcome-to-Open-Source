@@ -1723,8 +1723,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-        </tr>
-        <tr>
+    </tr>
+     <tr>
         <td align="center">
             <a href="https://github.com/Rjk-Jami">
                 <img src="https://avatars.githubusercontent.com/u/77094939?v=4" width="100px;" alt="Jami Khan"/>
@@ -1732,6 +1732,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Jami Khan</b></sub>
             </a>
         </td>
-        </tr>
+    </tr>
     </tbody>
 </table>
