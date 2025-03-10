@@ -1717,6 +1717,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/30manas03">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F15s2z2j%2Fwhat_are_your_overall_thoughts_on_obito_uchiha_as%2F&psig=AOvVaw2XVGvr2Sz3kJN93TSFCgu_&ust=1741713966516000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiAx6WEgIwDFQAAAAAdAAAAABAY" width="100px;" alt="Manas Nayak"/>
+                    <br />
+                    <sub><b>Manas Nayak</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
