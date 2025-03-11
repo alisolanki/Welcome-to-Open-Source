@@ -1717,6 +1717,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MAHEK-ops">
+                    <img src="https://avatars.githubusercontent.com/u/185037757?v=4" width="100px;" alt="Mahek Motwani"/>
+                    <br />
+                    <sub><b>Mahek Motwani</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
