@@ -1671,6 +1671,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Avinash 🍉</b></sub>
                </a>
+             </td>
+            <td align="center">
+                <a href="https://github.com/pal-sandeep">
+                    <img src="https://avatars.githubusercontent.com/u/26271825?v=4" width="100px;" alt="Sandeep Pal"/>
+                    <br />
+                    <sub><b>Sandeep Pal</b></sub>
+               </a>
             </td>
         </tr>
         <tr>
