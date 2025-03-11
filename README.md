@@ -1340,7 +1340,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
               <td align="center">
                 <a href="https://github.com/AliyanA1">
-                    <img src="https://avatars.githubusercontent.com/u/124417710?v=4" width="100px;" alt="ali"/>
+                    <img src="https://avatars.githubusercontent.com/u/124417710?v=4" width="100px;" alt="Aliyan"/>
                     <br />
                     <sub><b>Aliyan</b></sub>
                 </a>
