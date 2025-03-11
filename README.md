@@ -1722,6 +1722,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+            <a href="https://github.com/prabhat8055">
+                <img src="https://avatars.githubusercontent.com/u/106005223?v=4" width="100px;" alt="Prabhat8055"/>
+                <br />
+                <sub><b>Prabhat Bhasme</b></sub>
+            </a>
         </td>
         </tr>
     </tbody>
