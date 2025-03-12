@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/account">
+                <img src="https://avatars.githubusercontent.com/u/172834066?v=4" width="100px;" alt="Suruchi Kumari"/>
+                <br />
+                <sub><b>Suruchi</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
