@@ -271,6 +271,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sumedh Vichare</b></sub>
              </td>
              <td align="center">
+                <a href="https://github.com/Gigi-Pons">
+                    <img src="https://avatars.githubusercontent.com/u/77705265?v=4" width="100px;" alt="Grecia Bueno"/>
+                    <br />
+                    <sub><b>Grecia Bueno</b></sub>
+             </td>
+             <td align="center">
                  <a href="https://github.com/Aryann15">
                      <img src="https://avatars.githubusercontent.com/u/82017158?v=4" width="100px;" alt="Raj Aryan Singh"/>
                      <br />
