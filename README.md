@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/Janani-prog">
+                <img src="https://avatars.githubusercontent.com/u/192235280?s=400&v=4" width="100px;" alt="Janani Jayalakshmi"/>
+                <br />
+                <sub><b>Janani Jayalakshmi</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
