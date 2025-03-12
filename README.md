@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+            <a href="https://github.com/Gourav1195">
+                <img src="https://github.com/account" width="100px;" alt="Gourav Modi"/>
+                <br />
+                <sub><b>Gourav Modi</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
