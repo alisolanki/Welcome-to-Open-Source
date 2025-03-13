@@ -328,6 +328,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pranav Ashish</b></sub>
                   </a>
                </td>
+            </td>
+             <td align="center">
+                 <a href="https://github.com/hyper-27">
+                   <img src="https://avatars.githubusercontent.com/u/188132301?v=4" width="100px;" alt="Anuj Dangi"/>
+                   <br />
+                   <sub><b>Anuj Dangi</b></sub>
+                 </a>
+              </td>
                <td align="center">
                    <a href="https://github.com/Aalamansari">
                      <img src="https://avatars.githubusercontent.com/u/88039948?s=400&u=a3bc0809eedebe4c362970a8f6b830623aa092e3&v=4" width="100px;" alt="Aalam Ansari"/>
