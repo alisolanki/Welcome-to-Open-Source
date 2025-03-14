@@ -1730,6 +1730,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/Aditya-br">
+                <img src="https://avatars.githubusercontent.com/u/172393580?v=4" width="100px;" alt="Aditya BR"/>
+                <br />
+                <sub><b>Aditya BR></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
