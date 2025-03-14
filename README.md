@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/tkeefe">
+                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;" alt="Travis Keefe"/>
+                    <br />
+                    <sub><b>Travis Keefe</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
@@ -1505,6 +1512,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Lakshitalearning">
+                    <img src="https://avatars.githubusercontent.com/u/160765919?s=48&v=4" width="100px;" alt="Lakshita Malhotra"/>
+                    <br />
+                    <sub><b>Lakshita Malhotra</b></sub>
+                </a>
+            </td>            
+            <td align="center">
                 <a href="https://harshdeep.com/">
                     <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
@@ -1723,13 +1737,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
-            <td align="center">
+        <td align="center">
             <a href="https://github.com/ChrisEssomba">
                 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fghostproducers.co%2Fproduct-category%2Ftechno%2F&psig=AOvVaw1mR-kK_U6vmYVjmzwK2HQz&ust=1741792592820000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiojpmpgowDFQAAAAAdAAAAABAX" width="100px;" alt="Chris Essomba"/>
                 <br />
                 <sub><b>Chris Essomba</b></sub>
             </a>
-            </td>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Aditya-br">
+                <img src="https://avatars.githubusercontent.com/u/172393580?v=4" width="100px;" alt="Aditya BR"/>
+                <br />
+                <sub><b>Aditya BR></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
