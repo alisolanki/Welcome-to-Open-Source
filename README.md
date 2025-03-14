@@ -1738,6 +1738,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/Janani-prog">
+                <img src="https://avatars.githubusercontent.com/u/192235280?s=400&v=4" width="100px;" alt="Janani Jayalakshmi"/>
+                <br />
+                <sub><b>Janani Jayalakshmi</b></sub>
+             </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/ChrisEssomba">
                 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fghostproducers.co%2Fproduct-category%2Ftechno%2F&psig=AOvVaw1mR-kK_U6vmYVjmzwK2HQz&ust=1741792592820000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiojpmpgowDFQAAAAAdAAAAABAX" width="100px;" alt="Chris Essomba"/>
                 <br />
