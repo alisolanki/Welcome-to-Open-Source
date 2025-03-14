@@ -1512,6 +1512,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Lakshitalearning">
+                    <img src="https://avatars.githubusercontent.com/u/160765919?s=48&v=4" width="100px;" alt="Lakshita Malhotra"/>
+                    <br />
+                    <sub><b>Lakshita Malhotra</b></sub>
+                </a>
+            </td>            
+            <td align="center">
                 <a href="https://harshdeep.com/">
                     <img src="https://avatars.githubusercontent.com/u/93916215?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
