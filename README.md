@@ -168,6 +168,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/pankh23">
+                    <img src="https://avatars.githubusercontent.com/u/137212404?v=4" width="100px;" alt="Pankhuri Khurana"/>
+                    <br />
+                    <sub><b>Pankhuri Khurana</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
