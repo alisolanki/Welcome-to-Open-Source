@@ -212,6 +212,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rishavkapil">
+                    <img src="https://avatars.githubusercontent.com/u/104918093?v=4" width="100px;" alt="Rishav kapil"/>
+                    <br />
+                    <sub><b>Rishav Kapil</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
