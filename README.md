@@ -140,6 +140,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jashinishyni-mallidi">
+                    <img src="https://avatars.githubusercontent.com/u/147187279?s=400&u=5ffb02d9ac5c4fb3193a26bec52c2aaff1d13616&v=4" width="100px;" alt="Mallidi Jashini Shyni"/>
+                    <br />
+                    <sub><b>Mallidi Jashini Shyni</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
