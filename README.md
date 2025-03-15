@@ -1827,6 +1827,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sapana D/b></sub>
             </a>
         </td>
+         <td align="center">
+            <a href="[https://github.com/sneha55520](https://github.com/sneha55520)">
+                <img src="https://avatars.githubusercontent.com/u/179326124?v=4" width="100px;" alt="sneha"/>
+                <br />
+                <sub><b>sneha</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
 </table>
