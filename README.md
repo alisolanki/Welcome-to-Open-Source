@@ -1057,6 +1057,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/KanishaSharma11">
+                    <img src="https://avatars.githubusercontent.com/u/158239497?v=4" width="100px;" alt="Joseph Cecil"/>
+                    <br />
+                    <sub><b>Kanisha Ravindra Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/satyam-02">
                     <img src="https://avatars.githubusercontent.com/u/91192090?v=4" width="100px;" alt="Satyam Gupta"/>
                     <br />
