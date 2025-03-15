@@ -90,6 +90,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/pranjalS9">
+                    <img src="https://avatars.githubusercontent.com/u/98489031?v=4" width="100px;" alt="Pranjal Sharma"/>
+                    <br />
+                    <sub><b>Pranjal Sharma</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
