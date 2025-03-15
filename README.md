@@ -119,7 +119,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Akshay Kamath</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/Rishavkapil">
                     <img src="https://avatars.githubusercontent.com/u/104918093?v=4" width="100px;" alt="Rishav kapil"/>
                     <br />
