@@ -1778,6 +1778,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Aditya BR></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/MaginMadhavan">
+                <img src="https://avatars.githubusercontent.com/u/76735710?v=4" width="100px;" alt="Magin Madhavan"/>
+                <br />
+                <sub><b>Magin Madhavan</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
