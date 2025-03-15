@@ -1725,7 +1725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
         <td align="center">
             <a href="https://github.com/Yudhishtran">
-                <img src="https://avatars.githubusercontent.com/u/97242651?v=4" width="100px;" alt="Prabhat Jha"/>
+                <img src="https://avatars.githubusercontent.com/u/97242651?v=4" width="100px;" alt="Yudhishtran E"/>
                 <br />
                 <sub><b>Yudhishtran E</b></sub>
             </a>
