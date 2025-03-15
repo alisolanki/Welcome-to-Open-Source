@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+                 <td align="center">
+                <a href="https://github.com/rohhhaaan">
+                    <img src="https://avatars.githubusercontent.com/u/124514194?v=4" width="100px;" alt="Rohan Badiger"/>
+                    <br />
+                    <sub><b>Rohan Badiger</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;" alt="Travis Keefe"/>
