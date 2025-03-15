@@ -2033,7 +2033,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
         <td align="center">
             <a href="https://github.com/Shiv-Patel-24">
-                <img src="https://avatars.githubusercontent.com/u/152847016?v=4" width="100px;" alt="Shiv Patel"/>
+                <img src="https://avatars.githubusercontent.com/u/152847016?v=4" width="100px;" alt="Shiv Patel "/>
                 <br />
                 <sub><b>Shiv Patel</b></sub>
             </a>
