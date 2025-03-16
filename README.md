@@ -1550,9 +1550,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/p6297">
-                    <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Prtha Jyoti Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/104695799?v=4" width="100px;" alt="Partha Jyoti Pandey"/>
                     <br />
                     <sub><b>Partha Jyoti Pandey</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/gullayeshwantkumarruler">
+                    <img src="https://avatars.githubusercontent.com/u/56618271?v=4" width="100px;" alt="Yeshwant Kumar"/>
+                    <br />
+                    <sub><b>Yeshwant Kumar</b></sub>
                 </a>
             </td>
             <td align="center">
