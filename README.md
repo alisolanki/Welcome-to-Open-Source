@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Anshuman-Jha-01">
+                    <img src="https://avatars.githubusercontent.com/u/182460086?v=4" width="100px;" alt="Anshuman Jha"/>
+                    <br />
+                    <sub><b>Anshuman Jha</b></sub>
+                </a> 
+            </td>
                  <td align="center">
                 <a href="https://github.com/rohhhaaan">
                     <img src="https://avatars.githubusercontent.com/u/124514194?v=4" width="100px;" alt="Rohan Badiger"/>
