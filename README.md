@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https: //github.com/kondebonimahesh/">
+                    <img src="https://avatars.githubusercontent.com/u/123618596?s=400&u=e4104b71179ef3ec649e96a0a5c8fe9b1c41c45f&v=4" width="100px;" alt="kondeboni mahesh"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>kondeboni mahesh</b></sub>
                 </a> 
             </td>
                  <td align="center">
@@ -182,7 +182,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="harsh pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
