@@ -941,6 +941,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ariyamala">
+                    <img src="https://avatars.githubusercontent.com/u/65703734?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ariyamala Sivakumar/b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/satwikrprabhu">
                     <img src="https://avatars.githubusercontent.com/u/105852091?v=4" width="100px;" alt="Satwik Prabhu"/>
                     <br />
