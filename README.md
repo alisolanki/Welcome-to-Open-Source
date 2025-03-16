@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Tejas-00">
-                    <img src="https://avatars.githubusercontent.com/u/119691963?s=400&u=3f5526f852f51fa070e91de0fccab0a8fa378f48&v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/119691963?s=400&u=3f5526f852f51fa070e91de0fccab0a8fa378f48&v=4" width="100px;" alt="Tejas Sonawane"/>
                     <br />
                     <sub><b>Tejas Sonawane</b></sub>
                 </a> 
