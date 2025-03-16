@@ -1259,6 +1259,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vedank Singh</b></sub>
                 </a>
             </td>
+<td align="center">
+    <a href="https://github.com/Olab23">
+        <img src="https://avatars.githubusercontent.com/u/77660152?s=400&u=d3dfc2f5474140767b87bea9b51532b7d03e4060&v=4"/>
+        <br />
+        <sub><b>Anurag Bulbule</b></sub>
+    </a>
+</td>
+ 
+	
             <td align="center">
                 <a href="https://github.com/KanishaSharma11">
                     <img src="https://avatars.githubusercontent.com/u/158239497?v=4" width="100px;" alt="Joseph Cecil"/>
