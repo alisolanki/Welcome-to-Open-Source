@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+# Welcome to Open Source Contributions 
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
@@ -179,6 +179,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Parth Rana</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/golu7059">
+                    <img src="https://avatars.githubusercontent.com/u/123585517?v=4" width="100px;" alt="Golu Kumar"/>
+                    <br />
+                    <sub><b>GOLU  KUMAR</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
