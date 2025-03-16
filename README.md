@@ -18,6 +18,19 @@
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
+
+    <p align="center">
+    <a href="https://github.com/chetan9008">
+       <img height="50" src="https://avatars.githubusercontent.com/u/120271155?v=4"/>"/> 
+    </a>
+</p>
+
+    <p align="center">
+    <a href="https://github.com/chetan9008">
+       <img height="50" src="https://avatars.githubusercontent.com/u/120271155?v=4"/>"/> 
+    </a>
+</p>
+
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
@@ -179,6 +192,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Parth Rana</b></sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chetan9008">
+                    <img src="https://avatars.githubusercontent.com/u/120271155?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/chetan9008">
+                    <img src="https://avatars.githubusercontent.com/u/120271155?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ali Solanki</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
