@@ -555,6 +555,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/Tharal-Pius">
+                    <img src="https://avatars.githubusercontent.com/u/25402107?v=4" width="100px;" alt="Tharal Pius"/>
+                    <br />
+                    <sub><b>Tharal Pius</b></sub>
+               </a>
+             </td>
        </tr>
        <tr>
            <td align="center">
