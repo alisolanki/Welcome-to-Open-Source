@@ -1725,7 +1725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
             <td align="center">
                 <a href="https://github.com/MarreaTreasa">
-                    <img src="https://avatars.githubusercontent.com/u/132156345?v=4" width="100px;" alt="Cat n Night"/>
+                    <img src="https://avatars.githubusercontent.com/u/132156345?v=4" width="100px;" alt="Marrea Treasa Francis"/>
                     <br />
                     <sub><b>Marrea Treasa Francis</b></sub>
                 </a>
