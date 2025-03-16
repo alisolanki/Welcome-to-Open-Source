@@ -1725,10 +1725,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
             <td align="center">
                 <a href="https://github.com/Laraibkhan13">
-                <img src="https://avatars.githubusercontent.com/u/114330724?v=4" width="100px;" alt="Laraib khan"/>
-                <br />
-                <sub><b>Laraib khan</b></sub>
-            </a>
+                    <img src="https://avatars.githubusercontent.com/u/114330724?v=4" width="100px;" alt="Laraib khan"/>
+                    <br />
+                    <sub><b>Laraib khan</b></sub>
+                </a>
             </td>
         </tr>
     </tbody>
