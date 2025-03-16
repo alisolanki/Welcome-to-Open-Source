@@ -170,7 +170,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aryan Singh</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/shewalenitish">
                     <img src="https://avatars.githubusercontent.com/u/125981968?v=4" width="100px;" alt="Nitish Shewale"/>
                     <br />
