@@ -650,6 +650,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   </a>
               </td>
               <td align="center">
+                  <a href="https://github.com/Solexgreat">
+                    <img src="https://avatars.githubusercontent.com/u/101824410?v=4" width="100px;" alt="Solexgreat"/>
+                    <br />
+                    <sub><b>Solexgreat</b></sub>
+                  </a>
+              </td>
+              <td align="center">
                  <a href="https://github.com/tikul1">
                    <img src="https://avatars.githubusercontent.com/u/81417065?v=4" width="100px;" alt="Hardik Parmar"/>
                    <br />
