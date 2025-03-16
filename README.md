@@ -2116,9 +2116,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+                         <td align="center">
+                <a href="https://github.com/devil1329">
+                    <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a>
+            </td>
             <td align="center">
-                <a href="https://github.com/ShubhamRaut280">
-                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                <a href="https://github.com/SRIHAAS-PIGILAM">
+                    <img src="https://avatars.githubusercontent.com/u/108931606?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
