@@ -976,6 +976,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Naveen7003">
+                    <img src="https://avatars.githubusercontent.com/u/140879750?s=400&u=e435f4230dbfea104d61b72f0989f0f29e6c173f&v=4" width="100px;" alt="Naveen Prajapati"/>
+                    <br />
+                    <sub><b>Naveen Prajapati</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/YashTariyal">
                     <img src="https://avatars.githubusercontent.com/u/77398467?v=4" width="100px;" alt="Yash Tariyal"/>
                     <br />
