@@ -890,6 +890,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
             </td>
             <td align="center">
+                <a href="https://shaikahmadnawaz.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/112893258?v=4" width="100px;" alt="Shubham Singh"/>
+                    <br />
+                    <sub><b>Shubham Singh</b></sub>
+               </a>
+            </td>
+            <td align="center">
                 <a href="https://animezkishan.github.io/cv_v2/">
                     <img src="https://avatars.githubusercontent.com/u/91653112?v=4" width="100px;" alt="Kishan Kumar"/>
                     <br />
