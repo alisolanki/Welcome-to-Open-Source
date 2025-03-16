@@ -686,6 +686,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Nitesh Mishra</b></sub>
                  </a>
               </td>
+            <td align="center">
+                    <a href="https://github.com/hardik-z1">
+                        <img src="https://userpic.codeforces.org/3890906/title/a22b2532aec5594d.jpg" width="100px;" alt="Hardik_z1"/>
+                        <br />
+                        <sub><b>Hardik_z1</b></sub>
+                    </a> 
+             </td>
               <td align="center">
                  <a href="https://avatars.githubusercontent.com/u/186844786?v=4">
                     <img src="C:\Users\HP\Desktop\kuch_nhi\profile_photo.jpg" width="100px;" alt="Sweety Manadal"/>
