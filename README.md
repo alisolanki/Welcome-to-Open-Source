@@ -992,6 +992,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Samriti-Raj">
+                    <img src="https://avatars.githubusercontent.com/u/141746204?v=4" width="100px;" alt="Samriti Raj"/>
+                    <br />
+                    <sub><b>Samriti Raj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/salmanakhtar57">
                     <img src="https://avatars.githubusercontent.com/u/98455899?v=4" width="100px;" alt="Salman Akhtar"/>
                     <br />
