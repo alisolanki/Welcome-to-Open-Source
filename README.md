@@ -738,6 +738,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/bluebell2505">
+                    <img src="https://avatars.githubusercontent.com/u/119092934?v=4" width="100px;" alt="Vasundhara Dixit"/>
+                    <br />
+                    <sub><b>Vasundhara Dixit</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/roboanonymous">
                     <img src="https://avatars.githubusercontent.com/u/43928825?v=4" width="100px;" alt="Samyak Jain"/>
                     <br />
