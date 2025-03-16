@@ -2152,6 +2152,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/PavaniNanduri866">
+                    <img src=https://github.com/PavaniNanduri866" width="100px;" alt="Pavani Nanduri"/>
+                    <br />
+                    <sub><b>Pavani Nanduri</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
