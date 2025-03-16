@@ -2088,6 +2088,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
+            <td align="center">
+                <a href="https://github.com/Rupa-Rd">
+                    <img src="https://avatars.githubusercontent.com/u/102663541?v=4" width="100px;" alt="Roopa Rd"/>
+                    <br />
+                    <sub><b>Roopa Dharshini</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/shiro873">
                     <img src="https://avatars.githubusercontent.com/u/11527155?v=4" width="100px;" alt="Ridwan"/>
