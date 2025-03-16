@@ -593,6 +593,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://github.com/noor-glith">
+                    <img src="https://avatars.githubusercontent.com/u/147724454?s=96&v=4" width="100px;" alt="Mahnoor Rizwan"/>
+                    <br />
+                    <sub><b>Mahnoor Rizwan</b></sub>
+                </a>
+             </td>
+             <td align="center">
                  <a href="https://linktr.ee/_madhubalan">
                     <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
                     <br />
