@@ -1606,6 +1606,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/gantanikhilraj">
+                    <img src="https://avatars.githubusercontent.com/u/112814295?v=4" width="100px;" alt="Nikhil Raj"/>
+                    <br />
+                    <sub><b>Nikhil Raj</b></sub>
+                </a>
+           </td>
             <td align="center">
                 <a href="https://github.com/Harshalkal26">
                     <img src="https://avatars.githubusercontent.com/u/79199343?v=4" width="100px;" alt="Harshal"/>
