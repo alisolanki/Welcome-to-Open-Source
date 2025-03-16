@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/hasibhaque07">
-                    <img src="https://avatars.githubusercontent.com/u/55010274?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="https://avatars.githubusercontent.com/u/55010274?v=4" width="100px;" alt="Hasib haque"/>
                     <br />
                     <sub><b>Hasib haque</b></sub>
                 </a>
