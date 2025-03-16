@@ -2255,6 +2255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Jami Khan</b></sub>
             </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/amisharn">
+                    <img src="https://avatars.githubusercontent.com/u/165167425?v=4" width="100px;" alt="Amisha Raj Niroula"/>
+                    <br />
+                    <sub><b>Amisha Raj Niroula</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
