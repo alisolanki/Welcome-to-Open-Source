@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/Nitish01001">
+                    <img src="https://avatars.githubusercontent.com/u/134285523?s=400&u=4bc4e73c14b537e7a06f3976a965e91772bcc4c3&v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Nitish Itankar</b></sub>
                 </a> 
             </td>
                  <td align="center">
@@ -181,10 +181,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/Nitish01001">
+                    <img src="https://avatars.githubusercontent.com/u/134285523?s=400&u=4bc4e73c14b537e7a06f3976a965e91772bcc4c3&v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Nitish Itankar</b></sub>
                 </a>
             </td>
                       <td align="center">
