@@ -181,10 +181,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/asif-reh">
+                    <img src="https://github.com/account" width="100px;" alt="Shaik Asif Ur Rehman"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Shaik Asif Ur Rehman</b></sub>
                 </a>
             </td>
                       <td align="center">
