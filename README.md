@@ -2110,6 +2110,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+                <a href="https://github.com/Amitkrsahu472">
+                    <img src="https://avatars.githubusercontent.com/u/109278844?v=4" width="100px;" alt="Amit Kumar Sahu"/>
+                    <br />
+                    <sub><b>Amit Kumar Sahu</b></sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/devil1329">
                     <img src="https://avatars.githubusercontent.com/u/68421295?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
                     <br />
