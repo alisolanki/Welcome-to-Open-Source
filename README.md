@@ -2254,7 +2254,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Jami Khan</b></sub>
             </a>
-            </td>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sayandebnath-creator">
+                <img src="https://avatars.githubusercontent.com/u/173544746?v=4" width="100px;" alt="Jami Khan"/>
+                <br />
+                <sub><b>Sayan Debnath</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
