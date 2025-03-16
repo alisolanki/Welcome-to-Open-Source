@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/omroy07/Welcome_1st_contribution">
+                <a href="https://github.com/omroy07">
                     <img src="https://avatars.githubusercontent.com/u/196652898?v=4" width="100px;" alt="Om Roy"/>
                     <br />
                     <sub><b>Om Roy</b></sub>
