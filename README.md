@@ -810,6 +810,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/Gurucaara">
+                    <img src="https://avatars.githubusercontent.com/u/106030209?v=4" width="100px;" alt="Puru Rana"/>
+                    <br />
+                    <sub><b>Puru Rana</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/whyrupesh">
                     <img src="https://avatars.githubusercontent.com/u/122156957?v=4" width="100px;" alt="Rupesh.png"/>
                     <br />
