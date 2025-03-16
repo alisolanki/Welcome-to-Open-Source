@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/Vishnu15018">
+                    <img src="https://avatars.githubusercontent.com/u/93938251?v=4" width="100px;" alt="K Vishnu Vardhan Reddy"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>K Vishnu Vardhan Reddy</b></sub>
                 </a> 
             </td>
                  <td align="center">
