@@ -803,6 +803,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
            </td>
            <td align="center">
+                <a href="https://github.com/Vinianand1">
+                    <img src="https://avatars.githubusercontent.com/u/49526934?s=400&v=4" width="100px;" alt="Binita Sahai"/>
+                    <br />
+                    <sub><b>Binita Sahai</b></sub>
+               </a>
+           </td>
+           <td align="center">
                 <a href="https://github.com/MrPrakashR">
                     <img src="https://images.theconversation.com/files/417198/original/file-20210820-25-1j3afhs.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" width="100px;" alt="Prakash Rautela"/>
                     <br />
