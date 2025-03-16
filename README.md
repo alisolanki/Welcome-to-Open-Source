@@ -287,6 +287,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Akash-a11-droid">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQFYj2b5VcM0_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726762796687?e=1741824000&v=beta&t=7paELctpF1UOqoG3Byx1QtEEvPWonsFP88fsdrWRMog" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Akash Raj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
