@@ -555,6 +555,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
              </td>
+                </td>
+            <td align="center">
+                <a href="https://github.com/IsmailKallab">
+                    <img src="https://avatars.githubusercontent.com/u/137014927?v=4" width="100px;" alt="Anshuman Atrey"/>
+                    alt="Ismail Kallab"/>
+                    <br />
+                    <sub><b>Ali Solanki</b></sub>
+               </a>
+             </td>
        </tr>
        <tr>
            <td align="center">
