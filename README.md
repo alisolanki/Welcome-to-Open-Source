@@ -237,6 +237,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/pramodachar">
+                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Pramod Achar</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/jashinishyni-mallidi">
                     <img src="https://avatars.githubusercontent.com/u/147187279?s=400&u=5ffb02d9ac5c4fb3193a26bec52c2aaff1d13616&v=4" width="100px;" alt="Mallidi Jashini Shyni"/>
