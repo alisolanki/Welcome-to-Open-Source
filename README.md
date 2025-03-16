@@ -2122,6 +2122,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/Johnpepsi">
+                    <img src="https://avatars.githubusercontent.com/u/112512965?v=4" width="100px;" alt="John Palaganas"/>
+                    <br />
+                    <sub><b>John Palaganas</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://sites.google.com/view/prajapatsur/home">
