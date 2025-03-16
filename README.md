@@ -737,6 +737,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil</b></sub>
                </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/NoelineNalugemwa">
+                    <img src="https://avatars.githubusercontent.com/u/113518773?v=4" width="100px;" alt="Noeline nalugemwa"/>
+                    <br />
+                    <sub><b>Noeline Nalugemwa</b></sub>
+               </a>
+           </td>
            <td align="center">
                 <a href="https://github.com/roboanonymous">
                     <img src="https://avatars.githubusercontent.com/u/43928825?v=4" width="100px;" alt="Samyak Jain"/>
