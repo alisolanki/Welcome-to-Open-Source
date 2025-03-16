@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/parthrana-27">
                     <img src="https://avatars.githubusercontent.com/u/193088201?v=4" width="100px;" alt="Parth Rana"/>
                     <br />
