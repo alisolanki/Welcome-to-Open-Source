@@ -479,6 +479,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanket Zade</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Saan-king">
+                    <img src="https://avatars.githubusercontent.com/u/58635762?v=4" width="100px;" alt="Sathya Anand"/>
+                    <br />
+                    <sub><b>Sathya Anand</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/AnushkaGupta27">
                     <img src="https://avatars.githubusercontent.com/u/85079681?v=4" width="100px;" alt="Anushka Gupta"/>
