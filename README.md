@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Anshuman-Jha-01">
-                    <img src="https://avatars.githubusercontent.com/u/182460086?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <img src="https://avatars.githubusercontent.com/u/182460086?v=4" width="100px;" alt="Anshuman Jha"/>
                     <br />
                     <sub><b>Anshuman Jha</b></sub>
                 </a>
