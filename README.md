@@ -1091,6 +1091,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anuj Pandey</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/dakshika-chaudhary">
+                    <img src="https://github.com/account" width="100px;" alt="dakshika"/>
+                    <br />
+                    <sub><b>Dakshika Chaudhary</b></sub>
+                 </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
