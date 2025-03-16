@@ -119,7 +119,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Akshay Kamath</b></sub>
                 </a>
             </td>
-            </td>
             <td align="center">
                 <a href="https://github.com/Imama-Kainat">
                     <img src="https://github.com/account" width="100px;" alt="Mamai Nataki"/>
