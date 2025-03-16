@@ -24,6 +24,13 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Sahitha03">
+            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
+            <br />
+            <sub><b>Aluri Sai Sahitha</b></sub>
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
