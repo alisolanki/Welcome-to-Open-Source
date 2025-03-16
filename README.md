@@ -2255,6 +2255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Jami Khan</b></sub>
             </a>
             </td>
+            <td align="center">
+            <a href="https://github.com/Apoorv124233">
+                <img src="https://avatars.githubusercontent.com/u/83672764?v=4" width="100px;" alt="Apoorva Karn"/>
+                <br />
+                <sub><b>Apoorva Karn</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
