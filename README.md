@@ -2086,6 +2086,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avinash 🍉</b></sub>
                </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arjunonair">
+                    <img src="https://avatars.githubusercontent.com/u/83801097?v=4" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Arjun 🍉</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
              <td align="center">
