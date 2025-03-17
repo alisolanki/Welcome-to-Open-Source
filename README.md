@@ -2262,6 +2262,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/divyavinod6">
+                <img src="https://github.com/account" width="100px;" alt="Divya Vinod"/>
+                <br />
+                <sub><b>Divya Vinod</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
