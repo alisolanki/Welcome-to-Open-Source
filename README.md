@@ -13,7 +13,7 @@
 </p>
 
 <p>List of actively participating individulas in open source contributions</p>
-
+- Sucil Dey
 - Add your own details to the contributor list
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
