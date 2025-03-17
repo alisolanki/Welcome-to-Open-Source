@@ -2262,6 +2262,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+        <td align="center">
+                <a href="https://github.com/SarthakM005">
+                    <img src="https://avatars.githubusercontent.com/u/158340925?v=4" width="100px;" alt="Sarthak"/>
+                    <br />
+                    <sub><b>Sarthak</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
