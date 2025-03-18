@@ -32,10 +32,10 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/misha141">
-            <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/shivanagendrak">
+            <img src="https://avatars.githubusercontent.com/u/40945928?v=4 width="100px;" alt="Neeraj Madake"/>
             <br />
-            <sub><b>Misha Kumari</b></sub>
+            <sub><b>Shiva Nagendra Babu Kore</b></sub>
         </a>
     </td>
     ```
