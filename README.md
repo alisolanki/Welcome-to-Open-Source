@@ -2262,6 +2262,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/Tvisha-05">
+                <img src="https://avatars.githubusercontent.com/u/178540685?s=400&u=758f835be72b8c45f5635cbaaed73324aa4348ba&v=4" width="100px;" alt="Jami Khan"/>
+                <br />
+                <sub><b>Donepudi Tvisha Sri</b></sub>
+            </a>
+        </td>
+        
         </tr>
     </tbody>
 </table>
