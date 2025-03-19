@@ -2260,6 +2260,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <img src="https://avatars.githubusercontent.com/u/173544746?v=4" width="100px;" alt="Jami Khan"/>
                 <br />
                 <sub><b>Sayan Debnath</b></sub>
+                 <td align="center">
+            <a href="https://github.com/HAAZIQ-ALI">
+                <img src="https://avatars.githubusercontent.com/u/167455693?v=4" width="100px;" alt="Haaziq Ali (the ultimate Waguri fan)"/>
+                <br />
+                <sub><b>Haaziq Ali</b></sub>
             </a>
         </td>
         </tr>
