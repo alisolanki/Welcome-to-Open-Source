@@ -2262,6 +2262,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+           </td>
+                 <td align="center">
+                <a href="https://github.com/DurinLalwani">
+                    <img src="https://avatars.githubusercontent.com/u/149881843?v=4" width="100px;" alt="Durin Lalwani"/>
+                    <br />
+                    <sub><b>Durin Lalwani</b></sub>
+                </a> 
         </tr>
     </tbody>
 </table>
