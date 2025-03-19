@@ -2262,6 +2262,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="http://varnikha13/">
+                <img src=https://avatars.githubusercontent.com/u/141479119?v=4 width="100px;" alt="varnikha"/>
+                <br />
+                <sub><b>Varnikha Varshini</b></sub>
+            </a>
+        </td>
+
         </tr>
     </tbody>
 </table>
