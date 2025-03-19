@@ -2262,6 +2262,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Sayan Debnath</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/anaghasrivatsav">
+                <img src="https://avatars.githubusercontent.com/u/76542948?v=4" width="100px;" alt="Anagha Srivatsav"/>
+                <br />
+                <sub><b>Anagha Srivatsav</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
