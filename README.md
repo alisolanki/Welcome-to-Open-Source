@@ -1114,13 +1114,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dharmateja176</b></sub>
                 </a>
             </td>
-             <td align="center">
-        <a href="https://github.com/Rohithvema79">
-            <img src="https://avatars.githubusercontent.com/u/154524842?s=400&u=30a9c1017129817563dba794739d50898e1194bf&v=4" width="100px;" alt="Rohith Vema"/>
-            <br />
-            <sub><b>Rohith Vema</b></sub>
-        </a>
-    </td>
             <td align="center">
                 <a href="https://github.com/SiddharthaSarkar1">
                     <img src="https://avatars.githubusercontent.com/u/98095479?v=4" width="100px;" alt="Siddhartha Sarkar"/>
@@ -1133,6 +1126,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/114384628?v=4" width="100px;" alt="Ahmed Shabib"/>
                     <br />
                     <sub><b>Ahmed Shabib</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Rohithvema79">
+                    <img src="https://avatars.githubusercontent.com/u/154524842?s=400&u=30a9c1017129817563dba794739d50898e1194bf&v=4" width="100px;" alt="Rohith Vema"/>
+                     <br />
+                     <sub><b>Rohith Vema</b></sub>
                 </a>
             </td>
             <td align="center">
