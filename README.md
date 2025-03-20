@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/vikasyadav01234">
-                    <img src="https://avatars.githubusercontent.com/u/123307610?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/123307610?v=4" width="100px;" alt="Vikas Yadav"/>
                     <br />
                     <sub><b>Vikas Yadav</b></sub>
                 </a> 
