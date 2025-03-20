@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/ashshettyyy">
+                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;" alt="Ashwitha Shetty"/>
+                    <br />
+                    <sub><b>Ashwitha Shetty</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/AKRoutGitHub">
                     <img src="https://avatars.githubusercontent.com/u/151461051?v=4" width="100px;" alt="Asish Kumar Rout"/>
                     <br />
