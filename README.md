@@ -2285,7 +2285,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
         <td align="center">
             <a href="https://github.com/mudassirl6">
-                <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?ga=GA1.1.1296254933.1740808064&semt=ais_hybrid" width="100px;" alt="Mudassir Ahmed"/>
+                <img src="https://avatars.githubusercontent.com/u/118010092?v=4" width="100px;" alt="Mudassir Ahmed"/>
                 <br />
                 <sub><b>Mudassir Ahmed</b></sub>
             </a>
