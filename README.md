@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Naveen-M77/">
+                    <img src="https://avatars.githubusercontent.com/u/204358361?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>M Naveen</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/aaradhya466">
                     <img src="https://avatars.githubusercontent.com/u/149591897?v=4" width="100px;" alt="Aaradhya"/>
                     <br />
