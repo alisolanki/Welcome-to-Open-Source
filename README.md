@@ -55,6 +55,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Sachin001k">
+                    <img scr="https://avatars.githubusercontent.com/u/111839015?v=4&size=64"
+                    width="100px" alt="Sachin">
+                    </br>
+                    <sub><b> Sachin Kumar</b></sub>
+                </a>
+            </td>
+
+            <td align="center">
                 <a href="https://github.com/Naveen-M77/">
                     <img src="https://avatars.githubusercontent.com/u/204358361?v=4" width="100px;" alt="M Naveen"/>
                     <br />
