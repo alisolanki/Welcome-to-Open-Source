@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
           <td align="center">
                 <a href="https://github.com/Kaito-de">
-                    <img src="https://avatars.githubusercontent.com/u/193321032?s=400&u=b3fa777160434d73bd4e7a020eefa51098c078b1&v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/193321032?s=400&u=b3fa777160434d73bd4e7a020eefa51098c078b1&v=4" width="100px;" alt="Aakash"/>
                     <br />
                     <sub><b>Aakash</b></sub>
                 </a> 
