@@ -2325,6 +2325,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Anagha Srivatsav</b></sub>
             </a>
         </td>
+            <td align="center">
+            <a href="https://github.com/vinothk-master">
+                <img src="https://avatars.githubusercontent.com/u/114758107?v=4" width="100px;" alt="Prabhat Jha"/>
+                <br />
+                <sub><b>Vinoth Kannan</b></sub>
+            </a>
+        </td>        
         </tr>
     </tbody>
 </table>
