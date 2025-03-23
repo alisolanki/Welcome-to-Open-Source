@@ -2318,6 +2318,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mabhu Subhani</b></sub>
                 </a>
             </td>
+        <td align="center">
+            <a href="https://github.com/Soumashree-Das">
+                <img src="https://avatars.githubusercontent.com/u/176736611?v=4" width="100px;" alt="Anagha Srivatsav"/>
+                <br />
+                <sub><b>Anagha Srivatsav</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
