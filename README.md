@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/amehhh">
-                    <img src="https://avatars.githubusercontent.com/u/106929109?s=48&v=4" width="100px;" alt="Ameh Emmanuel"/>
+                    <img src="https://avatars.githubusercontent.com/u/106929109?s=48&v=4" width="100px;" alt="Ameh Emmanuel Sunday"/>
                     <br />
                     <sub><b>Ameh Emmanuel Sunday</b></sub>
                 </a> 
