@@ -53,7 +53,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
-            </td><td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/kioko121">
                     <img src="https://avatars.githubusercontent.com/u/62433881?v=4" width="100px;" alt="Vaea Garrido"/>
                     <br />
