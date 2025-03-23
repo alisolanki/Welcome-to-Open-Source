@@ -2208,6 +2208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Albinjose485">
+                    <img src="https://avatars.githubusercontent.com/u/89767116?v=4" width="100px;" alt="Albin Jose"/>
+                    <br />
+                    <sub><b>Albin Jose</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
