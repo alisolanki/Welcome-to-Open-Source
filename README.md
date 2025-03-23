@@ -350,6 +350,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rishikabilla">
+                    <img src="https://avatars.githubusercontent.com/u/192239367?s=400&u=1c71c6965008820403a9152aa8e3aafb80576ea2&v=4" width="100px;" alt="Rishika Shrinivas"/>
+                    <br />
+                    <sub><b>Rishika Shrinivas Billa</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
