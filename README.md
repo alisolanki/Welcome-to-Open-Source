@@ -2215,6 +2215,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/stranger-scripts-06">
+                    <img src="https://avatars.githubusercontent.com/u/145256078?s=400&v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Samhita</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
