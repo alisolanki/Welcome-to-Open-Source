@@ -83,6 +83,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/namramoradiya">
+                    <img src="https://avatars.githubusercontent.com/u/156280905?v=4" width="100px;" alt="Travis Keefe"/>
+                    <br />
+                    <sub><b>Namra Moradiya</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/ashshettyyy">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;" alt="Ashwitha Shetty"/>
                     <br />
