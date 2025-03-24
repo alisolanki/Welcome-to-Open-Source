@@ -1722,7 +1722,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-            </td>
+        </td>
             <td align="center">
                 <a href="https://github.com/shwetayadav23">
                     <img src="https://avatars.githubusercontent.com/u/153811664?v=4" width="100px;" alt="Shweta Yadav"/>
