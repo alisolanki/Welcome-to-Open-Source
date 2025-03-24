@@ -707,6 +707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Debashish Bordoloi</b></sub>
                 </a>
              </td>
+              <td align="center">
+                <a href="https://github.com/Floride125-art">
+                    <img src="https://avatars.githubusercontent.com/u/71024941?v=4" width="100px;" alt="Floride Tuyisenge"/>
+                    <br />
+                    <sub><b>Floride Tuyisenge</b></sub>
+                </a>
+             </td>
              <td align="center">
                  <a href="https://github.com/Nitesh232">
                     <img src="https://avatars.githubusercontent.com/u/92843270?v=4" width="100px;" alt="Nitesh Mishra"/>
