@@ -1265,6 +1265,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/amrutha0909">
+                    <img src="https://avatars.githubusercontent.com/u/139883552?v=4" width="100px;" alt="Amrutha"/>
+                    <br />
+                    <sub><b>Amrutha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/moudekarvivek">
                     <img src="https://avatars.githubusercontent.com/u/91590954?v=4" width="100px;" alt="Vivek Moudekar"/>
                     <br />
