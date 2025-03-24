@@ -577,6 +577,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/VedaSathvika">
+                    <img src="https://avatars.githubusercontent.com/u/163419913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzE5ODAsIm5iZiI6MTczNDMzMDc4MCwicGF0aCI6Ii91LzE2MzQxOTkxMyJ9.TXPX49dwuLb5IU30Y8h62OgeHaHpjKR8Wfmts2fZWjE&v=4" width="100px;" 
+                    alt="Veda Sathvika"/>
+                    <br />
+                    <sub><b>Veda Sathvika</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/a60231023">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4" width="100px;" alt="Ayush Tiwari"/>
                     <br />
