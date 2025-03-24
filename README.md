@@ -1128,6 +1128,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Siddharthakumashukla1213">
+                    <img src="https://avatars.githubusercontent.com/u/138513454?v=4" width="100px;" alt="Sai Harsha Ala"/>
+                    <br />
+                    <sub><b>Siddhartha Kumar Shukla</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://portfolio-app-five-vert.vercel.app/">
                     <img src="https://avatars.githubusercontent.com/u/77013800?v=4" width="100px;" alt="Shravan Chaudhary Profile Photo"/>
                     <br />
