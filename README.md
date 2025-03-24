@@ -2250,6 +2250,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shetashreya">
+                    <img src="https://avatars.githubusercontent.com/u/158707680?v=4" width="100px;" alt="Sheta Shreya"/>
+                    <br />
+                    <sub><b>Sheta Shreya</b></sub>
+                </a>
+            </td>
+            <td align="center">
             <a href="https://github.com/jprabhat">
                 <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
                 <br />
