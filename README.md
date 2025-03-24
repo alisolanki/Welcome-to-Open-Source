@@ -1725,7 +1725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Penguin0417">
-                    <img src="https://avatars.githubusercontent.com/u/167802327?v=4" width="100px;" alt="Prabhat Jha"/>
+                    <img src="https://avatars.githubusercontent.com/u/167802327?v=4" width="100px;" alt="Abhishek Maurya"/>
                     <br/>
                     <sub><b>Abhishek Maurya</b></sub>
                 </a>
