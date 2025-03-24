@@ -48,15 +48,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Rashid</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Naveen-M77/">
-                    <img src="https://avatars.githubusercontent.com/u/204358361?v=4" width="100px;" alt="M Naveen"/>
+                <a href="https://github.com/f20242661136">
+                    <img src="https://avatars.githubusercontent.com/u/197119493?v=4" width="100px;" alt="M Naveen"/>
                     <br />
                     <sub><b>M Naveen</b></sub>
                 </a> 
