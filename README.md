@@ -84,7 +84,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/namramoradiya">
-                    <img src="https://avatars.githubusercontent.com/u/156280905?v=4" width="100px;" alt="Travis Keefe"/>
+                    <img src="https://avatars.githubusercontent.com/u/156280905?v=4" width="100px;" alt="Namra Moradiya"/>
                     <br />
                     <sub><b>Namra Moradiya</b></sub>
                 </a> 
