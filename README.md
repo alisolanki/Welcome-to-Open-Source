@@ -1723,5 +1723,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rudra Raut</b></sub>
                 </a>
             </td>
+        </tr>
     </tbody>
 </table>
