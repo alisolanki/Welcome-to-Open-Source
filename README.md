@@ -585,11 +585,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              </td>
        </tr>
        <tr>
-           <td align="center">
-              <a href="https://github.com/DAJ8112">
-                    <img src="https://avatars.githubusercontent.com/u/73093934?v=4" width="100px;" alt="Dhruvil"/>
+        <td align="center">
+                 <a href="https://linktr.ee/_madhubalan">
+                    <img src="https://avatars.githubusercontent.com/u/86916986?v=4" width="100px;" alt="Madhubalan"/>
                     <br />
-                    <sub><b>Dhruvil Joshi</b></sub>
+                    <sub><b>Madhubalan</b></sub>
+                </a>
+            </td>
+             <td align="center">
+              <a href="https://github.com/Adeyemi-olusola">
+                    <img src="https://avatars.githubusercontent.com/u/65202207?v=4" width="100px;" alt="Dhruvil"/>
+                    <br />
+                    <sub><b>Adeyemi Olusola</b></sub>
                 </a>
             </td>
             <td align="center">
