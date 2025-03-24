@@ -831,7 +831,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/amrutha0909">
-                    <img src="https://avatars.githubusercontent.com/u/139883552?v=4" width="100px;" alt="Ｍ♢ＮＴΛＳＩＭ"/>
+                    <img src="https://avatars.githubusercontent.com/u/139883552?v=4" width="100px;" alt="Amrutha"/>
                     <br />
                     <sub><b>Amrutha</b></sub>
                 </a>
