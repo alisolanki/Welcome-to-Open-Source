@@ -1718,10 +1718,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Kunal182004">
-                    <img src="https://avatars.githubusercontent.com/u/128071098?v=4">
+                    <img src="https://avatars.githubusercontent.com/u/128071098?v=4" width="100px;" alt="Kunal Harad">
                     <br/>
                     <sub><b>Kunal Harad</b></sub>
-                    </a>
+                </a>
             </td>
         </tr>
     </tbody>
