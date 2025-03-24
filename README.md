@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/tomarAyush07">
+                    <img src="https://avatars.githubusercontent.com/u/182602728?s=400&u=0f6fd897a8d7339d8cfb33111b3cd371598e620a&v=4"/>
+                    <br />
+                    <sub><b>Ayush Singh Tomar</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/Naveen-M77/">
                     <img src="https://avatars.githubusercontent.com/u/204358361?v=4" width="100px;" alt="M Naveen"/>
