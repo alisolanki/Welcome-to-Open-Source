@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/murtuzahussainshaik/">
-                    <img src="https://avatars.githubusercontent.com/u/127223229?v=4" width="100px;" alt="Murtuza Hussain"/>
+                    <img src="https://avatars.githubusercontent.com/u/127223229?v=4" width="100px;" alt="Murtuza Hussain Shaik"/>
                     <br />
                     <sub><b>Murtuza Hussain Shaik</b></sub>
                 </a> 
