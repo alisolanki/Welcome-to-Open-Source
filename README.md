@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://my-portfolio.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Bhadri Narayanan"/>
+                    <br />
+                    <sub><b>Bhadri Narayanan</b></sub>
+                </a> 
+            </td>
              <td align="center">
                 <a href="https://github.com/tomarAyush07">
                     <img src="https://avatars.githubusercontent.com/u/182602728?s=400&u=0f6fd897a8d7339d8cfb33111b3cd371598e620a&v=4"/>
