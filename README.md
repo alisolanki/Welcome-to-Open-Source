@@ -448,10 +448,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
            <td align="center">
-                <a href="https://github.com/sahil-ansari01">
-                    <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Sahil Ansari"/>
+                <a href="https://github.com/arinmandal">
+                    <img src="https://avatars.githubusercontent.com/u/54814983?v=4" width="100px;" alt="Arin Mandal"/>
                     <br />
-                    <sub><b>Sahil Ansari</b></sub>
+                    <sub><b>Arin Mandal</b></sub>
                 </a>
             </td>
             <td align="center">
