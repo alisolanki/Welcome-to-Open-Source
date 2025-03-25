@@ -2437,5 +2437,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/aniketchavan2211">
+                    <img src="https://avatars.githubusercontent.com/u/66140480?s=400&u=49777c83fce209922a3423e6b214298daf6d6967&v=4" width="100px;" alt="aniketchavan2211"/>
+                    <br />
+                    <sub><b>Aniket Chavan</b></sub>
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
