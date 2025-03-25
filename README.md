@@ -2410,6 +2410,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Vinoth Kannan</b></sub>
             </a>
         </td>    
+        <td align="center">
+            <a href="https://github.com/Akash-088">
+                <img src="https://avatars.githubusercontent.com/u/167415188?v=4&size=64" width="100px;" alt="Akash Gupta"/>
+                <br />
+                <sub><b>Akash Gupta</b></sub>
+            </a>
+        </td>
          <td align="center">
             <a href="https://github.com/vyshakhsha">
                 <img src="https://avatars.githubusercontent.com/u/58213684?v=4" width="100px;" alt="Vyshakh"/>
