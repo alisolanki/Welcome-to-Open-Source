@@ -245,6 +245,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Fakekeymaster">
+                    <br />
+                    <img src="https://avatars.githubusercontent.com/u/134098804?v=4" width="100px;" alt="Paras leela"/>
+                    <br />
+                    <sub><b>Paras Leela</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/aloksinha107">
                     <img src="https://avatars.githubusercontent.com/u/151989195?v=4" width="100px;" alt="Alok"/>
                     <br />
