@@ -2383,6 +2383,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/Bagusdevaa">
+                <img src="https://avatars.githubusercontent.com/u/114275908?v=4" width="100px;" alt="my_pic"/>
+                <br />
+                <sub><b>Bagus Deva</b></sub>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/anaghasrivatsav">
                 <img src="https://avatars.githubusercontent.com/u/76542948?v=4" width="100px;" alt="Anagha Srivatsav"/>
                 <br />
