@@ -420,6 +420,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/devakashpandey">
+                    <img src="https://avatars.githubusercontent.com/u/114848776?v=4" width="100px;" alt="Akash Pandey"/>
+                    <br />
+                    <sub><b>Akash Pandey</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/AroopGit">
                     <img src="https://avatars.githubusercontent.com/u/124480700?v=4" width="100px;" alt="Aroop Rath"/>
