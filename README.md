@@ -2404,6 +2404,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Anagha Srivatsav</b></sub>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/krishx64">
+                <img src="hhttps://avatars.githubusercontent.com/u/172235789?v=4" width="100px;" alt="Krish Jaiswal"/>
+                <br />
+                <sub><b>Krish Jaiswal</b></sub>
+            </a>
+        </td>
             <td align="center">
                 <a href="https://github.com/Mabhusubhani001">
                     <img src="https://avatars.githubusercontent.com/u/139627113?v=4" width="100px;" alt="Mabhu Subhani"/>
