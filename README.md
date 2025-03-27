@@ -365,6 +365,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Mehak1314">
+                    <img src="https://avatars.githubusercontent.com/u/178561631?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Mehak garg</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://shubhamdhage.com/">
                     <img src="https://avatars.githubusercontent.com/u/68442966?v=4" width="100px;" alt="Shubham Dhage"/>
                     <br />
