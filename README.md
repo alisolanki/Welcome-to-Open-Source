@@ -627,6 +627,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anshuman Atrey</b></sub>
                </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/danujs">
+                    <img src="https://images.ctfassets.net/84fk79vbk4iq/7EWekEVqvNsXhJLHnF8G9y/2202f17e356e1fb1b4285bc04199976a/image.png" width="100px;" alt="Arduino"/>
+                    <br />
+                    <sub><b>Arduino by Danu</b></sub>
+               </a>
+             </td>
        </tr>
        <tr>
            <td align="center">
