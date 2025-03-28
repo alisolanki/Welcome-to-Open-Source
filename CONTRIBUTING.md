@@ -54,7 +54,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/SourishBhattacherjee">
-            <img src="https://avatars.githubusercontent.com/u/143819787?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <img src="https://avatars.githubusercontent.com/u/143819787?v=4" width="100px;" alt="Sourish Bhattacharjee"/>
             <br />
             <sub><b>Sourish Bhattacharjee
         </a>
