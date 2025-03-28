@@ -486,10 +486,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">   
-                <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
+                <a href="https://github.com/SupriyaMare">
+                    <img src="https://avatars.githubusercontent.com/u/110401150?s=96&v=4" width="100px;" alt="Supriya Mare"/>
                     <br />
-                    <sub><b>Anuj sharma</b></sub>
+                    <sub><b>Supriya Mare</b></sub>
                 </a>
             </td>
             <td align="center">
