@@ -55,10 +55,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/SaniyaParveenCode/">
-                    <img src="https://avatars.githubusercontent.com/u/168137306?v=4" width="100px;" alt="Sheikh Saniya Parveen"/>
+                <a href="https://github.com/Kavisperera/">
+                    <img src="https://avatars.githubusercontent.com/u/169891568?v=4" width="100px;" alt="Kavindya Sewmini Perera"/>
                     <br />
-                    <sub><b>Sheikh Saniya Parveen</b></sub>
+                    <sub><b>Kavindya Sewmini Perera</b></sub>
                 </a> 
             </td>
              <td align="center">
