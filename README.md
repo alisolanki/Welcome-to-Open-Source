@@ -82,6 +82,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>M Naveen</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/DVADASTMAN">
+                    <img src="https://avatars.githubusercontent.com/u/158759818?v=4" width="100px;" alt="M Naveen"/>
+                    <br />
+                    <sub><b>Dvadastman Mehta</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/Sivaram842">
                     <img src="https://avatars.githubusercontent.com/u/170772966?v=4" width="100px;" alt="M Naveen"/>
