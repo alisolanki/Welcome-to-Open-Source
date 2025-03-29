@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/apoorva-as">
-                    <img src="https://avatars.githubusercontent.com/u/179387592?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/179387592?v=4" width="100px;" alt="Apoorva asati"/>
                     <br />
                     <sub><b>Apoorva asati</b></sub>
                 </a> 
