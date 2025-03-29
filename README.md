@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://tupakulatimothi.github.io/MyPortFolio/">
+                    <img src="https://avatars.githubusercontent.com/u/132187474?v=4" width="100px;" alt="Tupakula Timothi"/>
+                    <br />
+                    <sub><b>Tupakula Timothi</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/SaniyaParveenCode/">
                     <img src="https://avatars.githubusercontent.com/u/168137306?v=4" width="100px;" alt="Sheikh Saniya Parveen"/>
                     <br />
