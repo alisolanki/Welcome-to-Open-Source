@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Parth nema </b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://tupakulatimothi.github.io/MyPortFolio/">
                     <img src="https://avatars.githubusercontent.com/u/132187474?v=4" width="100px;" alt="Tupakula Timothi"/>
                     <br />
