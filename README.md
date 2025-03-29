@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/its-2006-batman">
+                    <img src="https://avatars.githubusercontent.com/u/135191406?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>HARSHIT SINGH</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/SaniyaParveenCode/">
                     <img src="https://avatars.githubusercontent.com/u/168137306?v=4" width="100px;" alt="Sheikh Saniya Parveen"/>
                     <br />
