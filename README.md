@@ -2494,6 +2494,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+         <tr>
+             <td align="center">
+                <a href="https://github.com/HashimAyamon">
+                    <img src="https://avatars.githubusercontent.com/u/162900023?v=4" width="100px;" alt="Hashim"/>
+                    <br />
+                    <sub><b>Hashim A</b></sub>
+                </a> 
+            </td>
+        </tr>
         <tr>
              <td align="center">
                 <a href="https://github.com/aniketchavan2211">
@@ -2529,6 +2538,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aliasgar Sogiawala</b></sub>
                 </a> 
             </td>
-        </tr>
+        </tr> 
     </tbody>
 </table>
