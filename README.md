@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/Sahni06">
+                    <img src="https://avatars.githubusercontent.com/u/190860860?v=4" width="100px;" alt="Sahni Kumari"/>
+                    <br />
+                    <sub><b>Sahni Kumari</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://tupakulatimothi.github.io/MyPortFolio/">
                     <img src="https://avatars.githubusercontent.com/u/132187474?v=4" width="100px;" alt="Tupakula Timothi"/>
