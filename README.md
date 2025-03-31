@@ -2564,6 +2564,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aliasgar Sogiawala</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/mik3lson">
+                    <img src="https://avatars.githubusercontent.com/u/141238991?v=4" width="100px;" alt="Michael"/>
+                    <br />
+                    <sub><b>Michael Ndudi</b></sub>
+                </a> 
+            </td>
         </tr>
          <tr>
              <td align="center">
