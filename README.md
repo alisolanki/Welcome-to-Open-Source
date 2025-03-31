@@ -2447,8 +2447,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/dhruvk0910">
+                <img src="https://avatars.githubusercontent.com/u/76542948?v=4" width="100px;" alt="Dhruv Kampani"/>
+                <br />
+                <sub><b>Dhruv Kampani</b></sub>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/krishx64">
-                <img src="hhttps://avatars.githubusercontent.com/u/172235789?v=4" width="100px;" alt="Krish Jaiswal"/>
+                <img src="https://avatars.githubusercontent.com/u/177353053?v=4" width="100px;" alt="Krish Jaiswal"/>
                 <br />
                 <sub><b>Krish Jaiswal</b></sub>
             </a>
