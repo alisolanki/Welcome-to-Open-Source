@@ -563,6 +563,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
              </td>
              <td align="center">
+                <a href="https://github.com/Apoorv-Awasthi-23">
+                    <img src="https://avatars.githubusercontent.com/u/118057441?v=4" width="100px;" alt="Apoorv Awasthi"/>
+                    <br />
+                    <sub><b>Apoorv Awasthi</b></sub>
+                </a>
+             </td>
+             <td align="center">
                 <a href="https://www.linkedin.com/in/mukesh-mallula-bbab8b1aa/">
                  <img src="https://avatars.githubusercontent.com/u/117512070?v=4" width="100px;" alt="Mukesh Mallula"/>
                     <br />
