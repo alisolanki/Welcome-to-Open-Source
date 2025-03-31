@@ -54,6 +54,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/Sahni06">
+                    <img src="https://avatars.githubusercontent.com/u/190860860?v=4" width="100px;" alt="Sahni Kumari"/>
+                    <br />
+                    <sub><b>Sahni Kumari</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Parth nema </b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://tupakulatimothi.github.io/MyPortFolio/">
                     <img src="https://avatars.githubusercontent.com/u/132187474?v=4" width="100px;" alt="Tupakula Timothi"/>
@@ -2440,8 +2454,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/dhruvk0910">
+                <img src="https://avatars.githubusercontent.com/u/76542948?v=4" width="100px;" alt="Dhruv Kampani"/>
+                <br />
+                <sub><b>Dhruv Kampani</b></sub>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/krishx64">
-                <img src="hhttps://avatars.githubusercontent.com/u/172235789?v=4" width="100px;" alt="Krish Jaiswal"/>
+                <img src="https://avatars.githubusercontent.com/u/177353053?v=4" width="100px;" alt="Krish Jaiswal"/>
                 <br />
                 <sub><b>Krish Jaiswal</b></sub>
             </a>
@@ -2541,6 +2562,31 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/180506602?v=4" width="100px;" alt="Manuomar"/>
                     <br />
                     <sub><b>Aliasgar Sogiawala</b></sub>
+                </a> 
+            </td>
+             <td align="center">
+                <a href="https://github.com/mik3lson">
+                    <img src="https://avatars.githubusercontent.com/u/141238991?v=4" width="100px;" alt="Michael"/>
+                    <br />
+                    <sub><b>Michael Ndudi</b></sub>
+                </a> 
+            </td>
+        </tr>
+         <tr>
+             <td align="center">
+                <a href="https://github.com/SanthiyaPeriyasamy245">
+                    <img src="https://avatars.githubusercontent.com/u/113085174?s=400&v=4" width="100px;" alt="Santhiya"/>
+                    <br />
+                    <sub><b>Santhiya Periyasamy</b></sub>
+                </a> 
+            </td>
+        </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/alexkunev">
+                    <img src="https://avatars.githubusercontent.com/u/69144667?v=4" width="100px;" alt="Manuomar"/>
+                    <br />
+                    <sub><b>Alex Kunev</b></sub>
                 </a> 
             </td>
         </tr>
