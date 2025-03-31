@@ -2593,7 +2593,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <tr>
              <td align="center">
                 <a href="https://github.com/keerthana250501">
-                    <img src="https://avatars.githubusercontent.com/u/55452175?s=400&u=336a3c82cdc40d8cf217250f465b3dd4e55b7d32&v=4"/>
+                    <img src="https://avatars.githubusercontent.com/u/55452175?s=400&u=336a3c82cdc40d8cf217250f465b3dd4e55b7d32&v=4" width="100px;" alt="KEERTHANA"/>
                     <br />
                     <sub><b>keerthana250501</b></sub>
                 </a>
