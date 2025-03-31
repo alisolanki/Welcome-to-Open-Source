@@ -2593,7 +2593,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
              <td align="center">
                 <a href="https://github.com/Varunkumar-9">
-                    <img src="https://avatars.githubusercontent.com/u/85348012?s=400&v=4" width="100px;" alt="Santhiya"/>
+                    <img src="https://avatars.githubusercontent.com/u/85348012?s=400&v=4" width="100px;" alt="Varun"/>
                     <br />
                     <sub><b>Varun Kumar</b></sub>
                 </a> 
