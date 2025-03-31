@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/aryanmangrule402/">
                     <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Aryan Mangrule</b></sub>
+                    <sub><b>Aryan  Mangrule</b></sub>
                 </a> 
             </td>
               <td align="center">
