@@ -61,6 +61,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahni Kumari</b></sub>
                 </a> 
             </td>
+                 <td align="center">
+                <a href="https://github.com/Bhavik-Javeri">
+                    <img src="https://avatars.githubusercontent.com/u/77146557?s=400&v=4" width="100px;" alt="Bhavik Javeri"/>
+                    <br />
+                    <sub><b>Bhavik Javeri</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
