@@ -691,12 +691,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Amrithshagar</b></sub>
                 </a>
+            </td>  
+             <td align="center">
+                <a href="https://github.com/Amrithshagar">
+                    <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
+                    <br />
+                    <sub><b>Amrithshagar</b></sub>
+                </a>
             </td>   
             <td align="center">
-                <a href="https://github.com/Shubhh4">
-                    <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
+                <a href="https://github.com/kaurjaskirat">
+                    <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="JKC"/>
                     <br />
-                    <sub><b>Shubham Pathak</b></sub>
+                    <sub><b>JKC</b></sub>
                 </a>
             </td>
             <td align="center">
