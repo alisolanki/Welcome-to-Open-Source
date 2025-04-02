@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/shiwansh22">
+                    <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>SHIWANSH TRIPATHI-1</b></sub>
+                </a> 
+            </td>
              <td align="center">
                 <a href="https://github.com/aryanmangrule402/">
                     <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
