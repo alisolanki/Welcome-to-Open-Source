@@ -2654,5 +2654,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+        <tr>
+                    <td align="center">
+                <a href="https://github.com/urooj-vX">
+                    <img src="https://avatars.githubusercontent.com/u/205962403?v=4" width="100px;" alt="uroojzahranaqvi"/>
+                    <br />
+                    <sub><b>uroojzahranaqvi</b></sub>
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
