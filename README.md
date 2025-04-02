@@ -2629,5 +2629,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+         <tr>
+             <td align="center">
+                <a href="https://github.com/manojnerkar">
+                    <img src="https://avatars.githubusercontent.com/u/79189614?v=4" width="100px;" alt="Manoj Nerkar"/>
+                    <br />
+                    <sub><b>Manoj Nerkar</b></sub>
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
