@@ -555,7 +555,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rishav Kapil</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/MeSaurabhGupta1">
                     <img src="https://avatars.githubusercontent.com/u/178561631?v=4" width="100px;" alt="Saurabh Gupta"/>
                     <br />
