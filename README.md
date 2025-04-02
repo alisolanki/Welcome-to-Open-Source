@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="/https://github.com/account">
                     <img src="https://avatars.githubusercontent.com/u/205598786?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Revanth</b></sub>
                 </a> 
             </td>
             <td align="center">
