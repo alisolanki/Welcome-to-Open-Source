@@ -19,14 +19,8 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
-    </a>
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-    </a>
-    <a href="https://www.youtube.com/AliSolanki">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -48,10 +42,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/rakaytariq">
+                    <img src="https://avatars.githubusercontent.com/u/165662021?v=4" width="100px;" alt="Rakay Tariq"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Rakay Tariq</b></sub>
                 </a> 
             </td>
             <td align="center">
