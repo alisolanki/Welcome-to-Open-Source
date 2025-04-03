@@ -2671,6 +2671,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Naga Sai Purvaz</b></sub>
                 </a>
             </td>
+            <td align="center">
+        <a href="https://github.com/ayanmal1k">
+            <img src="https://avatars.githubusercontent.com/u/176126609?s=400&u=d72555a4638a04104aa3ba3e9eecacd7416f79fc&v=4" width="100px;" alt="Ayan Malik"/>
+            <br />
+            <sub><b>Ayan Malik</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
