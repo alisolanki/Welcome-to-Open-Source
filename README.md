@@ -61,6 +61,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+         here    <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/KRI5HNA2135">
+                    <img src="https://avatars.githubusercontent.com/u/139316875?v=4" width="100px;" alt="Krushna Raut"/>
+                    <br />
+                    <sub><b>Krushna Raut</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/shiwansh22">
                     <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;" alt="Ali Solanki"/>
