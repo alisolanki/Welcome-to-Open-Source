@@ -70,6 +70,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/thecallmeBilalAshiq">
+                    <img src="https://avatars.githubusercontent.com/u/138978969" width="100px;" alt="Muhammad Bilal Ashiq"/>
+                    <br />
+                    <sub><b>Muhammad Bilal Ashiq</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shiwansh22">
                     <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
