@@ -61,6 +61,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+         
+            <td align="center">
+                <a href="https://github.com/KRI5HNA2135">
+                    <img src="https://avatars.githubusercontent.com/u/139316875?v=4" width="100px;" alt="Krushna Raut"/>
+                    <br />
+                    <sub><b>Krushna Raut</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/shiwansh22">
                     <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;" alt="Ali Solanki"/>
@@ -2677,6 +2685,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Peddi Manikanta</b></sub>
                 </a>
+            <td align="center">
+        <a href="https://github.com/ayanmal1k">
+            <img src="https://avatars.githubusercontent.com/u/176126609?s=400&u=d72555a4638a04104aa3ba3e9eecacd7416f79fc&v=4" width="100px;" alt="Ayan Malik"/>
+            <br />
+            <sub><b>Ayan Malik</b></sub>
+        </a>
+    </td>
+        </tr>
+        <tr>
+                    <td align="center">
+                <a href="https://github.com/urooj-vX">
+                    <img src="https://avatars.githubusercontent.com/u/205962403?v=4" width="100px;" alt="uroojzahranaqvi"/>
+                    <br />
+                    <sub><b>uroojzahranaqvi</b></sub>
+                </a> 
             </td>
         </tr>
     </tbody>
