@@ -486,6 +486,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
             </td>
+            <a href="https://github.com/GauravSharma847">
+                    <img src="https://avatars.githubusercontent.com/u/70465638?v=4" width="100px;" alt="Gaurav Sharma"/>
+                    <br />
+                    <sub><b>Gaurav Sharma</b></sub>
+                </a>
             <td align="center">
                 <a href="https://github.com/pramodachar">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
