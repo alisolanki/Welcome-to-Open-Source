@@ -2679,6 +2679,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Naga Sai Purvaz</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/manikanta-7557">
+                    <img src="https://avatars.githubusercontent.com/u/114330609?s=400&u=cb54668547ab213f6257c13b7d892bb71dcb81c3&v=4" width="100px;" alt="Peddi Manikanta"/>
+                    <br />
+                    <sub><b>Peddi Manikanta</b></sub>
+                </a>
             <td align="center">
         <a href="https://github.com/ayanmal1k">
             <img src="https://avatars.githubusercontent.com/u/176126609?s=400&u=d72555a4638a04104aa3ba3e9eecacd7416f79fc&v=4" width="100px;" alt="Ayan Malik"/>
