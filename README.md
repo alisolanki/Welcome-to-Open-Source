@@ -223,7 +223,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ashshettyyy">
-                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/201734941?v=4" width="100px;"
                         alt="Ashwitha Shetty" />
                     <br />
                     <sub>
