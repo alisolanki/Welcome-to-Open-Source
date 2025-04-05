@@ -1930,6 +1930,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Jay Masiwal</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/AliyanA1">
+                    <img src="https://avatars.githubusercontent.com/u/124417710?v=4" width="100px;" alt="Aliyan"/>
+                    <br />
+                    <sub><b>Aliyan</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/pradipchaudhary">
                     <img src="https://avatars.githubusercontent.com/u/30647038?v=4" width="100px;" alt="Shoaib"/>
