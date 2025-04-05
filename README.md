@@ -2680,13 +2680,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Strikeee09">
-                    <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
-                    <br />
-                    <sub><b>Pratham Punikar</b></sub>
-                </a> 
-            </td>
-            <td align="center">
         <a href="https://github.com/ayanmal1k">
             <img src="https://avatars.githubusercontent.com/u/176126609?s=400&u=d72555a4638a04104aa3ba3e9eecacd7416f79fc&v=4" width="100px;" alt="Ayan Malik"/>
             <br />
@@ -2703,6 +2696,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+        <td align="center">
+                <a href="https://github.com/Strikeee09">
+                    <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
+                    <br />
+                    <sub><b>Pratham Punikar</b></sub>
+                </a> 
+            </td>
 
     </tbody>
 </table>
