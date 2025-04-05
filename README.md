@@ -2266,7 +2266,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Avinash1271">
-                    <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
+                    <imdg src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
                     <br />
                     <sub><b>Avinash 🍉</b></sub>
                </a>
@@ -2697,4 +2697,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
     </tbody>
+       <td align="center">
+            <a href="https://github.com/adityaanilshukla">
+                <img src="https://avatars.githubusercontent.com/u/39354303?v=4" width="100px;" alt="Aditya Shukla"/>
+                <br />
+                <sub><b>Aditya Shukla</b></sub>
+            </a>
+        </td>
 </table>
