@@ -61,6 +61,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/Ayushbamrara">
+                    <img src="https://github.com/account" width="100px;" alt="ayush bamrara"/>
+                    <br />
+                    <sub><b>Ayush Bamrara</b></sub>
+                </a>
+            </td>
          
             <td align="center">
                 <a href="https://github.com/KRI5HNA2135">
