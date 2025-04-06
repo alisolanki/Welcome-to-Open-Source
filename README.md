@@ -3811,5 +3811,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <td align="center">
+                <a href="https://github.com/Strikeee09">
+                    <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
+                    <br />
+                    <sub><b>Pratham Punikar</b></sub>
+                </a> 
+            </td>
+
     </tbody>
 </table>
