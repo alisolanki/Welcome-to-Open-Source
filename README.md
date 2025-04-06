@@ -336,6 +336,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/cliverodrigues">
+                    <img src="https://avatars.githubusercontent.com/u/44209204?v=4" width="100px;"
+                        alt="Clive Rodrigues" />
+                    <br />
+                    <sub>
+                        <b>Abhishek Patidar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AnkurRjk">
                     <img src="https://avatars.githubusercontent.com/u/159459916?v=4" width="100px;"
                         alt="Harsh Pandey" />
