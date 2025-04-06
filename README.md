@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://persop.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/131390260?v=4" width="100px;"
+                        alt="Soumojit Gon" />
+                    <br />
+                    <sub>
+                        <b>Soumojit Gon</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
