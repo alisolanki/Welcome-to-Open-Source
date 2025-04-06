@@ -3820,6 +3820,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Udayan6611">
+                    <img
+                        src="https://avatars.githubusercontent.com/u/205821144?v=4"
+                        width="100px;" alt="Udayan Dusane" />
+                    <br />
+                    <sub>
+                        <b>Udayan Dusane</b>
+                    </sub>
+                </a>
+            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
