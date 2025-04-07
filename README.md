@@ -116,6 +116,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Sahni Kumari</b>
                     </sub>
                 </a>
+            </td>  
+            <td align="center">
+                <a href="https://github.com/EmmanuelNoel01">
+                    <img src="https://avatars.githubusercontent.com/u/77039776?v=4" width="100px;"
+                        alt="EmmanuelNoel" />
+                    <br />
+                    <sub>
+                        <b>Rutahigwa Noel</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="/">
