@@ -3839,6 +3839,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pratham Punikar</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/patel-vansh1607">
+                    <img src="https://avatars.githubusercontent.com/u/185961912?v=4" width="100px;" alt="Pratham Punikar"/>
+                    <br />
+                    <sub><b>Vansh Patel</b></sub>
+                </a> 
+            </td>
 
     </tbody>
 </table>
