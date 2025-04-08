@@ -242,6 +242,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Mohan-077">
+                    <img src="https://avatars.githubusercontent.com/u/187613018?s=400&v=4" width="100px;"
+                        alt="Mohan Reddy"/>
+                    <br />
+                    <sub>
+                        <b>Mohan Reddy</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AKRoutGitHub">
                     <img src="https://avatars.githubusercontent.com/u/151461051?v=4" width="100px;"
                         alt="Asish Kumar Rout" />
