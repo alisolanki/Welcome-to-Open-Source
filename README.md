@@ -89,7 +89,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
-                    <img src="https://avatars.githubusercontent.com/u/32215166?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
                         alt="Jessica Hoang" />
                     <br />
                     <sub>
