@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/JessicaHoang">
+                    <img src="https://avatars.githubusercontent.com/u/32215166?v=4" width="100px;"
+                        alt="Jessica Hoang" />
+                    <br />
+                    <sub>
+                        <b>Jessica Hoang</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shiwansh22">
                     <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;"
                         alt="Ali Solanki" />
