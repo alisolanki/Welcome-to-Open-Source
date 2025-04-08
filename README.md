@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://varunbattina11.vercel.app/">
+                    <img src="https://i.pinimg.com/736x/e2/74/5a/e2745ad140fa9afbec99d9288094922b.jpg" width="100px;"
+                        alt="Battina Varun" />
+                    <br />
+                    <sub>
+                        <b>Battina Varun</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
                         alt="Jessica Hoang" />
@@ -3875,4 +3885,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
 
     </tbody>
+
 </table>
