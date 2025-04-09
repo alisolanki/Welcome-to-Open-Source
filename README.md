@@ -105,6 +105,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/audacious-fk/">
+                    <img src="https://avatars.githubusercontent.com/u/206724229?v=4" width="100px;"
+                        alt="Audacious fk" />
+                    <br />
+                    <sub>
+                        <b>Audacious fk</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shiwansh22">
                     <img src="https://avatars.githubusercontent.com/u/135999680?v=4" width="100px;"
                         alt="Ali Solanki" />
