@@ -279,6 +279,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ishwari1201">
+                    <img src="https://avatars.githubusercontent.com/u/190246425?s=96&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Ishwari </b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/PARTH-757">
                     <img src="https://avatars.githubusercontent.com/u/131531032?v=4" width="100px;"
                         alt="MV Parth" />
