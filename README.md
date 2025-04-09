@@ -87,7 +87,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/Mani-Tyagi-1">
                     <img src="https://avatars.githubusercontent.com/u/109964545?v=4" width="100px;" alt="Mani Tyagi"/>
                     <br />
