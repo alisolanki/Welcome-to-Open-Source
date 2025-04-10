@@ -3905,7 +3905,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/account">
+                <a href="https://github.com/sumit-patil-24">
                     <img src="https://avatars.githubusercontent.com/u/117568577?v=4" width="100px;" alt="Sumit Patil"/>
                     <br />
                     <sub><b>Sumit Patil</b></sub>
