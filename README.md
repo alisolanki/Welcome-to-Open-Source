@@ -3889,6 +3889,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://navneeth-portfolio.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/112954028?v=4" width="100px;" alt="Sumit Patil"/>
+                    <br />
+                    <sub><b>Navneeth Kumar</b></sub>
+                </a> 
+            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
@@ -3912,5 +3919,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
 
+            
     </tbody>
 </table>
