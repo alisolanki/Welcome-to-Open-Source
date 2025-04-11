@@ -3911,6 +3911,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sumit Patil</b></sub>
                 </a> 
             </td>
-
+            <td align="center">
+                <a href="https://github.com/harsh3100">
+                    <img src="https://avatars.githubusercontent.com/u/198927747?v=4" width="100px;" alt="Harsh Singh"/>
+                    <br />
+                    <sub><b>Harsh Singh</b></sub>
+                </a> 
+            </td>
     </tbody>
 </table>
