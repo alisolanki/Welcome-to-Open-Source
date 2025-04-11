@@ -3911,6 +3911,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sumit Patil</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/04Sahil">
+                    <img src="https://avatars.githubusercontent.com/u/147229728?s=400&u=c2b7e8954f61ee356be2ea959098a210def6f691&v=4" width="100px;" alt="Sumit Patil"/>
+                    <br />
+                    <sub><b>Sahil Kale</b></sub>
+                </a> 
+            </td>
 
     </tbody>
+
 </table>
