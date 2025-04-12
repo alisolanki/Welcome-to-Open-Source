@@ -3911,6 +3911,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sumit Patil</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/DrishyaShrestha09">
+                    <img src="https://avatars.githubusercontent.com/u/165895769?v=4" width="100px;" alt="Sumit Patil"/>
+                    <br />
+                    <sub><b>Ridan Shrestha</b></sub>
+                </a> 
+            </td>
 
     </tbody>
 </table>
