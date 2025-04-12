@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MohammadAshmir786">
+                    <img src="https://avatars.githubusercontent.com/u/126354509?v=4" width="100px;"
+                        alt="Mohammad Ashmir Abbasi" />
+                    <br />
+                    <sub>
+                        <b>Mohammad Ashmir Abbasi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
