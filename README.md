@@ -3935,8 +3935,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Kale</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/sachinstha9">
+                    <img src="https://avatars.githubusercontent.com/u/200669199?v=4" width="100px;" alt="Sachin Shrestha"/>
+                    <br />
+                    <sub><b>Sachin Shrestha</b></sub>
+                </a> 
+            </td>
 
-            
     </tbody>
 
 </table>
