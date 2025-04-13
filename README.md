@@ -57,6 +57,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ashleythomas18">
+                    <img src="https://avatars.githubusercontent.com/u/153062079?v=4" width="100px;"
+                        alt="Ashley Thomas" />
+                    <br />
+                    <sub>
+                        <b>Ashley Thomas</b>
+                    </sub>
+                </a>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
