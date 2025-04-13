@@ -3949,6 +3949,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ravindra Yadav</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Jyot-Shah">
+                    <img src="https://avatars.githubusercontent.com/u/201261756?v=4" width="100px;" alt="Jyot Shah"/>
+                    <br />
+                    <sub><b>Jyot Shah</b></sub>
+                </a> 
+            </td>
 
     </tbody>
 
