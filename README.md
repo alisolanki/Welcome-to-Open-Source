@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://andidiongusoro-680ed.web.app/">
+                    <img src="https://avatars.githubusercontent.com/u/81812611?v=4" width="100px;" alt="Andidiong Usoro"/>
+                    <br />
+                    <sub><b>Andidiong Usoro</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
