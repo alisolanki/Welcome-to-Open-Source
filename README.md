@@ -3357,6 +3357,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/pbokolo">
+                    <img src="https://avatars.githubusercontent.com/u/29220514?v=4" width="100px;" alt="Pierrot Bokolo"/>
+                    <br />
+                    <sub><b>Pierrot Bokolo</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
