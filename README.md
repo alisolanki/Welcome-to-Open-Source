@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/ColbyJax19">
+                    <img src="https://avatars.githubusercontent.com/u/107650551?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Colby Jax</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
