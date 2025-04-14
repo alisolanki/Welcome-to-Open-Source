@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AnasK95">
+                    <img src="https://avatars.githubusercontent.com/u/22103169?v=4" width="100px;" alt="Anas Khan"/>
+                    <br />
+                    <sub><b>Mo Anas Khan</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
