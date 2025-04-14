@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="centre">
+                <a href="https://github.com/Tarun-Manjunath">
+                    <img src="https://avatars.githubusercontent.com/u/91819064?v=4" width="100px;" alt="Tarun Manjunath"/>
+                    <br />
+                    <sub><b>Tarun Manjunath</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
