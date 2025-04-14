@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Funsho-ops">
+                    <img src="https://avatars.githubusercontent.com/u/81854730?v=4" width="100px;" alt="Funsho Akinbile"/>
+                    <br />
+                    <sub><b>Funsho Akinbile</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
