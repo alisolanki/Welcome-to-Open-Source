@@ -59,6 +59,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td>
+     <td align="center>
+        <a href="https://github.com/aacritea">
+            <img hrc="https://avatars.githubusercontent.com/u/163650998?v=4" width="100px;" alt="Aakriti"/> 
+            <br />   
+            <sub><b>Aakriti
+        </a>
+    </td>
     
     ```
 
