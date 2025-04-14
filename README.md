@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="http://github.com/realazaber">
+                    <img src="https://avatars.githubusercontent.com/u/47402666?v=4" width="100px;" alt="Azaber Alexander Zaborski"/>
+                    <br />
+                    <sub><b>Azaber Alexander Zaborski</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
