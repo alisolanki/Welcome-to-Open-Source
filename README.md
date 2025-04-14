@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/tkazee">
+                    <img src="https://avatars.githubusercontent.com/u/105963350?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>mr.Azeem</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
@@ -781,6 +788,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Aroop Rath</b>
                     </sub>
+                </a>
+            </td>
+            <td align="center">   
+                <a href="https://github.com/Anujsharma002">
+                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
+                    <br />
+                    <sub><b>Anuj sharma</b></sub>
                 </a>
             </td>
             <td align="center">
