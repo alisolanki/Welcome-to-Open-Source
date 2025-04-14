@@ -3357,6 +3357,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            
+            <td align="center">
+                <a href="https://github.com/Tanisha303">
+                    <img src="https://avatars.githubusercontent.com/Tanisha303" width="100px;" alt="Tanisha Talukdar"/>
+                    <br />
+                    <sub><b>Tanisha Talukdar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
