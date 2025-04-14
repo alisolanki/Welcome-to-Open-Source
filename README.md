@@ -47,6 +47,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                    <img src="https://lh3.googleusercontent.com/a/ACg8ocIhU0RN3lQ562x27AJXD2-qhRbT9ZiCOPPtmBlTf8ajoPbZXy-I=s360-c-no" width="100px;" alt="  Bhalerao Pavan"/>
+                    <br />
+                    <sub><b>Bhalerao Pavan</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
