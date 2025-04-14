@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/Sameerdev512">
+                    <img src="https://avatars.githubusercontent.com/u/156842673?s=400&u=8e38f9f77a445fe5d17eb697b1a36f80066bc09b&v=4" width="100px;" alt="Sameerdev512"/>
+                    <br />
+                    <sub><b>Sameer Khatri</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
