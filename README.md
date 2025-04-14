@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/midhun-developer">
+                    <img src="https://github.com/account" width="100px;" alt="Neeraj Madake"/>
+                <br />
+                <sub><b>Midhun Sakravarthy</b></sub>
+            </a>
+        </td>
         </tr>
         <tr>
             <td align="center">
