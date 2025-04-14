@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/charukirti">
+                    <img src="https://avatars.githubusercontent.com/u/108792404?v=4" width="100px;" alt="Charukirti Chougule"/>
+                    <br />
+                    <sub><b>Charukirti Chougule</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
