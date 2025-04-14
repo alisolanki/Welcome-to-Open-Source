@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dhana-01">
+                    <img src="https://github.com/account" width="100px;" alt="Dhananjaya Yatigammana"/>
+                    <br />
+                    <sub><b>Dhananjaya Yatigammana</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
