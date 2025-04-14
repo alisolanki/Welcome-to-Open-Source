@@ -3438,6 +3438,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/DishaKD">
+                    <img src="https://avatars.githubusercontent.com/u/87950341?v=4" width="100px;" alt="Dishal Kanishka"/>
+                    <br />
+                    <sub><b>Dishal Kanishka</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
