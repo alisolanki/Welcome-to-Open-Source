@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sejaldhanve">
+                    <img src="https://avatars.githubusercontent.com/u/185781138?v=4" width="100px;" alt="Sejal Dhanve"/>
+                    <br />
+                    <sub><b>Sejal Dhanve</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
