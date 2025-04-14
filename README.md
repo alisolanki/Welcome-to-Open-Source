@@ -3965,6 +3965,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Hameetha Ahamed</b></sub>
                 </a> 
             </td>
+               <td align="center">
+                <a href="https://github.com/wasim-h">
+                    <img src="https://avatars.githubusercontent.com/u/186492311?v=4" width="100px;"
+                        alt="Wasim Hassan" />
+                    <br />
+                    <sub>
+                        <b>Wasim Hassan</b>
+                    </sub>
+                </a>
+            </td>
 
     </tbody>
 
