@@ -3357,6 +3357,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Srivalli</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://linktr.ee/prvthvm">
+                    <img src="https://avatars.githubusercontent.com/u/91729826?v=4" width="100px;" alt="PRATHAM TYAGI"/>
+                    <br />
+                    <sub><b>PRATHAM TYAGI</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
