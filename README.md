@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/vedang685>
+                    <img src="https://avatars.githubusercontent.com/u/93223467?v=4" width="100px;" alt="Vedang"/>
+                    <br />
+                    <sub><b>Vedang</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
