@@ -266,6 +266,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Apo-orva17">
+                    <img src="https://i.pinimg.com/474x/20/35/0d/20350d6dd107181ce9242b8cf3db5af2.jpg" width="100px;"
+                        alt="Rohan Badiger" />
+                    <br />
+                    <sub>
+                        <b>Apoorva Rupnarayan</b>
+                    </sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
