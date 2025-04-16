@@ -58,12 +58,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/KumariAnjaliRout">
-                    <img src="https://avatars.githubusercontent.com/u/151063318?v=4" width="100px;"
-                        alt="Kumari Anjali" />
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Kumari Anjali</b>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/varshap2205">
+                    <img src="https://avatars.githubusercontent.com/u/142588198?v=4" width="100px;"
+                        alt="Varsha P" />
+                    <br />
+                    <sub>
+                        <b>Varsha P</b>
                     </sub>
                 </a>
             </td>
