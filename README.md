@@ -812,6 +812,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shivan2004">
+                    <img src="https://avatars.githubusercontent.com/u/112183968?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Shivan Samala</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
@@ -3485,6 +3492,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            
         </tr>
         <tr>
             <td align="center">
