@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/farooq13">
+                    <img src="https://avatars.githubusercontent.com/u/130027605?s=96&v=4" width="100px;" alt="Faruk Idris"/>
+                    <br />
+                    <sub><b>Faruk Idris</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
