@@ -4026,6 +4026,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sandra Chandran</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/sanjai-11">
+                    <img src="https://avatars.githubusercontent.com/u/115383867?v=4" width="100px;" alt="Sanjaikumar Balasubramaniyan"/>
+                    <br />
+                    <sub><b>Sanjaikumar Balasubramaniyan</b></sub>
+                </a> 
+            </td>
         </td>
     </tbody>
 </table>
