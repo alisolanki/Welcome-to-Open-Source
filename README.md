@@ -3485,6 +3485,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Musawer1214">
+                    <img src="https://avatars.githubusercontent.com/u/94537469?v=4" width="100px;" alt="Musawer Hussain"/>
+                    <br />
+                    <sub><b>Musawer Hussain</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
