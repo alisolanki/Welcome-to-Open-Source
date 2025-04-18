@@ -46,7 +46,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- markdownlint-disable -->
 <table>
     <tbody>
-        <tr>
+        <tr><td align="center">
+                <a href="https://github.com/Yatish-369">
+                    <img src="https://avatars.githubusercontent.com/u/105811991?v=4" width="100px;"
+                        alt="Yatish raj" />
+                    <br />
+                    <sub>
+                        <b>Yatish raj</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
