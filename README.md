@@ -3484,6 +3484,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Somil Arora</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/amreshkyadav998">
+                    <img src="https://avatars.githubusercontent.com/u/123557750?v=4" width="100px;" alt="Amresh Yadav"/>
+                    <br />
+                    <sub><b>Amresh Yadav</b></sub>
+                </a>
             </td>
         </tr>
         <tr>
