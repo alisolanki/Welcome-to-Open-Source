@@ -78,6 +78,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ManjilRijal63">
+                    <img src="https://avatars.githubusercontent.com/u/160450269?v=4" width="100px;"
+                        alt="Kumari Anjali" />
+                    <br />
+                    <sub>
+                        <b>Manjil Rijal</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/KumariAnjaliRout">
                     <img src="https://avatars.githubusercontent.com/u/151063318?v=4" width="100px;"
                         alt="Kumari Anjali" />
