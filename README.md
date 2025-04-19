@@ -3495,6 +3495,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://ranjitkalita.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/68643543?v=4" width="100px;" alt="Ranjit Kalita"/>
+                    <br />
+                    <sub><b>Ranjit Kalita</b></sub>
+                </a>
+            </td></tr>
         </tr>
         <tr>
             <td align="center">
