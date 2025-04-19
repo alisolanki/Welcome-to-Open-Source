@@ -298,6 +298,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
+        <td align="center">
+                <a href="https://github.com/maheshk04x">
+                    <img src="https://avatars.githubusercontent.com/u/109820878?v=4" width="100px;"
+                        alt="Mahesh K" />
+                    <br />
+                    <sub>
+                        <b>Mahesh K</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/namramoradiya">
                     <img src="https://avatars.githubusercontent.com/u/156280905?v=4" width="100px;"
