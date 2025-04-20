@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+           <td align="center">
+                <a href="https://github.com/priyansh-6307">
+                    <img src="https://avatars.githubusercontent.com/u/168275077?v=4" width="100px;" alt="Priyansh Yadav"/>
+                    <br />
+                    <sub><b>Priyansh Yadav</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
