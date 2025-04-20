@@ -4063,6 +4063,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanjaikumar Balasubramaniyan</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/AssylHub">
+                    <img src="https://avatars.githubusercontent.com/u/183611603?v=4" width="100px;" alt="Assyl Batyrkhan"/>
+                    <br />
+                    <sub><b>Assyl Batyrkhan Flutter Developer</b></sub>
+                </a> 
+            </td>
         </td>
     </tbody>
 </table>
