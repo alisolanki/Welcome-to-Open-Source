@@ -3,7 +3,7 @@
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
-    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
+    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolani/join">Click Here</>)</li>
 </p>
 
 <p align="center">
@@ -116,6 +116,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Amanul Farhan</b>
                     </sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lukmaann">
+                    <img src="https://avatars.githubusercontent.com/u/96097270?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Lukmaan nadaf</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
