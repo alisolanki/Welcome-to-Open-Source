@@ -4070,6 +4070,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ben Grimmius</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/MrunalSinagde">
+                    <img src="https://avatars.githubusercontent.com/u/126098752?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Mrunal Singade</b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
