@@ -4079,8 +4079,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/UtkarshSatav">
-                    <img src="https://github.com/account" width="100px;" alt="Ali Solanki"/>
-                    <br />
+                    <img src="https://avatars.githubusercontent.com/u/173755339?v=4" width="100px;" alt="Utkarsh Satav"/>
+                    <br/>
                     <sub><b>Utkarsh Satav</b></sub>
                 </a>
             </td>
