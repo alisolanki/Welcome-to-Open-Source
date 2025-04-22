@@ -3993,6 +3993,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+            </td>
+                <td align="center">
+                    <a href="https://github.com/UtkarshSatav">
+                        <img src="https://avatars.githubusercontent.com/u/173755339?v=4" width="150px;" alt="Utkarsh Satav"/>
+                        <br/>
+                        <sub><b>Utkarsh Satav</b></sub>
+                    </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
                     <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
@@ -4076,14 +4084,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Mrunal Singade</b></sub>
                 </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/UtkarshSatav">
-                    <img src="https://avatars.githubusercontent.com/u/173755339?v=4" width="150px;" alt="Utkarsh Satav"/>
-                    <br/>
-                    <sub><b>Utkarsh Satav</b></sub>
-                </a>
-            </td>
+            
         </td>
     </tbody>
 </table>
