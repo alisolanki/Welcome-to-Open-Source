@@ -277,8 +277,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/rohhhaaan">
-                    <img src="https://avatars.githubusercontent.com/u/124514194?v=4" width="100px;"
+                <a href="https://github.com/a12b23c45">
+                    <img src="https://avatars.githubusercontent.com/u/128162211?v=4" width="100px;"
                         alt="Rohan Badiger" />
                     <br />
                     <sub>
