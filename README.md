@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/UnnatiVe">
+                    <img src="https://avatars.githubusercontent.com/u/139119672?v=4" width="100px;"
+                        alt="Unnati Verma" />
+                    <br />
+                    <sub>
+                        <b>Unnati Verma</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
