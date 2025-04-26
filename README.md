@@ -4101,6 +4101,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vasundhara Chakrapani</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Aanish-Bangre">
+                    <img src="https://avatars.githubusercontent.com/u/187551070?v=4" width="100px;" alt="Aanish Bangre"/>
+                    <br />
+                    <sub><b>Aanish Bangre</b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
