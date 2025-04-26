@@ -59,6 +59,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/upanshu2003">
+            <img src="https://avatars.githubusercontent.com/u/144832475?v=4 width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Upanshu</b></sub>
+        </a>
+    </td>
     
     ```
 
