@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/naflanmohamed">
+                    <img src="https://avatars.githubusercontent.com/u/98531671?v=4" width="100px;"
+                        alt="Naflan Mohamed" />
+                    <br />
+                    <sub>
+                        <b>Naflan Mohamed</b>
+                    </sub>
+                </a>
+            </td>
                         <td align="center">
                 <a href="https://github.com/amitspinzi">
                     <img src="https://avatars.githubusercontent.com/u/202820630?v=4" width="100px;"
