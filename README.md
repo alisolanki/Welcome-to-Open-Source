@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AnnapurnaThota">
+                    <img src="https://avatars.githubusercontent.com/u/181208263?v=4&size=64" width="100px;"
+                        alt="Annapurna Thota" />
+                    <br />
+                    <sub>
+                        <b>Annapurna Thota</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/naflanmohamed">
                     <img src="https://avatars.githubusercontent.com/u/98531671?v=4" width="100px;"
                         alt="Naflan Mohamed" />
