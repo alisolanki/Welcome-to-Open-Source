@@ -67,13 +67,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/amitspinzi">
                     <img src="https://avatars.githubusercontent.com/u/202820630?v=4" width="100px;"
                         alt="Amit Spinzi" />
                     <br />
                     <sub>
                         <b>Amit Spinzi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Manikandan004">
+                    <img src="https://avatars.githubusercontent.com/u/69380814?v=4" width="100px;"
+                        alt="Mani Prasanth" />
+                    <br />
+                    <sub>
+                        <b>Mani Prasanth</b>
                     </sub>
                 </a>
             </td>
