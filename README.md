@@ -4172,6 +4172,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammad Essa</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="">
+                    <img src="https://avatars.githubusercontent.com/u/25433646?v=4" width="100px;" alt=""/>
+                    <br />
+                    <sub><b>Anshul Verma</b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
