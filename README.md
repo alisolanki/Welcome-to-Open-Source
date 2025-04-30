@@ -98,6 +98,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/bhumiSundrani">
+                    <img src="https://avatars.githubusercontent.com/u/160391579?v=4" width="100px;"
+                        alt="Bhumi Sundrani" />
+                    <br />
+                    <sub>
+                        <b>Bhumi Sundrani</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/naflanmohamed">
                     <img src="https://avatars.githubusercontent.com/u/98531671?v=4" width="100px;"
                         alt="Naflan Mohamed" />
