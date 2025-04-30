@@ -4192,6 +4192,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammad Essa</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NaeemAbdullahAkram">
+                    <img src="https://avatars.githubusercontent.com/u/153123217?v=4" width="100px;" alt="Naeem Akram"/>
+                    <br />
+                    <sub><b> Naeem Akram </b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
