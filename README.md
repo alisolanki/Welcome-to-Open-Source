@@ -78,6 +78,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/riyaaaarane">
+                    <img src="https://avatars.githubusercontent.com/u/122218240?v=4" width="100px;"
+                        alt="Riya Rane" />
+                    <br />
+                    <sub>
+                        <b>Riya Rane</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AnnapurnaThota">
                     <img src="https://avatars.githubusercontent.com/u/181208263?v=4&size=64" width="100px;"
                         alt="Annapurna Thota" />
