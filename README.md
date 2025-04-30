@@ -356,6 +356,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/satyamurthy18">
+                    <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;"
+                        alt="satya Murthy" />
+                    <br />
+                    <sub>
+                        <b>Satya Murthy</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/aaradhya466">
                     <img src="https://avatars.githubusercontent.com/u/149591897?v=4" width="100px;"
