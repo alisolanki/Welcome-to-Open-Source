@@ -48,7 +48,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/akshithkl#-socials">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
@@ -59,11 +59,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://uddipta7.github.io/My-Portfolio/">
-                    <img src="https://avatars.githubusercontent.com/u/129296670?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/160204272?v=4" width="100px;"
                         alt="Uddipta Singha" />
                     <br />
                     <sub>
-                        <b>Uddipta Singha</b>
+                        <b>Akshith K L</b>
                     </sub>
                 </a>
             </td>
