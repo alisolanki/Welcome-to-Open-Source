@@ -4219,6 +4219,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Naeem Akram </b></sub>
                 </a>
             </td>
+            </td>
+            <tr>
+            <td align="center">
+                <a href="https://github.com/MSanjana041/">
+                    <img src="https://avatars.githubusercontent.com/u/88735742?v=4" width="100px;"
+                        alt="Sanjana Madhavan" />
+                    <br />
+                    <sub>
+                        <b>Sanjana Madhavan</b>
+                    </sub>
+                </a>
+            </td>
+            </tr>
         </td>
     </tbody>
 </table>
