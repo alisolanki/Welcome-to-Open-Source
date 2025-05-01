@@ -103,7 +103,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Archita" />
                     <br />
                     <sub>
-                        <b>Bhumi Sundrani</b>
+                        <b>Archita</b>
                     </sub>
                 </a>
             </td>
