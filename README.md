@@ -78,12 +78,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/riyaaaarane">
-                    <img src="https://avatars.githubusercontent.com/u/122218240?v=4" width="100px;"
-                        alt="Riya Rane" />
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/132434784?v=4"100px;"
+                        alt="Aditi Raj" />
                     <br />
                     <sub>
-                        <b>Riya Rane</b>
+                        <b>Aditi Raj</b>
                     </sub>
                 </a>
             </td>
