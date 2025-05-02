@@ -4165,13 +4165,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ningthoumacha Mashilheiba Mangang</b></sub>
                 </a>
             </td>
-             <td align="center">
-                <a href="https://github.com/Coder-0120">
-                    <img src="https://avatars.githubusercontent.com/u/25433646?v=4" width="100px;" alt="Anshul Verma"/>
-                    <br />
-                    <sub><b>Anshul Verma</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://github.com/imuhammadessa">
                     <img src="https://avatars.githubusercontent.com/u/25433646?v=4" width="100px;" alt="Muhammad Essa"/>
@@ -4179,6 +4172,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammad Essa</b></sub>
                 </a>
             </td>
+
+           
+          
              
           
         </td>
