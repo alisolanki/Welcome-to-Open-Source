@@ -178,6 +178,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sai-Karthik9113">
+                    <img src="https://avatars.githubusercontent.com/u/127835288?v=4" width="100px;" alt="Sai Shivak Kumar"/>
+                    <br />
+                    <sub><b> Sai Shivak Kumar </b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/KumariAnjaliRout">
                     <img src="https://avatars.githubusercontent.com/u/151063318?v=4" width="100px;"
                         alt="Kumari Anjali" />
