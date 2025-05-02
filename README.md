@@ -4202,16 +4202,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammad Essa</b></sub>
                 </a>
             </td>
-          <td align="center">
-    <a href="https://github.com/satyamurthy18">
-        <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;" alt="Satya Murthy" />
-        <br />
-        <sub>
-            <b>Satya Murthy</b>
-        </sub>
-    </a>
-</td>
-
+           <td align="center">
+            <a href="https://github.com/satyamurthy18">
+                <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;" alt="Satya Murthy" />
+                <br />
+                <sub>
+                    <b>Satya Murthy</b>
+                </sub>
+            </a>
+        </td>
             </td>
         </td>
     </tbody>
