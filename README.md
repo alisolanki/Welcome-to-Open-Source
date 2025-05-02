@@ -1,8 +1,8 @@
 # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
-    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
-    <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
+    <li>Add a post on <b>LinkedIn</b> with the Repository's link and tagging the owner (Ali Solanki)</li>
+    <li>Add a <b>Tweet</b> with the Repository's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
@@ -78,12 +78,32 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/riyaaaarane">
+                    <img src="https://avatars.githubusercontent.com/u/122218240?v=4" width="100px;"
+                        alt="Riya Rane" />
+                    <br />
+                    <sub>
+                        <b>Riya Rane</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AnnapurnaThota">
                     <img src="https://avatars.githubusercontent.com/u/181208263?v=4&size=64" width="100px;"
                         alt="Annapurna Thota" />
                     <br />
                     <sub>
                         <b>Annapurna Thota</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/bhumiSundrani">
+                    <img src="https://avatars.githubusercontent.com/u/160391579?v=4" width="100px;"
+                        alt="Bhumi Sundrani" />
+                    <br />
+                    <sub>
+                        <b>Bhumi Sundrani</b>
                     </sub>
                 </a>
             </td>
@@ -4182,14 +4202,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muhammad Essa</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/satyamurthy18">
-                    <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;" alt="satya Murthy" />
-                    <br />
-                    <sub>
-                        <b>Satya Murthy</b>
-                    </sub>
-                </a>
+          <td align="center">
+    <a href="https://github.com/satyamurthy18">
+        <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;" alt="Satya Murthy" />
+        <br />
+        <sub>
+            <b>Satya Murthy</b>
+        </sub>
+    </a>
+</td>
+
             </td>
         </td>
     </tbody>
