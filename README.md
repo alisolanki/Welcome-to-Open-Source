@@ -147,6 +147,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/PriyatoshKumarShahi">
+                    <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;"
+                        alt="Priyatosh Kumar" />
+                    <br />
+                    <sub>
+                        <b>Priyatosh Kumar</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
