@@ -225,6 +225,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/anushka642">
+                    <img src="https://avatars.githubusercontent.com/u/157127870?v=4" width="100px;"
+                        alt="anushka" />
+                    <br />
+                    <sub>
+                        <b>anushka</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/KRI5HNA2135">
                     <img src="https://avatars.githubusercontent.com/u/139316875?v=4" width="100px;"
                         alt="Krushna Raut" />
