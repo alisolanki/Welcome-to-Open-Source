@@ -4226,6 +4226,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Anand Patel </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sandra5531">
+                    <img src="https://avatars.githubusercontent.com/u/145197531?v=4" width="100px;" alt="Sandra"/>
+                    <br />
+                    <sub><b> Sandra </b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
