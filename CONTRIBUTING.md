@@ -59,6 +59,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/Hitanshyy">
+            <img src="https://avatars.githubusercontent.com/u/169387578?v=4" width="100px;" alt="Hitanshi Jain"/>
+            <br />
+            <sub><b>Hitanshi Jain</b></sub>
+        </a>
+    </td>
     
     ```
 
