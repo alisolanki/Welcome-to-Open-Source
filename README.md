@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/LadyDhaga">
+                    <img src="https://avatars.githubusercontent.com/u/106376368?v=4" width="100px;" alt="Navdeep Jajoria"/>
+                    <br />
+                    <sub><b>Navdeep Jajoria</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
