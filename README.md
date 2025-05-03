@@ -394,6 +394,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Varshini1905">
+                    <img src="https://avatars.githubusercontent.com/u/115169767?v=4" width="100px;"
+                        alt="Amrutha Varshini" />
+                    <br />
+                    <sub>
+                        <b>Amrutha Varshini</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/a12b23c45">
                     <img src="https://avatars.githubusercontent.com/u/128162211?v=4" width="100px;"
                         alt="Rohan Badiger" />
