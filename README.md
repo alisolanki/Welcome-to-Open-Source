@@ -47,13 +47,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-            <td align="center">
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/chhaviluthra08">
+                    <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
+                        alt="Ether" />
+                    <br />
+                    <sub>
+                        <b>Chhavi Luthra</b>
                     </sub>
                 </a>
             </td>
@@ -147,6 +157,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/PriyatoshKumarShahi">
+                    <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;"
+                        alt="Priyatosh Kumar" />
+                    <br />
+                    <sub>
+                        <b>Priyatosh Kumar</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
@@ -211,6 +231,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Amanul Farhan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/rithishcodespace">
+                    <img src="https://signature.freefire-name.com/img.php?f=2&t=Rithish" width="100px;"
+                        alt="Rithish S" />
+                    <br />
+                    <sub>
+                        <b>Rithish S</b>
                     </sub>
                 </a>
             </td>
@@ -394,12 +424,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+<td>
                 <a href="https://github.com/sasankreddy19">
                     <img src="https://avatars.githubusercontent.com/u/117171989?s=96&v=4" width="100px;"
                         alt="Sasank Reddy" />
                     <br />
                     <sub>
                         <b>Dwarampudi Sasank Reddy</b>
+  </td>
+  <td>
+                <a href="https://github.com/Varshini1905">
+                    <img src="https://avatars.githubusercontent.com/u/115169767?v=4" width="100px;"
+                        alt="Amrutha Varshini" />
+                    <br />
+                    <sub>
+                        <b>Amrutha Varshini</b>
+                      </td>
                     </sub>
                 </a>
             </td>
