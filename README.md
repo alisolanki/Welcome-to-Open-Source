@@ -4290,6 +4290,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Sandra </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://mohameddev.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/100178879?v=4" width="100px;"
+                        alt="Mohamed Abdiaziz Aweis" />
+                    <br />
+                    <sub>
+                        <b>Mohamed Abdiaziz Aweis</b>
+                    </sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
