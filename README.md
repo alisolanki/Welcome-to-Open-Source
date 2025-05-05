@@ -47,6 +47,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://krishprajapati.tech/">
+                    <img src="https://avatars.githubusercontent.com/u/174050872?s=400&u=b73aeebc1616d3e29617c9feb14f59230bba2549&v=4" width="100px;"
+                        alt="Krish Prajapati" />
+                    <br />
+                    <sub>
+                        <b>Krish Prajapati</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
