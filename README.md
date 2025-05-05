@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/Tripura657">
                     <img src="https://avatars.githubusercontent.com/u/185510462?v=4" width="100px;"
-                        alt="tripura" />
+                        alt="tripura tejasri" />
                     <br />
                     <sub>
                         <b>Tripura</b>
