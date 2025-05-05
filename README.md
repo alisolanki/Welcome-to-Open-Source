@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/P-dwivedi">
+                    <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
+                        alt="Prakhar Dwivedi" />
+                    <br />
+                    <sub>
+                        <b>Prakhar Dwivedi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chhaviluthra08">
                     <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
                         alt="Ether" />
