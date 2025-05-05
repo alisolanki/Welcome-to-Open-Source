@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Chayan8837">
+                    <img src="https://avatars.githubusercontent.com/u/145531182?v=4" width="100px;" alt="Chayan Das"/>
+                    <br />
+                    <sub><b>Chayan Das</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
