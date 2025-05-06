@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
     <tbody>
         <tr>
@@ -243,6 +244,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Rithish S</b>
                     </sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/itzprincephutela">
+                    <img src="https://avatars.githubusercontent.com/u/122357150?v=4" width="100px;" alt="Prince Kumar"/>
+                    <br />
+                    <sub><b>Prince Kumar</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
