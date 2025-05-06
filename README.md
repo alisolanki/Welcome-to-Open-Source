@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Utkarsh2424">
+                    <img src="https://avatars.githubusercontent.com/u/55329479?v=4" width="100px;" alt="Utkarsh Goyal"/>
+                    <br />
+                    <sub><b>Utkarsh Goyal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
