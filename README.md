@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/FahadHassan00">
+                    <img src="https://avatars.githubusercontent.com/u/111454755?v=4" width="100px;" alt="Fahad Hassan"/>
+                    <br />
+                    <sub>Fahad Hassan<b></b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
