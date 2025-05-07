@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/seidumohammed">
+                    <img src="https://avatars.githubusercontent.com/u/55309288?v=4" width="100px;" alt="Mohammed Seidu"/>
+                    <br />
+                    <sub><b>Mohammed Seidu </b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
