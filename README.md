@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AditiChandel">
+                    <img src="https://avatars.githubusercontent.com/u/159802784?v=4" width="100px;" alt="Aditi Chandel"/>
+                    <br />
+                    <sub><b>Aditi Chandel</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
