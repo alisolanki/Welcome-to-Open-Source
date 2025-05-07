@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mRcOol7">
+                    <img src="https://avatars.githubusercontent.com/u/98140974?v=4" width="100px;" alt="Nehal Chauhan"/>
+                    <br />
+                    <sub><b>Nehal Chauhan</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
