@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://devguptalive.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/106783948?s=400&u=967437f2fbc7f017eff08817e02eba26f832fec0&v=4" width="100px;" alt="Dev Gupta"/>
+                    <br />
+                    <sub><b>Dev Gupta</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
