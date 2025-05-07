@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AryaTeli">
+                    <img src="https://avatars.githubusercontent.com/u/100777925?v=4" width="100px;" alt="Arya Teli"/>
+                    <br />
+                    <sub><b>Arya Teli</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
