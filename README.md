@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pratikshamkothawade">
+                    <img src="https://avatars.githubusercontent.com/u/99742201?v=4" width="100px;" alt="Pratiksha Kothawade"/>
+                    <br />
+                    <sub><b>Pratiksha Kothawade</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
