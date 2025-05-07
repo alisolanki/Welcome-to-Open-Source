@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Dinesh5135">
+                    <img src="https://avatars.githubusercontent.com/u/117359195?v=4" width="100px;" alt="Mandagapu Dinesh"/>
+                    <br />
+                    <sub><b>Mandagapu Dinesh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
