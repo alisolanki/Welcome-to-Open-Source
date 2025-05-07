@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/unnati110302">
+                    <img src="https://avatars.githubusercontent.com/u/126190986?v=4" width="100px;" alt="Unnati Mishra"/>
+                    <br />
+                    <sub><b>Unnati Mishra</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
