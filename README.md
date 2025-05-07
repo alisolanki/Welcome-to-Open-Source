@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Fer-Win">
+                    <img src="https://avatars.githubusercontent.com/u/102341775?v=4" width="100px;" alt="Ferwin Lopez"/>
+                    <br />
+                    <sub><b>Ferwin Lopez</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
