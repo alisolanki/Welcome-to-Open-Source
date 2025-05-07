@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/viraljain7">
+                    <img src="https://avatars.githubusercontent.com/u/88425229?s=400&u=7085678978a007c7394dbbea1b747c6fdfcbf8f6&v=4" width="100px;" alt="Viral Jain"/>
+                    <br />
+                    <sub><b>Viral Jain</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
