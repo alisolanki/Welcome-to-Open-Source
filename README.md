@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JesseSGallagher">
+                    <img src="https://avatars.githubusercontent.com/u/14200700?v=4" width="100px;" alt="JG"/>
+                    <br />
+                    <sub><b>Jesse Gallagher</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
