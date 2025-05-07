@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dmcdante007">
+                    <img src="https://avatars.githubusercontent.com/u/99945896?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br/>
+                    <sub><b>Swaraj Meshram</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
