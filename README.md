@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AlexCtg5">
+                    <img src="https://avatars.githubusercontent.com/u/156230510?v=4" width="100px;" alt="Alex Catangiu"/>
+                    <br />
+                    <sub><b>Alex Catangiu</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
