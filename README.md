@@ -4297,6 +4297,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Pallela1907">
+                    <img
+                        src="https://avatars.githubusercontent.com/u/125499371?v=4" />
+                    <br />
+                    <sub>
+                        <b>Pallela Sarath Chandhan</b>
+                    </sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
