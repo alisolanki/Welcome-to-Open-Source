@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/heenajain97">
+                    <img src="https://avatars.githubusercontent.com/u/45688938?v=4" width="100px;" alt="Heena Jain"/>
+                    <br />
+                    <sub><b>Heena Jain</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
