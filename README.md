@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sani2912">
+                    <img src="https://avatars.githubusercontent.com/u/59701863?v=4" width="100px;" alt="Satyaki Das"/>
+                    <br />
+                    <sub><b>Satyaki Das</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
