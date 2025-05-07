@@ -403,6 +403,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vandan31">
+                    <img src="https://avatars.githubusercontent.com/u/115946988?v=4" width="100px;" alt="Vandan Raval"/>
+                    <br />
+                    <sub><b>Vandan Raval</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/satyamurthy18">
                     <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;"
