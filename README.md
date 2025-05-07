@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ip-12345">
+                    <img src="https://avatars.githubusercontent.com/u/141607693?s=400&u=8b9966d796e94693097d6c01638c167cf30d1cf2&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Indupriya Bejugam</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
