@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://instagram.com/iamrishit8">
+                    <img src="https://i.ytimg.com/an_webp/RhPuyXPuNpY/mqdefault_6s.webp?du=3000&sqp=CMyPr7MG&rs=AOn4CLBa3F6z8EsrGZcVUBfEVDMto__M5A" width="100px;" alt="Rishit Thakur"/>
+                    <br />
+                    <sub><b>Rishit Thakur</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
