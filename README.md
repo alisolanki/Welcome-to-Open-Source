@@ -1104,6 +1104,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sanatNaik">
+                    <img src="https://avatars.githubusercontent.com/u/141733066?v=4" width="100px;" alt="$N"/>
+                    <br />
+                    <sub><b>$N</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/akshaykamath45">
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;"
                         alt="Akshay Kamath" />
