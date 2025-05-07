@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Wolveerinee">
+                    <img src="https://avatars.githubusercontent.com/u/123648403?v=4" width="100px;" alt="ujjwal Kumar"/>
+                    <br />
+                    <sub><b>Ujjwal Kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
