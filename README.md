@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/VickyRaut">
+                    <img src="https://avatars.githubusercontent.com/u/78207195?v=4" width="100px;" alt="Vicky Raut"/>
+                    <br />
+                    <sub><b>Vicky Raut</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
