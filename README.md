@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DivyaKona">
+                    <img src=https://avatars.githubusercontent.com/u/77919065?v=4 width="100px;" alt="Divya Kona"/>
+                    <br />
+                    <sub><b>Divya Kona</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
