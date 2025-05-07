@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="kebbell.github.io">
+                    <img src="https://avatars.githubusercontent.com/u/154612464?v=4" width="100px;" alt="Sam Kebbell"/>
+                    <br />
+                    <sub><b>Sam Kebbell</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
