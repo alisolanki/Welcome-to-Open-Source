@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/VRhz07">
+                    <img src="https://avatars.githubusercontent.com/u/152932053?s=400&u=5c6e16c4b7bc131b653ee94d4740433509cb38cb&v=4" width="100px;" alt="Harvey Verian"/>
+                    <br />
+                    <sub><b>Harvey Verian</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
