@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ph03iA">
+                    <img src="https://avatars.githubusercontent.com/u/134228742?s=400&u=ea11f121268beb26b1799c832a9f839e6b7552a9&v=4?v=4" width="100px;" alt="Prajwa C"/>
+                    <br />
+                    <sub><b>Prajwa C</b></sub>
+                </a>
+            </td>        
         </tr>
         <tr>
             <td align="center">
