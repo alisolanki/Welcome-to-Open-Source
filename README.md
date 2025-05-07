@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/agogte">
+                    <img src="https://avatars.githubusercontent.com/u/90155284?v=4" width="100px;" alt="Advait Gogte"/>
+                    <br />
+                    <sub><b>Advait Gogte</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
