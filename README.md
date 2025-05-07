@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AjayNaikPersonal">
+                    <img src="https://avatars.githubusercontent.com/u/151335469?v=4" width="100px;" alt="Ajay Naik"/>
+                    <br />
+                    <sub><b>Ajay Naik</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
