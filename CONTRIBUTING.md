@@ -39,10 +39,10 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/RudraKumarSharma">
+            <img src="https://avatars.githubusercontent.com/u/75462806?s=400&u=4e529c1544b073046e16b021f92db845a12368bb&v=4" width="100px;" alt="Rudra Kumar Sharma"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Rudra Kumar Sharma</b></sub>
         </a>
     </td>
      <td align="center">
