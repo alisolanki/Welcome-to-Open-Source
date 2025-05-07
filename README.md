@@ -957,6 +957,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Abdulkabeer-W">
+                    <img src="https://avatars.githubusercontent.com/u/105493071?v=4" width="100px;" alt="Abdulkabeer Warimani"/>
+                    <br />
+                    <sub><b>Abdulkabeer Warimani</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
