@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Uvraj-becks">
+                    <img src="https://avatars.githubusercontent.com/u/169154087?v=4" width="100px;" alt="Uvraj-becks"/>
+                    <br />
+                    <sub><b>Uvraj Singh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
