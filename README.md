@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hardikkhandal">
+                    <img src="https://avatars.githubusercontent.com/u/111386038?v=4" width="100px;" alt="Hardik Khandal"/>
+                    <br />
+                    <sub><b>Hardik Khandal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
