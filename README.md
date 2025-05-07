@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sanjvj">
+                    <img src="https://avatars.githubusercontent.com/u/100282634?v=4" width="100px;" alt="Sanjay Surya"/>
+                    <br />
+                    <sub><b>Sanjay Surya</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
