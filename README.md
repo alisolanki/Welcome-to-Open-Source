@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/fawaz-hussain">
+                    <img src="https://avatars.githubusercontent.com/u/144450361?v=4" width="100px;" alt="Fawaz Hussain KT"/>
+                    <br />
+                    <sub><b>Fawaz Hussain KT</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
