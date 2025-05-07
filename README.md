@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://bombaysweets.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/89519465?s=400&u=09dd8766646268c8a6521f880df1b1924cc0a88e&v=4" width="100px;" alt="ADITYA P TAHILIANI"/>
+                    <br />
+                    <sub><b>ADITYA P TAHILIANI</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
