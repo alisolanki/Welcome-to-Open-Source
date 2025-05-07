@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ZakariAdamu">
+                    <img src="https://avatars.githubusercontent.com/u/53929284?v=4" width="100px;" alt="Zakari Adamu"/>
+                    <br />
+                    <sub><b>Zakari Adamu</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
