@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vaibhavshanbhag6">
+                    <img src="https://avatars.githubusercontent.com/u/39058785?v=4" width="100px;" alt="Vaibhav Shanbhag"/>
+                    <br />
+                    <sub><b>Vaibhav Shanbhag</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
