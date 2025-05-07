@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SHIVANANAND">
+                    <img src="https://avatars.githubusercontent.com/u/137916628?v=4" width="100px;" alt="Shivan Anand"/>
+                    <br />
+                    <sub><b>Shivan Anand</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
