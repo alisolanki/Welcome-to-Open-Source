@@ -958,6 +958,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shaktipriya13">
+                    <img src="https://camo.githubusercontent.com/47c5d33a5181e326528359ea1911fdb19ffc8acc98668ae6781cb9c57909a377/68747470733a2f2f626c6f67732e7377617274686d6f72652e6564752f6974732f77702d636f6e74656e742f75706c6f6164732f323032322f31322f6769746875622d756e6976657273652d31393230783736382e706e67" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Shakti Priya</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
