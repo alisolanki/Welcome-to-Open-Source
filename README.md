@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rahul-kumar-modi">
+                    <img src="https://avatars.githubusercontent.com/u/169649494?s=400&u=b4209d45703313194b3777882895759358f98eb9&v=4" width="100px;" alt="Rahul kumar"/>
+                    <br />
+                    <sub><b>Rahul kumar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
