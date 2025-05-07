@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jhaayush2004">
+                    <img src="https://avatars.githubusercontent.com/u/164651751?v=4" width="100px;" alt="Ayush Shaurya Jha"/>
+                    <br />
+                    <sub><b>Ayush Shaurya Jha</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
