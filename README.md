@@ -403,6 +403,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vishalpraja777/">
+                    <img src="https://avatars.githubusercontent.com/u/72211548?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Vishal Prajapathi</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/satyamurthy18">
                     <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;"
