@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/atharva-k-pccoe">
+                    <img src="https://avatars.githubusercontent.com/u/134262316?v=4" width="100px;" alt="Atharva Kusurkar"/>
+                    <br />
+                    <sub><b>Atharva Kusurkar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
