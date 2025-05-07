@@ -3672,6 +3672,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/HarshSangrulkar">
+                    <img src="https://avatars.githubusercontent.com/u/120011079?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Hash</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
