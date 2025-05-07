@@ -245,6 +245,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Deepak1649">
+                    <img src="https://avatars.githubusercontent.com/u/89627050?s=400&u=6c3c4cb9005c5021fb97dd9babea4d9f032674a2&v=4" width="100px;" alt="Deepak Kumar singh"/>
+                    <br />
+                    <sub><b>Deepak Kumar Singh</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
