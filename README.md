@@ -4297,6 +4297,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pareshkharche">
+                    <img src="https://avatars.githubusercontent.com/u/80632983?v=4" width="100px;" alt="Paresh" />
+                    <br />
+                    <sub> <b>Paresh</b> </sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
