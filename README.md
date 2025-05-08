@@ -4307,7 +4307,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <tr>
                <td align="center">
                 <a href="https://github.com/pranavkhaspa">
-                    <img src="https://avatars.githubusercontent.com/u/158171302?v=4" width="100px;" alt="Pranav"/>
+                    <img src="https://avatars.githubusercontent.com/u/158171302?v=4" width="100px;" alt="Pranav Khaspa "/>
                     <br />
                     <sub><b> Pranav Khaspa </b></sub>
                 </a>
