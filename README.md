@@ -4297,6 +4297,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/120213362?v=4" width="100px;" alt="Swanjith"/>
+                    <br />
+                    <sub><b> shree </b></sub>
+                </a>
         </td>
     </tbody>
 </table>
