@@ -4297,13 +4297,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
              <td align="center">
+                <a href="https://github.com/sandra5531">
+                    <img src="https://avatars.githubusercontent.com/u/145197531?v=4" width="100px;" alt="Sandra"/>
+                    <br />
+                    <sub><b> Sandra </b></sub>
+                </a>
+            </td>
+            </td>
+            <tr>
+               <td align="center">
                 <a href="https://github.com/pranavkhaspa">
-                    <img src="https://avatars.githubusercontent.com/u/158171302?v=4" width="100px;" alt="Sandra"/>
+                    <img src="https://avatars.githubusercontent.com/u/158171302?v=4" width="100px;" alt="Pranav"/>
                     <br />
                     <sub><b> Pranav Khaspa </b></sub>
                 </a>
             </td>
-            </td>
+            </tr>
         </td>
     </tbody>
 </table>
