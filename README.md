@@ -4297,6 +4297,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/gauravkrsingh321">
+                    <img src="https://imgs.search.brave.com/iq0u4Un7OrCe0lWcJ0l8p295QQ0F3OeA8rt-giFGKvI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mbG93/Yml0ZS5zMy5hbWF6/b25hd3MuY29tL2Js/b2Nrcy9tYXJrZXRp/bmctdWkvY29udGVu/dC9jb250ZW50LWdh/bGxlcnktMy5wbmc" width="100px;" alt="Computer Science"/>
+                    <br />
+                    <sub><b> Gaurav Kumar Singh </b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
