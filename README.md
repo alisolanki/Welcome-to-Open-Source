@@ -292,6 +292,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/edwardogheneochuko">
+                    <img src="https://avatars.githubusercontent.com/edwardogheneochuko"
+                     width="100px;"
+                        alt="Jessica Hoang" />
+                    <br />
+                    <sub>
+                        <b>Jessica Hoang</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/audacious-fk/">
                     <img src="https://avatars.githubusercontent.com/u/206724229?v=4" width="100px;"
                         alt="Audacious fk" />
