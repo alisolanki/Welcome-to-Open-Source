@@ -4298,5 +4298,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </td>
+        <td align="center">
+                <a href="https://github.com/assassindiv">
+                    <img src="https://avatars.githubusercontent.com/u/94910676?v=4" width="100px;"
+                        alt="Divyanshu" />
+                    <br />
+                    <sub>
+                        <b>Divyanshu</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
