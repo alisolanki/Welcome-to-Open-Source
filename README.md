@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/chhaviluthra08">
-                    <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
+                <a href="https://github.com/ayusheez">
+                    <img src="https://avatars.githubusercontent.com/u/173381358?v=4" width="100px;"
                         alt="Ether" />
                     <br />
                     <sub>
-                        <b>Chhavi Luthra</b>
+                        <b>Ayushi Gautam</b>
                     </sub>
                 </a>
             </td>
