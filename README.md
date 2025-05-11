@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Chiccoo-oo">
+                    <img src="https://avatars.githubusercontent.com/u/156612068?v=4" width="100px;"
+                        alt="Chiccoo" />
+                    <br />
+                    <sub>
+                        <b>Anushka Ekka</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chhaviluthra08">
                     <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
                         alt="Ether" />
