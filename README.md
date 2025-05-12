@@ -4169,6 +4169,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Navneeth Kumar</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com">
+                    <img src="https://avatars.githubusercontent.com/u/114275908?v=4" width="100px;" alt="Sumit Patil"/>
+                    <br />
+                    <sub><b>Somebody</b></sub>
+                </a> 
+            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
