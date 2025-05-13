@@ -57,13 +57,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-        <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+            <td align="center">
+                <a href="https://github.com/Rohit-Jaiswar">
+                    <img src="https://avatars.githubusercontent.com/u/76474744?v=4" width="100px;"
+                        alt="Rohit Jaiswar" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Rohit Jaiswar</b>
                     </sub>
                 </a>
             </td>
