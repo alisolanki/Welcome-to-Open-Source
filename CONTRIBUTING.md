@@ -66,6 +66,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/codebytes-omkar12">
+            <img src="https://avatars.githubusercontent.com/u/196156570?v=4" width="100px;" alt="Omkar Mandal"/>
+            <br />
+            <sub>Omkar Mandal
+        </a>
+    </td>
     
     ```
 
