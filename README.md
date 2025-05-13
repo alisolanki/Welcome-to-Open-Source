@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/">
+                    <img src="https://pbs.twimg.com/profile_banners/1729616425713840128/1741249745/1080x360" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Yash Pawar</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/P-dwivedi">
                     <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
