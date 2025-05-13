@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/lelixn">
+                    <img src="https://i.pinimg.com/736x/c8/96/e9/c896e94a32423700523a6608c922aaef.jpg" width="100px;"
+                        alt="Lelien Panda" />
+                    <br />
+                    <sub>
+                        <b>Lelien Panda</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/P-dwivedi">
                     <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
