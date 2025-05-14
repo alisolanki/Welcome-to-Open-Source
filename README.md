@@ -4331,6 +4331,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Pooja Tech </b></sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/ShahzaibAli-1">
+                    <img src="https://avatars.githubusercontent.com/u/98121819?v=4" width="100px;" alt="Shahzaib"/>
+                    <br />
+                    <sub><b> Shahzaib Ali </b></sub>
+                </a>
+            </td>
+            
         </td>
     </tbody>
 </table>
