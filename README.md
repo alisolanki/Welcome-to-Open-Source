@@ -665,6 +665,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/Jeevesh2605">
+                    <img src="https://avatars.githubusercontent.com/u/182980053?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Jayrajsinh Bhatti</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Vishals3151">
                     <img src="https://avatars.githubusercontent.com/u/178000409?v=4" width="100px;"
