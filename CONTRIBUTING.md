@@ -66,6 +66,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/iramsk02">
+            <img src="https://avatars.githubusercontent.com/u/161953870?v=4" width="100px;" alt="Iram Saba Khan"/>
+            <br />
+            <sub><b>Iram Saba Khan
+        </a>
+    </td>
     
     ```
 
