@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/AltamashAhmad">
+                    <img src="https://avatars.githubusercontent.com/u/59414034?v=4" width="100px;"
+                        alt="Altamash Ahmad" />
+                    <br />
+                    <sub>
+                        <b>Altamash Ahmad</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Tripura657">
                     <img src="https://avatars.githubusercontent.com/u/185510462?v=4" width="100px;"
                         alt="tripura tejasri" />
