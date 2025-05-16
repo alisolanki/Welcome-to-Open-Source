@@ -4341,6 +4341,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Pooja Tech </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/komalSingh9289">
+                    <img src="https://avatars.githubusercontent.com/u/161674778" width="100px;" alt="PoojaTech"/>
+                    <br />
+                    <sub><b> Komal Singh </b></sub>
+                </a>
+            </td>
+            
         </td>
     </tbody>
 </table>
