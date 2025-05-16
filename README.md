@@ -57,10 +57,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-        <td align="center">
+             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/120122376?s=96&v=4" width="100px;"
                         alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Allu Pragathi </b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/Allu-Pragathi">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Allu Pragathi"/>
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
