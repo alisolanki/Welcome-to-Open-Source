@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/Soumalya-1">
+                    <img src="https://avatars.githubusercontent.com/u/181546319?v=4" width="100px;"
+                        alt="Soumalya Paul" />
+                    <br />
+                    <sub>
+                        <b>WEST BENGAL</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Tripura657">
                     <img src="https://avatars.githubusercontent.com/u/185510462?v=4" width="100px;"
                         alt="tripura tejasri" />
