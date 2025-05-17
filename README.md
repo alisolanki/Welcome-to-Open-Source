@@ -4298,7 +4298,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/account">
+                <a href="https://github.com/Swanjith">
                     <img src="https://avatars.githubusercontent.com/u/120213362?v=4" width="100px;" alt="Swanjith"/>
                     <br />
                     <sub><b>Swanjith</b></sub>
