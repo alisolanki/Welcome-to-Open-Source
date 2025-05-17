@@ -47,6 +47,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://github.com/uzman2406">
+                    <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
+                        alt="Uzma Nayab" />
+                    <br />
+                    <sub>
+                        <b>Uzma Nayab</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Tripura657">
                     <img src="https://avatars.githubusercontent.com/u/185510462?v=4" width="100px;"
