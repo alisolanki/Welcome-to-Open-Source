@@ -98,6 +98,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ACHINTYA0410">
+                    <img src="https://avatars.githubusercontent.com/u/211553323?s=400&v=4" width="100px;"
+                        alt="Achintya Mendiratta" />
+                    <br />
+                    <sub>
+                        <b>Achintya</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/P-dwivedi">
                     <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
                         alt="Prakhar Dwivedi" />
@@ -254,6 +264,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            
             <td align="center">
                 <a href="https://github.com/Yatish-369">
                     <img src="https://avatars.githubusercontent.com/u/105811991?v=4" width="100px;"
