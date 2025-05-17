@@ -4335,7 +4335,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Anishwastaken">
                     <img src="https://avatars.githubusercontent.com/u/187433787?v=4" width="100px;" alt="Shree"/>
                     <br />
-                    <sub><b> shree </b></sub>
+                    <sub><b>Anishwastaken</b></sub>
                 </a>
             </td>
         </td>
