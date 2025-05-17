@@ -4341,6 +4341,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Pooja Tech </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BSKanoje">
+                    <img src="https://avatars.githubusercontent.com/u/184247881?v=4" width="100px;" alt="Bushra Kanoje"/>
+                    <br />
+                    <sub><b> Bushra Kanoje </b></sub>
+                </a>
+            </td>
         </td>
     </tbody>
 </table>
