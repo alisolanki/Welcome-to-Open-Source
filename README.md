@@ -98,6 +98,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jchandrashekar333">
+                    <img src="https://avatars.githubusercontent.com/u/178035899?s=400&u=cac01934aff04c1dd33d70c5c0f2821a496d1384&v=4" width="100px;"
+                        alt="chandra shekar" />
+                    <br />
+                    <sub>
+                        <b>Chandra Shekar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://uddipta7.github.io/My-Portfolio/">
                     <img src="https://avatars.githubusercontent.com/u/129296670?v=4" width="100px;"
                         alt="Uddipta Singha" />
