@@ -47,6 +47,26 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://github.com/uzman2406">
+                    <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
+                        alt="Uzma Nayab" />
+                    <br />
+                    <sub>
+                        <b>Uzma Nayab</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/Tripura657">
+                    <img src="https://avatars.githubusercontent.com/u/185510462?v=4" width="100px;"
+                        alt="tripura tejasri" />
+                    <br />
+                    <sub>
+                        <b>Tripura</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
@@ -58,12 +78,42 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/P-dwivedi">
+                    <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
+                        alt="Prakhar Dwivedi" />
+                    <br />
+                    <sub>
+                        <b>Prakhar Dwivedi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chhaviluthra08">
                     <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
                         alt="Ether" />
                     <br />
                     <sub>
                         <b>Chhavi Luthra</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/rameesvk551">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Ramees vk" />
+                    <br />
+                    <sub>
+                        <b>Ramees vk</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jchandrashekar333">
+                    <img src="https://avatars.githubusercontent.com/u/178035899?s=400&u=cac01934aff04c1dd33d70c5c0f2821a496d1384&v=4" width="100px;"
+                        alt="chandra shekar" />
+                    <br />
+                    <sub>
+                        <b>Chandra Shekar</b>
                     </sub>
                 </a>
             </td>
@@ -135,6 +185,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Amit Spinzi</b>
                     </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sridevkp">
+                    <img src="https://avatars.githubusercontent.com/u/69075577?v=4" width="100px;" alt="Sridev"/>
+                    <br />
+                    <sub><b>Sridev</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -4149,6 +4206,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Navneeth Kumar</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Sanjeeb-J">
+                    <img src="https://avatars.githubusercontent.com/u/170693945?v=4" width="100px;" alt="Sanjeeb J"/>
+                    <br />
+                    <sub>
+                        <b>Sanjeeb J</b>
+                    </sub>
+                </a> 
+            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
@@ -4302,8 +4368,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/80632983?v=4" width="100px;" alt="Paresh" />
                     <br />
                     <sub> <b>Paresh</b> </sub>
+             </td>
+             <td align="center">
+                <a href="https://github.com//Pooja-Techn">
+                    <img src="https://avatars.githubusercontent.com/u/117844212?v=4" width="100px;" alt="PoojaTech"/>
+                    <br />
+                    <sub><b> Pooja Tech </b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/thetnaingtun3">
+                    <img src="https://avatars.githubusercontent.com/u/56593582?v=4" width="100px;" alt="PoojaTech"/>
+                    <br />
+                    <sub><b> Thet Naing Htun </b></sub>
                 </a>
             </td>
         </td>
     </tbody>
+
 </table>
