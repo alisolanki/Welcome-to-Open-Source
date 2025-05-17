@@ -4333,7 +4333,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/Anishwastaken">
-                    <img src="https://avatars.githubusercontent.com/u/187433787?v=4" width="100px;" alt="Shree"/>
+                    <img src="https://avatars.githubusercontent.com/u/187433787?v=4" width="100px;" alt="Anishwastaken"/>
                     <br />
                     <sub><b>Anishwastaken</b></sub>
                 </a>
