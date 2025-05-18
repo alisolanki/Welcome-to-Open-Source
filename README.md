@@ -47,6 +47,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        <td align="center">
+                <a href="https://github.com/keshavlohani">
+                    <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
+                        alt="Keshav Lohani" />
+                    <br />
+                    <sub>
+                        <b>Keshav Lohani</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/uzman2406">
                     <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
