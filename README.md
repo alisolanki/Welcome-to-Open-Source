@@ -264,7 +264,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            
             <td align="center">
                 <a href="https://github.com/Yatish-369">
                     <img src="https://avatars.githubusercontent.com/u/105811991?v=4" width="100px;"
@@ -4447,5 +4446,4 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
     </tbody>
-
 </table>
