@@ -48,32 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://github.com/keshavlohani">
-                    <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
-                        alt="Keshav Lohani" />
+                <a href="https://github.com/Rohit-Jaiswar">
+                    <img src="https://avatars.githubusercontent.com/u/76474744?v=4" width="100px;"
+                        alt="Rohit Jaiswar" />
                     <br />
                     <sub>
-                        <b>Keshav Lohani</b>
-                    </sub>
-                </a>
-            </td>
-         <td align="center">
-                <a href="https://github.com/uzman2406">
-                    <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
-                        alt="Uzma Nayab" />
-                    <br />
-                    <sub>
-                        <b>Uzma Nayab</b>
-                    </sub>
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://github.com/AltamashAhmad">
-                    <img src="https://avatars.githubusercontent.com/u/59414034?v=4" width="100px;"
-                        alt="Altamash Ahmad" />
-                    <br />
-                    <sub>
-                        <b>Altamash Ahmad</b>
+                        <b>Rohit Jaiswar</b>
                     </sub>
                 </a>
             </td>
@@ -88,38 +68,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Anand0047">
-                    <img src="https://avatars.githubusercontent.com/u/147748402?v=4" width="100px;"
-                        alt="Anandh raj" />
-                    <br />
-                    <sub>
-                        <b>Anandh Raj</b>
-                    </sub>
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
-                    <br />
-                    <sub>
-                        <b>Ali Solanki</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/ACHINTYA0410">
-                    <img src="https://avatars.githubusercontent.com/u/211553323?s=400&v=4" width="100px;"
-                        alt="Achintya Mendiratta" />
-                    <br />
-                    <sub>
-                        <b>Achintya</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/P-dwivedi">
-                    <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/130329992?v=https://github.com/alisolanki/Welcome-to-Open-Source.git4" width="100px;"
                         alt="Prakhar Dwivedi" />
                     <br />
                     <sub>
@@ -134,26 +84,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Chhavi Luthra</b>
-                    </sub>
-                </a>
-            </td>
-             <td align="center">
-                <a href="https://github.com/rameesvk551">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ramees vk" />
-                    <br />
-                    <sub>
-                        <b>Ramees vk</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/jchandrashekar333">
-                    <img src="https://avatars.githubusercontent.com/u/178035899?s=400&u=cac01934aff04c1dd33d70c5c0f2821a496d1384&v=4" width="100px;"
-                        alt="chandra shekar" />
-                    <br />
-                    <sub>
-                        <b>Chandra Shekar</b>
                     </sub>
                 </a>
             </td>
@@ -381,17 +311,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
-                        alt="Jessica Hoang" />
-                    <br />
-                    <sub>
-                        <b>Jessica Hoang</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/edwardogheneochuko">
-                    <img src="https://avatars.githubusercontent.com/edwardogheneochuko"
-                     width="100px;"
                         alt="Jessica Hoang" />
                     <br />
                     <sub>
@@ -739,16 +658,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/JayrajsinhBhatti">
                     <img src="https://avatars.githubusercontent.com/u/184401097?v=4" width="100px;"
-                        alt="Ali Solanki" />
-                    <br />
-                    <sub>
-                        <b>Jayrajsinh Bhatti</b>
-                    </sub>
-                </a>
-            </td>
-                        <td align="center">
-                <a href="https://github.com/Jeevesh2605">
-                    <img src="https://avatars.githubusercontent.com/u/182980053?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
@@ -4267,15 +4176,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Navneeth Kumar</b></sub>
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/Sanjeeb-J">
-                    <img src="https://avatars.githubusercontent.com/u/170693945?v=4" width="100px;" alt="Sanjeeb J"/>
-                    <br />
-                    <sub>
-                        <b>Sanjeeb J</b>
-                    </sub>
-                </a> 
-            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
@@ -4424,36 +4324,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> shree </b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/pareshkharche">
-                    <img src="https://avatars.githubusercontent.com/u/80632983?v=4" width="100px;" alt="Paresh" />
-                    <br />
-                    <sub> <b>Paresh</b> </sub>
-             </td>
-             <td align="center">
-                <a href="https://github.com//Pooja-Techn">
-                    <img src="https://avatars.githubusercontent.com/u/117844212?v=4" width="100px;" alt="PoojaTech"/>
-                    <br />
-                    <sub><b> Pooja Tech </b></sub>
-                </a>
-            </td>
-             <td align="center">
-                <a href="https://github.com/thetnaingtun3">
-                    <img src="https://avatars.githubusercontent.com/u/56593582?v=4" width="100px;" alt="PoojaTech"/>
-                    <br />
-                    <sub><b> Thet Naing Htun </b></sub>
-                </a>
-            </td>
         </td>
-        <td align="center">
-                <a href="https://github.com/assassindiv">
-                    <img src="https://avatars.githubusercontent.com/u/94910676?v=4" width="100px;"
-                        alt="Divyanshu" />
-                    <br />
-                    <sub>
-                        <b>Divyanshu</b>
-                    </sub>
-                </a>
-            </td>
     </tbody>
 </table>
