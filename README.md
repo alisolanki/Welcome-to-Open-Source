@@ -4455,5 +4455,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/rashyy17">
+                    <img src="https://avatars.githubusercontent.com/u/167156022?v=4" width="100px;"
+                        alt="Rashi Kushwaha" />
+                    <br />
+                    <sub>
+                        <b>Rashi Kushwaha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
