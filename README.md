@@ -3,12 +3,11 @@
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repository's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repository's link and tagging the owner (alisolankii)</li>
-    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="https://avatars.githubusercontent.com/u/121019336?v=4"/>
     </a>
 </p>
 
@@ -48,19 +47,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
          <td align="center">
-                <a href="https://github.com/uzman2406">
-                    <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
-                        alt="Uzma Nayab" />
+                <a href="https://github.com/adarsh8114">
+                    <img src=https://avatars.githubusercontent.com/u/121019336?v=4" width="100px;"
+                        alt="Adarsh kumar" />
                     <br />
                     <sub>
-                        <b>Uzma Nayab</b>
+                        <b>Adarsh kumar</b>
                     </sub>
                 </a>
             </td>
         <td align="center">
                 <a href="https://github.com/AltamashAhmad">
-                    <img src="https://avatars.githubusercontent.com/u/59414034?v=4" width="100px;"
-                        alt="Altamash Ahmad" />
+                    <img src="https://avatars.githubusercontent.com/u/121019336?v=4" width="100px;"
+                        alt="afarsh kumar" />
                     <br />
                     <sub>
                         <b>Altamash Ahmad</b>
