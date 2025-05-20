@@ -48,22 +48,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://github.com/keshavlohani">
-                    <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
+                <a href="https://github.com/TheAnushree25">
+                    <img src="https://github.com/account" width="100px;"
                         alt="Keshav Lohani" />
                     <br />
                     <sub>
-                        <b>Keshav Lohani</b>
+                        <b>Anushree</b>
                     </sub>
                 </a>
             </td>
          <td align="center">
-                <a href="https://github.com/uzman2406">
-                    <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
-                        alt="Uzma Nayab" />
+                <a href="https://github.com/TheAnushree25">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Anushree" />
                     <br />
                     <sub>
-                        <b>Uzma Nayab</b>
+                        <b>Anushree</b>
                     </sub>
                 </a>
             </td>
