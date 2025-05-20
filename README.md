@@ -4465,5 +4465,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pranjal030404">
+                    <img src="https://avatars.githubusercontent.com/u/182807087?v=4" width="100px;"
+                        alt="Pranjal Tiwari" />
+                    <br />
+                    <sub>
+                        <b>Pranjal Tiwari</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
