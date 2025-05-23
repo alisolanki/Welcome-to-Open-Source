@@ -4475,5 +4475,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/umar3990">
+                    <img src="https://avatars.githubusercontent.com/u/125406605?v=4" width="100px;"
+                        alt="Umar Farooq" />
+                    <br />
+                    <sub>
+                        <b>Umar Farooq</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
