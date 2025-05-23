@@ -47,7 +47,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
+            <td align="center">
                 <a href="https://github.com/S4IFxx">
                     <img src="https://avatars.githubusercontent.com/u/170594509?v=4" width="100px;"
                         alt="Syed Saifullah" />
