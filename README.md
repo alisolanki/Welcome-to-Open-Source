@@ -4465,13 +4465,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
+            <td align=
                 <a href="https://github.com/pranjal030404">
                     <img src="https://avatars.githubusercontent.com/u/182807087?v=4" width="100px;"
                         alt="Pranjal Tiwari" />
                     <br />
                     <sub>
-                        <b>Pranjal Tiwari</b>
+                      <b>Pranjal Tiwari </b>
+                    </sub>
+                </a>
+             </td>
+             <td>
+                <a href="https://github.com/sowmyagandhamaneni">
+                    <img src="https://avatars.githubusercontent.com/u/67108862?v=4" width="100px;"
+                        alt="Sowmya Gandhamaneni" />
+                    <br />
+                    <sub>
+                        <b> Sowmya Gandhamaneni</b>
                     </sub>
                 </a>
             </td>
