@@ -4475,5 +4475,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/midhun956">
+                    <img src="https://avatars.githubusercontent.com/u/94169530?v=4" width="100px;"
+                        alt="Midhun Manoj" />
+                    <br />
+                    <sub>
+                        <b>Midhun Manoj</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
