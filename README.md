@@ -4481,7 +4481,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Saket DB" /> -->
                     <br />
                     <sub>
-                        <b> Saket DB</b>
+                        <b>Saket DB</b>
                     </sub>
                 </a>
             </td>
