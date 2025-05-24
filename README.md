@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/Anuragkumar-687">
+                    <img src="https://avatars.githubusercontent.com/u/188879588?v=4" width="100px;"
+                        alt="Anurag Kumar" />
+                    <br />
+                    <sub>
+                        <b>Anurag Kumar</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/keshavlohani">
                     <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
                         alt="Keshav Lohani" />
