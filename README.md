@@ -4475,5 +4475,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/k-ananya05">
+                    <img src="https://avatars.githubusercontent.com/u/173704415?v=4" width="100px;"
+                        alt="Ananya" />
+                    <br />
+                    <sub>
+                        <b>Ananyashrinidhi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
