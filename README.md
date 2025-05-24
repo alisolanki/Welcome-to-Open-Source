@@ -4276,8 +4276,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a> 
             </td>
-        </tr>
-        <td align="center">
+            <td align="center">
                 <a href="https://github.com/Strikeee09">
                     <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
                     <br />
@@ -4305,6 +4304,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Kale</b></sub>
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/sachinstha9">
                     <img src="https://avatars.githubusercontent.com/u/200669199?v=4" width="100px;" alt="Sachin Shrestha"/>
@@ -4361,6 +4362,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mrunal Singade</b></sub>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/rohini20kr">
                     <img src="https://avatars.githubusercontent.com/u/168400584?v=4" width="100px;" alt="Rohini Rajesh"/>
@@ -4417,6 +4420,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Sandra </b></sub>
                 </a>
             </td>
+        </tr>    
+            </td>
              <td align="center">
                 <a href="https://github.com/shreeyashsubhashpawar">
                     <img src="https://avatars.githubusercontent.com/u/117844212?v=4" width="100px;" alt="Shree"/>
@@ -4472,6 +4477,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b> Sowmya Gandhamaneni</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/midhun956">
+                    <img src="https://avatars.githubusercontent.com/u/94169530?v=4" width="100px;"
+                        alt="Midhun Manoj" />
+                    <br />
+                    <sub>
+                        <b>Midhun Manoj</b>
                     </sub>
                 </a>
             </td>
