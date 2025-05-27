@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/sahilkirad">
+                    <img src="https://avatars.githubusercontent.com/u/167863755?v=4" width="100px;"
+                        alt="Sahil Kirad" />
+                    <br />
+                    <sub>
+                        <b>Sahil Kirad</b>
+                    </sub>
+                </a>
+        </td>
+        <td align="center">
                 <a href="https://github.com/keshavlohani">
                     <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
                         alt="Keshav Lohani" />
@@ -56,7 +66,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Keshav Lohani</b>
                     </sub>
                 </a>
-            </td>
+        </td>
             <td align="center">
                 <a href="https://github.com/Flash500x/abinmjoseph_05">
                     <img src="https://avatars.githubusercontent.com/u/104203287?v=4" width="100px;"
