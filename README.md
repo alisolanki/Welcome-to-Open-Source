@@ -3800,6 +3800,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codewithharshal">
+                    <img src="https://avatars.githubusercontent.com/u/143720536?v=4" width="100px;" alt="Harshal Sewatkar"/>
+                    <br />
+                    <sub><b>Harshal Sewatkar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
