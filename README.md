@@ -4492,5 +4492,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Vishvajeet gaikwad </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/niranjanarnair">
+                    <img src="https://avatars.githubusercontent.com/u/145888926?v=4" width="100px;" alt="Niranjana R Nair"/>
+                    <br />
+                    <sub>
+                    <b> Niranjana R Nair </b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
