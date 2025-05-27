@@ -4492,5 +4492,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Vishvajeet gaikwad </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DYAVARTHISRIKANTH">
+                    <img src="https://avatars.githubusercontent.com/u/119031572?v=4" width="100px;" alt="Vishvajeet Gaikwad"/>
+                    <br />
+                    <sub><b> Vishvajeet gaikwad </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
