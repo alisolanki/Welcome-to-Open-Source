@@ -4492,5 +4492,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Vishvajeet gaikwad </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rsnishank">
+                    <img src="https://avatars.githubusercontent.com/u/136360206?v=4" width="100px;" 
+                    alt="R Nishank"/>
+                    <br />
+                    <sub><b> R Nishank </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
