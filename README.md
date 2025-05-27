@@ -4475,7 +4475,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-                     <td align="center">
+            <td align="center">
                 <a href="https://github.com/VishvajeetGaikwad">
                     <img src="https://avatars.githubusercontent.com/u/182543871?v=4" width="100px;" alt="Vishvajeet Gaikwad"/>
                     <br />
