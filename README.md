@@ -3800,6 +3800,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nafisa45">
+                    <img src="https://avatars.githubusercontent.com/u/82876609?v=4" width="100px;" alt="Nafisa Anzum"/>
+                    <br />
+                    <sub><b>Nafisa Anzum</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
