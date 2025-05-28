@@ -4516,5 +4516,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Sai Kumar </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/deekshant4758/">
+                    <img src="https://avatars.githubusercontent.com/u/76731475?v=4&size=64" width="100px;" alt=" Deekshant Gupta "/>
+                    <br />
+                    <sub><b> Deekshant Gupta </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
