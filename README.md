@@ -4518,7 +4518,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Eunoianivi123">
-                    <img src="https://avatars.githubusercontent.com/u/106133263?v=4" width="100px;" alt=" Sai Kumar "/>
+                    <img src="https://avatars.githubusercontent.com/u/106133263?v=4" width="100px;" alt="Neelavathy"/>
                     <br />
                     <sub><b> Neelavathy Gnanavel</b></sub>
                 </a>
