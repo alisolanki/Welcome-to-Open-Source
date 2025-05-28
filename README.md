@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Harshit4673">
+                    <img src="https://avatars.githubusercontent.com/u/115793587?v=4" width="100px;"
+                        alt="Harshit Chaurasia" />
+                    <br />
+                    <sub>
+                        <b>Harshit Chaurasia</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/keshavlohani">
                     <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
                         alt="Keshav Lohani" />
