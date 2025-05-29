@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Harshit4673">
+                <a href="https://github.com/OmKapkoti">
                     <img src="https://avatars.githubusercontent.com/u/115793587?v=4" width="100px;"
-                        alt="Harshit Chaurasia" />
+                        alt="OM KAPKOTI" />
                     <br />
                     <sub>
-                        <b>Harshit Chaurasia</b>
+                        <b>OM KAPKOTI</b>
                     </sub>
                 </a>
             </td>
