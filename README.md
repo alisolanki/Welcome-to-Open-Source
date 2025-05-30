@@ -2252,6 +2252,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </a>
                 </td>
                 <td align="center">
+                    <a href="https://github.com/horizon7006">
+                        <img src="[https://avatars.githubusercontent.com/u/159533906?v=4](https://avatars.githubusercontent.com/u/205824865?s=400&u=ac8ab48b194e0aea46d10747febccfb009b8132b&v=4)"
+                            width="100px;" alt="Horizon" />
+                        <br />
+                        <sub>
+                            <b>Horizon</b>
+                        </sub>
+                    </a>
+                </td>
+                <td align="center">
                     <a href="https://github.com/codermal7">
                         <img src="https://avatars.githubusercontent.com/u/83698322?v=4"
                             width="100px;" alt="Anuj Pandey" />
