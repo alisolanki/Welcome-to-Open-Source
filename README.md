@@ -4605,5 +4605,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Shreya Saxena</b>
                 </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/hxybrid3110">
+                    <img src="https://avatars.githubusercontent.com/u/204754569?v=4" width="100px;"
+                        alt="Hxybrid" />
+                    <br />
+                    <sub>
+                        <b>Hxybrid</b>
+                </a>
+             </td>
     </tbody>
 </table>
