@@ -66,6 +66,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/anmol-janmejay">
+            <img src="https://avatars.githubusercontent.com/u/96444666?v=4" width="100px;" alt="Anmol Janmejay"/>
+            <br />
+            <sub><b>Anmol Janmejay
+        </a>
+    </td>
     
     ```
 
