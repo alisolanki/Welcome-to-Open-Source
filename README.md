@@ -12,6 +12,7 @@
     </a>
 </p>
 
+
 <p>List of actively participating individulas in open source contributions</p>
 
 - Add your own details to the contributor list
@@ -48,6 +49,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/140883285?s=400&u=2f2e45fb974ec80498e687e61d5f4d3bf26f50ed&v=4" width="100px;"
+                        alt="Garima Mathur" />
+                    <br />
+                    <sub>
+                        <b>Garima Mathur </b>
+                </a>
+             </td>
+             <td align="center">
                 <a href="https://github.com/psspsss">
                     <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
                         alt="Vinayak Majhi" />
