@@ -4605,5 +4605,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Shreya Saxena</b>
                 </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/Pranithanandhakumar">
+                    <img src=https://avatars.githubusercontent.com/u/189753722?s=96&v=4 width="100px;"
+                        alt="Pranitha Nandhakumar" />
+                    <br />
+                    <sub>
+                        <b>Shreya Saxena</b>
+                </a>
+             </td>
     </tbody>
 </table>
