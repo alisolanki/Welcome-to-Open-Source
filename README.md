@@ -4605,5 +4605,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Shreya Saxena</b>
                 </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/ChaitanyaSai-Meka">
+                    <img src="https://avatars.githubusercontent.com/u/176647589?v=4" width="100px;"
+                        alt="Chaitanya Sai Meka" />
+                    <br />
+                    <sub>
+                        <b>Chaitanya Sai Meka</b>
+                </a>
+             </td>
     </tbody>
 </table>
