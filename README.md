@@ -4605,5 +4605,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Shreya Saxena</b>
                 </a>
              </td>
+             <td align="center">
+                <a href="https://github.com/Sanjay-Suresh2005">
+                    <img src="https://avatars.githubusercontent.com/u/153609538?v=4" width="100px;" alt=" AARIYAN"/>
+                    <br />
+                    <sub><b> Sanjay Suresh </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
