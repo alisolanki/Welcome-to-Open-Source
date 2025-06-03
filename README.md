@@ -167,6 +167,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tharun00-TK">
+                    <img src="https://avatars.githubusercontent.com/u/91783783?v=4" width="100px;"
+                        alt="Tharun Kumar" />
+                    <br />
+                    <sub>
+                        <b>Tharun Kumar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/P-dwivedi">
                     <img src="https://avatars.githubusercontent.com/u/130329992?v=4" width="100px;"
                         alt="Prakhar Dwivedi" />
