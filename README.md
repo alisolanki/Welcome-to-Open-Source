@@ -48,6 +48,26 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/tkeefe">
+                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
+                        alt="Travis Keefe" />
+                    <br />
+                    <sub>
+                        <b>Travis Keefe</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/psspsss">
                     <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
                         alt="Vinayak Majhi" />
@@ -153,16 +173,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Anandh Raj</b>
-                    </sub>
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
-                    <br />
-                    <sub>
-                        <b>Ali Solanki</b>
                     </sub>
                 </a>
             </td>
@@ -330,16 +340,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Priyatosh Kumar</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/tkeefe">
-                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
-                        alt="Travis Keefe" />
-                    <br />
-                    <sub>
-                        <b>Travis Keefe</b>
                     </sub>
                 </a>
             </td>
