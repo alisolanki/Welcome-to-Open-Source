@@ -196,6 +196,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/Advitiya007">
+                    <img src="https://avatars.githubusercontent.com/u/196314239?v=4" width="100px;"
+                        alt="Advitiya" />
+                    <br />
+                    <sub>
+                        <b>Advitiya</b>
+                    </sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Noyonika16">
                     <img src="https://avatars.githubusercontent.com/u/195653603?v=4" width="100px;"
