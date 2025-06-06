@@ -4639,5 +4639,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Kabir singla </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/marstrx">
+                    <img src="https://avatars.githubusercontent.com/u/169992204?s=400&v=4" width="100px;" alt="Marstrx"/>
+                    <br />
+                    <sub><b>Marstrx</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
