@@ -4612,5 +4612,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Sanjay Suresh </b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kabirkb1">
+                    <img src="https://avatars.githubusercontent.com/u/126600853?v=4" width="100px;" alt=" Kabir Singla"/>
+                    <br />
+                    <sub><b> Kabir singla </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
