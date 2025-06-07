@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/tkeefe">
-                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
-                        alt="Travis Keefe" />
+                <a href="https://github.com/DevSahil12">
+                    <img src="https://avatars.githubusercontent.com/u/140622058?v=4" width="100px;"
+                        alt="Sahil Sharma" />
                     <br />
                     <sub>
-                        <b>Travis Keefe</b>
+                        <b>Sahil Sharma</b>
                     </sub>
                 </a>
             </td>
