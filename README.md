@@ -126,6 +126,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/salemHb">
+                    <img src="https://avatars.githubusercontent.com/u/34133657?v=4" width="100px;"
+                        alt="Hussein Salim" />
+                    <br />
+                    <sub>
+                        <b>Hussein Salim</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/keshavlohani">
                     <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
