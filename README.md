@@ -57,16 +57,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-        <td align="center">
-                <a href="https://github.com/RiyaPandey071">
-                    <img src="https://avatars.githubusercontent.com/u/173361767?s=400&u=930eeaacd8332a2d057e988b1fb1a50875ddcb72&v=4" width="100px;"
-                        alt="Riya Pandey" />
-                    <br />
-                    <sub>
-                        <b>Riya Pandey</b>
-                    </sub>
-                </a>
-            </td>
+        
         <td align="center">
                 <a href="https://github.com/karthik6603">
                     <img src="https://avatars.githubusercontent.com/u/132077467?v=4" width="100px;"
@@ -74,6 +65,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Karthik P</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/RiyaPandey071">
+                    <img src="https://avatars.githubusercontent.com/u/173361767?s=400&u=930eeaacd8332a2d057e988b1fb1a50875ddcb72&v=4" width="100px;"
+                        alt="Riya Pandey" />
+                    <br />
+                    <sub>
+                        <b>Riya Pandey</b>
                     </sub>
                 </a>
             </td>
