@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/DPavan2004/">
+                    <img src="https://avatars.githubusercontent.com/u/111702592?s=400&u=46dc8c5f3591f560bc629cfa47f26773fff02aae&v=4" width="100px;"
+                        alt="Damarla Pavan" />
+                    <br />
+                    <sub>
+                        <b>Damarla Pavan</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/karthik6603">
                     <img src="https://avatars.githubusercontent.com/u/132077467?v=4" width="100px;"
                         alt="Karthik P" />
