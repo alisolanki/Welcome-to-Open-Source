@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/karthik6603">
-                    <img src="https://avatars.githubusercontent.com/u/132077467?v=4" width="100px;"
-                        alt="Karthik P" />
+                <a href="https://github.com/sharanyazx">
+                    <img src="https://avatars.githubusercontent.com/u/116085931?v=4" width="100px;"
+                        alt="Sharanya"/>
                     <br />
                     <sub>
-                        <b>Karthik P</b>
+                        <b>Sharanya</b>
                     </sub>
                 </a>
             </td>
