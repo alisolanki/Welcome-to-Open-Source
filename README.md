@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Jayantaxnath">
+                    <img src="https://avatars.githubusercontent.com/u/189693342?v=4" width="100px;"
+                        alt="Jayanta Nath" />
+                    <br />
+                    <sub>
+                        <b>Jayanta Nath</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/karthik6603">
                     <img src="https://avatars.githubusercontent.com/u/132077467?v=4" width="100px;"
                         alt="Karthik P" />
@@ -86,7 +96,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Anurag Kumar</b>
                 </a>
              </td>
-         <td align="center">      
+        <td align="center">      
                 <a href="https://github.com/GAURAV-AgarwL">
                     <img src="https://avatars.githubusercontent.com/u/142686792?s=400&u=9c6107486bade811dc7723ebfa2d1da7c5502053&v=4" width="100px;"
                         alt="Gaurav Agarwal" />
@@ -96,7 +106,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-                 <td align="center">      
+        <td align="center">      
                 <a href="https://github.com/munnaPrince">
                     <img src="https://avatars.githubusercontent.com/u/142686792?s=400&u=9c6107486bade811dc7723ebfa2d1da7c5502053&v=4" width="100px;"
                         alt="Gaurav Agarwal" />
@@ -136,7 +146,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
+        <td align="center">
                 <a href="https://github.com/Flash500x/abinmjoseph_05">
                     <img src="https://avatars.githubusercontent.com/u/104203287?v=4" width="100px;"
                         alt="Abin S Manoj" />
@@ -146,7 +156,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-         <td align="center">
+        <td align="center">
                 <a href="https://github.com/uzman2406">
                     <img src="https://avatars.githubusercontent.com/u/179326837?s=400&v=4" width="100px;"
                         alt="Uzma Nayab" />
