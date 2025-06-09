@@ -97,6 +97,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/alwalid54321">
+                    <img src="https://avatars.githubusercontent.com/u/113239668?v=4" width="100px;"
+                        alt="Alwalid54321" />
+                    <br />
+                    <sub>
+                        <b>Alwalid54321</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/psspsss">
                     <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
