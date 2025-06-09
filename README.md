@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/KudumVarshitha/">
+                    <img src="https://avatars.githubusercontent.com/u/146655273?s=400&u=7bab134c2b1e86edca8edb2cab32a3c739f0d786&v=4" width="100px;"
+                        alt="Kudum Varshitha" />
+                    <br />
+                    <sub>
+                        <b>Kudum Varshitha</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
