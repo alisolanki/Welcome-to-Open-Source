@@ -4700,5 +4700,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Abkari Mohammed Sayeem</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/dipika-desaboyina">
+                    <img src="https://avatars.githubusercontent.com/u/180436962?v=4" width="100px;" alt="Dipika"/>
+                    <br />
+                    <sub><b>Dipika Desaboyina</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
