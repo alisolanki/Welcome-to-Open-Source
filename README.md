@@ -96,16 +96,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Anurag Kumar</b>
                 </a>
              </td>
-         <td align="center">      
-                <a href="https://github.com/GAURAV-AgarwL">
-                    <img src="https://avatars.githubusercontent.com/u/142686792?s=400&u=9c6107486bade811dc7723ebfa2d1da7c5502053&v=4" width="100px;"
-                        alt="Gaurav Agarwal" />
-                    <br />
-                    <sub>
-                        <b>Gaurav Agarwal</b>
-                    </sub>
-                </a>
-            </td>
                  <td align="center">      
                 <a href="https://github.com/munnaPrince">
                     <img src="https://avatars.githubusercontent.com/u/142686792?s=400&u=9c6107486bade811dc7723ebfa2d1da7c5502053&v=4" width="100px;"
@@ -113,16 +103,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Gaurav Agarwal</b>
-                    </sub>
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://github.com/Anuragkumar-687">
-                    <img src="https://avatars.githubusercontent.com/u/188879588?v=4" width="100px;"
-                        alt="Anurag Kumar" />
-                    <br />
-                    <sub>
-                        <b>Anurag Kumar</b>
                     </sub>
                 </a>
             </td>
@@ -441,16 +421,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
-                        alt="Harsh Pandey" />
-                    <br />
-                    <sub>
-                        <b>Harsh Pandey</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/anushka642">
                     <img src="https://avatars.githubusercontent.com/u/157127870?v=4" width="100px;"
                         alt="anushka" />
@@ -480,17 +450,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
-                        alt="Jessica Hoang" />
-                    <br />
-                    <sub>
-                        <b>Jessica Hoang</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/edwardogheneochuko">
-                    <img src="https://avatars.githubusercontent.com/edwardogheneochuko"
-                     width="100px;"
                         alt="Jessica Hoang" />
                     <br />
                     <sub>
@@ -833,16 +792,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/AnkurRjk">
-                    <img src="https://avatars.githubusercontent.com/u/159459916?v=4" width="100px;"
-                        alt="Harsh Pandey" />
-                    <br />
-                    <sub>
-                        <b>Ankur Kumar Rajak</b>
-                    </sub>
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -951,7 +900,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Nishu-06">
                     <br />
                     <img src="https://avatars.githubusercontent.com/u/134098804?v=4" width="100px;"
-                        alt="Harsh Pandey" />
+                        alt="Nishu Kumari" />
                     <br />
                     <sub>
                         <b>Nishu Kumari</b>
@@ -1062,16 +1011,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/mshijin1/">
-                    <img src="https://avatars.githubusercontent.com/u/113684116?v=4" width="100px;"
-                        alt="Harsh Pandey" />
-                    <br />
-                    <sub>
-                        <b>M.SHIJIN</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/236sakshi">
                     <img src="https://avatars.githubusercontent.com/u/108453602?v=4" width="100px;"
                         alt="Sakshi Singh" />
@@ -1114,7 +1053,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Akash-a11-droid">
                     <img
                         src="https://media.licdn.com/dms/image/v2/D5603AQFYj2b5VcM0_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726762796687?e=1741824000&v=beta&t=7paELctpF1UOqoG3Byx1QtEEvPWonsFP88fsdrWRMog"
-                        width="100px;" alt="Harsh Pandey" />
+                        width="100px;" alt="Akash Raj" />
                     <br />
                     <sub>
                         <b>Akash Raj</b>
@@ -1134,7 +1073,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/avij1109">
                     <img src="https://avatars.githubusercontent.com/u/162804410?v=4" width="100px;"
-                        alt="Harsh Pandey" />
+                        alt="Avinash Jain" />
                     <br />
                     <sub>
                         <b>Avinash Jain</b>
@@ -2813,16 +2752,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Utkarsh Raj Srivastava</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/codewithnikhilsharma/">
-                    <img src="https://avatars.githubusercontent.com/u/122785600?v=4" width="100px;"
-                        alt="Harsh Pandey" />
-                    <br />
-                    <sub>
-                        <b>Nikhil Sharma</b>
                     </sub>
                 </a>
             </td>
