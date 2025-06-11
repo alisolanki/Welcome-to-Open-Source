@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/ShyamSanthosh04">
+                    <img src="https://avatars.githubusercontent.com/u/135537150?v=4" width="100px;"
+                        alt="Shyam Santhosh" />
+                    <br />
+                    <sub>
+                        <b>Shyam Santhosh</b>
+                    </sub>
+                </a>
+            </td>
+          <td align="center">
                 <a href="https://github.com/IndoKris">
                     <img src="https://avatars.githubusercontent.com/u/179242672?v=4" width="100px;"
                         alt="Krish Kumar" />
