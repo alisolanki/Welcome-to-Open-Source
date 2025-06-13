@@ -4696,5 +4696,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Pratham K Chandra</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/avserver-16">
+                    <img src="https://avatars.githubusercontent.com/u/137506728?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Avish Vijay Shetty</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
