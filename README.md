@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SuhaniKaushal">
+                    <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
+                        alt="SUHANI" />
+                    <br />
+                    <sub>
+                        <b>SUHANI</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/ShyamSanthosh04">
                     <img src="https://avatars.githubusercontent.com/u/135537150?v=4" width="100px;"
