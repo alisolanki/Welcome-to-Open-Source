@@ -892,6 +892,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/roshnianand1710">
+                    <img src="https://avatars.githubusercontent.com/u/180690609?v=4" width="100px;"
+                        alt="Roshni Anand" />
+                    <br />
+                    <sub>
+                        <b>Roshni Anand</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sabbir-sabbir">
                     <img src="https://avatars.githubusercontent.com/u/169171656?v=4" width="100px;"
                         alt="Sabbir" />
