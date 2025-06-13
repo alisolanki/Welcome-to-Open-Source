@@ -67,7 +67,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-               <td align="center">
+            <td align="center">
+                <a href="[https://github.com/SuhaniKaushal](https://github.com/account)">
+                    <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
+                        alt="SUHANI" />
+                    <br />
+                    <sub>
+                        <b>SUHANI</b>
+                    </sub>
+                </a>
+            </td>
+          <td align="center">
                 <a href="https://github.com/RiteshM09">
                     <img src="https://avatars.githubusercontent.com/u/72223003?v=4" width="100px;"
                         alt="Ritesh Mendhekar" />
@@ -898,6 +908,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Timil Kumar Prajapati</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/roshnianand1710">
+                    <img src="https://avatars.githubusercontent.com/u/180690609?v=4" width="100px;"
+                        alt="Roshni Anand" />
+                    <br />
+                    <sub>
+                        <b>Roshni Anand</b>
                     </sub>
                 </a>
             </td>
@@ -4694,6 +4714,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/146327009?v=4" width="100px;" alt="Gnaneshwar"/>
                     <br />
                     <sub><b>Pratham K Chandra</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/avserver-16">
+                    <img src="https://avatars.githubusercontent.com/u/137506728?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Avish Vijay Shetty</b></sub>
                 </a>
             </td>
     </tbody>
