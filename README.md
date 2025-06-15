@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Somesh-coding">
+                    <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
+                        alt="Somesh Kumar Singh" />
+                    <br />
+                    <sub>
+                        <b>Somesh Kumar Singh</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
