@@ -60,10 +60,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/asnainyounas">
                     <img src="https://avatars.githubusercontent.com/u/208978797?v=4" width="100px;"
-                        alt="Asnain Younas" />
+                        alt="Asnain Khan" />
                     <br />
                     <sub>
-                        <b>Asnain younas</b>
+                        <b>Asnain khan</b>
                     </sub>
                 </a>
             </td>
