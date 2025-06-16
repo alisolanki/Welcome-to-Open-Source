@@ -60,7 +60,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="Aryan Singh" />
                     <br />
                     <sub>
                         <b>Aryan singh</b>
