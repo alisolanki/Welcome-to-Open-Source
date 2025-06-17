@@ -286,6 +286,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Suhaibwani21">
+                    <img src="https://avatars.githubusercontent.com/u/109641195?v=4" width="100px;"
+                        alt="Suhaib Wani" />
+                    <br />
+                    <sub>
+                        <b>Noyonika Mukherjee</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/chhaviluthra08">
                     <img src="https://avatars.githubusercontent.com/u/181659829?v=4" width="100px;"
