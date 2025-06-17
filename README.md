@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Aashik Gautam" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Aashik Gautam</b>
                     </sub>
                 </a>
             </td>
