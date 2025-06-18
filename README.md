@@ -137,6 +137,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </td>
+                <td align="center">
+                <a href="https://github.com/SahashRaee/">
+                    <img src="https://avatars.githubusercontent.com/u/176206637?v=4" width="100px;"
+                        alt="Sahash Rai" />
+                    <br />
+                    <sub>
+                        <b>Sahash Rai</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/alwalid54321">
                     <img src="https://avatars.githubusercontent.com/u/113239668?v=4" width="100px;"
