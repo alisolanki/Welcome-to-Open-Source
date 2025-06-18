@@ -4730,5 +4730,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shobhit150">
+                    <img src="https://avatars.githubusercontent.com/u/104744652?v=4" width="100px;"
+                        alt="Shobhit Verma" />
+                    <br />
+                    <sub>
+                        <b>Shobhit Verma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
