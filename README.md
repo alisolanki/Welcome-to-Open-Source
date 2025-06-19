@@ -97,6 +97,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codewithyuvi">
+                    <img src="https://avatars.githubusercontent.com/u/78293595?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Yuvraj Bansal</b></sub>
+                </a>
+        </td>
           <td align="center">
                 <a href="https://github.com/IndoKris">
                     <img src="https://avatars.githubusercontent.com/u/179242672?v=4" width="100px;"
