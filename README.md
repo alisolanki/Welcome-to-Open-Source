@@ -682,7 +682,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Prabhu Shankar" />
                     <br />
                     <sub>
-                        <b>Aaradhya</b>
+                        <b>Prabhu Shankar</b>
                     </sub>
                 </a>
             </td>
