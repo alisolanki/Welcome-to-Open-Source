@@ -4725,7 +4725,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/FunnyVazoniaina">
-                    <img src="https://avatars.githubusercontent.com/u/144912456?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <img src="https://avatars.githubusercontent.com/u/144912456?v=4" width="100px;" alt="Funny VAZONIAINA"/>
                     <br />
                     <sub><b>Funny VAZONIAINA</b></sub>
                 </a>
