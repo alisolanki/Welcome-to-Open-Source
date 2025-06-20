@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ShreejaPrincy">
+                    <img src="https://avatars.githubusercontent.com/u/148578262?v=4" width="100px;"
+                        alt="Shreeja Princy" />
+                    <br />
+                    <sub>
+                        <b>Shreeja Princy</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="[https://github.com/SuhaniKaushal](https://github.com/account)">
                     <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
                         alt="SUHANI" />
