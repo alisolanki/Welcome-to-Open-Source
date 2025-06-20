@@ -19,6 +19,24 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
+Thank You for this oppurtunity.
+</p>
+<p align="center">
+    <a href="https://github.com/nandankrishna11"></a>
+    <b>NANDA'S Github</b>
+    </p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/nandan-krishna-k-2744a327a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
+<b>NANDA's LinkedIn</b>
+</p>
+
+    
+        
+    
+
+    
+
+<p align="center">
     <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
