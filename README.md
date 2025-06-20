@@ -4730,5 +4730,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Anna-Hax">
+                    <img src="https://avatars.githubusercontent.com/Anna-Hax" width="100px;"
+                        alt="Anna-Hax" />
+                    <br />
+                    <sub><b>Anna-Hax</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
