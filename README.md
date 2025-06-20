@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/amitgorithm">
+                    <img src="https://avatars.githubusercontent.com/u/210964531?v=4" width="100px;" alt="Amit Jape"/>
+                    <br />
+                    <sub><b>Amit Jape</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
