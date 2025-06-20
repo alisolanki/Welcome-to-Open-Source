@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harshithaendreddy">
+                    <img src="https://avatars.githubusercontent.com/u/143935928?v=4" width="100px;" alt="E.Harshitha"/>
+                    <br />
+                    <sub><b>Endreddy Venkata Sri Harshitha</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
