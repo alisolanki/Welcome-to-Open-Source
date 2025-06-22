@@ -1715,7 +1715,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+                </td>
+                <td align="center">
+                <a href="https://github.com/srishti-11">
+              <img src="https://avatars.githubusercontent.com/u/174723567?v=4" width="100px;" alt="Srishti"/>
+              <br />
+              <sub><b>Srishti 🍉</b></sub>
+             </a>
+             </td>
+             </tr>
+            </tbody>
+            </table>
+
+
+            
