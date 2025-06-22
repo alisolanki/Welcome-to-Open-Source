@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Thorfinn05">
+                    <img src="https://avatars.githubusercontent.com/u/162490752?v=4" width="100px;" alt="Rudranil"/>
+                    <br />
+                    <sub><b>Rudranil Das</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
