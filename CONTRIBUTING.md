@@ -24,6 +24,20 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+           <td align="center">
+                <a href="https://github.com/aryanmangrule402/">
+                    <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Aryan  Mangrule</b></sub>
+                </a> 
+            </td>
+    <td align="center">
+        <a href="https://github.com/Sahitha03">
+            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
+            <br />
+            <sub><b>Aluri Sai Sahitha</b></sub>
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
@@ -36,6 +50,27 @@
             <img src="https://avatars.githubusercontent.com/u/144817379?s=400&u=b51229328be02437f0f9a5f4e6c827246d5bfaff&v=4" width="100px;" alt="Mahar GM"/>
             <br />
             <sub><b>Mahar GM
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/misha141">
+            <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Misha Kumari</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/PriyatoshKumarShahi">
+            <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Priyatosh Kumar</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/Sathvik-Shetty-1569">
+            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <br />
+            <sub><b>Sathvik Shetty
         </a>
     </td>
     ```
