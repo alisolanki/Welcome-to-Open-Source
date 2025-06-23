@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/namrata-r">
+                    <img src="https://avatars.githubusercontent.com/u/118370420?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Namrata Roy</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
