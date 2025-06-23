@@ -402,6 +402,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Mani Prasanth</b>
                     </sub>
                 </a>
+                            <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/216653096?v=4" width="100px;"
+                        alt="Sangeetha" />
+                    <br />
+                    <sub>
+                        <b>Mani Prasanth</b>
+                    </sub>
+                </a>
             </td>
                <td align="center">
                 <a href="https://github.com/UnnatiVe">
