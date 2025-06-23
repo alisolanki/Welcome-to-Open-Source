@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/snehabejugam">
+                    <img src="https://avatars.githubusercontent.com/u/68901963?s=400&v=4" width="100px;" alt="Sneha Bejugam"/>
+                    <br />
+                    <sub><b>Sneha Bejugam</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
