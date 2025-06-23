@@ -393,10 +393,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sridev</b></sub>
                 </a>
             </td>
-               <td align="center">
-                <a href="https://github.com/account">
-                    <img src="https://avatars.githubusercontent.com/u/216653096?v=4" width="100px;"
-                        alt="Sangeetha" />
+            <td align="center">
+                <a href="https://github.com/Manikandan004">
+                    <img src="https://avatars.githubusercontent.com/u/69380814?v=4" width="100px;"
+                        alt="Mani Prasanth" />
                     <br />
                     <sub>
                         <b>Mani Prasanth</b>
