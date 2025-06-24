@@ -4730,5 +4730,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <!-- Hardik Kakkar -->
+            <td align="center">
+               <a href="https://github.com/Amisha20223">
+                   <img src="https://avatars.githubusercontent.com/u/71486648?v=4" width="100px;" alt="Hardik"/>
+                   <br />
+                   <sub><b>Hardik Kakkar</b></sub>
+               </a>
+           </td>
+            <!-- Hardik Kakkar -->
     </tbody>
 </table>
