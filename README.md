@@ -3932,6 +3932,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ashusahoo1">
+                    <img src="https://avatars.githubusercontent.com/u/155668350?v=4" width="100px;" alt="Ashutosh Sahoo"/>
+                    <br />
+                    <sub><b>Ashutosh Sahoo🍉</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
