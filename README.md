@@ -4730,5 +4730,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/oceanic-tech">
+                    <img src="https://avatars.githubusercontent.com/u/179242672?v=4" width="100px;
+                       " alt="Khushpinder Kaur" />
+                    <br />
+                    <sub> <b>Khushpinder Kaur</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
