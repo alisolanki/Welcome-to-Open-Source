@@ -147,6 +147,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sneha05-13">
+                    <img src="https://avatars.githubusercontent.com/u/205405235?v=4" width="100px;"
+                        alt="Sneha Kushwaha" />
+                    <br />
+                    <sub>
+                        <b>Sneha Kushwaha</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/psspsss">
                     <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
