@@ -3932,6 +3932,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pursharth2257">
+                    <img src="https://avatars.githubusercontent.com/u/142499196?v=4" width="100px;" alt="Pursharth Chaudhary"/>
+                    <br />
+                    <sub><b>Pursharth Chaudhary</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
