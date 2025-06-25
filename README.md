@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Harmankhurana">
+                    <img src="https://avatars.githubusercontent.com/u/169196419?v=4" width="100px;"
+                        alt="HARMAN KHURANA" />
+                    <br />
+                    <sub>
+                        <b>HARMAN KHURANA</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="[https://github.com/SuhaniKaushal](https://github.com/account)">
                     <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
                         alt="SUHANI" />
