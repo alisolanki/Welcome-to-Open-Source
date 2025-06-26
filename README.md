@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Chetan27Pareek">
+                    <img src="https://avatars.githubusercontent.com/u/217964249?s=400&u=89633e092e299ac93f63b82f4ec97561b9ea10d0&v=4" width="100px;"
+                        alt="Chetan Pareek" />
+                    <br />
+                    <sub>
+                        <b>Chetan Pareek</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
