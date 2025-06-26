@@ -87,6 +87,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+ <td align="center">
+                <a href="https://github.com/vivekcpu">
+                    <img src="https://avatars.githubusercontent.com/u/79034690?v=4" width="100px;"
+                        alt="Vivek Rakesh Tiwary" />
+                    <br />
+                    <sub>
+                        <b>Vivek Rakesh Tiwary</b>
+                    </sub>
+                </a>
+            </td>
+
         <td align="center">
                 <a href="https://github.com/ShyamSanthosh04">
                     <img src="https://avatars.githubusercontent.com/u/135537150?v=4" width="100px;"
