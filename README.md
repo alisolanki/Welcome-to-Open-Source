@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Dhanu-1234">
+                    <img src="https://avatars.githubusercontent.com/u/121848547?v=4" width="100px;" alt="Dhanumjai"/>
+                    <br />
+                    <sub><b>Dhanumjai Sarnala</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
