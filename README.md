@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Harshita100/">
+                    <img src="https://avatars.githubusercontent.com/u/65502509?v=4" width="100px;"
+                        alt="HC" />
+                    <br />
+                    <sub>
+                        <b>Harshita Chhaparia</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
