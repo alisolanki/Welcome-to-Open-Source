@@ -739,6 +739,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/amitanand983">
+                    <img src="https://avatars.githubusercontent.com/u/121176648?v=4" width="100px;"
+                        alt="Amit Anand" />
+                    <br />
+                    <sub>
+                        <b>Amit Anand</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ashshettyyy">
                     <img src="https://avatars.githubusercontent.com/u/201734941?v=4" width="100px;"
                         alt="Ashwitha Shetty" />
