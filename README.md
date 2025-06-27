@@ -47,6 +47,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+            <td align="center">
+                <a href="https://github.com/AvinashGuleria0">
+                    <img src="https://avatars.githubusercontent.com/u/178935856?v=4" width="100px;"
+                        alt="Avinash Guleria" />
+                    <br />
+                    <sub>
+                        <b>Avinash Guleria</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
@@ -54,16 +64,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/tkeefe">
-                    <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
-                        alt="Travis Keefe" />
-                    <br />
-                    <sub>
-                        <b>Travis Keefe</b>
                     </sub>
                 </a>
             </td>
