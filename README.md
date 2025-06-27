@@ -4730,5 +4730,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mrdeephang">
+                    <img src="https://github.com/user-attachments/assets/543fcf3a-7a18-4a87-b678-da61131a2022" width="100px;" alt="Deephang Thegim"/>
+                    <br />
+                    <sub><b>Deephang Thegim</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
