@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/garva7">
+                    <img src="https://avatars.githubusercontent.com/u/179966960?v=4" width="100px;"
+                        alt="Garv Arora" />
+                    <br />
+                    <sub>
+                        <b>Garv Arora</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
@@ -68,7 +78,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/tkeefe">
+                <a href="ttpsh://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
                     <br />
