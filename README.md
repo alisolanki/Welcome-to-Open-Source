@@ -4750,5 +4750,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/SuvithaaaaR">
+                    <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha"/>
+                    <br />
+                    <sub><b>Suvitha Ramesh</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
