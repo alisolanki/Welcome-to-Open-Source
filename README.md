@@ -4750,5 +4750,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Swapnaja14">
+                    <img src="https://avatars.githubusercontent.com/u/184931758?v=4" width="100px;" alt="Swapnaja Yadav"/>
+                    <br />
+                    <sub><b>Swapnaja Yadav</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
