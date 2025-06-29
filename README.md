@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Zmy-Shaurya">
+                    <img src="https://avatars.githubusercontent.com/u/91482717?v=4" width="100px;"
+                        alt="Shaurya Pratap Singh" />
+                    <br />
+                    <sub>
+                        <b>Shaurya Pratap Singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
