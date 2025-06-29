@@ -4750,5 +4750,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/IMDADLY">
+                    <img src="https://avatars.githubusercontent.com/u/115068947?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Imdad</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
