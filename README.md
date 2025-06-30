@@ -57,16 +57,30 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Nihalani2004">
+              <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
                     <br />
-                    <sub>
+               <td align="center">
+                   <sub>
                         <b>Mayank Nihalani</b>
                     </sub>
                 </a>
             </td>
+            </td>
+              <a href="https://github.com/DineshPriyanthaGH">
+                    <img src="https://avatars.githubusercontent.com/u/142114713?v=4" width="100px;"
+                        alt="Dinesh Priyantha
+                    <br />
+               <td align="center">
+                   <sub>
+                        <b>Dinesh Priyantha</b>
+                    </sub>
+                </a>
+            </td>
+            
+
+
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
