@@ -83,7 +83,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Faraz Ahmad" />
                     <br />
                     <sub>
-                        <b>Faraz Ahmad</b>
+                        <b>FarazAhmad</b>
                     </sub>
                 </a>
             </td>
