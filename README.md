@@ -1230,6 +1230,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/HimanshiDafouty">
+                    <img src="https://avatars.githubusercontent.com/u/116953498?v=4" width="100px;" alt="Himanshi Dafouty"/>
+                    <br />
+                    <sub><b>Himanshi Dafouty</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
