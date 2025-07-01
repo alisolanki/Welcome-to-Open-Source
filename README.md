@@ -78,6 +78,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="[https://github.com/prasadlonare35](https://github.com/account)">
+                    <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
+                        alt="PRASAD LONARE" />
+                    <br />
+                    <sub>
+                        <b>Prasad Lonare</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Kotesh000">
                     <img src="https://avatars.githubusercontent.com/u/137804310?v=4" width="100px;"
                         alt="Kuncham Koteswar" />
