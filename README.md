@@ -117,6 +117,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/TishyaJ">
+                    <img src="https://avatars.githubusercontent.com/u/153617679?v=4" width="100px;"
+                        alt="Tishya Jha" />
+                    <br />
+                    <sub>
+                        <b>Shyam Santhosh</b>
+                    </sub>
+                </a>
+            </td>
           <td align="center">
                 <a href="https://github.com/IndoKris">
                     <img src="https://avatars.githubusercontent.com/u/179242672?v=4" width="100px;"
