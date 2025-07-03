@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://devhumayun.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/88980866?v=4" width="100px;"
+                        alt="Humayun Khan" />
+                    <br />
+                    <sub>
+                        <b>Humayun Khan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
