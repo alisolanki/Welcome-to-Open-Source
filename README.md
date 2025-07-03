@@ -99,8 +99,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
                     <td align="center">
                 <a href="https://github.com/huzefmd">
-                    <img src="https://avatars.githubusercontent.com/u/154690722?v=4" width="100px;"
-                        alt="Shyam Santhosh" />
+                    <img src="https://avatars.githubusercontent.com/u/154690722?v=4" width="100px;" alt="Huzef" />
                     <br />
                     <sub>
                         <b>Huzef</b>
