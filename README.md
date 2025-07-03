@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Swatantra-66">
+                    <img src="https://avatars.githubusercontent.com/u/112210438?v=4" width="100px;"
+                        alt="Swatantra" />
+                    <br />
+                    <sub>
+                        <b>Swatantra Yadav</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
