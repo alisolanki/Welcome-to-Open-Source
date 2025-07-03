@@ -97,7 +97,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-                    <td align="center">
+            <td align="center">
                 <a href="https://github.com/huzefmd">
                     <img src="https://avatars.githubusercontent.com/u/154690722?v=4" width="100px;" alt="Huzef" />
                     <br />
