@@ -98,6 +98,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
           <td align="center">
+                <a href="https://github.com/CateInTech">
+                    <img src="https://avatars.githubusercontent.com/u/146058470?s=400&v=4" width="100px;"
+                        alt="Cate Githuka" />
+                    <br />
+                    <sub>
+                        <b>Cate Githuka</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RiteshM09">
                     <img src="https://avatars.githubusercontent.com/u/72223003?v=4" width="100px;"
                         alt="Ritesh Mendhekar" />
