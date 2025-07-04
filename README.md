@@ -736,6 +736,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/prabhushankar-ps">
+                    <img src="https://avatars.githubusercontent.com/u/157943490?v=4" width="100px;"
+                        alt="Prabhu Shankar" />
+                    <br />
+                    <sub>
+                        <b>Prabhu Shankar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Varshini1905">
                     <img src="https://avatars.githubusercontent.com/u/115169767?v=4" width="100px;"
                         alt="Amrutha Varshini" />
