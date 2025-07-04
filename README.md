@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/shayaan-git/">
+                    <img src="https://avatars.githubusercontent.com/u/166832889?v=4" width="100px;"
+                        alt="Mohd. Shayaan" />
+                    <br />
+                    <sub>
+                        <b>Mohd. Shayaan</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
