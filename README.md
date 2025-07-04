@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+  <a href="https://github.com/abubakar308">
+    <img src="https://avatars.githubusercontent.com/u/83202163?v=4" width="100px;" alt="Md Abu Bakar Siddique"/>
+    <br />
+    <sub><b>Md Abu Bakar Siddique</b></sub>
+  </a>
+</td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
