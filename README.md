@@ -78,6 +78,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Aryansingh-ai">
+                    <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
+                        alt="Aryan Singh" />
+                    <br />
+                    <sub>
+                        <b>Aryan singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
