@@ -4800,6 +4800,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Salil-Dev1">
+                    <img src="https://avatars.githubusercontent.com/u/171443424?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Amisha Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Shobhit150">
                     <img src="https://avatars.githubusercontent.com/u/104744652?v=4" width="100px;"
                         alt="Shobhit Verma" />
