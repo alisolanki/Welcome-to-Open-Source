@@ -99,7 +99,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/codewithyuvi">
-                    <img src="https://avatars.githubusercontent.com/u/78293595?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/78293595?v=4" width="100px;" alt="Yuvraj Bansal"/>
                     <br />
                     <sub><b>Yuvraj Bansal</b></sub>
                 </a>
