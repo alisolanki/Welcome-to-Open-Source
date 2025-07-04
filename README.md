@@ -57,13 +57,43 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
- <td align="center">
+        <td align="center">
                 <a href="https://www.aashikgautam.com.np/">
                     <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
                         alt="Aashik Gautam" />
                     <br />
                     <sub>
                         <b>Aashik Gautam</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Somesh-coding">
+                    <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
+                        alt="Somesh Kumar Singh" />
+                    <br />
+                    <sub>
+                        <b>Somesh Kumar Singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Nihalani2004">
+                    <img src="" width="100px;"
+                        alt="Mayank Nihalani" />
+                    <br />
+                    <sub>
+                        <b>Mayank Nihalani</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Aryansingh-ai">
+                    <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
+                        alt="Aryan Singh" />
+                    <br />
+                    <sub>
+                      <b>Aryan singh</b>
                     </sub>
                 </a>
             </td>
@@ -74,6 +104,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Travis Keefe</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Kotesh000">
+                    <img src="https://avatars.githubusercontent.com/u/137804310?v=4" width="100px;"
+                        alt="Kuncham Koteswar" />
+                    <br />
+                    <sub>
+                        <b>Kuncham Koteswar</b>
                     </sub>
                 </a>
             </td>
@@ -104,6 +144,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Shyam Santhosh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/huzefmd">
+                    <img src="https://avatars.githubusercontent.com/u/154690722?v=4" width="100px;" alt="Huzef" />
+                    <br />
+                    <sub>
+                        <b>Huzef</b>
                     </sub>
                 </a>
             </td>
@@ -4731,6 +4780,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/137506728?v=4" width="100px;" alt="Gnaneshwar"/>
                     <br />
                     <sub><b>Avish Vijay Shetty</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Amisha20223">
+                    <img src="https://avatars.githubusercontent.com/u/120022430?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Amisha Singh</b></sub>
                 </a>
             </td>
     </tbody>
