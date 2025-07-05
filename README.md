@@ -57,6 +57,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+               <td align="center">
+
         <td align="center">
                 <a href="https://www.aashikgautam.com.np/">
                     <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
@@ -78,6 +81,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
@@ -87,6 +91,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+ <td align="center">
+
             <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
@@ -98,12 +105,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
                     <br />
                     <sub>
                         <b>Travis Keefe</b>
+                    </sub>
+                </a>
+            </td>
+               <td align="center">
+                <a href="https://github.com/tiya-1">
+                    <img src="https://avatars.githubusercontent.com/u/194893022?v=4" width="100px;"
+                        alt="Tiya" />
+                    <br />
+                    <sub>
+                        <b>Tiya</b>
                     </sub>
                 </a>
             </td>
