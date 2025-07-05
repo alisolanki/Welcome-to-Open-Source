@@ -57,7 +57,31 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
                <td align="center">
+
+        <td align="center">
+                <a href="https://www.aashikgautam.com.np/">
+                    <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
+                        alt="Aashik Gautam" />
+                    <br />
+                    <sub>
+                        <b>Aashik Gautam</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Somesh-coding">
+                    <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
+                        alt="Somesh Kumar Singh" />
+                    <br />
+                    <sub>
+                        <b>Somesh Kumar Singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
@@ -67,7 +91,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
  <td align="center">
+
+            <td align="center">
+                <a href="https://github.com/Aryansingh-ai">
+                    <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
+                        alt="Aryan Singh" />
+                    <br />
+                    <sub>
+                      <b>Aryan singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
@@ -712,6 +750,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Aaradhya</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/prabhushankar-ps">
+                    <img src="https://avatars.githubusercontent.com/u/157943490?v=4" width="100px;"
+                        alt="Prabhu Shankar" />
+                    <br />
+                    <sub>
+                        <b>Prabhu Shankar</b>
                     </sub>
                 </a>
             </td>
@@ -4767,6 +4815,30 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/120022430?v=4" width="100px;" alt="Gnaneshwar"/>
                     <br />
                     <sub><b>Amisha Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Salil-Dev1">
+                    <img src="https://avatars.githubusercontent.com/u/171443424?v=4" width="100px;" alt="Gnaneshwar"/>
+                    <br />
+                    <sub><b>Amisha Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shobhit150">
+                    <img src="https://avatars.githubusercontent.com/u/104744652?v=4" width="100px;"
+                        alt="Shobhit Verma" />
+                    <br />
+                    <sub>
+                        <b>Shobhit Verma</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sivadharshini25">
+                    <img src="https://avatars.githubusercontent.com/u/170758227?v=4" width="100px;" alt="Sivadharshini"/>
+                    <br />
+                    <sub><b>Sivadharshini</b></sub>
                 </a>
             </td>
     </tbody>
