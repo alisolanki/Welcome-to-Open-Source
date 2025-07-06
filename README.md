@@ -4092,7 +4092,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Aditya BR" />
                     <br />
                     <sub>
-                        <b>Aditya BR>
+                        <b>Aditya BR</b>
                     </sub>
                 </a>
             </td>
@@ -4102,7 +4102,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Anarv BR" />
                     <br />
                     <sub>
-                        <b>Aditya BR>
+                        <b>Anarv Singh</b>
                     </sub>
                 </a>
             </td>
@@ -4132,7 +4132,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         width="100px;" alt="Sapana D" />
                     <br />
                     <sub>
-                        <b>Sapana D/b>
+                        <b>Sapana D</b>
                     </sub>
                 </a>
             </td>
@@ -4821,6 +4821,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/170758227?v=4" width="100px;" alt="Sivadharshini"/>
                     <br />
                     <sub><b>Sivadharshini</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pranavnair">
+                    <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Pranav Nair"/>
+                    <br />
+                    <sub><b>Pranav Nair</b></sub>
                 </a>
             </td>
     </tbody>

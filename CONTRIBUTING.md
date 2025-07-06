@@ -42,12 +42,12 @@
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Neeraj Madake</b></sub>
         </a>
     </td>
      <td align="center">
         <a href="https://github.com/misha141">
-            <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
+            <img src="https://avatars.githubusercontent.com/u/39346270?v=4" width="100px;" alt="Misha Kumari"/>
             <br />
             <sub><b>Misha Kumari</b></sub>
         </a>
@@ -63,7 +63,7 @@
         <a href="https://github.com/Sathvik-Shetty-1569">
             <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
             <br />
-            <sub><b>Sathvik Shetty
+            <sub><b>Sathvik Shetty</b></sub>
         </a>
     </td>
     
