@@ -197,12 +197,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/alwalid54321">
-                    <img src="https://avatars.githubusercontent.com/u/113239668?v=4" width="100px;"
-                        alt="Alwalid54321" />
+                <a href="https://github.com/Priyam-9">
+                    <img src="https://avatars.githubusercontent.com/u/127947183?s=400&u=7c590882441e53d92751c5cea212c05607e00d64&v=4" width="100px;"
+                        alt="Priyam Patel" />
                     <br />
                     <sub>
-                        <b>Alwalid54321</b>
+                        <b>Priyam Patel</b>
                     </sub>
                 </a>
             </td>
