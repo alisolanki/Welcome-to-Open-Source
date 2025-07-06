@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/vibhasapretwar">
+                    <img src="https://avatars.githubusercontent.com/u/141953399?v=4" width="100px;"
+                        alt="Vibhas Apretwar" />
+                    <br />
+                    <sub>
+                        <b>Vibhas Apretwar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
                         alt="Aryan Singh" />
