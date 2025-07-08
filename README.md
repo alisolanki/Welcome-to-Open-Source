@@ -4836,6 +4836,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/happycuzitsme">
+                    <img src="https://avatars.githubusercontent.com/u/159831889?v=4" width="100px;"
+                        alt="Debojyoti Goswami" />
+                    <br />
+                    <sub>
+                        <b>Debojyoti Goswami</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/harshithaendreddy">
                     <img src="https://avatars.githubusercontent.com/u/143935928?v=4" width="100px;" alt="E.Harshitha"/>
                     <br />
