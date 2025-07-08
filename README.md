@@ -212,6 +212,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+         <td align="center">
+                <a href="https://github.com/harshh-2">
+                    <img src="https://avatars.githubusercontent.com/u/216145396?v=4" width="100px;"
+                        alt="Harsh Dubey" />
+                    <br />
+                    <sub>
+                        <b>Harsh Dubey</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/karthik6603">
                     <img src="https://avatars.githubusercontent.com/u/132077467?v=4" width="100px;"
