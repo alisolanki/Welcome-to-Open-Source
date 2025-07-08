@@ -115,6 +115,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Mahesh20dev">
+                    <img src="https://avatars.githubusercontent.com/u/155769126?v=4" width="100px;"
+                        alt="Mahesh Y C" />
+                    <br />
+                    <sub>
+                        <b>Mahesh Y C</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
