@@ -331,6 +331,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/abdullahahmed92">
+                    <img src="https://avatars.githubusercontent.com/u/144958025?v=4" width="100px;"
+                        alt="Abdullah Ahmed" />
+                    <br />
+                    <sub>
+                        <b>Abdullah Ahmed</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/AltamashAhmad">
                     <img src="https://avatars.githubusercontent.com/u/59414034?v=4" width="100px;"
