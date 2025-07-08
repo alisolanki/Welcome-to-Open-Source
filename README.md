@@ -4906,6 +4906,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/yamunajayan">
+                    <img src="https://avatars.githubusercontent.com/u/26214400?v=4" width="100px;" alt="Yamuna Jayan"/>
+                    <br />
+                    <sub><b>Yamuna Jayan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/amitgorithm">
                     <img src="https://avatars.githubusercontent.com/u/210964531?v=4" width="100px;" alt="Amit Jape"/>
                     <br />
