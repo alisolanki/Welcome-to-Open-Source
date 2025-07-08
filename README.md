@@ -108,6 +108,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/SAURAV0703">
+                    <img src="https://avatars.githubusercontent.com/u/140614521?v=4" width="100px;" alt="Saurav Singh Negi"/>
+                    <br />
+                    <sub><b>Saurav Singh Negi</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;"
                         alt="Travis Keefe" />
@@ -4807,7 +4814,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gnaneshwar Reddy Baitinti</b></sub>
                 </a>
             </td>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/prathamkchandra">
                     <img src="https://avatars.githubusercontent.com/u/146327009?v=4" width="100px;" alt="Gnaneshwar"/>
                     <br />
