@@ -31,6 +31,13 @@
                     <sub><b>Aryan  Mangrule</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/codewithgaani">
+                    <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Krishna Bhatt</b></sub>
+                </a> 
+            </td>
     <td align="center">
         <a href="https://github.com/itsTIMUS">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
