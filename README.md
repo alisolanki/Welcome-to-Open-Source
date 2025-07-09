@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                            <a href="https://www.linkedin.com/in/vasusahu/">
+                    <img src="https://avatars.githubusercontent.com/u/160257096?v=4" width="100px;"
+                        alt="Vasu Sahu" />
+                    <br />
+                    <sub>
+                        <b>Vasu Sahu</b>
+                    </sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Somesh-coding">
                     <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
