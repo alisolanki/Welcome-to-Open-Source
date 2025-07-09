@@ -35,7 +35,7 @@
         <a href="https://github.com/itsTIMUS">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
-            <sub><b>Sumit Saha</b></sub>
+            <sub><b>Akshay Khanna</b></sub>
         </a>
     </td>
     <td align="center">
@@ -61,7 +61,7 @@
     </td>
      <td align="center">
         <a href="https://github.com/PriyatoshKumarShahi">
-            <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
+            <img src="https://favpng.com/png_view/dank-smiley-emoticon-thumb-signal-emoji-clip-art-png/9Sjt2LVX" width="100px;" alt="Neeraj Madake"/>
             <br />
             <sub><b>Priyatosh Kumar</b></sub>
         </a>
