@@ -4978,5 +4978,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sivadharshini</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nishsethi0143">
+                    <img src="https://avatars.githubusercontent.com/u/177830631?v=4" width="100px;" alt="Nish Sethi"/>
+                    <br />
+                    <sub><b>Nish Sethi</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
