@@ -4978,5 +4978,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sivadharshini</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bsyRui">
+                    <img src="https://avatars.githubusercontent.com/u/152007626?s=400&u=75a5ffa605a7828e3cb06ee02e4f54c1edb0e379&v=4" width="100px;" alt="Sathvik Shetty"/>
+                    <br />
+                    <sub><b>bsyRui</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
