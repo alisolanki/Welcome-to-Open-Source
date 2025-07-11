@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<p>List of actively participating individulas in open source contributions</p>
+<p>List of actively participating individuals in open source contributions</p>
 
 - Add your own details to the contributor list
 - Make a Pull Request
@@ -4976,6 +4976,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/170758227?v=4" width="100px;" alt="Sivadharshini"/>
                     <br />
                     <sub><b>Sivadharshini</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nishsethi0143">
+                    <img src="https://avatars.githubusercontent.com/u/177830631?v=4" width="100px;" alt="Nish Sethi"/>
+                    <br />
+                    <sub><b>Nish Sethi</b></sub>
                 </a>
             </td>
     </tbody>
