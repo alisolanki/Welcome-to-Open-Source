@@ -4985,5 +4985,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Nish Sethi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rekha-00/">
+                    <img src="https://avatars.githubusercontent.com/u/213215649?v=4" width="100px;"
+                        alt="Rekha" />
+                    <br />
+                    <sub>
+                        <b>Rekha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
