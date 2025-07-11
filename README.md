@@ -4985,5 +4985,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Nish Sethi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shariyaansari/">
+                    <img src="https://avatars.githubusercontent.com/u/134159309?v=4" width="100px;" alt="Shariya Ansari"/>
+                    <br />
+                    <sub><b>Shariya Ansari</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
