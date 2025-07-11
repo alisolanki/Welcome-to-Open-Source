@@ -58,8 +58,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://www.aashikgautam.com.np/">
-                    <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
+                <a href="https://github.com/ChirayuMarathe">
+                    <img src="https://avatars.githubusercontent.com/u/136345514?v=4" width="100px;"
                         alt="Aashik Gautam" />
                     <br />
                     <sub>
