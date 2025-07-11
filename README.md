@@ -185,12 +185,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/simesquivel">
+                    <img src="https://avatars.githubusercontent.com/u/159603772?v=4" width="100px;"
+                        alt="Simran Sharma" />
+                    <br />
+                    <sub>
+                        <b>Simran Sharma</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShreejaPrincy">
                     <img src="https://avatars.githubusercontent.com/u/148578262?v=4" width="100px;"
                         alt="Shreeja Princy" />
                     <br />
                     <sub>
                         <b>Shreeja Princy</b>
+                    </sub>
                 </a>
             </td>
             <td align="center">
