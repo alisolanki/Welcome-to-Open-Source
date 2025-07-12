@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/PravallikaSurabathula2006">
-                    <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
-                        alt="Pravallika Surabathula" />
+                <a href="https://github.com/Amarnath-sahni">
+                    <img src="https://avatars.githubusercontent.com/u/144561044?s=96&v=4" width="100px;"
+                        alt="Amarnath Sahni" />
                     <br />
                     <sub>
-                        <b>Pravallika Surabathula</b>
+                        <b>Amarnath Sahni</b>
                     </sub>
                 </a>
             </td>
