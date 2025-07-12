@@ -5033,5 +5033,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/zidanmp/">
+                    <img src="https://avatars.githubusercontent.com/u/98027659?v=4" width="100px;"
+                        alt="Zidan" />
+                    <br />
+                    <sub>
+                        <b>Zidan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
