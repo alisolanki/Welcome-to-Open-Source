@@ -5024,6 +5024,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://portfolio2-0-pi-nine.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/161932826?v=4" width="100px;" alt="Shahnawaz Hussain"/>
+                    <br />
+                    <sub><b>Shahnawaz Hussain</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Rekha-00/">
                     <img src="https://avatars.githubusercontent.com/u/213215649?v=4" width="100px;"
                         alt="Rekha" />
