@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<p>List of actively participating individulas in open source contributions</p>
+<p>List of actively participating individuals in open source contributions</p>
 
 - Add your own details to the contributor list
 - Make a Pull Request
@@ -57,6 +57,26 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/PravallikaSurabathula2006">
+                    <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
+                        alt="Pravallika Surabathula" />
+                    <br />
+                    <sub>
+                        <b>Pravallika Surabathula</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+            <a href="https://github.com/Saquib504">
+                <img src="https://avatars.githubusercontent.com/u/173878571?v=4" width="100px;"
+                    alt="Mohd Saquib" />
+                <br />
+                <sub>
+                    <b>Mohd Saquib </b>
+                </sub>
+            </a>
+        </td>
         <td align="center">
                 <a href="https://www.aashikgautam.com.np/">
                     <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
@@ -165,12 +185,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/simesquivel">
+                    <img src="https://avatars.githubusercontent.com/u/159603772?v=4" width="100px;"
+                        alt="Simran Sharma" />
+                    <br />
+                    <sub>
+                        <b>Simran Sharma</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShreejaPrincy">
                     <img src="https://avatars.githubusercontent.com/u/148578262?v=4" width="100px;"
                         alt="Shreeja Princy" />
                     <br />
                     <sub>
                         <b>Shreeja Princy</b>
+                    </sub>
                 </a>
             </td>
             <td align="center">
@@ -4916,6 +4947,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Thorfinn05">
+                    <img src="https://avatars.githubusercontent.com/u/162490752?v=4" width="100px;" alt="Rudranil"/>
+                    <br />
+                    <sub><b>Rudranil Das</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/yamunajayan">
                     <img src="https://avatars.githubusercontent.com/u/26214400?v=4" width="100px;" alt="Yamuna Jayan"/>
                     <br />
@@ -4978,11 +5016,45 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sivadharshini</b></sub>
                 </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/Gk091202">
                     <img src="https://avatars.githubusercontent.com/u/101950880?v=4" width="100px;" alt="Gaurav"/>
                     <br />
                     <sub><b>Gaurav</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nishsethi0143">
+                    <img src="https://avatars.githubusercontent.com/u/177830631?v=4" width="100px;" alt="Nish Sethi"/>
+                    <br />
+                    <sub><b>Nish Sethi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://portfolio2-0-pi-nine.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/161932826?v=4" width="100px;" alt="Shahnawaz Hussain"/>
+                    <br />
+                    <sub><b>Shahnawaz Hussain</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Rekha-00/">
+                    <img src="https://avatars.githubusercontent.com/u/213215649?v=4" width="100px;"
+                        alt="Rekha" />
+                    <br />
+                    <sub>
+                        <b>Rekha</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/zidanmp/">
+                    <img src="https://avatars.githubusercontent.com/u/98027659?v=4" width="100px;"
+                        alt="Zidan" />
+                    <br />
+                    <sub>
+                        <b>Zidan</b>
+                    </sub>
                 </a>
             </td>
     </tbody>
