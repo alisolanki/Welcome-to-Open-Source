@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/PravallikaSurabathula2006">
-                    <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
-                        alt="Pravallika Surabathula" />
+                <a href="https://github.com/TREVA-HABIBI">
+                    <img src="https://avatars.githubusercontent.com/u/181381147?v=4" width="100px;"
+                        alt="Trevor Mukunzi" />
                     <br />
                     <sub>
-                        <b>Pravallika Surabathula</b>
+                        <b>Trevor Mukunzi</b>
                     </sub>
                 </a>
             </td>
