@@ -106,6 +106,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Somesh Kumar Singh</b>
                     </sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/SanchitKS12">
+                    <img src="https://avatars.githubusercontent.com/u/177824994?v=4" width="100px;"
+                        alt="Sanchit kumar sharma" />
+                    <br />
+                    <sub>
+                        <b>Sanchit kumar sharma</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Nihalani2004">
