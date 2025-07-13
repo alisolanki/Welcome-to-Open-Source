@@ -5017,10 +5017,24 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Gk091202">
+                    <img src="https://avatars.githubusercontent.com/u/101950880?v=4" width="100px;" alt="Gaurav"/>
+                    <br />
+                    <sub><b>Gaurav</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/nishsethi0143">
                     <img src="https://avatars.githubusercontent.com/u/177830631?v=4" width="100px;" alt="Nish Sethi"/>
                     <br />
                     <sub><b>Nish Sethi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://portfolio2-0-pi-nine.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/161932826?v=4" width="100px;" alt="Shahnawaz Hussain"/>
+                    <br />
+                    <sub><b>Shahnawaz Hussain</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -5034,12 +5048,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/shahidali54/">
+
+                <a href="https://github.com/zidanmp/">
+                    <img src="https://avatars.githubusercontent.com/u/98027659?v=4" width="100px;"
+                        alt="Zidan" />
+                    <br />
+                    <sub>
+                        <b>Zidan</b>
+                      
+                      <a href="https://github.com/shahidali54/">
                     <img src="https://avatars.githubusercontent.com/u/153486921?v=4" width="100px;"
                         alt="Shahid" />
                     <br />
                     <sub>
                         <b>Shahid Ali</b>
+
                     </sub>
                 </a>
             </td>
