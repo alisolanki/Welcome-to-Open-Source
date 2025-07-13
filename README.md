@@ -5048,23 +5048,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-
-                <a href="https://github.com/zidanmp/">
-                    <img src="https://avatars.githubusercontent.com/u/98027659?v=4" width="100px;"
-                        alt="Zidan" />
-                    <br />
-                    <sub>
-                        <b>Zidan</b>
-                      
-                      <a href="https://github.com/shahidali54/">
-                    <img src="https://avatars.githubusercontent.com/u/153486921?v=4" width="100px;"
+                <a href="https://github.com/shahidali54/">
+                    <img src="https://avatars.githubusercontent.com/u/153486921?v=4" width="100px;" width="100px;"
                         alt="Shahid" />
                     <br />
                     <sub>
                         <b>Shahid Ali</b>
-
                     </sub>
                 </a>
             </td>
+          
     </tbody>
 </table>
