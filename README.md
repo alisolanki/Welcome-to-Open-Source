@@ -5057,5 +5057,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kavyapantrangi">
+                    <img src="https://avatars.githubusercontent.com/u/126671211?s=400&u=b007158a9ad97fcb964fa0b2a54806d009cf53ab&v=4" width="100px;"
+                        alt="Kavya" />
+                    <br />
+                    <sub>
+                        <b>Kavya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
