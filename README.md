@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shibadityadeb">
+                    <img src="https://avatars.githubusercontent.com/u/173795163?v=4" width="100px;"
+                        alt="Shibaditya Deb" />
+                    <br />
+                    <sub>
+                        <b>Shibaditya Deb</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PravallikaSurabathula2006">
                     <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
                         alt="Pravallika Surabathula" />
