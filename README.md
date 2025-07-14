@@ -5068,6 +5068,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Shanpreet">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Shanpreet Dhaliwal" />
+                    <br />
+                    <sub>
+                        <b>Shanpreet Dhaliwal</b>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kavyapantrangi">
                     <img src="https://avatars.githubusercontent.com/u/126671211?s=400&u=b007158a9ad97fcb964fa0b2a54806d009cf53ab&v=4" width="100px;"
                         alt="Kavya" />
