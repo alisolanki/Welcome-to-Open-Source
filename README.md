@@ -5093,5 +5093,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ISHAN-py">
+                    <img src="https://avatars.githubusercontent.com/u/78527446?v=4" width="100px;"
+                        alt="Ishan Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Kavya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
