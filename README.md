@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rajatr1024">
+                    <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
+                        alt="Rajat Rajput" />
+                    <br />
+                    <sub>
+                        <b>Rajat Rajput</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PravallikaSurabathula2006">
                     <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
                         alt="Pravallika Surabathula" />
