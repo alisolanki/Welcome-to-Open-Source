@@ -5067,6 +5067,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ayush1944">
+                    <img src="https://avatars.githubusercontent.com/u/113465008?s=48&v=4" width="100px;" alt="Ayush Pal"/>
+                    <br />
+                    <sub><b>Ayush Pal</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/Shanpreet">
                     <img src="https://github.com/account" width="100px;"
