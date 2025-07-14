@@ -5093,5 +5093,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/salimhabeshawi/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Salim Ahmed" />
+                    <br />
+                    <sub>
+                        <b>Salim Ahmed</b>
+                    </sub>
+                </a>
+            </td>
+
     </tbody>
 </table>
