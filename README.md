@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rajatr1024">
+                    <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
+                        alt="Rajat Rajput" />
+                    <br />
+                    <sub>
+                        <b>Rajat Rajput</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PravallikaSurabathula2006">
                     <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
                         alt="Pravallika Surabathula" />
@@ -5063,6 +5073,25 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Ayush Pal</b></sub>
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shanpreet">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Shanpreet Dhaliwal" />
+                    <br />
+                    <sub>
+                        <b>Shanpreet Dhaliwal</b>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kavyapantrangi">
+                    <img src="https://avatars.githubusercontent.com/u/126671211?s=400&u=b007158a9ad97fcb964fa0b2a54806d009cf53ab&v=4" width="100px;"
+                        alt="Kavya" />
+                    <br />
+                    <sub>
+                        <b>Kavya</b>
+                    </sub>
+                </a>
             </td>
     </tbody>
 </table>
