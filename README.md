@@ -4987,6 +4987,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AnkitSinha0">
+                    <img src="https://avatars.githubusercontent.com/u/119648425?v=4" width="100px;" alt="Sathvik Shetty"/>
+                    <br />
+                    <sub><b>Ankit Sinha </b> </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/namrata-r">
                     <img src="https://avatars.githubusercontent.com/u/118370420?v=4" width="100px;" alt="Gnaneshwar"/>
                     <br />
