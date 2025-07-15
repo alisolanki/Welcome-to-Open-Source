@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ajmal-uk">
+                    <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Muhammed Ajmal U K</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center"
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
