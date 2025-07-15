@@ -4825,7 +4825,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/rashmijannu">
-                    <img src="https://avatars.githubusercontent.com/u/121299613?v=4" width="100px;" alt="Sivadharshini"/>
+                    <img src="https://avatars.githubusercontent.com/u/121299613?v=4" width="100px;" alt="Rashmi Chandana Jannu"/>
                     <br />
                     <sub><b>Rashmi Chandana Jannu</b></sub>
                 </a>
