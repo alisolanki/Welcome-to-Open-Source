@@ -117,6 +117,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center"
+                <a href="https://github.com/Shreyann05">
+                    <img src="https://avatars.githubusercontent.com/u/211149916?v=4" width="100px;"
+                        alt="Shreyan Sharma" />
+                    <br />
+                    <sub>
+                        <b>Shreyan Sharma</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                             <a href="https://www.linkedin.com/in/vasusahu/">
                     <img src="https://avatars.githubusercontent.com/u/160257096?v=4" width="100px;"
