@@ -5124,6 +5124,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Gagan-coder770">
+                    <img src="https://avatars.githubusercontent.com/u/159569700?v=4" width="100px;"
+                        alt="Gagan Ganesh" />
+                    <br />
+                    <sub>
+                        <b>Gagan Ganesh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ISHAN-py">
                     <img src="https://avatars.githubusercontent.com/u/78527446?v=4" width="100px;"
                         alt="Ishan Srivastava" />
