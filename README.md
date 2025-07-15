@@ -57,7 +57,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
+            <td align="center"
+                <a href="https://danishk.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
+                        alt="Danish Ibrahim Khan" />
+                    <br />
+                    <sub>
+                        <b>Danish Ibrahim Khan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center"
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
                         alt="Rajat Rajput" />
