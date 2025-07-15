@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/RaiyanChowdhury225">
+                    <img src="https://avatars.githubusercontent.com/u/214487419?v=4" width="100px;"
+                        alt="Raiyan Chowdhury" />
+                    <br />
+                    <sub>
+                        <b>Pravallika Surabathula</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
             <a href="https://github.com/Saquib504">
                 <img src="https://avatars.githubusercontent.com/u/173878571?v=4" width="100px;"
@@ -1168,6 +1178,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/pnehasai">
+                    <img src="https://avatars.githubusercontent.com/u/173056218?v=4" width="100px;"
+                        alt="Parth Rana" />
+                    <br />
+                    <sub>
+                        <b>Padarthi Neha Sai</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
@@ -1468,6 +1488,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shobhit0211">
+                    <img src="https://avatars.githubusercontent.com/u/202021188?v=4" width="100px;"
+                        alt="Shobhit Shukla" />
+                    <br />
+                    <sub>
+                        <b>Shobhit Shukla</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/zubairkorai">
                     <img src="https://avatars.githubusercontent.com/u/59169211?v=4" width="100px;"
                         alt="Muhammad Zubair" />
@@ -5100,6 +5130,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Gagan Ganesh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ISHAN-py">
+                    <img src="https://avatars.githubusercontent.com/u/78527446?v=4" width="100px;"
+                        alt="Ishan Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Kavya</b>
                     </sub>
                 </a>
             </td>
