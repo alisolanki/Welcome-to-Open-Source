@@ -5081,6 +5081,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+                <a href="https://github.com/rashmijannu">
+                    <img src="https://avatars.githubusercontent.com/u/121299613?v=4" width="100px;" alt="Rashmi Chandana Jannu"/>
+                    <br />
+                    <sub><b>Rashmi Chandana Jannu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/iahmadiqbal">
                     <img src="https://avatars.githubusercontent.com/u/168641965?v=4" width="100px;" alt="Ahmad Iqbal"/>
                     <br />
