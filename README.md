@@ -1488,6 +1488,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shobhit0211">
+                    <img src="https://avatars.githubusercontent.com/u/202021188?v=4" width="100px;"
+                        alt="Shobhit Shukla" />
+                    <br />
+                    <sub>
+                        <b>Shobhit Shukla</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/zubairkorai">
                     <img src="https://avatars.githubusercontent.com/u/59169211?v=4" width="100px;"
                         alt="Muhammad Zubair" />
