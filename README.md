@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/akshaykp123">
+                    <img src="https://avatars.githubusercontent.com/u/134578133?v=4" width="100px;"
+                        alt="Akshay K P" />
+                    <br />
+                    <sub>
+                        <b>Akshay K P</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center"
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
