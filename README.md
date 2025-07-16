@@ -5181,5 +5181,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sidpatil77">
+                    <img src="https://avatars.githubusercontent.com/u/195059793?s=96&v=4" 
+                        alt="Siddhesh Patil" />
+                    <br />
+                    <sub>
+                        <b>Siddhesh Patil</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
