@@ -67,6 +67,46 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/Bhupesh-081">
+                    <img src="https://avatars.githubusercontent.com/u/150279405?v=4" width="100px;"
+                        alt="Bhupesh Nandardhane" />
+                    <br />
+                    <sub>
+                        <b>Bhupesh Nandardhane</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/akshaykp123">
+                    <img src="https://avatars.githubusercontent.com/u/134578133?v=4" width="100px;"
+                        alt="Akshay K P" />
+                    <br />
+                    <sub>
+                        <b>Akshay K P</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/amrithasnidhi">
+                    <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
+                        alt="Amritha S Nidhi" />
+                    <br />
+                    <sub>
+                        <b>Amritha S Nidhi</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center"
+                <a href="https://github.com/Vyshnavtr0">
+                    <img src="https://avatars.githubusercontent.com/u/82934724?v=4" width="100px;"
+                        alt="Vyshnav TR" />
+                    <br />
+                    <sub>
+                        <b>Vyshnav TR</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center"
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
@@ -5188,6 +5228,26 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Kavya</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sidpatil77">
+                    <img src="https://avatars.githubusercontent.com/u/195059793?s=96&v=4" 
+                        alt="Siddhesh Patil" />
+                    <br />
+                    <sub>
+                        <b>Siddhesh Patil</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Zakir176">
+                    <img src="https://avatars.githubusercontent.com/u/88215079?v=4" width="100px;"
+                        alt="Zakir Motala" />
+                    <br />
+                    <sub>
+                        <b>Zakir Motala</b>
                     </sub>
                 </a>
             </td>
