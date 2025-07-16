@@ -5191,5 +5191,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Zakir176">
+                    <img src="https://avatars.githubusercontent.com/u/88215079?v=4" width="100px;"
+                        alt="Zakir Motala" />
+                    <br />
+                    <sub>
+                        <b>Zakir Motala</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
