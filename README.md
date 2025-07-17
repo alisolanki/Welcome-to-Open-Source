@@ -216,6 +216,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Aditya Patel</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/geekyuvi069">
+                    <img src="https://avatars.githubusercontent.com/u/125003477?s=400&v=4" width="100px;"
+                        alt="Yuvraj kuamr" />
+                    <br />
+                    <sub>
+                        <b>Yuvraj kuamr</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/SAURAV0703">
