@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/SagarikaWankhede">
                     <img src="https://avatars.githubusercontent.com/u/182421203?v=4" width="100px;"
-                        alt="Sagarika Wankhede" />
+                        alt="Sagarika Wankhede " />
                     <br />
                     <sub>
                         <b>Sagarika Wankhede</b>
