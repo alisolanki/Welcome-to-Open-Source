@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/nischitha-77">
+                    <img src="https://avatars.githubusercontent.com/u/186993378?v=4" width="100px;"
+                        alt="Nischitha V" />
+                    <br />
+                    <sub>
+                        <b>Nischitha V</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/akshaykp123">
                     <img src="https://avatars.githubusercontent.com/u/134578133?v=4" width="100px;"
                         alt="Akshay K P" />
