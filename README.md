@@ -5281,5 +5281,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/meetprajapati19">
+                    <img src="https://avatars.githubusercontent.com/u/132052033?v=4" 
+                        alt="Meet Prajapati" />
+                    <br />
+                    <sub>
+                        <b>Meet Prajapati</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
