@@ -87,6 +87,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rohan7003">
+                    <img src="https://avatars.githubusercontent.com/u/146317921?v=4" width="100px;"
+                        alt="Rohan Patil" />
+                    <br />
+                    <sub>
+                        <b>Rohan Patil</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Bhupesh-081">
                     <img src="https://avatars.githubusercontent.com/u/150279405?v=4" width="100px;"
