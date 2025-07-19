@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Shubham11440">
+                    <img src="https://avatars.githubusercontent.com/u/173390410?v=4" width="100px;"
+                        alt="Shubham Mali" />
+                    <br />
+                    <sub>
+                        <b>Shubham Mali</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
                         alt="Diksha Kumar" />
