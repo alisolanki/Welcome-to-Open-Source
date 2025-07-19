@@ -5291,5 +5291,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Panagiotis-Zisimopoulos">
+                    <img src="https://avatars.githubusercontent.com/u/87392186?v=4" width="100px;"
+                        alt="Panagiotis Zisimopoulos" />
+                    <br />
+                    <sub>
+                        <b>Panagiotis Zisimopoulos</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
