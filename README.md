@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/joelscaria123">
+                    <img src="https://avatars.githubusercontent.com/u/186253605?v=4" width="100px;"
+                        alt="Joel Scaria" />
+                    <br />
+                    <sub>
+                        <b>Joel Scaria</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
