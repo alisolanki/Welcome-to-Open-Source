@@ -5307,7 +5307,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Sanskar Gupta" />
                     <br />
                     <sub>
-                        <b>Sansker Gupta</b>
+                        <b>Sanskar Gupta</b>
                     </sub>
                 </a>
             </td>
