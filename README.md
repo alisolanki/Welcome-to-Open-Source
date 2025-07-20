@@ -472,6 +472,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">      
+                <a href="https://github.com/achalbharati1">
+                    <img src="https://avatars.githubusercontent.com/u/200447350?v=4" width="100px;"
+                        alt="Achal Bharati" />
+                    <br />
+                    <sub>
+                        <b>Achal Bharati</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Harshit4673">
                     <img src="https://avatars.githubusercontent.com/u/115793587?v=4" width="100px;"
