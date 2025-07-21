@@ -5311,5 +5311,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vedant007dev900">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Vedant Pasricha" />
+                    <br />
+                    <sub>
+                        <b>Vedant Pasricha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
