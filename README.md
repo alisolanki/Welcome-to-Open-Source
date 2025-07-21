@@ -5311,5 +5311,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/prats-13">
+                    <img src="https://avatars.githubusercontent.com/u/121216418?v=4" width="100px;"
+                        alt="Pratham Lohia" />
+                    <br />
+                    <sub>
+                        <b>Pratham Lohia</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
