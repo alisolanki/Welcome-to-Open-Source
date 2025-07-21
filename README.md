@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pranuuk">
+                    <img src="https://avatars.githubusercontent.com/u/169926688?s=400&u=da1694878c20017668d26098fda6f4154ebf5de3&v=4" width="100px;"
+                        alt="Pranathi Sai K" />
+                    <br />
+                    <sub>
+                        <b>Pranathi Sai K</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/akshaykp123">
                     <img src="https://avatars.githubusercontent.com/u/134578133?v=4" width="100px;"
