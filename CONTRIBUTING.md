@@ -24,6 +24,34 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+           <td align="center">
+                <a href="https://github.com/aryanmangrule402/">
+                    <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Aryan  Mangrule</b></sub>
+                </a> 
+            </td>
+             <td align="center">
+                <a href="https://github.com/codewithgaani">
+                    <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Krishna Bhatt</b></sub>
+                </a> 
+            </td>
+    <td align="center">
+        <a href="https://github.com/itsTIMUS">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Sumit Saha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Sahitha03">
+            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
+            <br />
+            <sub><b>Aluri Sai Sahitha</b></sub>
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
@@ -31,6 +59,28 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/misha141">
+            <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Misha Kumari</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/PriyatoshKumarShahi">
+            <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Priyatosh Kumar</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/Sathvik-Shetty-1569">
+            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <br />
+            <sub><b>Sathvik Shetty
+        </a>
+    </td>
+    
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
