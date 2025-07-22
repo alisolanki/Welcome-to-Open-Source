@@ -5321,5 +5321,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-    </tbody>
+            <td align="center">
+                <a href="https://github.com/Sabyasachidwivedi007">
+                    <img src="https://avatars.githubusercontent.com/u/194371146?v=4" width="100px;"
+                        alt="Sabyasachi Dwivedi" />
+                    <br />
+                    <sub>
+                        <b>Sabyasachi Dwivedi</b>
+                    </sub>
+                </a>
+            </td>
+    </tbody>        
 </table>
