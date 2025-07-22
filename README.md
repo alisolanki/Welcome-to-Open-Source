@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/PalaLavanya">
+                    <img src="https://avatars.githubusercontent.com/u/142710204?v=4" width="100px;"
+                        alt="Lavanya Pala" />
+                    <br />
+                    <sub>
+                        <b>Lavanya Pala</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
                         alt="Diksha Kumar" />
@@ -5308,6 +5318,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Zakir Motala</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Vedant007dev900">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Vedant Pasricha" />
+                    <br />
+                    <sub>
+                        <b>Vedant Pasricha</b>
                     </sub>
                 </a>
             </td>
