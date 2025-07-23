@@ -5331,5 +5331,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ritz-2015">
+                    <img src="https://avatars.githubusercontent.com/u/162713890?v=4" width="100px;"
+                        alt="Ritama Maity" />
+                    <br />
+                    <sub>
+                        <b>Ritama Maity</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
