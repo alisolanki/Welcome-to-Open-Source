@@ -5331,5 +5331,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Utka-rsshh">
+                    <img src="https://avatars.githubusercontent.com/u/220682503?v=4" width="100px;"
+                        alt="Utkarsh Joshi" />
+                    <br />
+                    <sub>
+                        <b>Utkarsh Joshi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
