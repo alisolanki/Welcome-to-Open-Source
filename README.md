@@ -67,6 +67,21 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/subashis5">
+                    <img src="https://avatars.githubusercontent.com/u/198249676?v=4"
+                        alt="Lavanya Pala" />
+                    <br />
+                    <sub>
+                        <b>Subashis Palai</b>
+                    </sub>
+                </a>
+            </td>
+
+
+
+
             <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
