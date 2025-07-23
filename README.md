@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/asmita0311">
+                    <img src="https://avatars.githubusercontent.com/u/148375633?v=4" width="100px;"
+                        alt="asmita kadam" />
+                    <br />
+                    <sub>
+                        <b>Asmita Kadam</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Simran-775">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
                         alt="Simranjeet kaur" />
