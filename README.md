@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/RachitSinghh">
+                    <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
+                        alt="Rachit Singh" />
+                    <br />
+                    <sub>
+                        <b>Rachit Singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PalaLavanya">
                     <img src="https://avatars.githubusercontent.com/u/142710204?v=4" width="100px;"
                         alt="Lavanya Pala" />
