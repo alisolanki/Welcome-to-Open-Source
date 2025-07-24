@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Mohit1-cmd">
+                    <img src="https://avatars.githubusercontent.com/u/197873910?s=400&u=b3d29d086d85a0bd5907cdb87f97015a59187a85&v=4" width="100px;"
+                        alt="Mohit Khapekar" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
