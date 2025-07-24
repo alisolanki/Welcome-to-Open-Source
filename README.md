@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Rachit Singh</b>
                     </sub>
                 </a>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/CodeWithAkthar">
+                    <img src="https://avatars.githubusercontent.com/u/134262640?v=4" width="100px;"
+                        alt="Shuhaib Akthar" />
+                    <br />
+                    <sub>
+                        <b>Shuhaib Akthar</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/PalaLavanya">
