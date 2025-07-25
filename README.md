@@ -5393,6 +5393,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Harshdev10">
+                    <img src="https://avatars.githubusercontent.com/u/98008274?v=4" width="100px;"
+                        alt="Harshdev Tripathi" />
+                    <br />
+                    <sub>
+                        <b>Harshdev Tripathi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Sumeets-Code">
                     <img src="https://avatars.githubusercontent.com/u/182865908?s=400&u=2ab1f20618f25615ba0f5f7a29af7cf07ec0c9c9&v=4" width="100px;"
                         alt="Sumeet Bhagat" />
