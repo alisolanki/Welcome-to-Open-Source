@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/SwayamPatel16">
+                    <img src="https://avatars.githubusercontent.com/u/216324160?s=96&v=4" width="100px;"
+                        alt="Swayam Patel" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Swayam Patel</b>
                     </sub>
                 </a>
             </td>
