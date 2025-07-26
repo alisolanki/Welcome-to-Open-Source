@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/aditya6105">
+            <img src="https://avatars.githubusercontent.com/u/134909611?v=4" width="100px;" alt="Aditya Raj"/>
+            <br />
+            <sub><b>Aditya Raj</b></sub>
+        </a>
+    </td>
     
     ```
 
