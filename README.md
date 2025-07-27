@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/kartikcodez">
+                    <img src="https://avatars.githubusercontent.com/u/222618196?v=4" width="100px;"
+                        alt="Kartikeyan" />
+                    <br />
+                    <sub>
+                        <b>Kartikeyan</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
