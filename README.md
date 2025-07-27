@@ -5412,5 +5412,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shivakumar-VS">
+                    <img src="https://avatars.githubusercontent.com/u/157830150?v=4" width="100px;"
+                        alt="Shivakumar V S" />
+                    <br />
+                    <sub>
+                        <b>Shivakumar V S</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
