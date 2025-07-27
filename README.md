@@ -68,6 +68,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/codewithharshal1194">
+                    <img src="https://avatars.githubusercontent.com/u/221441333?v=4" width="100px;"
+                        alt="Harshal Gadhave" />
+                    <br />
+                    <sub>
+                        <b>Harshal Gadhave</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
                         alt="Harika Galibu" />
