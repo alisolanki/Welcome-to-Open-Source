@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/anant992003">
+                    <img src="https://avatars.githubusercontent.com/u/169798711?v=4" width="100px;"
+                        alt="Anant Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Anant Srivastava</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chirsmita-02">
                     <img src="https://wallpapers.com/images/thumbnail/cute-girl-digital-art-profile-picture-qc0ka21j2ejosppd.webp" width="100px;"
                         alt="Chirsmita" />
