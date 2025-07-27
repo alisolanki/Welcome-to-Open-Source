@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="hhttps://github.com/codewithharshal1194">
+                    <img src="https://avatars.githubusercontent.com/u/221441333?v=4" width="100px;"
+                        alt="Harshal Gadhaver" />
+                    <br />
+                    <sub>
+                        <b>Harshal Gadhave</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
@@ -64,16 +74,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Arpita Deodikar</b>
-                    </sub>
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://github.com/codewithharshal1194">
-                    <img src="https://avatars.githubusercontent.com/u/221441333?v=4" width="100px;"
-                        alt="Harshal Gadhave" />
-                    <br />
-                    <sub>
-                        <b>Harshal Gadhave</b>
                     </sub>
                 </a>
             </td>
