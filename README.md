@@ -5412,5 +5412,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/athul-jose00">
+                    <img src="https://avatars.githubusercontent.com/u/148617363?v=4" width="100px;"
+                        alt="Athul Jose" />
+                    <br />
+                    <sub>
+                        <b>Athul Jose</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
