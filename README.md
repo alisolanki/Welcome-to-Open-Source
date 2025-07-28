@@ -5412,5 +5412,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Nafiu-Rahman">
+                    <img src="https://avatars.githubusercontent.com/u/62151342?v=4" width="100px;"
+                        alt="Nafiu Rahman" />
+                    <br />
+                    <sub>
+                        <b>Sumeet Bhagat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
