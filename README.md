@@ -5412,5 +5412,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ssuraj2504">
+                    <img src="https://avatars.githubusercontent.com/u/168889106?v=4" width="100px;"
+                        alt="Suraj Raykar" />
+                    <br />
+                    <sub>
+                        <b>Suraj Raykar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
