@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
          <td align="center">
-                <a href="https://github.com/ArpitaDeodikar01">
-                    <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
-                        alt="Arpita Deodikar" />
+                <a href="https://github.com/VamshiPoojari">
+                    <img src="https://avatars.githubusercontent.com/u/179251181?v=4" width="100px;"
+                        alt="Vamshi Poojari" />
                     <br />
                     <sub>
-                        <b>Arpita Deodikar</b>
+                        <b>Vamshi Poojari</b>
                     </sub>
                 </a>
             </td>
