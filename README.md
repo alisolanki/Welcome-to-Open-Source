@@ -5382,6 +5382,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/shrisha-joshi">
+                    <img src="https://avatars.githubusercontent.com/u/173183426?v=4" 
+                        alt="Shrisha Joshi" />
+                    <br />
+                    <sub>
+                        <b>Shrisha Joshi</b>
+                    </sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/Zakir176">
                     <img src="https://avatars.githubusercontent.com/u/88215079?v=4" width="100px;"
