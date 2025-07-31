@@ -5432,5 +5432,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ParthPagar7">
+                    <img src="https://avatars.githubusercontent.com/u/133389155?v=4" width="100px;"
+                        alt="Parth Pagar" />
+                    <br />
+                    <sub>
+                        <b>Parth Pagar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
