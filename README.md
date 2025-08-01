@@ -319,6 +319,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+                            <a href="https://github.com/Chidwan3578">
+                    <img src="https://avatars.githubusercontent.com/u/72751588?v=4" width="100px;"
+                        alt="Chidwan AD" />
+                    <br />
+                    <sub>
+                        <b>Chidwan AD</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/Somesh-coding">
                     <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
                         alt="Somesh Kumar Singh" />
