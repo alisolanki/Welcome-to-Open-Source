@@ -455,6 +455,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harshagowdam">
+                    <img src="https://avatars.githubusercontent.com/u/175629887?s=400&u=474b8462d5be3b0c37d1fdc0980ff372513861ce&v=4" width="100px;"
+                        alt="Harsha Gowda M" />
+                    <br />
+                    <sub>
+                        <b>Harsha Gowda M</b>
+                    </sub>
+                </a>
+            </td>
           <td align="center">
                 <a href="https://github.com/RiteshM09">
                     <img src="https://avatars.githubusercontent.com/u/72223003?v=4" width="100px;"
