@@ -5462,5 +5462,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/touseef0707">
+                    <img src="https://avatars.githubusercontent.com/u/152942742?v=4" width="100px;"
+                        alt="Touseef Ahmed" />
+                    <br />
+                    <sub>
+                        <b>Touseef Ahmed</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
