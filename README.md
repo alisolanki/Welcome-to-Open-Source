@@ -961,6 +961,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://adityaranjan.com/">
+                    <img src="https://avatars.githubusercontent.com/u/51948608?v=4" width="100px;" alt="Aditya Ranjan"/>
+                    <br />
+                    <sub><b>Aditya Ranjan</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
