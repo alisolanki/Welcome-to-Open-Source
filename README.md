@@ -4307,6 +4307,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </td>
+             <td align="center">
+                <a href="https://github.com/surajmaity">
+                    <img src="https://avatars.githubusercontent.com/u/64701704?v=4" width="100px;" alt="suraj maity"/>
+                    <br />
+                    <sub><b>suraj maity</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://sites.google.com/view/prajapatsur/home">
                     <img src="https://avatars.githubusercontent.com/u/100709956?v=4" width="100px;"
