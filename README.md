@@ -1863,7 +1863,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
+            <td align="center">   
+                <a href="https://github.com/amacleod1417">
+                    <img src="https://avatars.githubusercontent.com/u/155204136?s=400&u=998e1d2c132ebff5c3d1883149b31258d5957139&v=4" width="100px;" alt = "Ally MacLeod" />
+                    <br />
+                    <sub><b>Ally MacLeod</b></sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;"
                         alt="Kaushal Lohar" />
