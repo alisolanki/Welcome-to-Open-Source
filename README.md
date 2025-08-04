@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Anirudhcodestoo">
+                    <img src="https://avatars.githubusercontent.com/u/128991614?s=400&u=1ad8149e6d5b367eefe6b6030a1ade2e4f3ccbef&v=4" width="100px;" alt="Anirudh R Sharma"/>
+                    <br />
+                    <sub><b>Anirudh R Sharma</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
