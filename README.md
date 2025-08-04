@@ -5484,3 +5484,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+ <td align="center">
+                <a href="https://github.com/HPushkar07">
+                    <img src="https://avatars.githubusercontent.com/u/140387656?s=400&v=4" width="100px;" alt="Himanshu Pushkar"/>
+                    <br />
+                    <sub><b>Himanshu Pushkar</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
