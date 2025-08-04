@@ -436,6 +436,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/akriti04gupta">
+                    <img src="https://avatars.githubusercontent.com/u/129318815?v=4" width="100px;"
+                        alt="Akriti Gupta" />
+                    <br />
+                    <sub>
+                        <b>Akriti Gupta</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShreejaPrincy">
                     <img src="https://avatars.githubusercontent.com/u/148578262?v=4" width="100px;"
                         alt="Shreeja Princy" />
