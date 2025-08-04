@@ -3690,6 +3690,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Kudzmat">
+                    <img src="https://avatars.githubusercontent.com/u/65554208?v=4" width="100px;" alt="Kudzayi Bamhare"/>
+                    <br />
+                    <sub><b>Kudzayi Bamhare</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chromo4">
                     <img src="https://avatars.githubusercontent.com/u/96817905?v=4" width="100px;"
                         alt="Ayush Tibrewal" />
