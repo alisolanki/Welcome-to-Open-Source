@@ -961,6 +961,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/StanzTheDev">
+                    <img src="https://avatars.githubusercontent.com/u/135062697?v=4" width="100px;" alt="Sanyaolu Nofisat"/>
+                    <br />
+                    <sub><b>Sanyaolu Nofisat</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
