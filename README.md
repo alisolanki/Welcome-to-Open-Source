@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pandey22">
+                    <img src="https://avatars.githubusercontent.com/u/35039432?v=4" width="100px;" alt="Kshitij Pandey"/>
+                    <br />
+                    <sub><b>Kshitij Pandey</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
