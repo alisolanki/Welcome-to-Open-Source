@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DM1ShRa">
+                    <img src="https://avatars.githubusercontent.com/u/107783346?v=4" width="100px;" alt="Darash Mishra"/>
+                    <br />
+                    <sub><b>Darash Mishra</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
