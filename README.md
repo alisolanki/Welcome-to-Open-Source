@@ -2052,6 +2052,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AVBharath10">
+                    <img src="https://avatars.githubusercontent.com/u/157507162?v=4" width="100px;" alt="Bharath"/>
+                    <br />
+                    <sub><b>Bharath</b></sub>
+                </a>
+            </td>   
+            <td align="center">
                 <a href="https://github.com/Shubhh4">
                     <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;"
                         alt="Shubham Pathak" />
