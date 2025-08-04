@@ -4419,6 +4419,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/umar-webdev">
+                    <img src="https://avatars.githubusercontent.com/u/63943753?v=4" width="100px;" alt="Umar Shaikh"/>
+                    <br /><sub><b>Umar Shaikh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
