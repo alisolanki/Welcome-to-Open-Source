@@ -1751,6 +1751,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Bharatxox">
+                    <img src="https://avatars.githubusercontent.com/u/132610869?v=4" width="100px;" alt="Bharat Bisht"/>
+                    <br />
+                    <sub><b>Bharat Bisht</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
                         alt="Preeti Raj" />
