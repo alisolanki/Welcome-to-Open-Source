@@ -3628,6 +3628,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/HackesticMedusa">
+                    <img src="https://avatars.githubusercontent.com/u/107264491?v=4" width="100px;" alt="HackesticMedusa"/>
+                    <br />
+                    <sub><b>Ankur Karmakar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/jansigoswami">
                     <img src="https://avatars.githubusercontent.com/u/98738632?v=4" width="100px;"
                         alt="Jansi Goswami" />
