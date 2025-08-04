@@ -1727,6 +1727,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Muhammad Zubair</b>
                     </sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/sagarpawadi">
+                    <img src="https://avatars.githubusercontent.com/u/33507249?v=4" width="100px;" alt="Sagar Pawadi N"/>
+                    <br />
+                    <sub><b>Sagar Pawadi N</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
