@@ -1728,6 +1728,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Khaisar-tech">
+                    <img src="https://avatars.githubusercontent.com/u/177625268?v=4" width="100px;" alt="Mohammed Khaisar"/>
+                    <br />
+                    <sub><b>Mohammed Khaisar</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
