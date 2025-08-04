@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KumarAyushh">
+                    <img src="https://avatars.githubusercontent.com/u/108970673?v=4" width="100px;" alt="Kumar Ayush"/>
+                    <br />
+                    <sub><b>Kumar Ayush</b></sub>
+                </a>
+            </td>
+            
         </tr>
         <tr>
             <td align="center">
