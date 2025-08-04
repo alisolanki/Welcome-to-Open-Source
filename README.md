@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aditisingh611">
+                    <img src="https://avatars.githubusercontent.com/u/98228209?s=400&u=91be78e271087cc1bf00eba7cd28a7f5d0642926&v=4" width="100px;" alt="Aditi singh"/>
+                    <br />
+                    <sub><b>Aditi Singh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
