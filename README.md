@@ -14,9 +14,9 @@
 
 <p>List of actively participating individuals in open source contributions</p>
 
-- Add your own details to the contributor list
-- Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+-   Add your own details to the contributor list
+-   Make a Pull Request
+-   [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
@@ -4417,6 +4417,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Dhruv!!</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/neerajsurjaye">
+                    <img src="https://avatars.githubusercontent.com/u/71212690?v=4" width="100px;" alt="Neeraj Surjaye"/>
+                    <br />
+                    <sub><b>Neeraj Surjaye</b></sub>
                 </a>
             </td>
         </tr>
