@@ -4070,6 +4070,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shifakhan270403">
+                    <img src="https://instagram.fbom48-1.fna.fbcdn.net/v/t51.2885-19/353432082_250493021003707_5245135162641030968_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fbom48-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BI46Shoqj5gAX-xsmKS&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCCxHb9JsNToqxu4lfugtUtxcKmvDoSdAdHy-wJtd91Eg&oe=64D2EFA7&_nc_sid=8b3546" width="100px;" alt="Shifa Khan"/>
+                    <br />
+                    <sub><b>Shifa Khan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/abnas7511">
                     <img src="https://avatars.githubusercontent.com/u/104258579?v=4" width="100px;"
                         alt="Muhammed Abnas" />
