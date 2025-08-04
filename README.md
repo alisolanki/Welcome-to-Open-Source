@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/Amitjakhar001">
+                    <img src="https://avatars.githubusercontent.com/u/110688717?v=4" width="100px;" alt="Amit jakhar"/>
+                    <br />
+                    <sub><b>Amit jakhar</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
