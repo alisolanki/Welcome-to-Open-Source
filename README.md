@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rohitrics">
+                    <img src="https://avatars.githubusercontent.com/u/58696483?v=4" width="100px;" alt="Rohit K."/>
+                    <br />
+                    <sub><b>Rohit K.</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
