@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Emezu/frontend.git">
+                    <img src="https://images.pexels.com/photos/2773977/pexels-photo-2773977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="100px;" alt="Blessing Fabian"/>
+                    <br />
+                    <sub><b>Blessing Fabian</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
