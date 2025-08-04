@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Khushi-S-29">
+                    <img src="https://avatars.githubusercontent.com/u/168214110?v=4" width="100px;" alt="Khushi S"/>
+                    <br />
+                    <sub><b>Khushi S.</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
