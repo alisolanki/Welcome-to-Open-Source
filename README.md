@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kelenna1">
+                    <img src="https://avatars.githubusercontent.com/u/137358166?v=4" width="100px;" alt="Okolie Emmanuel Kelenna"/>
+                    <br />
+                    <sub><b>Okolie Emmanuel Kelenna</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
