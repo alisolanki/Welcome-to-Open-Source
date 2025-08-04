@@ -4297,6 +4297,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/visualscrapy">
+                    <img src="https://avatars.githubusercontent.com/u/48904061?v=4" width="100px;" alt="Rajeev Punna"/>
+                    <br />
+                    <sub><b>Rajeev Punna</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;"
