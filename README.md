@@ -4255,6 +4255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pratokko">
+                    <img src="https://avatars.githubusercontent.com/u/116003692?v=4" width="100px;" alt="pratokko"/>
+                    <br />
+                    <sub><b>pratokko 🍉</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
