@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/SajiniWeerasinghe">
+                    <img src="https://avatars.githubusercontent.com/u/159815794?v=4" width="100px;" alt="Sajini Weerasinghe"/>
+                    <br />
+                    <sub><b>Sajini Weerasinghe</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
