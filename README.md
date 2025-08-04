@@ -369,6 +369,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Manish-Lakkavatri">
+                    <img src="https://avatars.githubusercontent.com/u/93577835?v=4" width="100px;"
+                        alt="Manish Lakkavatri" />
+                    <br />
+                    <sub>
+                      <b>Manish Lakkavatri</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/aditya6386">
                     <img src="https://avatars.githubusercontent.com/u/91421460?v=4" width="100px;"
                         alt="Aditya Patel" />
