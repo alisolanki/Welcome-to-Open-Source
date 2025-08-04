@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Mrigank118">
+                    <img src="https://avatars.githubusercontent.com/u/87354157?s=400&u=b2d256390a67f52862ed5e5eaa37b2cfcaae99b9&v=4" width="100px;" alt="Mrigank Singh"/>
+                    <br />
+                    <sub><b>Mrigank Singh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
