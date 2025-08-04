@@ -3503,6 +3503,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jurgden">
+                    <img src="https://avatars.githubusercontent.com/u/82841924?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Jordan Reed</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
