@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SparshKedia0807/Welcome-to-Open-Source.git">
+                    <img src="https://avatars.githubusercontent.com/u/186711093?v=4" width="100px;" alt="Sparsh Kedia"/>
+                    <br />
+                    <sub><b>Sparsh Kedia</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
