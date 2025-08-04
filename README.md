@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/RojaPinnamraju">
+                    <img src="https://avatars.githubusercontent.com/u/97991187?v=4" width="100px;" alt="Roja Pinnamraju"/>
+                    <br />
+                    <sub><b>Roja Pinnamraju</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
