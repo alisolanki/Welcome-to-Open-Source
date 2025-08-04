@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kanekiken0965">
+                    <img src="https://avatars.githubusercontent.com/u/93696405?s=400&u=3f995c8a6306a45feb637b91f56ea4f7efc8b748&v=4"/>
+                    <br />
+                    <sub><b>Abhinav Aakash</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
