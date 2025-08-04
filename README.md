@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ckarthik77">
+                    <img src="https://avatars.githubusercontent.com/u/167058928?v=4" width="100px;"
+                        alt="Karthikeya Chandika" />
+                    <br />
+                    <sub>
+                        <b>Karthikeya Chandika</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
