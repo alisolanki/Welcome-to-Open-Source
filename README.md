@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/134226438?s=400&u=3fa56649007cb31cbaa20dd8e97bb54dd3af2539&v=4" width="100px;" alt="Neha Singh"/>
+                    <br />
+                    <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
