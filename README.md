@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://mohanraj-dev.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/81688486?v=4" width="100px;" alt="Mohanraj Murugasen"/>
+                    <br />
+                    <sub><b>Mohanraj Murugasen</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
