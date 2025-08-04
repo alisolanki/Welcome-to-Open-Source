@@ -5484,3 +5484,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+
+<td align="center">
+                <a href="https://github.com/OmSoni-1">
+                    <img src="https://avatars.githubusercontent.com/u/63701227?s=400&u=2d2dd0a14dd1ab12f2f594bf42ffc77c1d114f9a&v=4" width="100px;" alt="Om Soni"/>
+                    <br />
+                    <sub><b>Om Soni</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
