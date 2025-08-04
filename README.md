@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mbk97">
+                    <img src="https://avatars.githubusercontent.com/u/63726675?s=400&u=69253bc39a518a9e96a84511b8ea259e2a9dab8a&v=4" width="100px;" alt="Mubarak Muhammed"/>
+                    <br />
+                    <sub><b>Mubarak Muhammed</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
