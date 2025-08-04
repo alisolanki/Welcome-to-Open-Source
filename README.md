@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Srinivas-Thiru">
+                    <img src="https://avatars.githubusercontent.com/u/110653801?v=4" width="100px;" alt="Srinivas Thiru"/>
+                    <br />
+                    <sub><b>Srinivas Thiru</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
