@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chandruRCPM">
+                    <img src="https://avatars.githubusercontent.com/u/49023541?v=4" width="100px;" alt="Chandru_MJ"/>
+                    <br />
+                    <sub><b>Chandru_MJ</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
