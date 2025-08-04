@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SH-Mridul">
+                    <img src="https://avatars.githubusercontent.com/u/63304179?v=4" width="100px;" alt="Sakhawat Hossain"/>
+                    <br />
+                    <sub><b>Sakhawat Hossain (Mridul)</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
