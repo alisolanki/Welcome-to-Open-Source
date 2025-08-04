@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://www.linkedin.com/in/er-bijay-rauniyar/">
+                    <img src="https://avatars.githubusercontent.com/u/17526745?v=4" width="100px;" alt="Bijay Rauniyar"/>
+                    <br />
+                    <sub><b>Bijay Rauniyar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
