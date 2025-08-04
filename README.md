@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/FreshPrince99">
+                    <img src="https://avatars.githubusercontent.com/u/128372678?v=4" width="100px;" alt="Fresh Prince"/>
+                    <br />
+                    <sub><b>Fresh Prince</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
