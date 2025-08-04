@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Indrajit-Banerjee7">
+                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Indrajit Banerjee"/>
+                    <br />
+                    <sub><b>Indrajit Banerjee</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
