@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bEluga0000">
+                    <img src="https://avatars.githubusercontent.com/u/108067215?v=4" width="100px;" alt="Shreyas Shetty"/>
+                    <br />
+                    <sub><b>Shreyas</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
