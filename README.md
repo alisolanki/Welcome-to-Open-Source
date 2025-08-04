@@ -3608,6 +3608,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+    <a href="https://github.com/Ayush086">
+        <img src="https://avatars.githubusercontent.com/u/111568550?v=4" width="100px;" alt="Ayush"/>
+        <br />
+        <sub><b>Ayush Uttarwar</b></sub>
+    </a>
+</td>
+            <td align="center">
                 <a href="https://github.com/swarajcodes">
                     <img src="https://avatars.githubusercontent.com/u/110276137?v=4" width="100px;"
                         alt="Swaraj Mohapatra" />
