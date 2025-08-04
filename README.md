@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/toruwatanbe">
+                    <img src="https://avatars.githubusercontent.com/u/69209665?s=400&v=4" width="100px;" alt="Toru Watanbe"/>
+                    <br />
+                    <sub><b>Toru Watanbe (Jagrut)</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
