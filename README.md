@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sanjeevs9">
+                    <img src="https://avatars.githubusercontent.com/u/88326960?v=4" width="100px;" alt="Sanjeev Shankar"/>
+                    <br />
+                    <sub><b>Sanjeev Shankar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
