@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mr-MR-314">
+                    <img src="https://avatars.githubusercontent.com/u/166387986?v=4" width="100px;" alt="Maniish Raja V K"/>
+                    <br />
+                    <sub><b>Maniish Raja V K</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
