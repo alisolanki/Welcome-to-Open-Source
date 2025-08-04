@@ -88,6 +88,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/arjun-dholakiya">
+                    <img src="https://avatars.githubusercontent.com/u/211642335?v=4" width="100px;"
+                        alt="Arjun Dholakiya" />
+                    <br />
+                    <sub>
+                        <b>Arjun Dholakiya</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
