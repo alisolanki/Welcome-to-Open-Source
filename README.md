@@ -960,7 +960,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
-            </td>
+            </td>      
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
@@ -4254,6 +4254,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Avinash 🍉</b>
                     </sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kingtoff/">
+                    <img src="https://avatars.githubusercontent.com/u/99415191?v=4" width="100px;" alt="Fortune Ogunwusi"/>
+                    <br />
+                    <sub><b>Fortune Ogunwusi</b></sub>
+                </a> 
             </td>
         </tr>
         <tr>
