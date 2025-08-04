@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/samvidaaaa">
+                    <img src="https://avatars.githubusercontent.com/u/88053700?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Samvida Aggarwal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
