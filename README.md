@@ -1750,6 +1750,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+           < td align="center">
+                <a href="https://www.vivekthakur.dev/">
+                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="karthik"/>
+                    <br />
+                    <sub><b>Karthik 🍉</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
@@ -1768,6 +1775,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Meesam Bukhari</b>
                     </sub>
+                </a>
+            </td>
+              <td align="center">
+                <a href="https://hsrah00.github.io/karthi57/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Karthik"/>
+                    <br />
+                    <sub><b>Karthik</b></sub>
                 </a>
             </td>
             <td align="center">
