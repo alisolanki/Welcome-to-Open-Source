@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/jatinkumar987">
+                    <img src="https://avatars.githubusercontent.com/u/76620715?s=400&u=a3176146d1175940661b8c7b86acba9697c8f07f&v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Jatin kumar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
