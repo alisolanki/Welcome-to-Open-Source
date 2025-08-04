@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/monimithra18">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQF6M6xO0tgkhQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705734267806?e=1730937600&v=beta&t=i-gEk1ua1wQ127ikeKV7TUKdBTkcMVX3-QiHEfGzKaM" width="100px;" alt="Monish Mithra"/>
+                    <br />
+                    <sub><b>Monish Mithra</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
