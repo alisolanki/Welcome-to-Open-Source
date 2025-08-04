@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/GetRohitansh/">
+                    <img src="https://avatars.githubusercontent.com/u/112540293?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Rohitansh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
