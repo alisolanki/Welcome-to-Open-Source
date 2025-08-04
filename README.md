@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shanathvemula">
+                    <img src="https://avatars.githubusercontent.com/u/65351126?v=4" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Shanath Kumar Vemula</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
