@@ -3330,6 +3330,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AnantDjha">
+                    <img src="https://camo.githubusercontent.com/f9d121225e5c774c1bf90e53ed146c8918365b8c9f96df813842cd8e8e7960c5/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f76325835314156676c336f2f302e6a7067" width="100px;" alt="Anant Jha"/>
+                    <br />
+                    <sub><b>Anant Jha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/MD-Saaad">
                     <img src="https://avatars.githubusercontent.com/u/125855647?v=4" width="100px;"
                         alt="Mohammed Saad Sayyed" />
