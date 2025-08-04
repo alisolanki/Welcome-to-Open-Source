@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Harshitpareek741">
+                    <img src="https://avatars.githubusercontent.com/u/139744660?s=400&u=863e638de05dd79238fe3be2c827c190ea7f48e1&v=4" width="100px;" alt="Harshit Pareek"/>
+                    <br />
+                    <sub><b>Harshit Pareek</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
