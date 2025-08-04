@@ -1729,6 +1729,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harshi732">
+                    <img src="https://avatars.githubusercontent.com/u/73694359?v=4" width="100px;" alt="Harshi Talati"/>
+                    <br />
+                    <sub><b>Harshi Talati</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
