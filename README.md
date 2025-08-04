@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ankitdarekar02">
+                    <img src="https://avatars.githubusercontent.com/u/60542567?v=4" width="100px;" alt="Ankit Darekar"/>
+                    <br />
+                    <sub><b>Ankit Darekar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
