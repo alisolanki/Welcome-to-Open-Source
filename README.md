@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/clintaveben">
+                    <img src="https://avatars.githubusercontent.com/u/44338892?v=4" width="100px;" alt="Clint Aveben"/>
+                    <br />
+                    <sub><b>Clint Aveben</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
