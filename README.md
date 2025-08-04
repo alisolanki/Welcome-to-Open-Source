@@ -31,6 +31,7 @@
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
+    
 </p>
   
 <p align="center">
@@ -4417,6 +4418,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Dhruv!!</b></sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/shivamsingh827">
+                    <img src="https://avatars.githubusercontent.com/u/94965506?v=4" width="100px;" alt="Shivam singh"/>
+                    <br />
+                    <sub><b>Shivam singh</b></sub>
                 </a>
             </td>
         </tr>
