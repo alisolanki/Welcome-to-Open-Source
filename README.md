@@ -1814,6 +1814,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
+                <a href="https://github.com/darshancn">
+                    <img src="https://avatars.githubusercontent.com/u/100424024?v=4" width="100px;" alt="Darshan C N"/>
+                    <br />
+                    <sub><b>Darshan C N</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Shino-Shaji">
                     <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;"
                         alt="Shino Shaji" />
