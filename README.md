@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+        <a href="https://github.com/Praroop110">
+            <img src="https://avatars.githubusercontent.com/u/121861919?s=400&u=b2eddf803897ccf093ed84d529d3cec18f20ea5c&v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Praroop Kumawat (pk)</b></sub>
+        </a>
+    </td>
         </tr>
         <tr>
             <td align="center">
