@@ -4255,6 +4255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mihir-Kumar13">
+                    <img src="https://avatars.githubusercontent.com/u/118734762?s=400&u=08827a715c95adbdb751056cda0ab576ee2107a4&v=4" width="100px;" alt="Mihir"/>
+                    <br />
+                    <sub><b>Mihir Kumar 🍉</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
