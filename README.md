@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/02Katsuya03">
+                    <img src="https://avatars.githubusercontent.com/u/172483428?s=400&u=9fadf8746b955f613f2bc10877de7269ca3d06dd&v=4" width="100px;" alt="Bryan Cabrera"/>
+                    <br />
+                    <sub><b>Bryan Cabrera</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
