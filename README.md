@@ -4255,6 +4255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/salunkechetan>
+                    <img src="https://avatars.githubusercontent.com/u/85216632?v=4" width="100px;" alt="Vincenzo Chiovaro"/>
+                    <br />
+                    <sub><b>Chetan Salunke</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
