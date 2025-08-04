@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mohita2005">
+                    <img src="https://avatars.githubusercontent.com/u/172798046?s=400&v=4" width="100px;" alt="Mohita"/>
+                    <br />
+                    <sub><b>Mohita</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
