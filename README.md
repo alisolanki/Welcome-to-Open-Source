@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/manojsai1">
+                    <img src="https://avatars.githubusercontent.com/u/64846444?v=4" width="100px;" alt="Manoj Sai"/>
+                    <br />
+                    <sub><b>Manoj Sai</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
