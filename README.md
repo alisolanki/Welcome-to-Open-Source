@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mohdmaazkhangkp/">
+                    <img src="https://avatars.githubusercontent.com/u/91193847?s=400&u=7dfe604ea5e76e3ba02dbb2fa75bba1e6abd62e9&v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Mohd Maaz</b></sub>
+                </a>
+            </td>
+            
         </tr>
         <tr>
             <td align="center">
