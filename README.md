@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aniiketpawar">
+                    <img src="https://avatars.githubusercontent.com/u/57531496?v=4" width="100px;" alt="Aniket Pawar"/>
+                    <br />
+                    <sub><b>Aniket Pawar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
