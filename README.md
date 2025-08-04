@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/paulpelykh">
+                    <img src="https://avatars.githubusercontent.com/u/43278783?s=400&u=f5354dc2e81bf007e580f2af33b5028c24ae8772&v=4" width="100px;" alt="Paul Pelykh"/>
+                    <br />
+                    <sub><b>Paul Pelykh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
