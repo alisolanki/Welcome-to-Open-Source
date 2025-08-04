@@ -44,6 +44,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+<!-- copy this Code Snippet and add it the end of the contributor list-->
+<!--
+
+            <td align="center">
+                <a href="Your Github Profile Link">
+                    <img src="Your Avatars Image Adress" width="100px;" alt="Your Name"/>
+                    <br />
+                    <sub><b>Your Name</b></sub>
+                </a> 
+            </td>
+
+-->
+
 <table>
     <tbody>
         <tr>
@@ -4417,6 +4431,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Dhruv!!</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/skoom21">
+                    <img src="https://avatars.githubusercontent.com/u/116948040?v=4" width="100px;" alt="Talha Yousif"/>
+                    <br />
+                    <sub><b>Talha Yousif</b></sub>
                 </a>
             </td>
         </tr>
