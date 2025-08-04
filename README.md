@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://vatsayush263.github.io/AyushVats/">
+                    <img src="https://avatars.githubusercontent.com/u/62438731?s=400&u=3830aca8a5ae9e51fc17adeb1188ffdf4e57ea71&v=4" width="100px;" alt="Ayush Vats"/>
+                    <br />
+                    <sub><b>Ayush Vats</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
