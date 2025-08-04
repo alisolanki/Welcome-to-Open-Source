@@ -4297,6 +4297,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">   
+                <a href="https://github.com/Priyankamadire">
+                    <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" width="100px;" alt="Priyanka Madire"/>
+                    <br />
+                    <sub><b>Priyanka Madire</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;"
