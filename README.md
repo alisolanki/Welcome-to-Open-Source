@@ -1677,6 +1677,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://vardaquraishi.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/69358136?v=4" width="100px;" alt="Varda Quraishi"/>
+                    <br />
+                    <sub><b>Varda Quraishi</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://asad-imtiaz-rana.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/45901471?v=4" width="100px;" alt="Asad Rana"/>
+                    <br />
+                    <sub><b>Asad Rana</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
