@@ -3330,6 +3330,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/GouthamV10">
+                    <img src="https://avatars.githubusercontent.com/u/92242436?v=4" width="100px;" alt="Goutham V"/>
+                    <br />
+                    <sub><b>Goutham V</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/MD-Saaad">
                     <img src="https://avatars.githubusercontent.com/u/125855647?v=4" width="100px;"
                         alt="Mohammed Saad Sayyed" />
