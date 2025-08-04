@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rahul-Pachare">
+                    <img src="https://avatars.githubusercontent.com/u/117570258?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>rahul Pachare</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
