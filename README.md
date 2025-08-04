@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://spidernishanta.github.io">
+                    <img src="https://avatars.githubusercontent.com/u/99504411?v=4" width="100px;" alt="Nishanta Kakati"/>
+                    <br />
+                    <sub><b>Nishanta Kakati</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
