@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://luizfboss.github.io/my_portfolio/">
+                    <img src="https://avatars.githubusercontent.com/u/88173271?v=4" width="100px;" alt="Luiz Bossetto"/>
+                    <br />
+                    <sub><b>Luiz Bossetto</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
