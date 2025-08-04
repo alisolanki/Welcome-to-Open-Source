@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            *<td align="center">
+                <a href="https://github.com/dev-with-asmie/">
+                    <img src="https://avatars.githubusercontent.com/u/174164322?v=4" width="100px;" alt="Asmita Chakraborty"/>
+                    <br />
+                    <sub><b>Asmita Chakraborty</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
