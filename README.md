@@ -960,7 +960,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
-            </td>
+            </td>            
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
@@ -1676,6 +1676,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Supriya Bharti</b>
                     </sub>
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pallavgoswami">
+                    <img src="https://avatars.githubusercontent.com/u/66618685?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Pallav Goswami</b></sub>
+                </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
