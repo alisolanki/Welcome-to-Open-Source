@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Avik181">
+                    <img src="https://avatars.githubusercontent.com/u/90629123?v=4" width="100px;" alt="Avik Baidya"/>
+                    <br />
+                    <sub><b>Avik Baidya</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
