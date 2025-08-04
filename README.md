@@ -961,6 +961,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/Rushikeshrandive97">
+                    <img src="https://tse1.mm.bing.net/th?id=OIP.eoZPB2gfGH-1ckaL_JSZdwAAAA&pid=Api&P=0&h=180" width="100px;" alt="Rushikesh Randive"/>
+                    <br />
+                    <sub><b>Rushikesh Randive</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
