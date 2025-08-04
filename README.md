@@ -2092,6 +2092,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Kaustubhbh23">
+                    <img src="https://github.com/account" width="100px;" alt="Kaustubh Bhardwaj"/>
+                    <br />
+                    <sub><b>Kaustubh Bhardwaj</b></sub>
+                </a>
+             </td>
+            <td align="center">
                 <a href="https://github.com/jerinwilson7">
                     <img src="https://avatars.githubusercontent.com/u/74110171?v=4" width="100px;"
                         alt="Jerin Wilson" />
