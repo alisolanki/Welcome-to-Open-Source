@@ -349,6 +349,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://harisifti.vercel.app/">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHO47Gquk30WQ/profile-displayphoto-crop_800_800/B4DZe15NG0GYAM-/0/1751103364279?e=1756944000&v=beta&t=LW2ULXoY015oMA8xFyJLdnCaREUon4sVz3x6QW7r57M" width="100px;"
+                        alt="Haris" />
+                    <br />
+                    <sub>
+                        <b>Haris Iftikhar</b>
+                    </sub>
+                </a>
+            </td>****
+            <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
                         alt="Mayank Nihalani" />
