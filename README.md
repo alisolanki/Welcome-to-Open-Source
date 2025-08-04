@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arjunsinghpal26">
+                    <img src="https://avatars.githubusercontent.com/u/144533453?v=4" width="100px;" alt="Arjun Singh Pal"/>
+                    <br />
+                    <sub><b>Arjun Singh Pal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
