@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <tr>
+            <td align="center">
+                <a href="https://github.com/abhix201">
+                    <img src="https://avatars.githubusercontent.com/u/57822136?v=4" width="100px;" alt="Abhijeet Gupta"/>
+                    <br />
+                    <sub><b>Abhijeet Gupta</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
