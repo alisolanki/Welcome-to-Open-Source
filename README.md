@@ -1729,6 +1729,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/roc102">
+                    <img src="https://avatars.githubusercontent.com/u/100594349?s=400&v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Mohammad Fahad Rahman</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
