@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Skelptin">
+                    <img src="https://avatars.githubusercontent.com/u/80717066?v=4" width="100px;" alt="Mayank Painkra"/>
+                    <br />
+                    <sub><b>Mayank Painkra</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
