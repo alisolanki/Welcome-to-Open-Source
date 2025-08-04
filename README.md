@@ -1729,6 +1729,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rutikgagare">
+                    <img src="https://avatars.githubusercontent.com/u/85502114?v=4" width="100px;" alt="Rutik Gagare"/>
+                    <br />
+                    <sub><b>Rutik Gagare</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
