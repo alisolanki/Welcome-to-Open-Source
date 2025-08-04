@@ -3647,6 +3647,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://divasraj.netlify.app/">
+                    <img src="https://divasraj.netlify.app/static/media/heroImage.e8211a8ca6a0d4d34ddc.png" width="100px;" alt="Divasraj Vimal"/>
+                    <br />
+                    <sub><b>Divasraj Vimal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
