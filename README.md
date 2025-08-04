@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rahulbansalc6414">
+                    <img src="https://avatars.githubusercontent.com/u/25390780?v=4" width="100px;" alt="Rahul Bansal"/>
+                    <br />
+                    <sub><b>Rahul Bansal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
