@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MIRRUDHULA/">
+                    <img src="https://avatars.githubusercontent.com/u/99161216?v=4" width="100px;" alt="Mirrudhula R"/>
+                    <br />
+                    <sub><b>Mirrudhula R</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
