@@ -1883,6 +1883,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/mugdha-mirashi-2b1853177/">
+                 <img src="https://avatars.githubusercontent.com/u/131751822?v=4" width="100px;" alt="Mugdha Mirashi"/>
+                    <br />
+                    <sub><b>Mugdha S Mirashi</b></sub>
+                </a>
+             </td>
         </tr>
         <tr>
             <td align="center">
