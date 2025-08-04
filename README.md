@@ -1408,6 +1408,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/fhd211">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4https://avatars.githubusercontent.com/u/112376231?v=4" width="100px;" alt="fahad masood"/>
+                    <br />
+                    <sub><b>fahad masood</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
