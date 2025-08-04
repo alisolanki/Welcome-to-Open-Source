@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KaranGulve4342">
+                    <img src="https://avatars.githubusercontent.com/u/144559385?v=4" width="100px;" alt="Karan Gulve"/>
+                    <br />
+                    <sub><b>Karan Gulve</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
