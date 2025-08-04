@@ -4418,6 +4418,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv!!</b></sub>
                 </a>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/RishabB54">
+                    <img src="https://avatars.githubusercontent.com/u/100710030?v=4" width="100px;" alt="Rishab Bairi"/>
+                    <br />
+                    <sub><b>Rishab Shrinivas Bairi</b></sub>
+                </a> 
             </td>
         </tr>
         <tr>
