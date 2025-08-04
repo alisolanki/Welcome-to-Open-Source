@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+          <td align="center">
+                <a href="https://github.com/Dhayanidhi-M">
+                    <img src="https://avatars.githubusercontent.com/u/41565774?s=400&u=fcd6ba8247ce4babe08392768ec384048a12c63a&v=4" width="100px;" alt="Dhaya M"/>
+                    <br />
+                    <sub><b>Dhaya M</b></sub>
+                </a>
+            </td>  
         </tr>
         <tr>
             <td align="center">
