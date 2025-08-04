@@ -1979,6 +1979,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/RiteshTiwari554">
+                    <img src="https://avatars.githubusercontent.com/u/84981640?v=4" width="100px;" alt="Ritesh Tiwari"/>
+                    <br />
+                    <sub><b>Ritesh Tiwari</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/a60231023">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4"
