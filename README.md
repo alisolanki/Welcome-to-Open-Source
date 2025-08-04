@@ -1883,6 +1883,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Silent-ADARSH">
+                    <img src="https://avatars.githubusercontent.com/u/130668380?v=4" width="100px;" alt="Naga sai purvaz"/>
+                    <br />
+                    <sub><b>Adarsh Agrawal</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
