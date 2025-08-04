@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/someshbhosale">
+                    <img src="https://avatars.githubusercontent.com/u/53855250?v=4" width="100px;" alt="Somesh Bhosale"/>
+                    <br />
+                    <sub><b>Somesh Bhosale</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
