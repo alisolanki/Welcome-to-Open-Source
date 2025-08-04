@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vijitchandhok">
+                    <img src="https://avatars.githubusercontent.com/u/38457671?v=4" width="100px;" alt="Vijit Chandhok"/>
+                    <br />
+                    <sub><b>Vijit Chandhok</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
