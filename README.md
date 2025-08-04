@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/KPR111">
+                    <img src="https://avatars.githubusercontent.com/u/105378982?v=4" width="100px;" alt="Prudvi Raj"/>
+                    <br />
+                    <sub><b>Prudvi Raj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
