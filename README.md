@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/saikota7">
+                    <img src="https://avatars.githubusercontent.com/u/96785985?v=4" width="100px;" alt="Sahil Ansari"/>
+                    <br />
+                    <sub><b>Sai Krishna</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
