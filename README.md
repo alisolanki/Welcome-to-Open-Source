@@ -4418,6 +4418,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv!!</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/ollie-walters">
+                    <img src="https://avatars.githubusercontent.com/u/149890444?s=400&v=4" width="100px;" alt="Ollie W"/>
+                    <br />
+                    <sub><b>Ollie W</b></sub>
+                </a>
+            </td>
             </td>
         </tr>
         <tr>
