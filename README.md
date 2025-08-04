@@ -4255,6 +4255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/animex007">
+                    <img src="https://avatars.githubusercontent.com/u/93252366?v=4" width="100px;" alt="Ayush "/>
+                    <br />
+                    <sub><b>Ayush Jagdhane</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
