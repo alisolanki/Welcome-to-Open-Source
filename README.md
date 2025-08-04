@@ -77,6 +77,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+ <td align="center">
+                <a href="https://github.com/shrutim250">
+                    <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
+                        alt="shruti" />
+                    <br />
+                    <sub>
+                        <b>shruti</b>
+                    </sub>
+                </a>
+            </td>
+
+
+
              <td align="center">
                 <a href="https://github.com/Manali-26">
                     <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
