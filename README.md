@@ -1946,6 +1946,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AKSHAT9RAWAT">
+                    <img src="https://avatars.githubusercontent.com/u/133158142?v=4" width="100px;" alt="Akshat Rawat"/>
+                    <br />
+                    <sub><b>Akshat Rawat</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lmutum">
                     <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;"
                         alt="Lakshman Mutum" />
