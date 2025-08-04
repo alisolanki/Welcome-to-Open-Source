@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Safiullahkorai-786">
+                    <img src="https://avatars.githubusercontent.com/u/100577588?s=96&v=4" width="100px;" alt="Safiullah Korai"/>
+                    <br />
+                    <sub><b>Safiullah Korai</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
