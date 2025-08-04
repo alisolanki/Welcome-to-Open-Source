@@ -1729,6 +1729,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/CHimPat073">
+                    <img src="https://avatars.githubusercontent.com/u/160420019?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Himanshu Pathak</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
