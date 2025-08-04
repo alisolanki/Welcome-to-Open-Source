@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/samyulakshmi">
+                    <img src="https://avatars.githubusercontent.com/u/59084896?s=400&u=4c38fe2e22ebaa608252511b189387cf6adbedd1&v=4" width="100px;" alt="Samyu Lakshmi"/>
+                    <br />
+                    <sub><b>Samyu Lakshmi</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
