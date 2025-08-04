@@ -1728,6 +1728,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ananyaa-git">
+                    <img src="https://avatars.githubusercontent.com/u/167628421?s=400&u=822aa905cd70c651830c4eac1903ef796ddbd312&v=4" width="100px;" alt="Ananya Madugula"/>
+                    <br />
+                    <sub><b>Ananya Madugula</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
