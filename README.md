@@ -4419,6 +4419,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kush-17">
+                    <img src="https://avatars.githubusercontent.com/u/99340017?v=4" width="100px;" alt="Kush Dalsaniya "/>
+                    <br />
+                    <sub><b>Kush Dalsaniya</b></sub>
+            </td>
         </tr>
         <tr>
             <td align="center">
