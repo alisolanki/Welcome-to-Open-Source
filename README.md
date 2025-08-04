@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sahilchandna60">
+                    <img src="https://avatars.githubusercontent.com/u/51737109?v=4" width="100px;" alt="Sahil Chandna"/>
+                    <br />
+                    <sub><b>Sahil Chandna</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
