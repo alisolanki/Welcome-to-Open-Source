@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Atharvaraut19">
+                    <img src="https://avatars.githubusercontent.com/u/99032908?v=4" width="100px;" alt="Atharva Raut"/>
+                    <br />
+                    <sub><b>Atharva Raut</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
