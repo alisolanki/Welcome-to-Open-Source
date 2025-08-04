@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/aanurag24">
+                    <img src="https://yt3.ggpht.com/a/AATXAJzyyX9paXWZg-ygdFuQC6RS3cthw4W-sLwVzg=s900-c-k-c0xffffffff-no-rj-mo" width="100px;" alt="Anurag"/>
+                    <br />
+                    <sub><b>Anurag Anand</b></sub>
+                </a> 
+            </td>
+            
         </tr>
         <tr>
             <td align="center">
