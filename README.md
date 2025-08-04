@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ShivamPrajapati666">
+                    <img src="https://avatars.githubusercontent.com/u/114594317?s=400&u=8be4c3a71ec0b773de1ed41366aa1bcb37143369&v=4" width="100px;" alt="SHIVAM PRAJAPATI"/>
+                    <br />
+                    <sub><b>SHIVAM PRAJAPATI</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
