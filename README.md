@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://codexhimanshu.in/">
+                    <img src="https://avatars.githubusercontent.com/u/110885026?v=4" width="100px;" alt="Himanshu Pal"/>
+                    <br />
+                    <sub><b>Himanshu Pal</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
