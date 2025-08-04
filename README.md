@@ -4298,6 +4298,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/SOORYAprakash28">
+                    <img src="https://avatars.githubusercontent.com/u/151657974?s=400&u=8048c8897865ebe9f536de95459ee52e30b6d3e1&v=4" width="100px;" alt="Soorya Prakash"/>
+                    <br />
+                    <sub><b>Soorya Prakash</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;"
                         alt="Shubham Raut" />
