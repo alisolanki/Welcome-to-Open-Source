@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+               </td>
+            <td align="center">
+                <a href="https://github.com/salGitDev/">
+                    <img src="https://avatars.githubusercontent.com/u/125782044?v=4" width="100px;" alt="Ibrahim Salieu Kamara"/>
+                    <br />
+                    <sub><b>Ibrahim Salieu Kamara</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
