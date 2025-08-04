@@ -19,22 +19,19 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
+    <a href="https://www.instagram.com/warrior8004/">
+        <img height="50" src="https://instagram.fblr17-1.fna.fbcdn.net/v/t51.2885-19/305311676_439336878006131_8414764687254082880_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fblr17-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=M8mdF8m4zRYAX9fo3kV&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBjXeTffJzHyPHO0Qo2I85TiLAfx-sjXgRVZJ-jdWFJfQ&oe=6479263B&_nc_sid=640168" alt="Parvez Mustak"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <a href="https://www.linkedin.com/in/parvezmustak8004/">
+        <img height="50" src="https://media.licdn.com/dms/image/D5635AQGMPmNW2Pwj9w/profile-framedphoto-shrink_200_200/0/1673805824492?e=1685908800&v=beta&t=9Ni49FJAOWVhPng6kGu05xz0JPDksfyaV29tKEHBBxA" alt="Parvez Mustak"/>
     </a>
-    <a href="https://www.youtube.com/AliSolanki">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
-    <a href="https://www.instagram.com/alisolankii">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <a href="https://www.facebook.com/Warrior8004/">
+        <img height="50" src="https://scontent.fblr17-1.fna.fbcdn.net/v/t39.30808-6/302252084_5397507303651971_325281832916952832_n.jpg?stp=dst-jpg_p720x720&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LnHOcwFizO4AX_10I6O&_nc_ht=scontent.fblr17-1.fna&oh=00_AfDCLlYO2W7okWHrZGRxQ7XHv0eWWVXfQVvVYqkfRlqk8g&oe=647835F0" alt="Parvez Mustak"/>
     </a>
 </p>
   
 <p align="center">
-  <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
+  <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFhZGMxMzA0NzlkODFmNjk0ZmI5MjAyM2RjYTZjNTkzYmNjYmMwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ekjmhJUGHJm7FC4Juo/giphy.gifttps://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif" alt="Parvez Mustak">
 </p>
 
 ## Contributors 🍉
