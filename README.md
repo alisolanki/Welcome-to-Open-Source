@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Abhi-MS">
+                    <img src="https://avatars.githubusercontent.com/u/113867502?v=4" width="100px;" alt="Abhi Murali"/>
+                    <br />
+                    <sub><b>Abhi Murali</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
