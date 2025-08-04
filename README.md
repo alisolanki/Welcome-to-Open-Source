@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/m1s6ah">
+                    <img src="https://avatars.githubusercontent.com/u/140872652?v=4" width="100px;" alt="m1s6ah"/>
+                    <br />
+                    <sub><b>m1s6ah</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
