@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Mooosiee">
+                    <img src="https://avatars.githubusercontent.com/u/140048632?v=4" width="100px;" alt="Musfiraa Arif"/>
+                    <br />
+                    <sub><b>Musfiraa Arif</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
