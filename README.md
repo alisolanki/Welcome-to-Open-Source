@@ -3607,6 +3607,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/muhdmaahee2000/">
+                    <img src="https://avatars.githubusercontent.com/u/111685495?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Mahi Sa'id</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/swarajcodes">
                     <img src="https://avatars.githubusercontent.com/u/110276137?v=4" width="100px;"
