@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+              <tr>
+            <td align="center">
+                <a href="https://github.com/shradha-2022">
+                    <img src="https://avatars.githubusercontent.com/u/91013212?s=96&v=4" width="100px;" alt="Shradha Guttedar"/>
+                    <br />
+                    <sub><b>Shradha Guttedar</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
