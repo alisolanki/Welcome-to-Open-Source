@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/singhakarsh">
+                    <img src="https://avatars.githubusercontent.com/u/93285084?v=4" width="100px;" alt="Akarsh Singh"/>
+                    <br />
+                    <sub><b>Akarsh Singh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
