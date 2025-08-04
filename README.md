@@ -3339,6 +3339,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/fawad-10">
+                    <img src="https://avatars.githubusercontent.com/u/106027664?v=4" width="100px;" alt="Ahmed Fawad Awan Git Profile Icon"/>
+                    <br />
+                    <sub><b>Ahmed Fawad Awan 🍉</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/skmominali17">
                     <img src="https://avatars.githubusercontent.com/u/106405220?v=4" width="100px;"
