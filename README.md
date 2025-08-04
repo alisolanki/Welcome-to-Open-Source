@@ -1751,6 +1751,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://deviprasadportfolio.onrender.com/">
+                    <img src="https://avatars.githubusercontent.com/u/112897365?v=4" width="100px;" alt="Devi Prasad K L"/>
+                    <br />
+                    <sub><b>Devi Prasad K L</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
                         alt="Preeti Raj" />
