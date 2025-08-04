@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/Abhisheknik">
+                    <img src="https://avatars.githubusercontent.com/u/79035081?s=400&u=c69bd55820c63c2b43f4bf4f428c73861a459e5c&v=4" width="100px;" alt="Abhishek Nikam"/>
+                    <br />
+                    <sub><b>Abhishek Nikam</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
