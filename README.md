@@ -4419,6 +4419,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Hozei">
+                    <img src="https://avatars.githubusercontent.com/u/122771226?v=4" width="100px;" alt="Hosea Noabeb"/>
+                    <br />
+                    <sub><b>Hosea Noabeb</b></sub>
+                </a>
+            </td>
+            
+
+
         </tr>
         <tr>
             <td align="center">
