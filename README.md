@@ -168,6 +168,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/paylotparimal">
+                    <img src="https://avatars.githubusercontent.com/u/161572198?s=400&u=7bcc579fb0b4b015bc073fc36186c723228bb471&v=4" width="100px;"
+                        alt="Paylot Parimal" />
+                    <br />
+                    <sub>
+                        <b>Paylot Parimal</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/ajmal-uk">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
