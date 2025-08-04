@@ -77,6 +77,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vishalpraja777/">
+                    <img src="https://avatars.githubusercontent.com/u/72211548?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Vishal Prajapathi</b></sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Manali-26">
                     <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
