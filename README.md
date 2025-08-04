@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/BhoirSanika07">
+                    <img src="https://avatars.githubusercontent.com/u/113921498?v=4" width="100px;" alt="Bhoir Sanika "/>
+                    <br />
+                    <sub><b>Bhoir Sanika</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
