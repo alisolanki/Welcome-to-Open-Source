@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/tushartari11">
+                    <img src="https://avatars.githubusercontent.com/u/13728393?v=4" width="100px;" alt="Tushar Tari"/>
+                    <br />
+                    <sub><b>Tushar Tari</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
