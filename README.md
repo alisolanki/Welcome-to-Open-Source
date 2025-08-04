@@ -1729,6 +1729,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rachitbin">
+                    <img src="https://avatars.githubusercontent.com/u/168405080?v=4" width="100px;" alt="Rachit Singh Rana"/>
+                    <br />
+                    <sub><b>Rachit Singh Rana</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
