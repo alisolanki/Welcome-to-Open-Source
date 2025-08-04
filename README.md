@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sachinv26">
+                    <img src="https://avatars.githubusercontent.com/u/76443132?v=4" width="100px;" alt="Sachin Verma"/>
+                    <br />
+                    <sub><b>Sachin Verma</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
