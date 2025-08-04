@@ -1980,6 +1980,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ritesh7748">
+                    <img src="https://avatars.githubusercontent.com/u/97138931?v=4" width="100px;" alt="Ritesh Burriwar"/>
+                    <br />
+                    <sub><b>Ritesh Burriwar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/a60231023">
                     <img src="https://avatars.githubusercontent.com/u/99108631?s=400&v=4"
                         width="100px;" alt="Ayush Tiwari" />
