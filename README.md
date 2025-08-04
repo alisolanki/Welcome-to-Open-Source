@@ -4267,6 +4267,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/sharmasakshu">
+                    <img src="https://avatars.githubusercontent.com/u/100443219?v=4" width="100px;" alt="Sakshi"/>
+                    <br />
+                    <sub><b>Sakshi Sharma</b></sub>
+               </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/sukhendup">
                     <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;"
