@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anshukaushik4700">
+                    <img src="https://avatars.githubusercontent.com/u/149860576?s=400&u=9fc14ec0d5f6c863902386b1deb431e4d9d67a14&v=4" width="100px;" alt="Anshu Kaushik"/>
+                    <br />
+                    <sub><b>Anshu Kaushik</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
