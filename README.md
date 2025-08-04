@@ -4268,6 +4268,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MuaviaAsghar">
+                    <img src="https://avatars.githubusercontent.com/u/86926480?v=4" width="100px;" alt="Muavia Asghar"/>
+                    <br />
+                <sub><b>Muavia Asghar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sukhendup">
                     <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;"
                         alt="Sukhendu Patra" />
