@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rahulagg7">
+                    <img src="https://avatars.githubusercontent.com/u/98452650?v=4" width="100px;" alt="Rahul Aggarwal"/>
+                    <br />
+                    <sub><b>Rahul Aggarwal</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
