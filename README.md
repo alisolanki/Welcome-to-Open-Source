@@ -3297,6 +3297,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kishan-Kumar-Zalavadia">
+                    <img src="https://avatars.githubusercontent.com/u/90181433?v=4" width="100px;" alt="Kishan Kumar Zalavadia"/>
+                    <br />
+                    <sub><b>Kishan Kumar Zalavadia</b></sub>
+                </a>
+            </td>
+
         </tr>
         <tr>
             <td align="center">
