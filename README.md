@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/devibala99">
+                    <img src="https://avatars.githubusercontent.com/u/139151960?s=400&u=3c311434e120ad4a3d394e5f9cc1d44149b6d74d&v=4" width="100px;" alt="Devi Bala"/>
+                    <br />
+                    <sub><b>Devi Bala</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
