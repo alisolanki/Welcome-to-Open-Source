@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/manupanand">
+                    <img src="https://avatars.githubusercontent.com/u/96671675?v=4" width="100px;" alt="Manu P Anand"/>
+                    <br />
+                    <sub><b>Manu P Anand</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
