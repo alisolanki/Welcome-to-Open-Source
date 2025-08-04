@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kartik2318">
+                    <img src="https://avatars.githubusercontent.com/u/88738699?v=4" width="100px;" alt="Kartik Patare"/>
+                    <br />
+                    <sub><b>Kartik Patare</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
