@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/matheusgmello">
+                    <img src="https://avatars.githubusercontent.com/u/109988623?v=4" width="100px;" alt="Matheus Mello"/>
+                    <br />
+                    <sub><b>Matheus Mello</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
