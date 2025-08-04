@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kanhaiyasinha">
+                    <img src="https://avatars.githubusercontent.com/u/147611285?v=4" width="100px;" alt="Kanhaiya Sinha"/>
+                    <br />
+                    <sub><b>Kanhaiya Sinha</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
