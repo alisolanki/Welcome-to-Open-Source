@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/KumarAditya07">
+                    <img src="https://i.ibb.co/XsnZrCT/IMG20221225194937.jpg" width="100px;" alt="Kr Aditya"/>
+                    <br />
+                    <sub><b>Kumar Aditya</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
