@@ -1833,6 +1833,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">   
+                <a href="https://github.com/VaradScript">
+                    <img src="[[https://avatars.githubusercontent.com/u/115893185?v=4]](https://avatars.githubusercontent.com/u/108749445?v=4)" width="100px;" alt="varadScript"/>
+                    <br />
+                    <sub><b>Varadscript</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/akshaykamath45">
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;"
