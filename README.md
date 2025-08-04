@@ -1728,6 +1728,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/kimgupta">
+                    <img src="https://avatars.githubusercontent.com/u/113166370?s=400&u=6ede72e4fbdb86a3bb4312668823ff8001963ff0&v=4" width="100px;" alt="Kim Gupta"/>
+                    <br />
+                    <sub><b>Kim Gupta</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
