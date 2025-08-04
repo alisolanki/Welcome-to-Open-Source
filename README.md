@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/Arhamalii">
+                    <img src="https://avatars.githubusercontent.com/u/130234236?v=4" width="100px;" alt="Syed Arham Ali"/>
+                    <br />
+                    <sub><b>Syed Arham Ali</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
