@@ -4298,6 +4298,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/LEKHRAJYADAV8190">
+                    <img src="https://avatars.githubusercontent.com/u/143577648?v=4" width="100px;" alt="Lekhraj"/>
+                    <br />
+                    <sub><b>Lekhraj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;"
                         alt="Shubham Raut" />
