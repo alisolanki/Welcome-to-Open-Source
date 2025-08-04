@@ -2062,6 +2062,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/varsh3a">
+                    <img src="https://avatars.githubusercontent.com/u/105740304?s=400&u=b0f72889f31406785c22fda8916379c0e1cbf955&v=4" width="100px;" alt="Varsha"/>
+                    <br />
+                    <sub><b>Yeshala Sri Varsha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Rahul-lalwani-learner">
                     <img src="https://avatars.githubusercontent.com/u/82160150?v=4" width="100px;"
                         alt="Rahul Lalwani" />
