@@ -4307,6 +4307,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/PradunyaDarkonde">
+                    <img src="https://avatars.githubusercontent.com/u/144816742?v=4" width="100px;" alt="Pradunya Darkonde"/>
+                    <br />
+                    <sub><b>Pradunya Darkonde</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://sites.google.com/view/prajapatsur/home">
                     <img src="https://avatars.githubusercontent.com/u/100709956?v=4" width="100px;"
