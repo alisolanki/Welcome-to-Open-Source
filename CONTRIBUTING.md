@@ -18,10 +18,10 @@
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://portfolio-tejas3500raut.netlify.app/">
+            <img src="https://www.shutterstock.com/image-vector/mathematics-background-binary-numbers-random-pattern-2285700277" width="100px;" alt="Image"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Tejas Raut</b></sub>
         </a>
     </td>
            <td align="center">
