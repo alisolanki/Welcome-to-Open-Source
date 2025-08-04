@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://arshadmq.com/">
+                    <img src="https://avatars.githubusercontent.com/u/54259677?v=4" width="100px;" alt="Mohd Arshad"/>
+                    <br />
+                    <sub><b>Mohd Arshad</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
