@@ -1863,6 +1863,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ritik1172">
+                    <img src="https://avatars.githubusercontent.com/u/86961733?v=4" width="100px;" alt="Akshay Kamath"/>
+                    <br />
+                    <sub><b>Ritik</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;"
