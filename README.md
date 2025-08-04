@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Doreen970">
+                    <img src="https://avatars.githubusercontent.com/u/116811745?v=4" width="100px;" alt="Doreen Peace Nangira Wanyama"/>
+                    <br />
+                    <sub><b>Doreen Peace Nangira Wanyama</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
