@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                                    <td align="center">
+                <a href="https://harshvaidya-portfolio.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/107319669?s=96&v=4" width="100px;" alt="Harsh Vaidya"/>
+                    <br />
+                    <sub><b>Harsh Vaidya</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
