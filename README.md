@@ -3503,6 +3503,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/akshaygrim">
+                    <img src="https://avatars.githubusercontent.com/u/111304670?v=4" width="100px;" alt="Akshay"/>
+                    <br />
+                    <sub><b>Akshay K</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
