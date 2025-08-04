@@ -1409,6 +1409,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Vicky-Raghuwanshi/">
+                    <img src="https://avatars.githubusercontent.com/u/67050782?v=4" width="100px;" alt="Vicky Raghuwanshi"/>
+                    <br />
+                    <sub><b>Vicky Raghuwanshi</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
                         alt="Harsh Pandey" />
