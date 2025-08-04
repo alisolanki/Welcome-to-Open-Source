@@ -1874,6 +1874,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rajiv620019">
+                    <img src="https://avatars.githubusercontent.com/u/106421755?v=4" width="100px;" alt="Rajiv S"/>
+                    <br />
+                    <sub><b>Rajiv S</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.ashirwadshetye.com">
                     <img src="https://avatars.githubusercontent.com/u/99337222?v=4" width="100px;"
                         alt="Ashirwad Shetye" />
