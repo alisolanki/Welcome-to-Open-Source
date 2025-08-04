@@ -4383,6 +4383,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/imDarshanGK">
+                    <img src="https://avatars.githubusercontent.com/u/122042809?v=4" width="100px;" alt="Darshan G K"/>
+                    <br />
+                    <sub><b>Darshan G K</b></sub>
+                </a>
+            </td>
+            <td>
                 <a href="https://github.com/SAINARENDRAPANGA">
                     <img src="https://avatars.githubusercontent.com/u/101690241?v=4" width="100px;"
                         alt="SAI NARENDRA PANGA" />
