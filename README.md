@@ -1751,6 +1751,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Rask133">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-are-the-top-10-hottest-over-20-year-old-anime-women&psig=AOvVaw2G1Kks4zzJ1VLHrTzVR9wL&ust=1695530612154000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjBpPH1v4EDFQAAAAAdAAAAABAR" width="100px;" alt="Vivek Thakur"/>
+                    <br />
+                    <sub><b>Rasika. </b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
                         alt="Preeti Raj" />
