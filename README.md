@@ -4418,7 +4418,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv!!</b></sub>
                 </a>
-            </td>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/FreddyC08">
+                    <img src="https://avatars.githubusercontent.com/u/81486482?v=4" width="100px;" alt="Freddy Clarke"/>
+                    <br />
+                    <sub><b>Freddy Clarke</b></sub>
+                </a>
+            </td> 
         </tr>
         <tr>
             <td align="center">
