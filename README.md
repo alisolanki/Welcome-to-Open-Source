@@ -5482,5 +5482,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Jayasri00">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Jaya Sri" />
+                    <br />
+                    <sub>
+                        <b>Jaya Sri</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
