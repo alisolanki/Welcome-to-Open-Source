@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nancygupta2912">
+                    <img src="https://avatars.githubusercontent.com/u/155845911?s=400&u=afd77d9b1bc9c687edcddf8803f8a6ffec19ed0d&v=4" width="100px;" alt="Nancy Gupta"/>
+                    <br />
+                    <sub><b>Nancy Gupta</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
