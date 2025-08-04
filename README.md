@@ -1728,6 +1728,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/poojajoshi9756">
+                    <img src="https://avatars.githubusercontent.com/u/149609998?s=400&u=c573ec4c338ab9c302aa05125eb46df3234da20a&v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Pooja Joshi</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
