@@ -1729,6 +1729,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sanjaychilveri">
+                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Shivani</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sanjaychilveri">
+                    <img src="https://avatars.githubusercontent.com/u/84266253?v=4" width="100px;" alt="Sanjay Gopal Chilveri"/>
+                    <br />
+                    <sub><b>Sanjay Gopal Chilveri</b></sub>    
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
                         alt="Vivek Thakur" />
