@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/PritamP20">
+                    <img src="https://pbs.twimg.com/profile_images/1835328813036642304/V3P-zecs_400x400.jpg" width="100px;" alt="CrypticNomand"/>
+                    <br />
+                    <sub><b>CrypticNomand</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
