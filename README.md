@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/shivam201483101">
+                    <img src="https://avatars.githubusercontent.com/u/90692103?v=4" width="100px;" alt="Shivam Pandey"/>
+                    <br />
+                    <sub><b>Shivam Pandey</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
