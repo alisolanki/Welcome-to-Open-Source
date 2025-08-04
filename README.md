@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/soshal">
+                    <img src="https://avatars.githubusercontent.com/u/111147773?s=400&u=753960e81583cc178824ffb5f89e5795320060bb&v=4" width="100px;" alt="Soshal"/>
+                    <br />
+                    <sub><b>Soshal Yadav</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
