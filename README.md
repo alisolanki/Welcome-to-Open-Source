@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/AYUSH9393">
+                    <img src="https://avatars.githubusercontent.com/u/123872432?v=4" width="100px;" alt="Ayush"/>
+                    <br />
+                    <sub><b>Ayush Patel</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
