@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/WilsonOluwafemi">
+                    <img src="https://avatars.githubusercontent.com/u/129217873?v=4" width="100px;" alt="Wilson"/>
+                    <br />
+                    <sub><b>O Wilson</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
