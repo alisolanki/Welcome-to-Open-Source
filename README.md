@@ -2010,6 +2010,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Lal1th">
+                    <img src="https://heyitszel.wordpress.com/wp-content/uploads/2017/10/aomine_zone1.jpg?w=1200" width="1200px;" alt="Aomine "/>
+                    <br />
+                    <sub><b>Aomine Daiki</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AnshumanAtrey">
                     <img src="https://avatars.githubusercontent.com/u/92643581?v=4" width="100px;"
                         alt="Anshuman Atrey" />
