@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/IronPython25">
+                    <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Emmanuel Yombwe"/>
+                    <br />
+                    <sub><b>Emmanuel Yombwe</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
