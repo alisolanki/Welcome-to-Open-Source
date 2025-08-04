@@ -5482,5 +5482,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Sharad1013">
+                    <img src="https://avatars.githubusercontent.com/u/123639018?v=4" width="100px;"
+                        alt="Sharad Sinha" />
+                    <br />
+                    <sub>
+                        <b>Rohan Patil</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
