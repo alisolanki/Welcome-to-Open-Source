@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Debbie-dot5">
+                    <img src="https://avatars.githubusercontent.com/u/144336947?s=400&u=606ccd4ebd253e62eb62e910889691c44b1bb961&v=4" width="100px;" alt="Umoh Debbie"/>
+                    <br />
+                    <sub><b>UmohDebbie</b></sub>
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
