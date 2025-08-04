@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/RiyaBanik003">
+            <img src="https://github.com/account" width="100px;" alt="Riya Banik"/>
+            <br />
+            <sub><b>Riya Banik
+        </a>
+    </td>
     
     ```
 
