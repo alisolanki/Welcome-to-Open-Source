@@ -4255,6 +4255,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/0x1Shub">
+                    <img src="https://avatars.githubusercontent.com/u/127608511?v=4" width="100px;" alt="Shubham Yeram"/>
+                    <br />
+                    <sub><b>Shubham Yeram</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
