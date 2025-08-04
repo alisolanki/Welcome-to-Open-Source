@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://muazimmaqbool.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/69387220?v=4" width="100px;" alt="Muazim Maqbool"/>
+                    <br />
+                    <sub><b>Muazim Maqbool</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
