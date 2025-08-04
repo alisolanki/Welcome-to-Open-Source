@@ -60,7 +60,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/idfcLeo">
                     <img src="https://avatars.githubusercontent.com/u/145744596?v=4" width="100px;"
-                        alt="Shere Habib" />
+                        alt="Md Shere Habib" />
                     <br />
                     <sub>
                         <b>Shere Habib</b>
