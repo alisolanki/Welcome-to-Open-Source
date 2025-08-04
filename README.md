@@ -1873,6 +1873,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/navneetnavs">
+                    <img src="https://avatars.githubusercontent.com/u/133754964?v=4" width="100px;" alt="Navneet Singh"/>
+                    <br />
+                    <sub><b>Navneet Singh</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://www.ashirwadshetye.com">
                     <img src="https://avatars.githubusercontent.com/u/99337222?v=4" width="100px;"
