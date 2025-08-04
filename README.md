@@ -169,6 +169,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/SohamPramanik">
+                    <img src="https://avatars.githubusercontent.com/u/158486159?v=4" width="100px;"
+                        alt="Soham Pramanik" />
+                    <br />
+                    <sub>
+                        <b>Soham Pramanik</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ajmal-uk">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
                         alt="Ali Solanki" />
