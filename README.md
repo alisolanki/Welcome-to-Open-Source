@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/roykhushi">
+                    <img src="https://avatars.githubusercontent.com/u/93764347?v=4" width="100px;" alt="Khushi Roy"/>
+                    <br />
+                    <sub><b>Khushi Roy</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
