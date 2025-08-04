@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yogitasoma">
+                    <img src="https://avatars.githubusercontent.com/u/117525973?v=4" width="100px;" alt="Yogita Soma"/>
+                    <br />
+                    <sub><b>Yogita Soma</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
