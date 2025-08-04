@@ -5488,7 +5488,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Sharad Sinha" />
                     <br />
                     <sub>
-                        <b>Rohan Patil</b>
+                        <b>Sharad Sinha</b>
                     </sub>
                 </a>
             </td>
