@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shivanand512">
+                    <img src="https://avatars.githubusercontent.com/u/115731796?v=4" width="100px;" alt="Biradar Shivanand"/>
+                    <br />
+                    <sub><b>Biradar Shivanand</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
