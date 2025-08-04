@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Maha-247">
+                    <img src="https://avatars.githubusercontent.com/u/54761944?v=4" width="100px;" alt="Mahalakshmi"/>
+                    <br />
+                    <sub><b>Mahalakshmi</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
