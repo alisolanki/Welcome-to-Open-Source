@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Subin-Vidhu">
+                    <img src="https://media.licdn.com/dms/image/C5603AQFqHBS99edBsg/profile-displayphoto-shrink_100_100/0/1659264623504?e=1714003200&v=beta&t=8wBXz62Iwol3RD0XROWFg3SKVEQVmqZRBCw7rkBNAkk" width="100px;" alt="Subin Vidhu"/>
+                    <br />
+                    <sub><b>Subin Vidhu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
