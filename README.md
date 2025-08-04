@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kamtendra">
+                    <img src="https://avatars.githubusercontent.com/u/82711553?v=4" width="100px;" alt="Kamtendra Pratap Singh"/>
+                    <br />
+                    <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
