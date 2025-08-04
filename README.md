@@ -4206,6 +4206,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Jamessdevops">
+                    <img src="https://avatars.githubusercontent.com/u/142910595?v=4" width="100px;" alt="James paul S"/>
+                    <br />
+                    <sub><b>James Paul S</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Siva9727">
                     <img src="https://avatars.githubusercontent.com/u/95659745?v=4" width="100px;"
                         alt="Sivasakthi M" />
