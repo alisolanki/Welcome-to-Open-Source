@@ -199,6 +199,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/setusairam">
+                    <img src="https://avatars.githubusercontent.com/u/123949620?v=4" width="100px;"
+                        alt="Setu Sai Ram" />
+                    <br />
+                    <sub>
+                        <b>Setu Sai Ram</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Bhupesh-081">
                     <img src="https://avatars.githubusercontent.com/u/150279405?v=4" width="100px;"
                         alt="Bhupesh Nandardhane" />
