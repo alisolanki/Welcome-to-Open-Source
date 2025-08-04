@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Kendyelisca">
+                    <img src="https://avatars.githubusercontent.com/u/99511929?s=400&u=ee5cacbf47e78d8716f2e78bbd65380e6af669ab&v=4" width="100px;" alt="Kendy Elisca"/> 
+                    <br />
+                    <sub><b>Kendy Elisca</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
