@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ALLENGJOSE">
+                    <img src="https://avatars.githubusercontent.com/u/114815957?v=4" alt="Allen G Jose"/>
+                    <br />
+                    <sub><b>Allen G Jose</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
