@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/avmansoor2000">
+                    <img src="https://avatars.githubusercontent.com/u/119666812?v=4" width="100px;" alt="Mohamed Mansoor"/>
+                    <br />
+                    <sub><b>Mohamed Mansoor</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
