@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KulmeetSJ">
+                    <img src="https://avatars.githubusercontent.com/u/75109574?v=4" width="100px;" alt="Kulmeet Singh"/>
+                    <br />
+                    <sub><b>Kulmeet Singh</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
