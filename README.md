@@ -1906,6 +1906,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/YUVRAJSHARMA24">
+                    <img src="https://cdn.vectorstock.com/i/preview-1x/75/67/programmer-computer-expert-chalk-white-icon-vector-37237567.jpg" width="100px;" alt="Yuvraj Sharma"/>
+                    <br />
+                    <sub><b>Yuvraj Sharma</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;"
                         alt="Vishal Aynodkar" />
