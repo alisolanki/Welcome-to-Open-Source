@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bhavikajangid1">
+                    <img src="https://avatars.githubusercontent.com/u/79911031?v=4" width="100px;" alt="Bhavika Jangid"/>
+                    <br />
+                    <sub><b>Bhavika Jangid</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
