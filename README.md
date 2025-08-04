@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Harika G Krishna</b>
                     </sub>
                 </a>
+                </td>
+         <td align="center">
+                <a href="https://github.com/cmd-Saba">
+                    <img src="https://avatars.githubusercontent.com/u/218465103?v=4" width="100px;"
+                        alt="cmd-saba" />
+                    <br />
+                    <sub>
+                        <b>Saba</b>
+                    </sub>
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com/Manali-26">
