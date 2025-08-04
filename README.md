@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DEEPA-CHERI">
+                    <img src="https://avatars.githubusercontent.com/u/37058710?v=4" width="100px;" alt="Deepa C"/>
+                    <br />
+                    <sub><b>Deepa C</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
