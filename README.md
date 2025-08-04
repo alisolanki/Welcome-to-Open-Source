@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pranjal23030">
+                    <img src="https://avatars.githubusercontent.com/u/101081308?v=4" width="100px;" alt="Pranjal Khatiwada"/>
+                    <br />
+                    <sub><b>Pranjal Khatiwada</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
