@@ -4419,6 +4419,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/CodingGirlGargi">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Gargi Ketan Chauhan"/>
+                    <br />
+                    <sub><b>Gargi Ketan Chauhan</b></sub>
+                </a>
+            </td>
+
         </tr>
         <tr>
             <td align="center">
@@ -5483,4 +5492,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
     </tbody>
+
 </table>
