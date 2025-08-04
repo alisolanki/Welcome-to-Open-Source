@@ -1905,6 +1905,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Saan-king">
+                    <img src="https://avatars.githubusercontent.com/u/58635762?v=4" width="100px;" alt="Sathya Anand"/>
+                    <br />
+                    <sub><b>Sathya Anand</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Lightning1806">
                     <img src="https://avatars.githubusercontent.com/u/122044567?v=4" width="100px;"
