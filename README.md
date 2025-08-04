@@ -33,6 +33,7 @@
     </a>
 </p>
   
+
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
@@ -1861,6 +1862,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Saurabh Gupta</b>
                     </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/dheeraj1129">
+                    <img src="https://avatars.githubusercontent.com/u/72201773?v=4" width="100px;" alt="Dheeraj Singh"/>
+                    <br />
+                    <sub><b>Dheeraj Singh</b></sub>
                 </a>
             </td>
             <td align="center">
