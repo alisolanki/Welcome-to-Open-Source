@@ -1770,6 +1770,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/saumil11-coder">
+                    <img src="https://avatars.githubusercontent.com/u/84261342?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Saumil Patel</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img
