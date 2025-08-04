@@ -3503,6 +3503,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/NumanKhan0103">
+                    <img src="https://avatars.githubusercontent.com/u/63138189?v=4" width="100px;" alt=" Numan Khan"/>
+                    <br />
+                    <sub><b> Numan Khan </b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
