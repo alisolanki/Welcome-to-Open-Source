@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/kumar1shailesh">
+                    <img src="https://avatars.githubusercontent.com/u/111674342?v=4" width="100px;" alt="Neeraj Madake"/>
+                    <br />
+                    <sub><b>Shailesh Kumar
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
