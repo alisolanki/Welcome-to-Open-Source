@@ -4163,6 +4163,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tarun21122003">
+                 <img src="https://avatars.githubusercontent.com/u/120119519?v=4" width="100px;" alt="Tarun"/>
+                    <br />
+                    <sub><b>Tarun</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Priyabrata139">
                     <img src="https://avatars.githubusercontent.com/u/72993439?v=4" width="100px;"
                         alt="Priyabrata Maji" />
