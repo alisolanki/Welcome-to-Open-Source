@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TanvNaik">
+                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Feasydrawingguides.com%2Fwp-content%2Fuploads%2F2016%2F12%2Fhow-to-draw-a-cute-cartoon-cat-featured-image-1200-919x1024.png&tbnid=A8IN1yIOxdPoyM&vet=12ahUKEwjw8Pelr9-BAxXK7jgGHSfzD2EQMygXegUIARClAQ..i&imgrefurl=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-a-cartoon-cat%2F&docid=fEqcniQL738qoM&w=919&h=1024&q=cat%20doodle&ved=2ahUKEwjw8Pelr9-BAxXK7jgGHSfzD2EQMygXegUIARClAQ" width="100px;" alt="Tanvi Naik"/>
+                    <br />
+                    <sub><b>Tanvi Naik</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
