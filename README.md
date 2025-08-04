@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aadhi-11">
+                    <img src="https://avatars.githubusercontent.com/u/100750363?v=4" width="100px;" alt="Adithyadas U S"/>
+                    <br />
+                    <sub><b>Adithyadas U S
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
