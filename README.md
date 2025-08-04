@@ -3647,6 +3647,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/HamzaArif538">
+                    <img src="https://avatars.githubusercontent.com/u/88527530?v=4" width="100px;" alt="Hamza Arif"/>
+                    <br />
+                    <sub><b>Hamza Arif </b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
