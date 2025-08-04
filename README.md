@@ -3526,6 +3526,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sarishalekhi20">
+                    <img src="https://github.com/account" width="100px;" alt="Sarisha Lekhi"/>
+                    <br />
+                    <sub><b>Mehad Mushtaq</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Mehadmushtaq">
                     <img src="https://avatars.githubusercontent.com/u/64118753?v=4" width="100px;"
                         alt="Mehad Mushtaq" />
