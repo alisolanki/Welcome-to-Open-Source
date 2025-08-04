@@ -3546,6 +3546,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/HarshVerma007">
+                    <img src="https://avatars.githubusercontent.com/u/87598783?v=4" width="100px;" alt="Hardik Solanki"/>
+                    <br />
+                    <sub><b>Harsh Vermaki</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/hardiksolanki24">
                     <img src="https://avatars.githubusercontent.com/u/120365070?v=4" width="100px;"
                         alt="Hardik Solanki" />
