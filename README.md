@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Gyeri">
+                    <img src="https://avatars.githubusercontent.com/u/104434391?v=4" width="100px;" alt="Gyeri"/>
+                    <br />
+                    <sub><b>Gyeri</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
