@@ -1751,6 +1751,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Amaljith06">
+                    <img src="https://avatars.githubusercontent.com/u/159210459?v=4" width="100px;" alt="Amaljith Kumar"/>
+                    <br />
+                    <sub><b>Amaljith Kumar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
                         alt="Preeti Raj" />
