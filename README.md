@@ -1770,6 +1770,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/RanjithReddykrj">
+                    <img src="https://avatars.githubusercontent.com/u/123871200?v=4" width="100px;" alt="Ranjith-Reddy image"/>
+                    <br />
+                    <sub><b>Ranjith Reddy</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img
