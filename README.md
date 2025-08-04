@@ -1864,6 +1864,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Alex1-ai">
+                    <img src="https://avatars.githubusercontent.com/u/78540958?v=4" width="100px;" alt="Alex1-ai"/>
+                    <br />
+                    <sub><b>Onedibe Emmanuel</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;"
                         alt="Kaushal Lohar" />
