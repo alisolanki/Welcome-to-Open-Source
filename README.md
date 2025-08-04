@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Sikari16">
+                    <img src="https://avatars.githubusercontent.com/u/127695373?v=4" width="100px;" alt="Vishnu Kumar Singh"/>
+                    <br />
+                    <sub><b>Asad Abbas</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
