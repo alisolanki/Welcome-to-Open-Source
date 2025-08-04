@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td>
+                <a href="https://github.com/Angell1147">
+                        <img src="https://avatars.githubusercontent.com/u/159511538?v=4" width="100px;" alt="Angell Gandhi"/>
+                    <br />
+                    <sub><b>Angell Gandhi</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
