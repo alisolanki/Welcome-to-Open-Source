@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/paulpyjsdotsh">
+                    <img src="https://avatars.githubusercontent.com/u/139600309?s=400&u=afe2103bebeeae7309ee831f2358695dc19bad73&v=4" width="100px;" alt="Paul Messanga"/>
+                    <br />
+                    <sub><b>Paul Messanga</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
