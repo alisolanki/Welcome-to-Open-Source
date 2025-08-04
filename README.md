@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/aashish2998">
+                    <img src="https://avatars.githubusercontent.com/u/97464622?v=4" width="100px;" alt="Aashish Kushwaha"/>
+                    <br />
+                    <sub><b>Aashish Kushwaha</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
