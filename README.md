@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Harsh-Gehlot">
+                    <img src="https://avatars.githubusercontent.com/u/81151468?s=400&u=7e801d495c8d708b07f9408fdd9118905a046472&v=4" width="100px;" alt="Harsh Gehlot"/>
+                    <br />
+                    <sub><b>Harsh Gehlot</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
