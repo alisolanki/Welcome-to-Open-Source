@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/AviK1904">
+                    <img src="https://avatars.githubusercontent.com/u/110355033?s=400&u=e3a022e82810362b0d707caa691207657dd33ac0&v=4" width="100px;" alt="Aviral Kumar"/>
+                    <br />
+                    <sub><b>Aviral Kumar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
