@@ -1926,6 +1926,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/vaibhavmodi45">
+                    <img src="https://avatars.githubusercontent.com/u/123352253?v=4" width="100px;" alt="Vaibhav Modi"/>
+                    <br />
+                    <sub><b>Vaibhav Modi</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/2003aryansingh">
                     <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;"
                         alt="Aryan Singh" />
