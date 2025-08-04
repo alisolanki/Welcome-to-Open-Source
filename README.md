@@ -2135,6 +2135,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/gupta-08">
+                    <img src="https://avatars.githubusercontent.com/u/124035989?v=4" width="100px;" alt="Aditi"/>
+                    <br />
+                    <sub><b>Aditi Gupta</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sumedhuv">
                 <img src="https://avatars.githubusercontent.com/u/63589821?v=4" width="100px;"
                     alt="Shino Shaji" />
