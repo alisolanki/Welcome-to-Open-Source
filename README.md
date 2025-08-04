@@ -1771,6 +1771,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sreejadevisetti">
+                    <img src="https://avatars.githubusercontent.com/u/73770166?v=4" width="100px;" alt="Sreeja Devisetti"/>
+                    <br />
+                    <sub><b>Sreeja Devisetti</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img
                         src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4"
