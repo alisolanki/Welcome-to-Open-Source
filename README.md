@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Hamz-1012">
+                    <img src="https://avatars.githubusercontent.com/u/83679641?v=4" width="100px;" alt="Hamza Ansari"/>
+                    <br />
+                    <sub><b>Hamza Ansari</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
