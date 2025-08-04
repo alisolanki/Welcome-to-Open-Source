@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/amannandha007">
+                    <img src="https://avatars.githubusercontent.com/u/182339300?s=400&u=da3ad067972d6aca32d6fc55014d1e41016127a9&v=4" width="100px;" alt="Aman Nandha"/>
+                    <br />
+                    <sub><b>Aman Nandha</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
