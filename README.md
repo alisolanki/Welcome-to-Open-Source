@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TAYLOR0546">
+                    <img src="https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg?w=740&t=st=1708018846~exp=1708019446~hmac=0c7752834478bfeb50b8929a465b0f37a8968499e1f560de09ac3306ac7246bd" width="100px;" alt="Yusuf Imran"/>
+                    <br />
+                    <sub><b>Yusuf Imran</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
