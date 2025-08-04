@@ -87,6 +87,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Manali-26">
+                    <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
+                        alt="Manali Lamture" />
+                    <br />
+                    <sub>
+                        <b>Manali Lamture</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
@@ -114,6 +124,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Rachit Singh</b>
+                    </sub>
+                </a>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/chamuditha6">
+                    <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
+                        alt="Chamuditha Nonis" />
+                    <br />
+                    <sub>
+                        <b>Chamuditha Nonis</b>
                     </sub>
                 </a>
             </td> 
@@ -218,6 +238,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Omkarkanherkar">
+                    <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
+                        alt="omkar" />
+                    <br />
+                    <sub>
+                        <b>Omkar ok</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/amrithasnidhi">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
@@ -275,6 +305,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Pravallika Surabathula</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="hhttps://github.com/Manavmad">
+                    <img src="https://avatars.githubusercontent.com/u/129582127?v=4" width="100px;"
+                        alt="Manav Dhote" />
+                    <br />
+                    <sub>
+                        <b>Manav Dhote</b>
                     </sub>
                 </a>
             </td>
@@ -5419,6 +5459,36 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Sumeet Bhagat</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/athul-jose00">
+                    <img src="https://avatars.githubusercontent.com/u/148617363?v=4" width="100px;"
+                        alt="Athul Jose" />
+                    <br />
+                    <sub>
+                        <b>Athul Jose</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Anas2604-web">
+                    <img src="https://avatars.githubusercontent.com/u/185629397?v=4" width="100px;"
+                        alt="Anas Khan" />
+                    <br />
+                    <sub>
+                        <b>Anas Khan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SyedShuaibAejaz">
+                    <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
+                        alt="Syed Shuaib" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
                     </sub>
                 </a>
             </td>
