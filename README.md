@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/saitejainampudi">
+                    <img src="https://avatars.githubusercontent.com/u/121140159?v=4" width="100px;" alt="Sai Teja Inampudi"/>
+                    <br />
+                    <sub><b>Sai Teja Inampudi</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
