@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/danishnawab55">
+                    <img src="https://avatars.githubusercontent.com/u/88277249?v=4" width="100px;" alt="Danish Nawab"/>
+                    <br />
+                    <sub><b>Danish Nawab</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
@@ -4419,6 +4426,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            
         </tr>
         <tr>
             <td align="center">
