@@ -4255,6 +4255,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Avinash1271">
+                    <img src="https://avatars.githubusercontent.com/u/83566354?v=4" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Avinash 🍉</b></sub>
+               </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/xhendpibero">
+                    <img src="https://avatars.githubusercontent.com/u/44661300?v=4" width="100px;" alt="v"/>
+                    <br />
+                    <sub><b>Dendy Sapto A 🍉</b></sub>
+               </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
