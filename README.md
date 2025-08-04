@@ -159,6 +159,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Reshma-2005">
+                    <img src="https://avatars.githubusercontent.com/u/160704617?v=4" width="100px;"
+                        alt="Reshma sri" />
+                    <br />
+                    <sub>
+                        <b>Reshma sri </b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
                         alt="Diksha Kumar" />
