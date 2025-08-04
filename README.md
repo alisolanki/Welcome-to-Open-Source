@@ -1677,6 +1677,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://www.karamrajsanand.tech/">
+                    <img src="https://avatars.githubusercontent.com/u/92857243?v=4" width="100px;" alt="Karamraj Singh Anand"/>
+                    <br />
+                    <sub><b>Karamraj Singh Anand</b></sub>
+               </a>
+           </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
