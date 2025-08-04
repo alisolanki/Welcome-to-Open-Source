@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vaishnavi-Kahar">
+                    <img src="https://avatars.githubusercontent.com/u/84652112?v=4" width="100px;" alt="Vaishnavi Kahar"/>
+                    <br />
+                    <sub><b>Vaishnavi Kahar</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
