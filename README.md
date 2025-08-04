@@ -2288,6 +2288,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+         <td align="center">
+                <a href="https://github.com/Tejws">
+                    <img src="https://avatars.githubusercontent.com/u/154742112?v=4" width="100px;" alt="Tejas Ingle"/>
+                    <br />
+                    <sub><b>Tejas Ingle</b></sub>
+                 </a>
+             </td>
+        </tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/Zydiag">
