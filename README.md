@@ -1678,6 +1678,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ruby-srijan">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Ruby Jain"/>
+                    <br />
+                    <sub><b>Ruby Jain</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
