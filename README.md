@@ -1728,6 +1728,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <a href="https://github.com/GauravSharma847">
+                    <img src="https://avatars.githubusercontent.com/u/70465638?v=4" width="100px;" alt="Gaurav Sharma"/>
+                    <br />
+                    <sub><b>Gaurav Sharma</b></sub>
+                </a>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
