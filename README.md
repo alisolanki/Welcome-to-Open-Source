@@ -1833,6 +1833,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">   
+                <a href="https://github.com/MurahJr">
+                    <img src="https://avatars.githubusercntent.com/u/73494266?v=4" width="100px;" alt="Tafadzwa Muranda"/>
+                    <br />
+                    <sub><b>Tafadzwa Muranda</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/akshaykamath45">
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;"
