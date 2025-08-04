@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Anuskhalil">
+                    <img src="https://avatars.githubusercontent.com/u/117922339?v=4" width="100px;" alt="Anus Khalil"/>
+                    <br />
+                    <sub><b>Anus Khalil</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
