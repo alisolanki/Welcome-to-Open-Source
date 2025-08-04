@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mizuki-Kawabe">
+                    <img src="https://avatars.githubusercontent.com/u/111262336?v=4" width="100px;" alt="Kawabe Mizuki"/>
+                    <br />
+                    <sub><b>Mizuki Kawabe</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
