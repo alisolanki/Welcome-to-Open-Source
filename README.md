@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.youtube.com/@xCoin_">
+                    <img src="https://avatars.githubusercontent.com/u/60308964?v=4" width="100px;" alt="xCoincidence"/>
+                    <br />
+                    <sub><b>xCoincidence</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
