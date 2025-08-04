@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aytida7">
+                    <img src="https://instagram.fcok7-1.fna.fbcdn.net/v/t51.2885-19/299495955_161594256455248_2264537246104502075_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcok7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=0-XT-AdEatYAX81hE3H&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDumjadcbGhe1I3eb2pkvOTgXFSub6k5KCqKgdoTocRLQ&oe=65CBD500&_nc_sid=8b3546" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Aditya Patil</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
