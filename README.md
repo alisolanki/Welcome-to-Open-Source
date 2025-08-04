@@ -4419,6 +4419,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/prasanna1225">
+                    <img src="https://avatars.githubusercontent.com/u/94883909?v=4" width="100px;" alt="Prasanna Donga"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
         </tr>
         <tr>
             <td align="center">
