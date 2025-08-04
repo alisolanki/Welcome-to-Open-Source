@@ -961,6 +961,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
             </td>
+        <tr>
+            <td align="center">
+                <a href="my-portfolio-bhar1gitr.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/97161064?v=4" width="100px;" alt="Bharat Sharma"/>
+                    <br />
+                    <sub><b>Bharat Sharma</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
