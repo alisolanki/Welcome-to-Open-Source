@@ -4419,6 +4419,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Albasha1002/">
+                    <img src="https://avatars.githubusercontent.com/u/78254037?s=48&v=4" width="100px;" alt="Al Basha"/>
+                    <br />
+                    <sub><b>Al Basha
+                    </b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
