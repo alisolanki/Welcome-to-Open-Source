@@ -1678,6 +1678,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Nityam24">
+                    <img src="https://github.com/account" 
+                    width="100px;" alt="Nityam Patel"/>
+                    <br />
+                    <sub><b>Nityam Patel</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
