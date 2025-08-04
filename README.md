@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+              <a href="https://github.com/vishnuvarathan26">
+                <img src="https://avatars.githubusercontent.com/u/132871805?s=400&u=1b1e2c95761fadddc1dd28bf21de717e95b49278&v=4" width="100px;" alt="Vishnuvarathan B"/>
+                <br />
+                <sub><b>Vishnuvarathan B</b></sub>
+              </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
