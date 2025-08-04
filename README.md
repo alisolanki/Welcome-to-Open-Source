@@ -4226,6 +4226,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rajsrm2021">
+                    <img src="https://avatars.githubusercontent.com/u/103736313?v=4" width="100px;" alt="Raj Kumar Jaiswal"/>
+                    <br />
+                    <sub><b>Raj Kumar Jaiswal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/vincenzochiovaro">
                     <img src="https://avatars.githubusercontent.com/u/66358836?v=4" width="100px;"
                         alt="Vincenzo Chiovaro" />
