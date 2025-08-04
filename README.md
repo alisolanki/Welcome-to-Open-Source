@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ashish050488">
+                    <img src="https://avatars.githubusercontent.com/u/125668715?s=400&u=696cd5130bb99966979c48b687e4afb5c51c99ef&v=4" width="100px;" alt="Ashish Ranjan"/>
+                    <br />
+                    <sub><b>Ashish Ranjan</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
