@@ -1926,6 +1926,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Laasyakshara25">
+                    <img src="https://avatars.githubusercontent.com/u/137197439?s=400&u=9e7946fb480817c3adf4fc5708130fdf5d973f58&v=4" width="100px;" alt="Laasyakshara"/>
+                    <br />
+                    <sub><b>Laasyakshara Podishetty</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/2003aryansingh">
                     <img src="https://avatars.githubusercontent.com/u/115007121?v=4" width="100px;"
                         alt="Aryan Singh" />
