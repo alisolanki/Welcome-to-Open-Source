@@ -4419,6 +4419,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ibrar-web">
+                    <img src="https://avatars.githubusercontent.com/u/60141885?v=4" width="100px;" alt="Ibrar "/>
+                    <br />
+                    <sub><b>Ibrar </b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
