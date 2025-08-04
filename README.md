@@ -1750,6 +1750,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://www.inder.dev/">
+                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Inder Bhai"/>
+                    <br />
+                    <sub><b>Inder Bhai</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
                     <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;"
