@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Prachi269">
+                    <img src="https://avatars.githubusercontent.com/u/191266154?v=4" width="100px;"
+                        alt="Prachi Agarwal" />
+                    <br />
+                    <sub>
+                        <b>Prachi Agarwal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
