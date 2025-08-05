@@ -4429,6 +4429,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SaiAryan1784">
+                    <img src="https://avatars.githubusercontent.com/u/111999256?v=4" width="100px;" alt="Sai Aryan"/>
+                    <br />
+                    <sub><b>Sai Aryan</b></sub>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
