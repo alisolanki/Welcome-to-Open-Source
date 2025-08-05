@@ -5495,10 +5495,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              <td align="center">
                 <a href="https://github.com/gitAbhhi">
                     <img src="https://avatars.githubusercontent.com/u/140035168?v=4" width="100px;"
-                        alt="Syed Shuaib" />
+                        alt="Abhishek Kumar" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>Abhishek Kumar</b>
                     </sub>
                 </a>
             </td>
