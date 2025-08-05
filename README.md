@@ -1688,6 +1688,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+    <a href="https://alisolanki.com/">
+        <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <br />
+        <sub><b>Ali Solanki</b></sub>
+    </a>
+</td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;"
                         alt="Dhruv Kotwani" />
@@ -1738,6 +1745,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+    <a href="https://github.com/biswajeetbehera123">
+        <img src="https://avatars.githubusercontent.com/u/107670354?s=400&u=4d8eaf2ec5ba0c7191f24f014a40ffd86f902eb2&v=4" width="100px;" alt="Biswajeet Behera"/>
+        <br />
+        <sub><b>Biswajeet Behera
+    </a>
+</td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;"
