@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/RohanSreejith">
+                    <img src="https://avatars.githubusercontent.com/u/176615976?v=4" width="100px;"
+                        alt="Rohan Sreejith" />
+                    <br />
+                    <sub>
+                        <b>Rohan Sreejith</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
