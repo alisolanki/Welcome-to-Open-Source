@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                         <td align="center">
+                <a href="https://github.com/nagarjuntk">
+                    <img src="https://avatars.githubusercontent.com/u/109715025?v=4" width="100px;"
+                        alt="Nagarjun T K" />
+                    <br />
+                    <sub>
+                    <b>Nagarjun T K</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
