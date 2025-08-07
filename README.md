@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShivamV351">
+                    <img src="https://avatars.githubusercontent.com/u/129970014?v=4" width="100px;"
+                        alt="Shivam Verma" />
+                    <br />
+                    <sub>
+                        <b>Shivam Verma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
