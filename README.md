@@ -169,6 +169,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ehtesham-Ul-Haq">
+                    <img src="https://avatars.githubusercontent.com/u/155741750?v=4" width="100px;" alt="Ehtesham Ul Haq"/>
+                    <br />
+                    <sub>
+                        <b>Ehtesham Ul Haq</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/dikshagocode">
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
                         alt="Diksha Kumar" />
