@@ -31,6 +31,27 @@
                     <sub><b>Aryan  Mangrule</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/codewithgaani">
+                    <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Krishna Bhatt</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://bytemaster2000.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
+                    <br />
+                    <sub><b>lakshmi priya</b></sub>
+                </a> 
+            </td>
+    <td align="center">
+        <a href="https://github.com/itsTIMUS">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Sumit Saha</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/Sahitha03">
             <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
