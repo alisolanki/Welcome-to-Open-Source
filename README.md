@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mjespelita">
+                    <img src="https://avatars.githubusercontent.com/u/136039394?v=4" width="100px;"
+                        alt="Mark Jason Espelita" />
+                    <br />
+                    <sub>
+                        <b>Mark Jason Espelita</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
