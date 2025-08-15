@@ -208,6 +208,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Khushi-Kaushik">
+                    <img src="https://avatars.githubusercontent.com/u/153086202?v=4" width="100px;"
+                        alt="Khushi Kaushik" />
+                    <br />
+                    <sub>
+                        <b>Khushi Kaushik</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Bhupesh-081">
                     <img src="https://avatars.githubusercontent.com/u/150279405?v=4" width="100px;"
