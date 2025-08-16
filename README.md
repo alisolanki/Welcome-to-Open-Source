@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                     <td align="center">
+                <a href="https://github.com/Jay9115">
+                    <img src="https://avatars.githubusercontent.com/u/161121916?v=4" width="100px;"
+                        alt="Jay Patel" />
+                    <br />
+                    <sub>
+                        <b>Jay Patel</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
