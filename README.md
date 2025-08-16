@@ -50,10 +50,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/GulnazAhmad">
                     <img src="https://wallpapers.com/images/hd/best-profile-pictures-7c4fnz0x5hts559b.jpg" width="100px;"
-                        alt="Gulnaz" />
+                        alt="Gulnaz Ahmad" />
                     <br />
                     <sub>
-                        <b>Gulnaz</b>
+                        <b>Gulnaz Ahmad</b>
                     </sub>
                 </a>
             </td>
