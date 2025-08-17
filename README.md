@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/therealdope">
+                    <img src="https://avatars.githubusercontent.com/u/165250160?v=4" width="100px;"
+                        alt="therealdope" />
+                    <br />
+                    <sub>
+                        <b>Shwet Kheni</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
