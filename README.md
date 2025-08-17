@@ -1268,7 +1268,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Pranjal Sharma" />
                     <br />
                     <sub>
-                        <b>Pranjal Sharma</b>
+                        <b>Pranjal Sharma </b>
                     </sub>
                 </a>
             </td>
@@ -5490,6 +5490,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Syed Shuaib</b>
                     </sub>
+                </a>
+            </td>
+                              <td align="center">
+                <a href="https://github.com/lovishthapar">
+                        <b>lovish monga</b>
                 </a>
             </td>
     </tbody>
