@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/tripti882">
+                    <img src="https://avatars.githubusercontent.com/u/176918393?v=4" width="100px;"
+                        alt="tripti jha" />
+                    <br />
+                    <sub>
+                        <b>tripti jha</b>
+                    </sub>
+                </a>
+            </td>
+
     </tbody>
 </table>
