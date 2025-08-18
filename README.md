@@ -495,6 +495,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/SamridhiDas">
+                    <img src="https://avatars.githubusercontent.com/u/191786171?s=400&v=4" width="100px;"
+                        alt="Samridhi Das" />
+                    <br />
+                    <sub>
+                        <b>Samridhi Das</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/ShyamSanthosh04">
                     <img src="https://avatars.githubusercontent.com/u/135537150?v=4" width="100px;"
