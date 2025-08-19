@@ -19,7 +19,8 @@
     ```
     <td align="center">
         <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;
+            " alt="Ali Solanki"/>
             <br />
             <sub><b>Ali Solanki</b></sub>
         </a>
@@ -60,10 +61,11 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/Mohkith">
+            <img src="https://avatars.githubusercontent.com/u/179925428?s=400&v=4" width="100px;
+            " alt="Mohkith Balaji"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Mohkith Balaji
         </a>
     </td>
      <td align="center">
