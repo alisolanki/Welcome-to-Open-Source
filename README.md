@@ -4428,6 +4428,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Dhruv!!</b></sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/Ahmadmidlaj">
+                    <img src="https://avatars.githubusercontent.com/u/125739474?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Ahmad Midlaj B</b></sub>
+                </a>
             </td>
         </tr>
         <tr>
