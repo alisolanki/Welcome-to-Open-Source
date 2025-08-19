@@ -60,8 +60,8 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/abhi-jithb/">
+            <img src="https://avatars.githubusercontent.com/u/144365045?v=4" width="100px;" alt="Abhijith B"/>
             <br />
             <sub><b>Neeraj Madake
         </a>
