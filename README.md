@@ -4306,7 +4306,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Vishnu Kumar Singh</b>
                     </sub>
                 </a>
-            </td>
+            </td>🍉
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;"
@@ -4427,6 +4427,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Dhruv!!</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/HrishiD89">
+                    <img src="https://avatars.githubusercontent.com/u/95520030?v=4" width="100px;" alt="Hrishikesh Kalita"/>
+                    <br />
+                    <sub><b>Hrishikesh Kalita</b></sub>
                 </a>
             </td>
         </tr>
