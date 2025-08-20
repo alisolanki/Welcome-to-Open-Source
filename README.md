@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Surajnairx">
+                    <img src="https://avatars.githubusercontent.com/u/91962694?v=4" width="100px;"
+                        alt="Suraj Nair" />
+                    <br />
+                    <sub>
+                        <b>Suraj Nair</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
