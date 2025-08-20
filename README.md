@@ -19,11 +19,11 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
+    <a href="https://twitter.com/TanmayMane19">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-    <a href="https://linkedin.com/in/alisolanki">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <a href="https://github.com/Tanmaygit12">
+        <img height="50" src="https://avatars.githubusercontent.com/u/96838656?v=4"/>
     </a>
     <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
