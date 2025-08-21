@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Itachiuchiha325">
+                    <img src="https://avatars.githubusercontent.com/u/125740864?v=4" width="100px;"
+                        alt="Yash Pandit" />
+                    <br />
+                    <sub>
+                        <b>Yash Pandit</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
