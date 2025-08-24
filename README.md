@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td> 
+             <td align="center">
+                <a href="https://github.com/Vinit1936">
+                    <img src="https://avatars.githubusercontent.com/u/180145269?v=4" width="100px;"
+                        alt="Vinit Patil" />
+                    <br />
+                    <sub>
+                        <b>Vinit Patil</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
@@ -5492,5 +5502,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+           
     </tbody>
 </table>
