@@ -78,6 +78,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Aadi24-coder">
+                    <img src="https://avatars.githubusercontent.com/u/136228683?s=400&u=c5ec38af097ffe1f13f7c9d7305f648a24f3323d&v=4" width="100px;"
+                        alt="Aadi Agarwal" />
+                    <br />
+                    <sub>
+                        <b>Aadi Agarwal</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
                         alt="Harika Galibu" />
