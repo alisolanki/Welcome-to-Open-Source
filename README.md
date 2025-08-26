@@ -5493,7 +5493,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/KumarHarshit3603">
+                <a href="https://avatars.githubusercontent.com/u/143817516?v=4">
                     <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
                         alt="Harshit Kumar"/>
                     <br/>
