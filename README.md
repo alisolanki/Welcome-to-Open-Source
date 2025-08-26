@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Aaradhya-Khanna">
+                    <img src="https://avatars.githubusercontent.com/u/100281928?s=400&u=382ed336ff023f84e9db48bc743b3926638b2d7d&v=4" width="100px;"
+                        alt="Aaradhya Khanna" />
+                    <br />
+                    <sub>
+                        <b>Aaradhya Khanna</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
