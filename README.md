@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/dibaya07">
+                    <img src="https://avatars.githubusercontent.com/u/205184586?v=4" width="100px;"
+                        alt="Dibaya Jyoti Baruah" />
+                    <br />
+                    <sub>
+                        <b>Dibaya Jyoti Baruah</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
