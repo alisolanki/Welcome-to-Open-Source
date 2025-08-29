@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Shubham1919284">
+                    <img src="https://avatars.githubusercontent.com/u/147346143?v=4" width="100px;"
+                        alt="Shubham Kumar Jha" />
+                    <br />
+                    <sub>
+                        <b>Shubham Kumar Jha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
