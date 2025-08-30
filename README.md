@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                <a href="https://github.com// prathamesh2927">
+                    <img src="https://avatars.githubusercontent.com/u/90138319?s=400&u=45f68fc6d79c33ffd4f2e3a0583fe44b6cd46ac9&v=4" width="100px;"
+                        alt="Prathamesh Jawale" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>Prathamesh Jawale</b>
                     </sub>
                 </a>
             </td>
