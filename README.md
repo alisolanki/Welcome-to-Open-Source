@@ -436,6 +436,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/b-u-g-g">
+                    <img src="https://avatars.githubusercontent.com/u/147278023?v=4" width="100px;"
+                        alt="Nishkka Upadhyaya" />
+                    <br />
+                    <sub>
+                        <b>Travis Keefe</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/simesquivel">
                     <img src="https://avatars.githubusercontent.com/u/159603772?v=4" width="100px;"
                         alt="Simran Sharma" />
