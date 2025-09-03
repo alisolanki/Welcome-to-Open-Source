@@ -58,12 +58,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/220519825?v=4" width="100px;"
+                        alt="gauri paliwal" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>gauri paliwal</b>
                     </sub>
                 </a>
             </td>
@@ -78,12 +78,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/harik0812">
+                <a href="https://github.com/gauri-1909">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
-                        alt="Harika Galibu" />
+                        alt="gauri paliwal" />
                     <br />
                     <sub>
-                        <b>Harika G Krishna</b>
+                        <b>gauri paliwal</b>
                     </sub>
                 </a>
             </td>
