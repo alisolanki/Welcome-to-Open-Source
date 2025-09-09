@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/ahnufmir">
+                    <img src="https://avatars.githubusercontent.com/u/109764598?v=4" width="100px;"
+                        alt="Ahnuf Mir" />
+                    <br />
+                    <sub>
+                        <b>Ahnuf Mir</b>
+                    </sub>
+                </a>
+            </td> 
     </tbody>
 </table>
