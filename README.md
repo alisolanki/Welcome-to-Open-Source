@@ -5495,7 +5495,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Laiba-AbdulQuddus">
                     <img src="https://avatars.githubusercontent.com/u/173544521?v=4" width="100px;"
-                        alt="Laiba Abdul Quddus" />
+                        alt="Laiba AQ" />
                     <br />
                     <sub>
                         <b>Laiba Abdul Quddus</b>
