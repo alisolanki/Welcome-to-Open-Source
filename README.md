@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chand192004">
+                    <img src="https://avatars.githubusercontent.com/u/141936140?v=4" width="100px;"
+                        alt="Chandni Mehta" />
+                    <br />
+                    <sub>
+                        <b>Chandni Mehta</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
