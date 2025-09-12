@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/YukiCodepth">
+            <img src="https://avatars.githubusercontent.com/u/181442784?v=4" width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Aman Kumar</b></sub>
+        </a>
+    </td>
     
     ```
 
