@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/PriyeRaj-hustler">
+                    <img src="https://avatars.githubusercontent.com/u/175459457?v=4&size=64" width="100px;"
+                        alt="Priye Raj" />
+                    <br />
+                    <sub>
+                        <b>Priye Raj</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
