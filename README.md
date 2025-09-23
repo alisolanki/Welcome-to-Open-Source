@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/programmerjewel">
+                    <img src="https://avatars.githubusercontent.com/u/168659980?v=4" width="100px;"
+                        alt="Al Amin Jewel" />
+                    <br />
+                    <sub>
+                        <b>Al Amin Jewel</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
