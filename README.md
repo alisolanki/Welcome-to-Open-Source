@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aditishinde45">
+                    <img src="https://avatars.githubusercontent.com/u/190840738?s=400&u=4ba4c7664e4f70da42734a918d6d05693811b26f&v=4
+                    " width="100px;"
+                        alt="Aditi Shinde" />
+                    <br />
+                    <sub>
+                        <b>Aditi Shinde</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
