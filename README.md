@@ -279,6 +279,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center"
+                <a href="https://github.com/santhosh-7777">
+                    <img src="https://avatars.githubusercontent.com/u/200226803?v=4" width="100px;"
+                        alt="santhosh teja" />
+                    <br />
+                    <sub>
+                        <b>santhosh teja</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center"
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
                         alt="Rajat Rajput" />
