@@ -623,6 +623,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/supreetyjha">
+                    <img src="https://avatars.githubusercontent.com/u/138106684?s=400&v=4" width="100px;"
+                        alt="Supreety Jha" />
+                    <br />
+                    <sub>
+                        <b>Supreety Jha</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/keshavlohani">
                     <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
