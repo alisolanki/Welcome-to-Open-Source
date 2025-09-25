@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Galadima3">
+                    <img src="https://avatars.githubusercontent.com/u/92538514?v=4" width="100px;"
+                        alt="Galadima3" />
+                    <br />
+                    <sub>
+                        <b>Galadima3</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
