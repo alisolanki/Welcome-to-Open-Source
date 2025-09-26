@@ -2,7 +2,7 @@
 
 ## Steps to add yourself to the contributers list.
 
-1) You will first need git which you can download from my app [here](https://git-scm.com/downloads).
+1) You will first need git which you can download from my app to my app [here](https://git-scm.com/downloads).
 
 2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
 
