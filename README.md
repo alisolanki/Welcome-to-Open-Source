@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/anukriti2306">
+                    <img src="https://avatars.githubusercontent.com/u/169443800?v=4" width="100px;"
+                        alt="Anukriti Sharma" />
+                    <br />
+                    <sub>
+                        <b>Anukriti Sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
