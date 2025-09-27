@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/4SHU74">
+                    <img src="https://avatars.githubusercontent.com/u/214825131?v=4" width="100px;"
+                        alt="ASHURA" />
+                    <br />
+                    <sub>
+                        <b>ASHURA</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
