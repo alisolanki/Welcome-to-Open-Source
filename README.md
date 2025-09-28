@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Anusha614">
+                    <img src="https://avatars.githubusercontent.com/u/214536410?v=4" width="100px;"
+                        alt="Anusha Deshpande" />
+                    <br />
+                    <sub>
+                        <b>Anusha Deshpande</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
