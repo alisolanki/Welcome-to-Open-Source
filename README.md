@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Nithinaug">
+                    <img src="https://avatars.githubusercontent.com/u/176716392?v=4" width="100px;"
+                        alt="Nithin Augustine" />
+                    <br />
+                    <sub>
+                        <b>Nithin Augustine</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
