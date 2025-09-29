@@ -78,6 +78,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/MohanaAkshaya">
+                    <img src="https://avatars.githubusercontent.com/u/141483125?s=400&u=3476cb28121c2ecaeec7e6f832c4c0c67b6e7f53&v=4" width="100px;"
+                        alt="Mohana Akshaya" />
+                    <br />
+                    <sub>
+                        <b>Mohana Akshaya</b>
+                    </sub>
+                </a>
+            </td>
+
+        <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
                         alt="Harika Galibu" />
