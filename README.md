@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ManInTheHam">
+                    <img src="https://avatars.githubusercontent.com/u/91250124?v=4" width="100px;"
+                        alt="ManInTheHam" />
+                    <br />
+                    <sub>
+                        <b>Soham Joshi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
