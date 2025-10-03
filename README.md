@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aryan-sharma-1908">
+                    <img src="https://avatars.githubusercontent.com/u/138519287?v=4" width="100px;"
+                        alt="Aryan Sharma" />
+                    <br />
+                    <sub>
+                        <b>Aryan Sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
