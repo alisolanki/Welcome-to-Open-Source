@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/muzakkir2045">
+                    <img src="https://avatars.githubusercontent.com/u/200927725?s=400&v=4" width="100px;"
+                        alt="Muzakkir Sakharkar" />
+                    <br />
+                    <sub>
+                        <b>Muzakkir Sakharkar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
