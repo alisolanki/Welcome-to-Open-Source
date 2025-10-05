@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center"
+                <a href="https://github.com/Nitinvaka">
+                    <img src="https://avatars.githubusercontent.com/u/118907906?v=4" width="100px;"
+                        alt="Nitin Vaka" />
+                    <br />
+                    <sub>
+                        <b>Nitin Vaka</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
