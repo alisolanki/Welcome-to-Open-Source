@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                    <td align="center">
+                <a href="https://github.com/Mihirsingh1101">
+                    <img src="https://avatars.githubusercontent.com/u/174235172?v=4" width="100px;"
+                        alt="Mihir Singh" />
+                    <br />
+                    <sub>
+                        <b>Mihir Singh</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
