@@ -24,6 +24,13 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/Min28-source">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Minaal Khajuria</b></sub>
+        </a>
+    </td>
            <td align="center">
                 <a href="https://github.com/aryanmangrule402/">
                     <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
