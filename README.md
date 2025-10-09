@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/PranayPradhan">
+                    <img src="https://avatars.githubusercontent.com/u/123803366?v=4" width="100px;"
+                        alt="Pranay Pradhan" />
+                    <br />
+                    <sub>
+                        <b>Pranay Pradhan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
