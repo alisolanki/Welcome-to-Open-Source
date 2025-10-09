@@ -5488,7 +5488,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Syed Shuaib" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>xyzvikram</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/xyzvikram">
+                    <img src="https://avatars.githubusercontent.com/u/121085809?v=4" width="100px;"
+                        alt="xyzvikram" />
+                    <b></b>
                     </sub>
                 </a>
             </td>
