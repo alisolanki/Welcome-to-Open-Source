@@ -108,6 +108,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sanzidislam">
+                    <img src="https://avatars.githubusercontent.com/u/128146335?v=4" width="100px;"
+                        alt="Sanzid Islam Mahi" />
+                    <br />
+                    <sub>
+                        <b>Sanzid Islam Mahi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chirsmita-02">
                     <img src="https://wallpapers.com/images/thumbnail/cute-girl-digital-art-profile-picture-qc0ka21j2ejosppd.webp" width="100px;"
                         alt="Chirsmita" />
