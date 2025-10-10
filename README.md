@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://sharp21.github.io/sharan/">
+                    <img src="https://avatars.githubusercontent.com/u/217540304?v=4" width="100px;"
+                        alt="sharan deep" />
+                    <br />
+                    <sub>
+                        <b>sharan deep</b>
+                    </sub>
+                </a>
+            </td>    
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
