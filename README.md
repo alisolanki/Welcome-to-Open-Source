@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yashumak">
+                    <img src="https://avatars.githubusercontent.com/u/177150015?v=4" width="100px;"
+                        alt="Yash Umak" />
+                    <br />
+                    <sub>
+                        <b>Yash Umak</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
