@@ -5483,6 +5483,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ManojCT764">
+                    <img src="https://avatars.githubusercontent.com/u/115369089?v=4" width="100px;"
+                        alt="Manoj Thotappanavar" />
+                    <br />
+                    <sub>
+                        <b>Anas Khan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SyedShuaibAejaz">
                     <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
                         alt="Syed Shuaib" />
