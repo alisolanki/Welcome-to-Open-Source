@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Anas Khan" />
                     <br />
                     <sub>
-                        <b>Dheeraj Singh Chauhan</b>
+                        <b>Dheeraj Singh Chauhan 🍉</b>
                     </sub>
                 </a>
             </td>
