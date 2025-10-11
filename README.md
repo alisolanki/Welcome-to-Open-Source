@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/parthkandharkar">
+                    <img src="https://avatars.githubusercontent.com/u/73980224?v=4" width="100px;"
+                        alt="Parth Kandharkar" />
+                    <br />
+                    <sub>
+                        <b>Parth Kandharkar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
