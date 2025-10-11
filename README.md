@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DheerajSChauhan">
+                    <img src="https://avatars.githubusercontent.com/u/185629397?v=4" width="100px;"
+                        alt="Anas Khan" />
+                    <br />
+                    <sub>
+                        <b>Dheeraj Singh Chauhan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
