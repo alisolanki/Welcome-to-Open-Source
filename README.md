@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shamss173">
+                    <img src="https://avatars.githubusercontent.com/u/105124539?s=400&u=b4ce73f9c0f046896331f8ef689af272ef77b17d&v=4" width="100px;"
+                        alt="Shamas U Din" />
+                    <br />
+                    <sub>
+                        <b>Shamas U Din</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
