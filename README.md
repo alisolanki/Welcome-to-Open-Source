@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/atharv96k">
+                    <img src="https://avatars.githubusercontent.com/u/154729565?v=4" width="100px;"
+                        alt="Atharv Mohite" />
+                    <br />
+                    <sub>
+                        <b>Atharv Mohite</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
