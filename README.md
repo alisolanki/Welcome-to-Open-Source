@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/akshwagle">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Aksh Wagle" />
+                    <br />
+                    <sub>
+                        <b>Aksh Wagle</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
