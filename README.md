@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href=https://github.com/tharun694>
+                    <img src="https://avatars.githubusercontent.com/u/146347071?s=400&u=f6992ecdd4f240fbfc10437a784c57c3492354f7&v=4" width="100px;"
+                        alt="Tharun Prakash" />
+                    <br />
+                    <sub>
+                        <b>Tharun Prakash</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
