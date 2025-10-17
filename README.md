@@ -57,16 +57,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-        <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
-                    <br />
-                    <sub>
-                        <b>Karan Yadav</b>
-                    </sub>
-                </a>
-            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
@@ -104,6 +94,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Navneet Patel</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Flame-Phoneix">
+                    <img src="https://avatars.githubusercontent.com/u/238698636?s=400&v=4" width="100px;"
+                        alt="Y JEEVANRAJ" />
+                    <br />
+                    <sub>
+                        <b>Y JEEVANRAJ</b>
                     </sub>
                 </a>
             </td>
