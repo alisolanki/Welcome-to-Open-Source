@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Somit101">
+                    <img src="https://avatars.githubusercontent.com/u/214339358?s=400&u=f9f1e7f683e2efbfa9d8c378e58e51dd2ab7d16b&v=4" width="100px;"
+                        alt="Somit Bante" />
+                    <br />
+                    <sub>
+                        <b>Somit Bante</b>
+                    </sub>
+                </a>
+            </td>            
+    </tbody>            
     </tbody>
 </table>
