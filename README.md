@@ -1084,6 +1084,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jyothsnasharma7">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Jyothsna Sharma" />
+                    <br />
+                    <sub>
+                        <b>Jyothsna Sharma</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/DVADASTMAN">
                     <img src="https://avatars.githubusercontent.com/u/158759818?v=4" width="100px;"
                         alt="M Naveen" />
