@@ -91,7 +91,7 @@
         <a href="https://github.com/vinaycvk">
             <img src="https://avatars.githubusercontent.com/u/123669118?v=4" width="100px;" alt="Sathvik Shetty"/>
             <br />
-            <sub><b>Sathvik Shetty
+            <sub><b>Vinay Kumar</b></sub>
         </a>
     </td>
     
