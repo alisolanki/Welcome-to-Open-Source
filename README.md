@@ -83,7 +83,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ahmed H." />
                     <br />
                     <sub>
-                        <b>Arpita Deodikar</b>
+                        <b>AHmed Habib</b>
                     </sub>
                 </a>
             </td>
