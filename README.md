@@ -80,7 +80,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
          <td align="center">
                 <a href="https://github.com/ahmedhabib01">
                     <img src="https://avatars.githubusercontent.com/u/72246938?v=4" width="100px;"
-                        alt="Ahmed H." />
+                        alt="AHmed Habib." />
                     <br />
                     <sub>
                         <b>AHmed Habib</b>
