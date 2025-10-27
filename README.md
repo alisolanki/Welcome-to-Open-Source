@@ -5383,6 +5383,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/prvshkmrin">
+                    <img src="https://avatars.githubusercontent.com/u/132164321?v=4" width="100px;"
+                        alt="Parvesh Kumar" />
+                    <br />
+                    <sub>
+                        <b>Parvesh Kumar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kavyapantrangi">
                     <img src="https://avatars.githubusercontent.com/u/126671211?s=400&u=b007158a9ad97fcb964fa0b2a54806d009cf53ab&v=4" width="100px;"
                         alt="Kavya" />
