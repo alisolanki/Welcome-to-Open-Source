@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Okbatti">
+                    <img src="https://avatars.githubusercontent.com/u/34984160?v=4" width="100px;"
+                        alt="Owais Ali Khadim Batti" />
+                    <br />
+                    <sub>
+                        <b>Owais Ali Khadim Batti</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
