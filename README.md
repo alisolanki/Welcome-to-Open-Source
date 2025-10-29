@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/i-am-sherlocked21">
+                    <img src="https://avatars.githubusercontent.com/u/179744811?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>I am Sherlocked</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
