@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+   
+     <td align="center">
+        <a href="https://github.com/Rekha-chittibabu/">
+            <img src="https://avatars.githubusercontent.com/u/78464358?v=4" width="100px;" alt="Rekha Chittibabu"/>
+            <br />
+            <sub><b>Rekha Chittibabu</b></sub>
+        </a>
+    </td>
     
     ```
 
