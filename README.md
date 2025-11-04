@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/althafnp">
+                    <img src="https://avatars.githubusercontent.com/u/169492309?s=400&u=b624949559f4a73264b04786df5ceb4ef515d47a&v=4" width="100px;"
+                        alt="Muhammed Althaf NP" />
+                    <br />
+                    <sub>
+                        <b>Muhammed Althaf</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
