@@ -98,6 +98,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Anurag1224">
+                    <img src="https://avatars.githubusercontent.com/u/91043382?v=4" width="100px;"
+                        alt="Anurag Kumar" />
+                    <br />
+                    <sub>
+                        <b>Anurag Kumar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
