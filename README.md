@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/bjuhir">
+                    <img src="https://avatars.githubusercontent.com/u/178939575?v=4" width="100px;"
+                        alt="Juhir Bin Wazid" />
+                    <br />
+                    <sub>
+                        <b>Juhir Bin Wazid</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
