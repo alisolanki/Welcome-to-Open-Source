@@ -5490,6 +5490,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Syed Shuaib</b>
                     </sub>
+            <td align="center">
+                <a href="https://github.com/akshat1602">
+                    <img src="https://avatars.githubusercontent.com/u/131957541?s=400&u=12912f3de9df99f6bfe8322ae3cac16444dd883f&v=4" width="100px;"
+                        alt="Akshat Trivedi" />
+                    <br />
+                    <sub>
+                        <b>Akshat Trivedi</b>
+                    </sub>
                 </a>
             </td>
     </tbody>
