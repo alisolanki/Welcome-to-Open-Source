@@ -5492,5 +5492,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <tr>
+            <td align="center">
+                <a href="https://github.com/iamtusharbala">
+                    <img src="https://avatars.githubusercontent.com/u/32893213?v=4" width="100px;"
+                        alt="Tushar Balakrishnan" />
+                    <br />
+                    <sub>
+                        <b>Tushar Balakrishnan</b>
+                    </sub>
+                </a>
+            </td>
+            </tr>
     </tbody>
 </table>
