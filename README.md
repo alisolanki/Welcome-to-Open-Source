@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/shreyashvarute15">
+                    <img src="https://avatars.githubusercontent.com/u/243489613?v=4" width="100px;"
+                        alt="shreyash varute" />
+                    <br />
+                    <sub>
+                        <b>Shreyash Varute</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
