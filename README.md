@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
+                    
                     <sub>
                         <b>Ali Solanki</b>
                     </sub>
