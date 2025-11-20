@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harmainsajid">
+                    <img src="https://avatars.githubusercontent.com/u/117431623?v=4" width="100px;"
+                        alt="Harmain Sajid" />
+                    <br />
+                    <sub>
+                        <b>Harmain Sajid</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
