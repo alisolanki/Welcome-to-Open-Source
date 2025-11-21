@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/arafat-fullstackdev">
+                    <img src="https://avatars.githubusercontent.com/u/123299454?v=4" width="100px;"
+                        alt="Arafat Patwary" />
+                    <br />
+                    <sub>
+                        <b>Arafat Patwary</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
