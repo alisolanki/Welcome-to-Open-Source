@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.arjunagnihotri.com/">
+                    <img src="https://avatars.githubusercontent.com/u/101201005?v=4" width="100px;"
+                        alt="Arjun Agnihotri" />
+                    <br />
+                    <sub>
+                        <b>Arjun Agnihotri</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
