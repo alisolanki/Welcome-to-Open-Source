@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hamza-s47">
+                    <img src="https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2l0aHVifGVufDB8fDB8fHww" width="100px;"
+                        alt="Sidd" />
+                    <br />
+                    <sub>
+                        <b>Sidd</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
