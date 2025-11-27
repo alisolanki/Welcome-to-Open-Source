@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ArpanCharola">
+                    <img src="https://avatars.githubusercontent.com/u/139230620?v=4" width="100px;"
+                        alt="Arpan Charola" />
+                    <br />
+                    <sub>
+                        <b>Arpan Charola</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
