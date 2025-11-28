@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yashaswinimullalli">
+                    <img src="https://avatars.githubusercontent.com/u/186666943?v=4" width="100px;"
+                        alt="Yashaswini mullalli" />
+                    <br />
+                    <sub>
+                        <b>Yashaswini</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
