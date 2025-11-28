@@ -69,8 +69,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
         <td align="center">
                 <a href="https://github.com/mohitchaudhari07">
-                    <img src="[https://avatars.githubusercontent.com/u/55312000?v=4](https://avatars.githubusercontent.com/u/166442441?v=4)" width="100px;"
-                        alt="Ali Solanki" />
+                    <img src="https://avatars.githubusercontent.com/u/166442441?v=4" width="100px;"
+                        alt="Mohit Chaudhari" />
                     <br />
                     <sub>
                         <b>Mohit Chaudhari</b>
