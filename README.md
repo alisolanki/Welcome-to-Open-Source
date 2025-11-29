@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gitAash">
+                    <img src="https://avatars.githubusercontent.com/u/153607773?v=4" width="100px;"
+                        alt="ash" />
+                    <br />
+                    <sub>
+                        <b>ash</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
