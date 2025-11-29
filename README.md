@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                    <a href="https://github.com/Vikrant0207">
+                        <img src="https://avatars.githubusercontent.com/u/183737259?v=4"
+                            width="100px;" alt="Vikrant Kumar Mehta" />
+                        <br />
+                        <sub>
+                            <b>Vikrant Kumar Mehta</b>
+                        </sub>
+                    </a>
+                </td>
     </tbody>
 </table>
