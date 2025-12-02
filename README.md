@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/1Sonawanerahul">
+                    <img src="https://avatars.githubusercontent.com/u/125113590?v=4" width="100px;"
+                        alt="Rahul Sonawane" />
+                    <br />
+                    <sub>
+                        <b>Rahul Sonawane</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
