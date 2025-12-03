@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mourya77">
+                    <img src="https://avatars.githubusercontent.com/u/123485005?v=4" width="100px;"
+                        alt="Mourya" />
+                    <br />
+                    <sub>
+                        <b>Mourya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
