@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Arindam-GitH">
+                    <img src="https://avatars.githubusercontent.com/u/180306688?v=4" width="100px;"
+                        alt="Arindam Guha" />
+                    <br />
+                    <sub>
+                        <b>Arindam Guha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
