@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anandakumaron-dev">
+                    <img src="https://avatars.githubusercontent.com/u/225562571?v=4" width="100px;"
+                        alt="Anandakumar" />
+                    <br />
+                    <sub>
+                        <b>Anandakumar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
