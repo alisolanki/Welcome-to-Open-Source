@@ -1054,6 +1054,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
+                <a href="https://github.com/dhwanit10/">
+                    <img src="https://avatars.githubusercontent.com/u/83386188?v=4" width="100px;"
+                        alt="Dhwanit Patel" />
+                    <br />
+                    <sub>
+                        <b>Dhwanit Patel</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SaniyaParveenCode/">
                     <img src="https://avatars.githubusercontent.com/u/168137306?v=4" width="100px;"
                         alt="Sheikh Saniya Parveen" />
