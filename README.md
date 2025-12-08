@@ -123,7 +123,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Antonov Marshall" />
                     <br />
                     <sub>
-                        <b>Chirsmita</b>
+                        <b>Antonov Marshall</b>
                     </sub>
                 </a>
             </td>
