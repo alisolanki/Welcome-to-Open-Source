@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jai-singh-02">
+                    <img src="https://media.istockphoto.com/id/165920821/vector/happy-banana.jpg?s=612x612&w=0&k=20&c=at9ARM3S7C2J4KjLChheIBShsRoW912SyM549XgTT2I=" width="100px;"
+                        alt="Jai Singh" />
+                    <br />
+                    <sub>
+                        <b>Jai Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
