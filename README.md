@@ -120,7 +120,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/AK-Marshall">
                     <img src="https://avatars.githubusercontent.com/u/97697537?v=4" width="100px;"
-                        alt="Chirsmita" />
+                        alt="Antonov Marshall" />
                     <br />
                     <sub>
                         <b>Chirsmita</b>
