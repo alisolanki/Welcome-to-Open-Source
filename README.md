@@ -189,6 +189,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/hit123esh">
+                    <img src=" https://avatars.githubusercontent.com/u/200906063?v=4" width="100px";
+                        alt="Hitesh Umesh" />
+                    <br />
+                    <sub>
+                        <b>Hitesh Umesh</b>
+                    </sub>
+                </a>
+            </td>            
+            <td align="center">
                 <a href="https://github.com/Simran-775">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
                         alt="Simranjeet kaur" />
