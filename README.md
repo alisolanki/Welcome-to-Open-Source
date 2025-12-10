@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/ramkrushna-madole-b482521b0/">
+                    <img src="https://github.com/ramkrishna500/ramkrishna500/blob/main/knowledge.gif" width="100px;"
+                        alt="Ramkrushna Madole" />
+                    <br />
+                    <sub>
+                        <b>Ramkrushna Madole</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
