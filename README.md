@@ -584,6 +584,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sangampuri">
+                    <img src="https://avatars.githubusercontent.com/u/188669120?v=4" width="100px;"
+                        alt="Sangam Puri" />
+                    <br />
+                    <sub>
+                        <b>Sangam Puri</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/psspsss">
                     <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
