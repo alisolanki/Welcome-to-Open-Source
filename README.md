@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ellie-ys">
+                    <img src="https://avatars.githubusercontent.com/u/148617363?v=4" width="100px;"
+                        alt="Ellie Younsung Choi" />
+                    <br />
+                    <sub>
+                        <b>Ellie Younsung Choi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
