@@ -5502,5 +5502,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Maysa-bendou">
+                    <img src="https://avatars.githubusercontent.com/u/188672048?v=4" width="100px;"
+                        alt="maysa" />
+                    <br />
+                    <sub>
+                        <b>maysa 2</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
