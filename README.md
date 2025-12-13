@@ -110,7 +110,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/that-guy18">
                     <img src="https://avatars.githubusercontent.com/u/194712927?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                        alt="Shivam Kumar" />
                     <br />
                     <sub>
                         <b>Shivam Kumar</b>
