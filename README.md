@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://portfolio-ochre-eight-67.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/126867291?s=400&v=4" width="100px;"
+                        alt="Manohar Reddy K" />
+                    <br />
+                    <sub>
+                        <b>Manohar Reddy K</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
