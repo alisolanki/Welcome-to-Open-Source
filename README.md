@@ -113,7 +113,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Karan Yadav" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>Shivam Kumar</b>
                     </sub>
                 </a>
             </td>
