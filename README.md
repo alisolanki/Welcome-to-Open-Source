@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ayushdayal900">
+                    <img src="https://avatars.githubusercontent.com/u/159569700?v=4" width="100px;"
+                        alt="Ayush Ayush" />
+                    <br />
+                    <sub>
+                        <b> Ayush Ayush</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
