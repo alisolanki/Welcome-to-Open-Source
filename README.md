@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://choudharyjayant.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b></b>
                     </sub>
                 </a>
             </td>
@@ -5491,6 +5491,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Syed Shuaib</b>
                     </sub>
                 </a>
-            </td>
+   
+<a href="https://github.com/Glitch-op">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="/jayantchaudhary.com" />
+                    <br />
+                    <sub>
+                        <b>jayant chaudhary</b>
+                    </sub>
+                </a>
+                         </td>
     </tbody>
 </table>
