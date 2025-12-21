@@ -5494,3 +5494,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+
+## Troubleshooting
+
+### Git command not found
+If you see an error like `git: command not found`, make sure Git is installed and added to your system PATH.
+
+- Download Git from: https://git-scm.com/downloads
+- Restart your terminal after installation
+
+### Permission denied (publickey)
+If you get a `Permission denied (publickey)` error while pushing, ensure that:
+- You have added your SSH key to GitHub
+- You are using the correct repository URL (SSH or HTTPS)
+
+### Changes not appearing on GitHub
+If your changes do not appear:
+- Make sure you committed the changes
+- Run `git push` after committing
+- Refresh the GitHub page
