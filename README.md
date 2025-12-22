@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Darshan060224/">
+                    <img src="https://avatars.githubusercontent.com/u/137700827?s=96&v=4" width="100px;"
+                        alt="Darshan U" />
+                    <br />
+                    <sub>
+                        <b>Darshan U</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
