@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dhanushpavann">
+                    <img src="https://avatars.githubusercontent.com/u/177615160?v=4" width="100px;"
+                        alt="Dhanush Pavan" />
+                    <br />
+                    <sub>
+                        <b>Dhanush Pavan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
