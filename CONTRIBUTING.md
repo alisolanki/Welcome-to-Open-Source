@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/Harmeetkaur120">
+            <img src="https://avatars.githubusercontent.com/u/139230408?v=4" width="100px;" alt="Harmeet kaur"/>
+            <br />
+            <sub><b>Harmeet kaur</b></sub>
+        </a>
+    </td>
     
     ```
 
