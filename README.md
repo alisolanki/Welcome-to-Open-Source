@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Siddhantsinha1207/">
+                    <img src="https://avatars.githubusercontent.com/u/45734586?v=4" width="100px;"
+                        alt="Siddhant Kumar Sinha" />
+                    <br />
+                    <sub>
+                        <b>Siddhant Kumar Sinha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
