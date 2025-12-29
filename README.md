@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+         <td align="center">
+                <a href="https://github.com/omnik7">
+                    <img src="https://avatars.githubusercontent.com/u/219126227?s=400&u=d7e86f959d3d1b8f457965d582c3f05799b14e8a&v=4" width="100px;"
+                        alt="Om Nikumbh" />
+                    <br />
+                    <sub>
+                        <b>Om Nikumbh</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
