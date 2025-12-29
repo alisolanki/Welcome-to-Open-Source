@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/YugPatel-HUB">
+                    <img src="https://avatars.githubusercontent.com/u/217542881?v=4" width="100px;"
+                        alt="YUG PATEL" />
+                    <br />
+                    <sub>
+                        <b>YUG PATEL</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
