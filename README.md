@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/taimour08">
+                    <img src="https://avatars.githubusercontent.com/u/75630169?v=4" width="100px;"
+                        alt="Taimour Khan" />
+                    <br />
+                    <sub>
+                        <b>Taimour Khan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
