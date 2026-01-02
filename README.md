@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shri-coder413">
+                    <img src="https://avatars.githubusercontent.com/u/210961590?v=4" width="100px;"
+                        alt="Shrinivas Nakadi" />
+                    <br />
+                    <sub>
+                        <b>Shrinivas Nakadi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
