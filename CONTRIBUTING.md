@@ -45,6 +45,13 @@
                     <sub><b>lakshmi priya</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/kuro-shiv">
+                    <img src="https://avatars.githubusercontent.com/u/167622583?s=96&v=4" width="100px;" alt="Shivam Kumar Dubey"/>
+                    <br />
+                    <sub><b>Shivam Kumar Dubey</b></sub>
+                </a> 
+            </td>
     <td align="center">
         <a href="https://github.com/itsTIMUS">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
