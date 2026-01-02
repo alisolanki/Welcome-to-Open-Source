@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ziv">
+                    <img src="https://avatars.githubusercontent.com/u/220370099?s=800&v=4" width="100px;"
+                        alt="ziv" />
+                    <br />
+                    <sub>
+                        <b>ziv</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
