@@ -378,6 +378,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Mayanklines">
+                    <img src=https://avatars.githubusercontent.com/u/115527540?v=4 width="100px;"
+                        alt="Mayank Singh Gahlot" />
+                    <br />
+                    <sub>
+                      <b>Mayank Singh Gahlot</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/aditya6386">
                     <img src="https://avatars.githubusercontent.com/u/91421460?v=4" width="100px;"
