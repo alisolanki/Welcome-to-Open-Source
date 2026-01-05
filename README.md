@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                             alt="Karthik B" />
                         <br />
                         <sub>
-                            <b>Karthik B</b>
+                            <b>Karthik Badathala/<b>
                         </sub>
                     </a>
                 </td>
