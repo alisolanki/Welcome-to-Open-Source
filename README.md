@@ -1263,6 +1263,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/snikithasiddavatam/">
+                    <img src="https://avatars.githubusercontent.com/u/39854699?v=4"
+                        width="100px;" alt="Snikitha" />
+                    <br />
+                    <sub>
+                        <b>Snikitha</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/pranjalS9">
                     <img src="https://avatars.githubusercontent.com/u/98489031?v=4" width="100px;"
                         alt="Pranjal Sharma" />
