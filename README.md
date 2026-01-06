@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/asimroshan6">
+                    <img src="https://avatars.githubusercontent.com/u/219544257?s=400&v=4" width="100px;"
+                        alt="Asim Roshan" />
+                    <br />
+                    <sub>
+                        <b>Asim Roshan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
