@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/atulya-tejas">
+                    <img src="https://avatars.githubusercontent.com/u/227602569?v=4" width="100px;"
+                        alt="Atulya Tejas" />
+                    <br />
+                    <sub>
+                        <b>Atulya Tejas</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
