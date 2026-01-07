@@ -5483,6 +5483,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/HariVignesh-10">
+                    <img src="https://avatars.githubusercontent.com/u/253554375?s=400&u=7e3c147737cfd2d8079fd15600681d681ae24663&v=4" width="100px;"
+                        alt="Hari Vignesh" />
+                    <br />
+                    <sub>
+                        <b>Hari Vignesh</b>  
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SyedShuaibAejaz">
                     <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
                         alt="Syed Shuaib" />
