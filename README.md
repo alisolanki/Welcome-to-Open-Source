@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rayssavilela">
+                    <img src="https://avatars.githubusercontent.com/u/125320985?v=4" width="100px;"
+                        alt="Rayssa Vilela" />
+                    <br />
+                    <sub>
+                        <b>Rayssa Vilela</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
