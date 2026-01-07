@@ -6,12 +6,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
-    </a>
-</p>
-
 <p>List of actively participating individuals in open source contributions</p>
 
 - Add your own details to the contributor list
@@ -5489,6 +5483,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Avinash-sdbegin">
+                    <img src="https://avatars.githubusercontent.com/u/187049929?v=4" width="100px;"
+                        alt="Avinash Kumar" />
+                    <br />
+                    <sub>
+                        <b>Avinash Kumar</b>
                     </sub>
                 </a>
             </td>
