@@ -5485,10 +5485,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/HariVignesh-10">
                     <img src="https://avatars.githubusercontent.com/u/253554375?s=400&u=7e3c147737cfd2d8079fd15600681d681ae24663&v=4" width="100px;"
-                        alt="Hari Vignesh" />
+                        alt="Hari VigneshB" />
                     <br />
                     <sub>
-                        <b>Hari Vignesh</b>  
+                        <b>Hari VigneshB</b>  
                     </sub>
                 </a>
             </td>
