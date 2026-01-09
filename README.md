@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShubhRajGupta">
+                    <img src="https://avatars.githubusercontent.com/u/134996947?v=4" width="100px;"
+                        alt="Shubh Raj Gupta" />
+                    <br />
+                    <sub>
+                        <b>Shubh Raj Gupta</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
