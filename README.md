@@ -5494,3 +5494,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+            <td align="center">
+                <a href="https://github.com/SyedShuaibAejaz">
+                    <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
+                        alt="Shivam Arora" />
+                    <br />
+                    <sub>
+                        <b>Shivam Arora</b>
+                    </sub>
+                </a>
+            </td>
+    </tbody>
+</table>
