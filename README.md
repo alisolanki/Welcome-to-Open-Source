@@ -5500,7 +5500,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Shivam Arora" />
                     <br />
                     <sub>
-                        <b>Shivam Arora</b>
+                        <b>Shivam Aroraa</b>
                     </sub>
                 </a>
             </td>
