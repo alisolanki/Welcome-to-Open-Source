@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/devyani648">
+                     <img src="https://avatars.githubusercontent.com/u/188786922?v=4" width="100px;"
+                        alt="devyani" />
+                    <br />
+                    <sub>
+                        <b>"devyani"</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
