@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/tufailbaba">
+                    <img src="https://avatars.githubusercontent.com/u/179993834?v=4" width="100px;"
+                        alt="Tufail baba" />
+                    <br />
+                    <sub>
+                        <b>Tufail baba</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
