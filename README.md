@@ -50,10 +50,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/202671606?v=4" width="100px;"
-                        alt="Akshita Jha" />
+                        alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Akshita Jha</b>
+                        <b>Ali Solanki</b>
                     </sub>
                 </a>
             </td>
