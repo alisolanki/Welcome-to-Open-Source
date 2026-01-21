@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dhanajit96">
+                    <img src="https://avatars.githubusercontent.com/u/121569461?s=96&v=4" width="100px;"
+                        alt="Ajit Dhanje" />
+                    <br />
+                    <sub>
+                        <b>Ajit Dhanje</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
