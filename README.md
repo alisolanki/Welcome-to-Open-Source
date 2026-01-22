@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vanshika1006">
+                    <img src="https://avatars.githubusercontent.com/u/184254748?v=4" width="100px;"
+                        alt="Vanshika Chopra" />
+                    <br />
+                    <sub>
+                        <b>Vanshika Chopra</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
