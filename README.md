@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Adithyaphani">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="AdithyaPhani" />
+                    <br />
+                    <sub>
+                        <b>Adithya Phani Thota</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
@@ -887,6 +897,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Manjil Rijal</b>
+                    </sub>
+                </a>
+            </td>
+              <td align="center">
+                <a href="https://github.com/Adithyaphani">
+                    <img src="https://avatars.githubusercontent.com/u/106184179?s=400&v=4" width="100px;"
+                        alt="Adithya Phani Thota" />
+                    <br />
+                    <sub>
+                        <b>Adithya Phani Thota</b>
                     </sub>
                 </a>
             </td>
