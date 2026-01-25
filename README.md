@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/ChinmayiPaluri">
+                    <img src="https://avatars.githubusercontent.com/u/217185729?v=4" width="100px;"
+                        alt="Chinmayi Paluri" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Chinmayi Paluri</b>
                     </sub>
                 </a>
             </td>
