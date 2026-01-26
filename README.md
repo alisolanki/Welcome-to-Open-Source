@@ -5495,7 +5495,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/manan-vaghasiya7">
                     <img src="https://avatars.githubusercontent.com/u/228284391?v=4" width="100px;"
-                        alt="Syed Shuaib" />
+                        alt="Manan Vaghasiya" />
                     <br />
                     <sub>
                         <b>Manan Vaghasiya</b>
