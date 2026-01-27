@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ferdikurnazdm">
+                    <img src="https://avatars.githubusercontent.com/u/125804144?v=4" width="100px;"
+                        alt="Ferdi Kurnaz" />
+                    <br />
+                    <sub>
+                        <b>Ferdi Kurnaz</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
