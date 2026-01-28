@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/qutubahmed732">
+                    <img src="https://avatars.githubusercontent.com/u/176834851?v=4" width="100px;"
+                        alt="Qutub Ahmed" />
+                    <br />
+                    <sub>
+                        <b>Qutub Ahmed</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
