@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ojas K" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>Ojas Kulkarni</b>
                     </sub>
                 </a>
             </td>
