@@ -57,6 +57,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+            <a href="https://github.com/myselfanandvp">
+                <img src="https://avatars.githubusercontent.com/u/79622843?v=4" 
+                    width="100px" 
+                    alt="Anand V P" 
+                    style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 10px #00d4ff;" />
+                <br />
+                <sub>
+                    <b>Anand V P</b>
+                </sub>
+            </a>
+        </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
