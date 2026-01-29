@@ -1577,7 +1577,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Khushi-Adhana">
                     <img src="https://avatars.githubusercontent.com/u/249279926?v=4" width="100px;"
-                        alt="Khushi" />
+                        alt="Khushi " />
                     <br />
                     <sub>
                         <b>Khushi</b>
