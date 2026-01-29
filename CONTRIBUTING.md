@@ -88,6 +88,14 @@
         </a>
     </td>
     
+         <td align="center">
+        <a href="https://github.com/ojas-k070">
+            <img src="https://avatars.githubusercontent.com/u/195458239?s=400&u=630fa16f7cab7e4128a5cabc2a4d9885979fa287&v=4" width="100px;" alt="Ojas Kulkarni"/>
+            <br />
+            <sub><b>Ojas Pineapple
+        </a>
+    </td>
+
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.

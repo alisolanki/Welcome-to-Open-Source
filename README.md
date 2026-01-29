@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ojas-k070">
+                    <img src="https://avatars.githubusercontent.com/u/195458239?s=400&u=630fa16f7cab7e4128a5cabc2a4d9885979fa287&v=4" width="100px;"
+                        alt="Ojas K" />
+                    <br />
+                    <sub>
+                        <b>Ojas Kulkarni</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
