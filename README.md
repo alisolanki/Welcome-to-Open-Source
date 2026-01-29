@@ -1575,6 +1575,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Khushi-Adhana">
+                    <img src="https://avatars.githubusercontent.com/u/249279926?v=4" width="100px;"
+                        alt="Khushi " />
+                    <br />
+                    <sub>
+                        <b>Khushi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/236sakshi">
                     <img src="https://avatars.githubusercontent.com/u/108453602?v=4" width="100px;"
                         alt="Sakshi Singh" />
