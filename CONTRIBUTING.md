@@ -73,7 +73,14 @@
             <sub><b>Misha Kumari</b></sub>
         </a>
     </td>
-     <td align="center">
+        <td align="center">
+                <a href="https://github.com/Anshuman-cs50">
+                    <img src="https://avatars.githubusercontent.com/u/155361326?v=4" width="100px;" alt="Anshuman Singh"/>
+                    <br />
+                    <sub><b>Anshuman Singh</b></sub>
+                </a> 
+            </td>
+        <td align="center">
         <a href="https://github.com/PriyatoshKumarShahi">
             <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
             <br />
