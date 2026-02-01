@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/roshnik1610">
+                    <img src="https://avatars.githubusercontent.com/u/202371396?v=4" width="100px;"
+                        alt="Roshni Kumari" />
+                    <br />
+                    <sub>
+                        <b>Roshni Kumari</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
