@@ -88,6 +88,13 @@
         </a>
     </td>
     
+    <td align="center">
+        <a href="https://github.com/TusharPatil-20">
+            <img src="https://github.com/account"/>
+            <br />
+            <sub><b>Tushar Patil
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
