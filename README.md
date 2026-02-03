@@ -83,7 +83,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Tushar Patil" />
                     <br />
                     <sub>
-                        <b>Tushar Patil</b>
+                        <b>Tushar</b>
                     </sub>
                 </a>
             </td>
