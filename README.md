@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/MuzammilAadam">
+                    <img src="https://avatars.githubusercontent.com/u/159444029?v=4" width="100px;"
+                        alt="Aadam Muzammil" />
+                    <br />
+                    <sub>
+                        <b>Aadam Muzammil</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
