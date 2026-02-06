@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Nirav186">
+                    <img src="https://avatars.githubusercontent.com/u/59496724?v=4" width="100px;"
+                        alt="Nirav186" />
+                    <br />
+                    <sub>
+                        <b>Nirav Rangapariya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
