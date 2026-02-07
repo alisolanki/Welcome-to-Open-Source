@@ -218,6 +218,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Yashvi005-bit">
+                    <img src="https://avatars.githubusercontent.com/u/188472918?v=4" width="100px;"
+                        alt="Yashvi Shrest" />
+                    <br />
+                    <sub>
+                        <b>Yashvi Shrest</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/nischitha-77">
                     <img src="https://avatars.githubusercontent.com/u/186993378?v=4" width="100px;"
