@@ -139,7 +139,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td> 
             <td align="center">
                 <a href="https://github.com/CodeWithAkthar">
-                    <img src="https://avatars.githubusercontent.com/u/134262640?v=4" width="100px;"
+                    <img src="https://avatars.           githubusercontent.com/u/134262640?v=4" width="100px;"
                         alt="Shuhaib Akthar" />
                     <br />
                     <sub>
@@ -5489,6 +5489,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Hemasree1738">
+                    <img src="https://avatars.githubusercontent.com/u/257111201?v=4" width="100px;"
+                        alt="Hemasree1703" />
+                    <br />
+                    <sub>
+                        <b>Hemasree Randhi</b>
                     </sub>
                 </a>
             </td>
