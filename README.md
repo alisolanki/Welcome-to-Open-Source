@@ -5495,7 +5495,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="http://7.91.212.149/">
                     <img src="https://avatars.githubusercontent.com/u/183593792?v=4&size=64" width="100px;"
-                        alt="Ubee Kapoor" />
+                        alt="Ubee  Kapoor" />
                     <br />
                     <sub>
                         <b>Ubee Kapoor</b>
