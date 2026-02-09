@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Srutidev Barman" />
                     <br />
                     <sub>
-                        <b>Srutidev Barman</b>
+                        <b>Srutidev Barman.</b>
                     </sub>
                 </a>
             </td>
