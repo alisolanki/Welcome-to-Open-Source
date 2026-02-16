@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Israela608">
+                    <img src="https://avatars.githubusercontent.com/u/53633250?v=4" width="100px;"
+                        alt="Israel Azekhuoria" />
+                    <br />
+                    <sub>
+                        <b>Israel Azekhuoria</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
