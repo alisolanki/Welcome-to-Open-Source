@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AsmShuvo">
+                    <img src="https://avatars.githubusercontent.com/u/172643636?v=4" width="100px;"
+                        alt="Asm Shahrier Parvaz" />
+                    <br />
+                    <sub>
+                        <b>Asm Shahrier Parvaz</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
