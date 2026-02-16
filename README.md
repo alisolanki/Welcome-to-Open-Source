@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/abdu1lah26">
+                    <img src="" width="100px;"
+                        alt="Abdullah Shakeel" />
+                    <br />
+                    <sub>
+                        <b>Abdullah Shakeel</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
