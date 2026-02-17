@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+
+    <td align="center">
+        <a href="https://satbirsingh.com/">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Satbir Singh</b></sub>
+        </a>
+    </td>
     
     ```
 
