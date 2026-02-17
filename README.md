@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/levipshemish">
+                    <img src="https://avatars.githubusercontent.com/u/133231470?s=400" width="100px;"
+                        alt="Levi Pshemish" />
+                    <br />
+                    <sub>
+                        <b>Levi Pshemish</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
