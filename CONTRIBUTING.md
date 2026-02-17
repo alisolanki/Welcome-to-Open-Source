@@ -66,6 +66,13 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
+         <td align="center">
+        <a href="https://github.com/github-mahar">
+            <img src="https://avatars.githubusercontent.com/u/144817379?s=400&u=b51229328be02437f0f9a5f4e6c827246d5bfaff&v=4" width="100px;" alt="Mahar GM"/>
+            <br />
+            <sub><b>Mahar GM
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/misha141">
             <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
@@ -87,7 +94,6 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
-    
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
