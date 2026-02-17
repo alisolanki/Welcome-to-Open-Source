@@ -16,7 +16,7 @@
 
 7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
-    ```
+    
     <td align="center">
         <a href="https://alisolanki.com/">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
@@ -24,71 +24,16 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
-           <td align="center">
-                <a href="https://github.com/aryanmangrule402/">
-                    <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Aryan  Mangrule</b></sub>
-                </a> 
-            </td>
-             <td align="center">
-                <a href="https://github.com/codewithgaani">
-                    <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>
-                    <br />
-                    <sub><b>Krishna Bhatt</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://bytemaster2000.github.io/">
-                    <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
-                    <br />
-                    <sub><b>lakshmi priya</b></sub>
-                </a> 
-            </td>
-    <td align="center">
-        <a href="https://github.com/itsTIMUS">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
-            <br />
-            <sub><b>Sumit Saha</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sahitha03">
-            <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
-            <br />
-            <sub><b>Aluri Sai Sahitha</b></sub>
-        </a>
-    </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/account">
+            <img src="https://avatars.githubusercontent.com/u/56909637?v=4" width="100px;" alt="Jay Gohel"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Jay Gohel</b></sub>
         </a>
     </td>
-     <td align="center">
-        <a href="https://github.com/misha141">
-            <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
-            <br />
-            <sub><b>Misha Kumari</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/PriyatoshKumarShahi">
-            <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
-            <br />
-            <sub><b>Priyatosh Kumar</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/Sathvik-Shetty-1569">
-            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
-            <br />
-            <sub><b>Sathvik Shetty
-        </a>
-    </td>
+           
     
-    ```
+   
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
