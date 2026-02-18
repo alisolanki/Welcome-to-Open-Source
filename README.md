@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aryanchaturvedi13">
+                    <img src="https://www.youtube.com/watch?v=KoCrm1uqp5A" width="100px;"
+                        alt="Aryan Chaturvedi" />
+                    <br />
+                    <sub>
+                        <b>Aryan Chaturvedi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
