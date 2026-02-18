@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/iampratik13">
+                    <img src="https://avatars.githubusercontent.com/u/196821787?v=4" width="100px;"
+                        alt="Pratik Bhagwat" />
+                    <br />
+                    <sub>
+                        <b>Pratik Bhagwat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
