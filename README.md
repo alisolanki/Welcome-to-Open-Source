@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sharvariballal">
+                    <img src="https://avatars.githubusercontent.com/u/174798062?v=4" width="100px;"
+                        alt="Sharvari Ballal" />
+                    <br />
+                    <sub>
+                        <b>Sharvari Ballal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
