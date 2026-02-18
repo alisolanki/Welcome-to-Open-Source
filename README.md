@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Vaishnavi04102005">
+                    <img src="https://avatars.githubusercontent.com/u/214351963?v=4&size=64" width="100px;"
+                        alt="Vaishnavi Jaiswal" />
+                    <br />
+                    <sub>
+                        <b>Vaishnavi Jaiswal</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
