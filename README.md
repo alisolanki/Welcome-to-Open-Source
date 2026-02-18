@@ -137,6 +137,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
+                <a href="https://github.com/harshitha14-cyber">
+                    <img src="https://avatars.githubusercontent.com/u/219780647?v=4" width="100px;"
+                        alt="Harshitha Bhoopathi" />
+                    <br />
+                    <sub>
+                        <b>Harshitha Bhoopathi</b>
+                    </sub>
+                </a>
+            </td> 
+            <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
                         alt="Chamuditha Nonis" />
