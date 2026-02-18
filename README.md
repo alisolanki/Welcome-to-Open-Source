@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SahilArate">
+                    <img src="https://avatars.githubusercontent.com/u/132871870?v=4" width="100px;"
+                        alt="Sahil Arate" />
+                    <br />
+                    <sub>
+                        <b>Sahil Arate</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
