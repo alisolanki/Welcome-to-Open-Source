@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/168799814?v=4" width="100px;"
+                        alt="Bushra" />
+                    <br />
+                    <sub>
+                        <b>Bushra</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
@@ -338,12 +348,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         <td align="center">
-                <a href="https://www.aashikgautam.com.np/">
-                    <img src="https://avatars.githubusercontent.com/u/170905532?v=4" width="100px;"
-                        alt="Aashik Gautam" />
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/168799814?v=4" width="100px;"
+                        alt="Bushra" />
                     <br />
                     <sub>
-                        <b>Aashik Gautam</b>
+                        <b>Bushra</b>
                     </sub>
                 </a>
             </td>
