@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/swaroop-5-6-7">
+                    <img src="https://avatars.githubusercontent.com/u/191587636?v=4" width="100px;"
+                        alt="Swaroop Yadiki" />
+                    <br />
+                    <sub>
+                        <b>Swaroop Yadiki</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
