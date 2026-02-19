@@ -5491,6 +5491,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+
+            <td align="center">
+                <a href="https://github.com/AtharvaPatil999">
+                    <img src="https://www.cobalt.io/hs-fs/hubfs/examples-of-open-sourced-software.jpeg?width=550&height=309&name=examples-of-open-sourced-software.jpeg" width="100px;"
+                        alt="Atharva Patil" />
+                    <br />
+                    <sub>
+                        <b>ATHARVA PATIL</b>
+                    </sub>
+                </a>
+            </td>
+
+
             <td align="center">
                 <a href="https://github.com/SyedShuaibAejaz">
                     <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
