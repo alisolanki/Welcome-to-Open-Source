@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/bhumigen">
+                    <img src="https://avatars.githubusercontent.com/u/159404503?s=400&v=4" width="100px;"
+                        alt="Bhumika Samal" />
+                    <br />
+                    <sub>
+                        <b>Bhumika Samal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
