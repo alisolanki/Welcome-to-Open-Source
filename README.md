@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rohit74899">
+                    <img src="https://avatars.githubusercontent.com/u/85066357?v=4" width="100px;"
+                        alt="Rohit Lande" />
+                    <br />
+                    <sub>
+                        <b>Rohit Lande</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
