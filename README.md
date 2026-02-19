@@ -5501,5 +5501,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/shruthipavalavel
+                ">
+                    <img src="https://avatars.githubusercontent.com/u/183194236?v=4" width="100px;"
+                        alt="Shruthi Pavalavel" />
+                    <br />
+                    <sub>
+                        <b>Shruthi Pavalavel</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
