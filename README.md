@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/cocabola04">
+                    <img src="https://avatars.githubusercontent.com/u/218715983?v=4&size=64" width="100px;"
+                        alt="Daksh Dhull" />
+                    <br />
+                    <sub>
+                        <b>Daksh Dhull</b>
+                    </sub>
+                </a>
+            </td>    
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
