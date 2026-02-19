@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Yash-PathakSJP">
+                    <img src="https://avatars.githubusercontent.com/u/209728275?v=4" width="100px;"
+                        alt="Yash Pathak" />
+                    <br />
+                    <sub>
+                        <b>Yash Pathak</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
