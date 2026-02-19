@@ -147,6 +147,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
+                <a href="https://github.com/matetilaharika2003">
+                    <img src="https://avatars.githubusercontent.com/u/145182165?v=4" width="100px;"
+                        alt="Laharika Mateti" />
+                    <br />
+                    <sub>
+                        <b>Laharika Mateti</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/CodeWithAkthar">
                     <img src="https://avatars.githubusercontent.com/u/134262640?v=4" width="100px;"
                         alt="Shuhaib Akthar" />
