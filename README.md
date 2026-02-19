@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DjangoMustang">
+                    <img src="https://avatars.githubusercontent.com/u/123947685?v=4" width="100px;"
+                        alt="Siddhi Shrivastava" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
