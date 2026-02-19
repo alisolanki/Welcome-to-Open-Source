@@ -5501,5 +5501,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/ProGraMMer-Parth">
+                    <img src="https://avatars.githubusercontent.com/u/181550649?v=4" width="100px;"
+                        alt="parth_ranjan" />
+                    <br />
+                    <sub>
+                        <b>Parth Ranjan</b>
+                    </sub>
+                </a>
+            </td>    
     </tbody>
 </table>
