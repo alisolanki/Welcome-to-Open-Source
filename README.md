@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ronsaikia">
+                    <img src="https://avatars.githubusercontent.com/u/180324073?v=4" width="100px;"
+                        alt="Chiranjib Saikia" />
+                    <br />
+                    <sub>
+                        <b>Chiranjib Saikia</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
