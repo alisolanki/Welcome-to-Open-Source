@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jaispritam">
+                    <img src="https://avatars.githubusercontent.com/u/212467246?v=4" width="100px;"
+                        alt="jaispritam" />
+                    <br />
+                    <sub>
+                        <b>Pritam Jaiswal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
