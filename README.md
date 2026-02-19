@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ShashankNerkar">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Shashank" />
+                    <br />
+                    <sub>
+                        <b>Shashank</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
