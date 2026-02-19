@@ -5501,5 +5501,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/abhijeetnardele24-hash">
+                    <img src="https://github.com/abhijeetnardele24-hash.png" width="100px;" alt="Abhijeet Nardele" />
+                    <br />
+                    <sub>
+                        <b>Abhijeet Nardele</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
