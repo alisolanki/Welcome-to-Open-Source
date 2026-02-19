@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ayushi-ninja">
+                    <img src="https://avatars.githubusercontent.com/u/177440601?s=400&u=033b3843943bcf170992e3a6a82642a72db94d0d&v=4" width="100px;"
+                        alt="Ayushi Rajput" />
+                    <br />
+                    <sub>
+                        <b>Ayushi Rajput</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
