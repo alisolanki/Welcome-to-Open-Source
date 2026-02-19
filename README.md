@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ritikamahato924">
+                    <img src="https://avatars.githubusercontent.com/u/1764448?v=4" width="100px;"
+                        alt="Ritika Mahato" />
+                    <br />
+                    <sub>
+                        <b>Ritika Mahato</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
