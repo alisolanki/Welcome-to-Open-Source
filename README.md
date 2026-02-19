@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SadiqRaja1">
+                    <img src="https://avatars.githubusercontent.com/u/113375636?v=4" width="100px;"
+                        alt="Sadiq Raja Sahikh" />
+                    <br />
+                    <sub>
+                        <b>Sadiq Raja Sahikh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
