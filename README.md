@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/franzm64">
+                    <img src="https://avatars.githubusercontent.com/u/127355276?s=48&v=4" width="100px;"
+                        alt="Franz M Krumenacker" />
+                    <br />
+                    <sub>
+                        <b>Franz M Krumenacker</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
