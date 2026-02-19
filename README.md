@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KshitijMehta002">
+                    <img src="https://avatars.githubusercontent.com/u/183259698?v=4" width="100px;"
+                        alt="Kshitij" />
+                    <br />
+                    <sub>
+                        <b>Kshitij Harsh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
