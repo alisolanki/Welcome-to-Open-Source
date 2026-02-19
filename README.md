@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/hetkapadiya">
+                    <img src="https://avatars.githubusercontent.com/u/190769201?v=4" width="100px;"
+                        alt="Anas Khan" />
+                    <br />
+                    <sub>
+                        <b>Het Kapadiya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
