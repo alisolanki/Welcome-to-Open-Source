@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jainilDesai">
+                    <img src="https://avatars.githubusercontent.com/u/178654413?v=4" width="100px;"
+                        alt="Jainil Desai" />
+                    <br />
+                    <sub>
+                        <b>Jainil Desai</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
