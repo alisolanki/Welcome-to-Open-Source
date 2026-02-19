@@ -298,16 +298,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/PravallikaSurabathula2006">
-                    <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
-                        alt="Pravallika Surabathula" />
-                    <br />
-                    <sub>
-                        <b>Pravallika Surabathula</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/RaiyanChowdhury225">
                     <img src="https://avatars.githubusercontent.com/u/214487419?v=4" width="100px;"
                         alt="Raiyan Chowdhury" />
@@ -5498,6 +5488,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Kiran91911">
+                    <img src="https://avatars.githubusercontent.com/u/140635097?v=4" width="100px;"
+                        alt="Kiran Kumar" />
+                    <br />
+                    <sub>
+                        <b>Kiran Kumar</b>
                     </sub>
                 </a>
             </td>
