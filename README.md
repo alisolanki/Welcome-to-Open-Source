@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://tanishverma.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/149077909?v=4" width="100px;"
+                        alt="aldrago" />
+                    <br />
+                    <sub>
+                        <b>aldrago</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
