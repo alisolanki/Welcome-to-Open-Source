@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://siddharthshuklacs24.github.io/">
+                    <img src="https://avatars.githubusercontent.com/u/232747777?v=4&size=64" width="100px;"
+                        alt="Siddharth Shukla" />
+                    <br />
+                    <sub>
+                        <b>Siddharth Shukla</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
