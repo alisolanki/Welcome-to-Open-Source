@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SamarthTechKing">
+                    <img src="https://avatars.githubusercontent.com/u/195440773?v=4" width="100px;"
+                        alt="Samarth Sharma" />
+                    <br />
+                    <sub>
+                        <b>Samarth Sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
