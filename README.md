@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nabayousuf27">
+                    <img src="https://avatars.githubusercontent.com/u/171433928?v=4" width="100px;"
+                        alt="Naba Yousuf" />
+                    <br />
+                    <sub>
+                        <b>Naba Yousuf </b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
