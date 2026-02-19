@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/BhelPuriPanda">
+                    <img src="https://avatars.githubusercontent.com/u/194904922?v=4" width="100px;"
+                        alt="Swapnil Verma" />
+                    <br />
+                    <sub>
+                        <b>Swapnil Verma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
