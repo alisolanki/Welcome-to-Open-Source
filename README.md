@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Priyanshu04">
+                    <img src="https://avatars.githubusercontent.com/u/34536868?v=4" width="100px;"
+                        alt="Priyanshu Mandal" />
+                    <br />
+                    <sub>
+                        <b>Priyanshu Mandal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
