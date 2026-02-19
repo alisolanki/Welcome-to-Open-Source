@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shailawazeer">
+                    <img src="https://avatars.githubusercontent.com/u/164495120?v=4" width="100px;"
+                        alt="Shaila wazeer" />
+                    <br />
+                    <sub>
+                        <b>Shaila wazeer</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
