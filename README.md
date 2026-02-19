@@ -5500,6 +5500,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Syed Shuaib</b>
                     </sub>
                 </a>
+            </td>     
+            <td align="center">
+                <a href="https://github.com/Tanaya-2007?tab=repositories">
+                    <img src="https://avatars.githubusercontent.com/u/154811133?v=4" width="100px;"
+                        alt="Tanaya Pawar" />
+                    <br />
+                    <sub>
+                        <b>Tanaya Pawar</b>
+                    </sub>
+                </a>
             </td>
-    </tbody>
+
+        </tbody>
 </table>
