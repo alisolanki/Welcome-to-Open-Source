@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Harvard-Shahan">
+                    <img src="https://avatars.githubusercontent.com/u/108354735?v=4" width="100px;"
+                        alt="Harvard Shahan" />
+                    <br />
+                    <sub>
+                        <b>Harvard Shahan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
