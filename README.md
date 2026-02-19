@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                    <td align="center">
+                <a href="https://github.com/Swayamverma8">
+                    <img src="https://avatars.githubusercontent.com/u/202749957?v=4" width="100px;"
+                        alt="Swayam Verma" />
+                    <br />
+                    <sub>
+                        <b>Swayam Verma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
