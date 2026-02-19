@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Diksha-Maurya">
+                    <img src="https://avatars.githubusercontent.com/u/27075012?v=4" width="100px;"
+                        alt="Diksha Maurya" />
+                    <br />
+                    <sub>
+                        <b>Diksha Maurya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
