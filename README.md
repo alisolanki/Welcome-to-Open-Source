@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yogeshnaiduk">
+                    <img src="https://avatars.githubusercontent.com/u/222380043?v=4" width="100px;"
+                        alt="Yogesh Naidu" />
+                    <br />
+                    <sub>
+                        <b>Yogesh Naidu </b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
