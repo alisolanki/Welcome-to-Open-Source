@@ -67,12 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                <a href="https://github.com/yashbora18">
+                    <img src="https://avatars.githubusercontent.com/u/119941709?v=4" width="100px;"
+                        alt="Yash Bora" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>Yash Bora</b>
                     </sub>
                 </a>
             </td>
@@ -5498,6 +5498,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/yashbora18">
+                    <img src="https://avatars.githubusercontent.com/u/119941709?v=4" width="100px;"
+                        alt="Yash Bora" />
+                    <br />
+                    <sub>
+                        <b>Yash Bora</b>
                     </sub>
                 </a>
             </td>
