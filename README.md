@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harshavardhanBOMMALATA">
+                    <img src="https://avatars.githubusercontent.com/u/167017461?v=4" width="100px;"
+                        alt="HARSHAVARDHAN BOMMALATA" />
+                    <br />
+                    <sub>
+                        <b>HARSHAVARDHAN BOMMALATA</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
