@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Ashish-Rawat7">
+                    <img src="https://avatars.githubusercontent.com/u/193312472?v=4" width="100px;"
+                        alt="Ashish Singh Rawat" />
+                    <br />
+                    <sub>
+                        <b>Ashish Singh Rawat</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
