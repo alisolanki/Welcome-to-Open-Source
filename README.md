@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/hasan2733">
+                    <img src="https://avatars.githubusercontent.com/u/155909255?v=4" width="100px;"
+                        alt="Abid Hasan" />
+                    <br />
+                    <sub>
+                        <b>Abid Hasan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
