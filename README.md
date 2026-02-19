@@ -5501,5 +5501,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </tr>
+            <td align="center">
+                <a href="https://github.com/Shikharshaurya">
+                    <img src="https://avatars.githubusercontent.com/u/113112669?v=4" width="100px;"
+                        alt="Shikhar Shaurya" />
+                    <br />
+                    <sub>
+                        <b>Shikhar Shaurya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
