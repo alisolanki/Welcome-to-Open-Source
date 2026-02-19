@@ -41,18 +41,21 @@
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
 </p>
-  
+
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
 ## Contributors 🍉
 
-Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([🤗](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
     <tbody>
         <tr>
@@ -602,7 +605,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Anurag Kumar</b>
                 </a>
              </td>
-                 <td align="center">      
+                 <td align="center">    
                 <a href="https://github.com/munnaPrince">
                     <img src="https://avatars.githubusercontent.com/u/142686792?s=400&u=9c6107486bade811dc7723ebfa2d1da7c5502053&v=4" width="100px;"
                         alt="Gaurav Agarwal" />
@@ -1446,7 +1449,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Avinash D</b>
                     </sub>
                 </a>
-            </td>	    
+            </td>	  
             <td align="center">
                 <a href="https://github.com/Abhijeetkumar17">
                     <img src="https://avatars.githubusercontent.com/u/119649462?v=4" width="100px;"
@@ -5498,6 +5501,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Abhinavbosani">
+                    <img src="https://avatars.githubusercontent.com/u/96626353?v=4" width="100px;"
+                        alt="Abhinav Rao" />
+                    <br />
+                    <sub>
+                        <b>Abhinav Rao</b>
                     </sub>
                 </a>
             </td>
