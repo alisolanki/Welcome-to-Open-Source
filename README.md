@@ -5501,5 +5501,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KhushiKale28307">
+                    <img src="https://avatars.githubusercontent.com/u/208768388?v=4" width="100px;" alt="Khushi Kale"/>
+                    <br />
+                    <sub><b>Khushi Kale</b></sub>
+                </a> 
+            </td>
     </tbody>
 </table>
