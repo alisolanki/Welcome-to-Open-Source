@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SwarajFr">
+                    <img src="https://avatars.githubusercontent.com/u/80035647?v=4" width="100px;"
+                        alt="Swaraj Panda" />
+                    <br />
+                    <sub>
+                        <b>Swaraj Panda</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
