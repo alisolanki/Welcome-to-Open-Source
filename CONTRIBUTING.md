@@ -87,6 +87,12 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Tabby-rohit">
+            <img src="https://avatars.githubusercontent.com/u/185601059?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>ROHIT BELLIKATTI</b></sub>
+        </a>
     
     ```
 
