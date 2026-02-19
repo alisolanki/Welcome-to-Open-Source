@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tanay2Ghate">
+                    <img src="https://avatars.githubusercontent.com/u/173995919?v=4" width="100px;"
+                        alt="Tanay Ghate" />
+                    <br />
+                    <sub>
+                        <b>Tanay Ghate</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
