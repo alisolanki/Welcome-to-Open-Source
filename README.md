@@ -157,6 +157,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="ttps://github.com/mwafg-gumma">
+                    <img src="https://avatars.githubusercontent.com/u/176330227?v=4" width="100px;"
+                        alt="Mwafg Gumma Mohamed" />
+                    <br />
+                    <sub>
+                        <b>Mwafg Gumma Mohamed</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="hhttps://github.com/harinii-a">
                     <img src="https://avatars.githubusercontent.com/u/134578133?v=4"
                     width="100px;"
