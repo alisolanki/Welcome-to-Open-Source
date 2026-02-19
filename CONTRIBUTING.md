@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+
+    <td align="center">
+        <a href="https://github.com/pratiksha-more">
+            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <br />
+            <sub><b>Pratiksha 
+        </a>
+    </td>
     
     ```
 
