@@ -5501,5 +5501,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/adityalawande17">
+                    <img src="https://avatars.githubusercontent.com/u/236100691?s=400&u=ef98ebe0a1070cd1d1265077ad4d5557d7bda37d&v=4" width="100px;" alt="Aditya Lawande"/>
+                    <br />
+                    <sub><b>Aditya Lawande</b></sub>
+                </a> 
+            </td>
     </tbody>
 </table>
