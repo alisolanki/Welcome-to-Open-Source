@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://PrathviiXD.com/">
+                    <img src="https://avatars.githubusercontent.com/u/213296425?v=4" width="100px;"
+                        alt="Prathviraj Singh Chauhan" />
+                    <br />
+                    <sub>
+                        <b>Prathviraj Singh Chauhan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
