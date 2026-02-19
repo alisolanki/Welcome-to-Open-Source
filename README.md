@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TechWithHer">
+                    <img src="https://github.com/settings/profile" width="100px;"
+                        alt="Ayushi Singh" />
+                    <br />
+                    <sub>
+                        <b>Anas Khan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
