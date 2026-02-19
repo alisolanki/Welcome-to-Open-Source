@@ -248,6 +248,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sang2607-b">
+                    <img src="https://avatars.githubusercontent.com/u/189245381?v=4" width="100px;"
+                        alt="Sanghrakshita" />
+                    <br />
+                    <sub>
+                        <b>Sanghrakshita</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Omkarkanherkar">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
                         alt="omkar" />
