@@ -5402,6 +5402,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/kavyapantrangi">
+                    <img src="https://avatars.githubusercontent.com/u/75195705?v=4" width="100px;"
+                        alt="Abhisha" />
+                    <br />
+                    <sub>
+                        <b>Abhiiiisha</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Gagan-coder770">
                     <img src="https://avatars.githubusercontent.com/u/159569700?v=4" width="100px;"
                         alt="Gagan Ganesh" />
