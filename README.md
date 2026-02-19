@@ -5501,5 +5501,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/VanshikaRao21">
+                    <img src="https://avatars.githubusercontent.com/u/205976117?v=4" width="100px;"
+                        alt="Vanshika Rao" />
+                    <br />
+                    <sub>
+                        <b>Vanshika Rao</b>
+                    </sub>
+                </a>
+            </td>
+            
     </tbody>
 </table>
