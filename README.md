@@ -1315,6 +1315,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sneha079-codes">
+                    <img src="https://avatars.githubusercontent.com/u/227846058?v=4" width="100px;"
+                        alt="Sneha Rakundla" />
+                    <br />
+                    <sub>
+                        <b>Sneha Rakundla</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/account">
                     <img src="https://avatars.githubusercontent.com/u/145648691?v=4" width="100px;"
                         alt="Aishwarya" />
