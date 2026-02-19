@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/omwanere">
+                    <img src="https://avatars.githubusercontent.com/u/135044200?v=4" width="100px;"
+                        alt="Om Wanere" />
+                    <br />
+                    <sub>
+                        <b>Om Wanere</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
