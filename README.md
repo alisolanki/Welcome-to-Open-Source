@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ifaz2611">
+                    <img src="https://avatars.githubusercontent.com/u/69388548?v=4" width="100px;"
+                        alt="Ifaz Md Zahin" />
+                    <br />
+                    <sub>
+                        <b>Ifaz Md Zahin</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
