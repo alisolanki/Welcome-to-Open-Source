@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Divyansh-Kumawat">
+                    <img src="https://avatars.githubusercontent.com/u/153420810?v=4" width="100px;"
+                        alt="Divyansh Kumawat" />
+                    <br />
+                    <sub>
+                        <b>Divyansh Kumawat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
