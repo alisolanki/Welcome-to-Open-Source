@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/joylinmhs">
+                    <img src="https://avatars.githubusercontent.com/u/179637932?v=4" width="100px;"
+                        alt="Joylin Mathias" />
+                    <br />
+                    <sub>
+                        <b>Joylin Mathias</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
