@@ -31,6 +31,16 @@
                     <sub><b>Aryan  Mangrule</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/janvibehal">
+                    <img src="https://avatars.githubusercontent.com/u/144666133?v=4" width="100px;"
+                        alt="Janvi Behal" />
+                    <br />
+                    <sub>
+                        <b>Janvi Behal</b>
+                    </sub>
+                </a>
+        </td>
              <td align="center">
                 <a href="https://github.com/codewithgaani">
                     <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>

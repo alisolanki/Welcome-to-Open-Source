@@ -65,7 +65,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Ali Solanki</b>
                     </sub>
                 </a>
-            </td>
+        </td>
+
+        <td align="center">
+                <a href="https://github.com/janvibehal">
+                    <img src="https://avatars.githubusercontent.com/u/144666133?v=4" width="100px;"
+                        alt="Janvi Behal" />
+                    <br />
+                    <sub>
+                        <b>Janvi Behal</b>
+                    </sub>
+                </a>
+        </td>
+
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
