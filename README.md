@@ -5503,3 +5503,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+<td align="center">
+                <a href="https://github.com/ArthurXGit">
+                    <img src="https://avatars.githubusercontent.com/u/200876543?v=4" width="100px;"
+                        alt="Tarun Kaiser" />
+                    <br />
+                    <sub>
+                        <b>Tarun Kaiser</b>
+                    </sub>
+                </a>
+            </td>
