@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/ChinmayOnGithub">
+                    <img src="https://avatars.githubusercontent.com/u/72600485?v=4?s=100" width="100px;" alt="Chinmay Patil" />
+                    <br />
+                    <sub><b>Chinmay Patil</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
