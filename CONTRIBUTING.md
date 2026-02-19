@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/sahilshingate01">
+            <img src="https://avatars.githubusercontent.com/u/118622202?v=4" width="100px;" alt="Sahil Shingate"/>
+            <br />
+            <sub><b>Sahil Shingate</b></sub>
+        </a>
+    </td>
+    
     
     ```
 
