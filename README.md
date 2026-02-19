@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bhavikcodes">
+                    <img src="https://avatars.githubusercontent.com/u/186551683?s=400&u=d6531cce5a9a65a59878b8dac1e230604896fe7e&v=4" width="100px;"
+                        alt="Bhavik Jain" />
+                    <br />
+                    <sub>
+                        <b>Bhavik Jain</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
