@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Yogeshreddy07">
+                    <img src="https://avatars.githubusercontent.com/u/175491779?v=4" width="100px;"
+                        alt="Yogseh Reddy" />
+                    <br />
+                    <sub>
+                        <b>Yogseh Reddy</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
