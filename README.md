@@ -398,6 +398,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/cherry16grace">
+                    <img src="https://github.com/cherry16grace.png" width="100px;"
+                        alt="Cheril Gracenciya" />
+                    <br />
+                    <sub>
+                       <b>Cheril Gracenciya</b>
+                    </sub>
+                 </a>
+            </td>
+
+            <td align="center">
                 <a href="https://github.com/SAURAV0703">
                     <img src="https://avatars.githubusercontent.com/u/140614521?v=4" width="100px;" alt="Saurav Singh Negi"/>
                     <br />
