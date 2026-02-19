@@ -208,6 +208,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/himal10721">
+                    <img src="https://avatars.githubusercontent.com/u/246134036?v=4" width="100px;"
+                        alt="Himal Khatri" />
+                    <br />
+                    <sub>
+                        <b>Himal Khatri</b>
+                    </sub>
+                </a>
+            </td>
+
+            <td align="center">
                 <a href="https://github.com/rohan7003">
                     <img src="https://avatars.githubusercontent.com/u/146317921?v=4" width="100px;"
                         alt="Rohan Patil" />
