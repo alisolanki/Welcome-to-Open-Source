@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/davis-vt">
+                    <img src="https://avatars.githubusercontent.com/u/233759596?v=4" width="100px;"
+                        alt="Davis VT" />
+                    <br />
+                    <sub>
+                        <b>Davis VT</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
