@@ -1491,6 +1491,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center>
+                <a href="https://github.com/rivv0">
+                    <br />
+                    <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_2.png" width="100px;"
+                          alt = "Rivva" />
+                    <br />
+                    <sub>
+                        <b>Rivva</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/aloksinha107">
                     <img src="https://avatars.githubusercontent.com/u/151989195?v=4" width="100px;"
