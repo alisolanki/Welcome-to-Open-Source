@@ -415,6 +415,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AvinavKumar">
+                    <img src="https://avatars.githubusercontent.com/u/185202496?s=400&u=b368f0392ebecc6eefe78c0e16a057b3ec8c04f1&v=4" width="100px;"
+                        alt="Avinav Kumar " />
+                    <br />
+                    <sub>
+                        <b>Avinav Kumar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/30032003">
                     <img src="https://avatars.githubusercontent.com/u/97493907?v=4" width="100px;"
                         alt="Harshal Dahiwale" />
