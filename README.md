@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/MayankGhatawal">
+                    <img src="https://avatars.githubusercontent.com/u/139001774?s=400&u=9a20e87b2a1c7bfd77d91b52ba9e366faa55a28e&v=4" width="100px;"
+                        alt="Mayank Ghatawal" />
+                    <br />
+                    <sub>
+                        <b>Mayank Ghatawal</b>
+                    </sub>
+                </a>
+            </td>    
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
