@@ -287,7 +287,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center"
+            <td align="center">
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
                         alt="Rajat Rajput" />
@@ -295,6 +295,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>Rajat Rajput</b>
                     </sub>
+                </a>
+            </td>
+            <td align= "center">
+                <a href="https://github.com/chakri30">
+                   <img src="https://avatars.githubusercontent.com/u/140607014?s=400&u=458c7f6ba15efa92339ba5501169715e380779bb&v=4" width = "100px;"
+                        alt = "Chakri"/>
+                    <br />
+                    <sub>
+                       <b>Chakri</b>
+                    <sub>
                 </a>
             </td>
             <td align="center">
