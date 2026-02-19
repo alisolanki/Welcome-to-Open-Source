@@ -5501,5 +5501,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://portfolio-rho-murex-94.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/93009362?v=4" width="100px;"
+                        alt="Atiq Ur Rehman" />
+                    <br />
+                    <sub>
+                        <b>Atiq Ur Rehman</b>
+                    </sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
