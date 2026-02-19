@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SayanGuha93">
+                    <img src="https://avatars.githubusercontent.com/u/150531304?v=4" width="100px;"
+                        alt="Sayan Guha" />
+                    <br />
+                    <sub>
+                        <b>Sayan Guha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
