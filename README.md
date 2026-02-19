@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/TanushriThakare">
+                    <img src="https://avatars.githubusercontent.com/u/231026758?s=400&u=5f63d713ae55ad0dfca228097c1f5d17b41b5868&v=4" width="100px;"
+                        alt="Tanushri Thakare" />
+                    <br />
+                    <sub>
+                        <b>Tanushri Thakare</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
