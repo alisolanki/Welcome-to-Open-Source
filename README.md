@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KrucibleCoder">
+                    <img src="https://avatars.githubusercontent.com/u/114214434?v=4" width="100px;"
+                        alt="Krishna Aher" />
+                    <br />
+                    <sub>
+                        <b>Krishna Kiran Aher</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
