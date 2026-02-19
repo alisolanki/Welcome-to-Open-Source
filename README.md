@@ -980,6 +980,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mani Tyagi</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/abid-arham">
+                    <img src="https://avatars.githubusercontent.com/u/172143272?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Abid Arham</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/JessicaHoang">
                     <img src="https://avatars.githubusercontent.com/JessicaHoang" width="100px;"
