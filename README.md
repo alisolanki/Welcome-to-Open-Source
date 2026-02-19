@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/samarpanelipay">
+                    <img src="https://avatars.githubusercontent.com/u/178363198?v=4" width="100px;"
+                        alt="Samarpan Elipay" />
+                    <br />
+                    <sub>
+                        <b>E.Samarpan</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
