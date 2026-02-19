@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Richard110206">
+                    <img src="https://github.com/Richard110206/Blog-image/blob/main/cover/%E6%87%92%E6%B4%8B%E6%B4%8B.png?raw=true" width="100px;"
+                        alt="Richard110206" />
+                    <br />
+                    <sub>
+                        <b>Richard110206</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
