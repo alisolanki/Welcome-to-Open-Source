@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/RoseMary007">
+                    <img src="https://avatars.githubusercontent.com/u/189029035?v=4" width="100px;"
+                        alt="Rose" />
+                    <br />
+                    <sub>
+                        <b>Rose</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
