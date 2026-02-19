@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/246206766?v=4" width="100px;"
+                        alt="Emanuel Thangthazo" />
+                    <br />
+                    <sub>
+                        <b>Emanuel Thangthazo</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
