@@ -66,6 +66,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+          <table>
+    <tbody>
+        <tr>
+        <td align="center">
+                <a href="https://github.com/Yaswanth-1280">
+                    <img src="https://avatars.githubusercontent.com/u/228908027?v=4" width="100px;"
+                        alt="Yaswanth Naga Sai" />
+                    <br />
+                    <sub>
+                        <b>Yaswanth Naga Sai</b>
+                    </sub>
+                </a>
+            </td>  
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
