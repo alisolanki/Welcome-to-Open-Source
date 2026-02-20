@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vamshikrishan">
+                    <img src="https://avatars.githubusercontent.com/u/145258844?v=4" width="100px;"
+                        alt="Vamshi Krishna"/>
+                    <br />
+                    <sub>
+                        <b>Vamshi Krishna</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
