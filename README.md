@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/poojitha-polaki">
+                    <img src="https://avatars.githubusercontent.com/u/136827399?v=4" width="100px;"
+                        alt="Poojitha" />
+                    <br />
+                    <sub>
+                        <b>Poojitha Polaki</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
