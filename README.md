@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shivolen">
+                    <img src="https://avatars.githubusercontent.com/u/90754782?s=400&u=7f12ce777b7e9af105eb4822ef5b3c1c31f76a77&v=4" width="100px;"
+                        alt="Shivolen Moodley" />
+                    <br />
+                    <sub>
+                        <b>Shivolen Moodley</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
