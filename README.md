@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ayushmorya">
+                    <img src="https://avatars.githubusercontent.com/u/172358267?v=4" width="100px;"
+                        alt="Ayush Morya" />
+                    <br />
+                    <sub>
+                        <b>Ayush Morya</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
