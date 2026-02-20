@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/purkotibp">
+                    <img src="https://avatars.githubusercontent.com/u/162890763?v=4" width="100px;"
+                        alt="Bishwas Purkoti" />
+                    <br />
+                    <sub>
+                        <b>Bishwas Purkoti</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
