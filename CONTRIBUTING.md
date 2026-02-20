@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/prakashwaddar628">
+            <img src="https://avatars.githubusercontent.com/u/103359067?v=4" width="100px;" alt="Prakash Waddar"/>
+            <br />
+            <sub><b>Prakash Waddar
+        </a>
+    </td>
     
     ```
 
