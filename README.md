@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Tvaibhav06">
+                    <img src="https://avatars.githubusercontent.com/u/176951700?v=4" width="100px;"
+                        alt="Vaibhav Tandon" />
+                    <br />
+                    <sub>
+                        <b>Vaibhav Tandon</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
