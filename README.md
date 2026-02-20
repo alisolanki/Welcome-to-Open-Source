@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/prajwalMangaji">
+                    <img src="[https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;](https://avatars.githubusercontent.com/u/176238449?v=4)"
+                        alt="Prajwal Mangaji" />
+                    <br />
+                    <sub>
+                        <b>Prajwal Mangaji</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
