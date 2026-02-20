@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/HarpreetKaur01">
+                    <img src="https://avatars.githubusercontent.com/u/47543483?v=4" width="100px;"
+                        alt="Harpreet Kaur" />
+                    <br />
+                    <sub>
+                        <b>Harpreet Kaur</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
