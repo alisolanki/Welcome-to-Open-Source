@@ -75,6 +75,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Karan Yadav</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/18kushalhub">
+                    <img src="https://camo.githubusercontent.com/3205da81c6bf594827d38e002bf04781aaae1adb28f0a3facd975acab2001063/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33787a3242773132666539697947303676362f67697068792e676966" width="100px;"
+                        alt="PV.Kushal Reddy" />
+                    <br />
+                    <sub>
+                        <b>Karan Yadav</b>
+                    </sub>
+                </a>
             </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
