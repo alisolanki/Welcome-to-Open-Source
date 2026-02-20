@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td  align="center">
+            <a href="https://github.com/BEASTBOLTT">
+                <img src="https://avatars.githubusercontent.com/u/89060118?v=4" width="100px;"
+                    alt="BEASTBOLTT" />
+                <br />
+                <sub>
+                    <b>Devam Pandey</b>
+                </sub>
+            </a>
+        </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
