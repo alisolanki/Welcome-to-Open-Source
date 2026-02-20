@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sourya204">
+                    <img src="https://avatars.githubusercontent.com/u/224097820?s=400&u=5fc9fa693e0e72b8dfd4c390084064c441a10202&v=4" width="100px;"
+                        alt="Sourya Roy" />
+                    <br />
+                    <sub>
+                        <b>Sourya Roy</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
