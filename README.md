@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://www.linkedin.com/in/nikkhil1441/">
+                    <img src="https://avatars.githubusercontent.com/u/79317817?v=4" width="100px;"
+                        alt="Syed Shuaib" />
+                    <br />
+                    <sub>
+                        <b>Nikhil Sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
