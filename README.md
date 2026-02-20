@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Jeevan880">
+                    <img src="https://avatars.githubusercontent.com/u/186463096?v=4" width="100px;"
+                        alt="Jeevan nayak" />
+                    <br />
+                    <sub>
+                        <b>Jeevan nayak</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
