@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/GulnazAhmad">
+                    <img src="https://wallpapers.com/images/hd/best-profile-pictures-7c4fnz0x5hts559b.jpg" width="100px;"
+                        alt="Gulnaz Ahmad" />
+                    <br />
+                    <sub>
+                        <b>Gulnaz Ahmad</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
