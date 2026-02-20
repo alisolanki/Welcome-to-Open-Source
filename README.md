@@ -5501,5 +5501,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bhushanpatil288">
+                    <img src="https://avatars.githubusercontent.com/u/192190791?v=4" width="100px;" alt="Bhushan Patil"/>
+                    <br />
+                    <sub><b>Bhushan Patil</b></sub>
+                </a> 
+            </td>
     </tbody>
 </table>
