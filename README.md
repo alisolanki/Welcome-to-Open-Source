@@ -5501,5 +5501,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Samyukthaareddy-2410030191">
+                    <img src="https://avatars.githubusercontent.com/u/220829304?s=400&v=4" 
+                    width="100px;"
+                        alt="Samyukthaa Reddy" />
+                    <br />
+                    <sub>
+                        <b>Samyukthaa Reddy</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
