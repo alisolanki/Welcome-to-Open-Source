@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vineet210803">
+                    <img src="https://avatars.githubusercontent.com/u/123195984?v=4" width="100px;"
+                        alt="The developer don't want to public his identity" />
+                    <br />
+                    <sub>
+                        <b>Vineet Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
