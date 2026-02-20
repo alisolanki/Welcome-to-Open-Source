@@ -5442,18 +5442,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Vedant007dev900">
+                <a href="https://github.com/YASHvardhanVashistha">
                     <img src="https://github.com/account" width="100px;"
-                        alt="Vedant Pasricha" />
+                        alt="Yashvardhan Vashistha" />
                     <br />
                     <sub>
-                        <b>Vedant Pasricha</b>
+                        <b>Yashvardhan Vashistha</b>
                     </sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Mayur204">
-                    <img src="https://avatars.githubusercontent.com/u/176565710?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/90259577?v=4" width="100px;"
                         alt="Mayur Damse" />
                     <br />
                     <sub>
