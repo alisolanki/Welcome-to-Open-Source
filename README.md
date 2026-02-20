@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Aryan16032004">
+                    <img src="https://avatars.githubusercontent.com/u/112162123?s=400&u=8119bdf9dee8b7b4a8b4540d6318e8716f8ef548&v=4" width="100px;"
+                        alt="Aryan Chauhan" />
+                    <br />
+                    <sub>
+                        <b>Aryan Chauhan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
