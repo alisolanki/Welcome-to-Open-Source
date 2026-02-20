@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Jax-2207">
+                    <img src="https://avatars.githubusercontent.com/u/135937216?v=4" width="100px;"
+                        alt="Jay Wani" />
+                    <br />
+                    <sub>
+                      <b>Jay Wani</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
