@@ -87,6 +87,15 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+
+     <td align="center">
+        <a href="https://github.com/AshuGITHUBtosh">
+            <img src="https://avatars.githubusercontent.com/u/135860553?v=4" width="100px;" 
+            alt="Ashutosh Bhardwaj"/>
+            <br />
+            <sub><b>Ashutosh Bhardwaj
+        </a>
+    </td>
     
     ```
 
