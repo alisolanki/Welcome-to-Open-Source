@@ -378,6 +378,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/karthik-vvs">
+                    <img src="" width="100px;"
+                        alt="Venkata Siva Karthik Vurubindi" />
+                    <br />
+                    <sub>
+                        <b>Venkata Siva Karthik Vurubindi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
                         alt="Aryan Singh" />
