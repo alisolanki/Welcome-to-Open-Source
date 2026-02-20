@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Komal290106">
+                    <img src="https://avatars.githubusercontent.com/u/179382143?v=4" width="100px;"
+                        alt="Komal Kaur Dhillon" />
+                    <br />
+                    <sub>
+                        <b>Komal Kaur Dhillon</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
