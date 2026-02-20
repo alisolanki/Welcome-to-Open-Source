@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/SSrivastava18">
+                    <img src="https://avatars.githubusercontent.com/u/163189524?v=4" width="100px;"
+                        alt="Syed Shuaib" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
