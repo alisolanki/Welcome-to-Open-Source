@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kausikaaa">
+                    <img src="https://avatars.githubusercontent.com/u/187774400?v=4" width="100px;"
+                        alt="Kausika :)" />
+                    <br />
+                    <sub>
+                        <b>Kausika G</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
