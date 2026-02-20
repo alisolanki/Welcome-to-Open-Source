@@ -87,12 +87,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/harik0812">
-                    <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
-                        alt="Harika Galibu" />
+                <a href="https://github.com/JubayerAhmedSamrat">
+                    <img src="https://avatars.githubusercontent.com/u/64955656?v=4" width="100px;"
+                        alt="Jubayer ahmed samrat" />
                     <br />
                     <sub>
-                        <b>Harika G Krishna</b>
+                        <b>Jubayer ahmed samrat</b>
                     </sub>
                 </a>
             </td>
