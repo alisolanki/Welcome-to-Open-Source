@@ -5501,5 +5501,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Varshini2005">
+                    <img src="https://avatars.githubusercontent.com/u/118385232?v=4"
+                    width="100px;"
+                        alt="Varshini Gopi" />
+                    <br />
+                    <sub>
+                        <b>Varshini Gopi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
