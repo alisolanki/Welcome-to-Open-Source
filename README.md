@@ -57,8 +57,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                <a href="https://github.com/Saloni5099">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0pCkTVGEt9zX_1acxbVPH4jrFABF0qDg4Q&s" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
