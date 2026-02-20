@@ -5501,5 +5501,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Pratham-Prog861">
+                    <img src="https://avatars.githubusercontent.com/u/155282402?v=4" width="100px;"
+                        alt="Pratham Darji" />
+                    <br />
+                    <sub>
+                        <b>Pratham Darji</b>
+                    </sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
