@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/RenNeedsSleep">
+                    <img src="https://avatars.githubusercontent.com/u/194795186?v=4" width="100px;"
+                        alt="Ren" />
+                    <br />
+                    <sub>
+                        <b>Ren</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
