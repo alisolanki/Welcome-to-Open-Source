@@ -3719,6 +3719,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shrikant077">
+                    <img src="https://avatars.githubusercontent.com/u/113758237?v=4" width="100px;"
+                        alt="Shrikant Gaikwad" />
+                    <br />
+                    <sub><b>Shrikant Gaikwad</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/clintonferraz">
                     <img src="https://avatars.githubusercontent.com/u/49799175?v=4" width="100px;"
                         alt="Clinton Ferraz" />
