@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sahil-2201">
+                    <img src="https://avatars.githubusercontent.com/u/69162982?v=4" width="100px;"
+                        alt="Sahil Sukhthankar" />
+                    <br />
+                    <sub>
+                        <b>Sahil Sukhthankar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
