@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gaurav02081">
+                    <img src="https://avatars.githubusercontent.com/u/141651162?v=4" width="100px;"
+                        alt="Gaurav Karmakar" />
+                    <br />
+                    <sub>
+                        <b>Gaurav karmakar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
