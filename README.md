@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/itzsam849">
+                    <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
+                        alt="sammm" />
+                    <br />
+                    <sub>
+                        <b>sammmm</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
