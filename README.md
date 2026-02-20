@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shahdkh2288">
+                    <img src="https://avatars.githubusercontent.com/u/101909725?v=4" width="100px;"
+                        alt="Shahd Khaled" />
+                    <br />
+                    <sub>
+                        <b>Shahd Khaled</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
