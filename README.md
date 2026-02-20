@@ -76,13 +76,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-         <td align="center">
-                <a href="https://github.com/ArpitaDeodikar01">
-                    <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
-                        alt="Arpita Deodikar" />
+            <td align="center">
+                <a href="https://github.com/Glitch-op">
+                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
+                        alt="Karan Yadav" />
                     <br />
                     <sub>
-                        <b>Arpita Deodikar</b>
+                        <b>Karan Yadav</b>
+                    </sub>
+                </a>
+            </td>
+         <td align="center">
+                <a href="https://github.com/Saisurya-123">
+                    <img src="https://avatars.githubusercontent.com/u/101041348?v=4" width="100px;"
+                        alt="Saisurya Rajanala" />
+                    <br />
+                    <sub>
+                        <b>Saisurya Rajanala</b>
                     </sub>
                 </a>
             </td>
