@@ -5501,5 +5501,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/Chandan0Singh">
+                    <img src="https://avatars.githubusercontent.com/u/164799329?s=400&u=9da4f44607309f85a3e89b4672e322a6280d9796&v=4" width="100px;" alt="Chandan Singh"/>
+                    <br />
+                    <sub><b>Chandan</b></sub>
+                </a> 
+            </td>
     </tbody>
 </table>
