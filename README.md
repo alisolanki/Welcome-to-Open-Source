@@ -65,6 +65,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Ali Solanki</b>
                     </sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/SiddiquiSaab04">
+                    <img src="https://avatars.githubusercontent.com/u/146741349?v=4" width="100px;"
+                        alt="Laiba Siddiqui" />
+                    <br />
+                    <sub>
+                        <b>Laiba Siddiqui</b>
+                    </sub>
+                </a>
+            </td>
             </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
