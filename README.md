@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Ravikumaracp">
+                    <img src="https://avatars.githubusercontent.com/u/111078786?v=4" width="100px;"
+                        alt="C P Ravi Kumar" />
+                    <br />
+                    <sub>
+                        <b>C P Ravi Kumar</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
