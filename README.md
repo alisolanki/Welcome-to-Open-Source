@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/solankitushar2404">
+                    <img src="https://avatars.githubusercontent.com/u/178541911?v=4" width="100px;"
+                        alt="Tusharkumar Solanki" />
+                    <br />
+                    <sub>
+                        <b>Tusharkumar Solanki</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
