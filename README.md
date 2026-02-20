@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/Paritosh-7">
+                    <img src="https://avatars.githubusercontent.com/u/138885038?v=4" width="100px;"
+                        alt="Paritosh Thakur" />
+                    <br />
+                    <sub>
+                        <b>Paritosh Thakur</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
