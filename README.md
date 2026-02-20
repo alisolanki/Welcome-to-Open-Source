@@ -107,6 +107,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Yaagik">
+                    <img src="https://avatars.githubusercontent.com/u/65828634?v=4" width="100px;"
+                        alt="Yaagik Goel" />
+                    <br />
+                    <sub>
+                        <b>Yaagik Goel</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
