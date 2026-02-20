@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Arpita-Tripathi">
+                    <img src="https://avatars.githubusercontent.com/u/183411064?v=4" width="100px;"
+                        alt="Arpita" />
+                    <br />
+                    <sub>
+                        <b>Arpita</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
