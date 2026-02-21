@@ -106,6 +106,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             </td>
+             <td align="center">
+                <a href="https://github.com/jatinnguptaa">
+                    <img src="https://avatars.githubusercontent.com/u/221431253?v=4" width="100px;"
+                        alt="Jatin Gupta" />
+                    <br />
+                    <sub>
+                        <b>Jatin Gupta</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
