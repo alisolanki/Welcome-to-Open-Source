@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Azhar Ali" />
                     <br />
                     <sub>
-                        <b>Azhar Ali</b>
+                        <b>Azhar</b>
                     </sub>
                 </a>
             </td>
