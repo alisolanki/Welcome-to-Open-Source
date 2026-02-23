@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+
+    <td align="center">
+        <a href="https://github.com/Sarthak123-work">
+            <img src="https://avatars.githubusercontent.com/u/202282122?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Sarthak Jagtap</b></sub>
+        </a>
+    </td>
     
     ```
 
