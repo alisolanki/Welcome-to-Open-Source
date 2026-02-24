@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KasperPersson">
+                    <img src="https://avatars.githubusercontent.com/u/179926934?v=4" width="100px;"
+                        alt="Kasper Persson" />
+                    <br />
+                    <sub>
+                        <b>Kasper Persson</b>
+                    </sub>
+                </a>
+            </td
     </tbody>
 </table>
