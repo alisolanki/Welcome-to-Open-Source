@@ -248,12 +248,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/thanmai09">
+                    <img src="https://avatars.githubusercontent.com/u/145900938?v=4" width="100px;"
+                        alt="Thanmai Sree M" />
+                    <br />
+                    <sub>
+                        <b>Thanmai sree macharla</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Omkarkanherkar">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
                         alt="omkar" />
                     <br />
                     <sub>
-                        <b>Omkar ok</b>
+                        <b>Thanmai Sree Macharla</b>
                     </sub>
                 </a>
             </td>
