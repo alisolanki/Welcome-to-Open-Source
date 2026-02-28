@@ -5422,6 +5422,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/varun339658">
+                    <img src="https://avatars.githubusercontent.com/varun339658" 
+                        alt="Varun" />
+                    <br />
+                    <sub>
+                        <b>Varun</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sidpatil77">
                     <img src="https://avatars.githubusercontent.com/u/195059793?s=96&v=4" 
                         alt="Siddhesh Patil" />
