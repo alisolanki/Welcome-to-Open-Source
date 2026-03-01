@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Abhay-Pratap-Singh-7">
+                    <img src="https://avatars.githubusercontent.com/u/183966244?v=4" width="100px;"
+                        alt="Abhay Pratap Singh" />
+                    <br />
+                    <sub>
+                        <b>Abhay Pratap Singh</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
