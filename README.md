@@ -1703,6 +1703,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/TharunReddy4321">
+                    <img src="https://avatars.githubusercontent.com/u/159986908?v=4" width="100px;" alt="Sai Tharun Reddy"/>
+                    <br />
+                    <sub><b>Sai Tharun Reddy</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
