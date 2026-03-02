@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Baksieuro">
+                    <img src="https://avatars.githubusercontent.com/u/48357088?v=4" width="100px;"
+                        alt="Arkadiy B." />
+                    <br />
+                    <sub>
+                        <b>Arkadiy B.</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
