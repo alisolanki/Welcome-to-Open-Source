@@ -5501,5 +5501,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SohamChopdar">
+                    <img src="https://avatars.githubusercontent.com/u/129845535?v=4" width="100px;"
+                        alt="Soham Chopdar" />
+                    <br />
+                    <sub>
+                        <b>Soham Chopdar 10</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
