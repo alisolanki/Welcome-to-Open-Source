@@ -56,6 +56,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+                <td align="center">
+                <a href="https://maznu007.github.io/portfolio1/">
+                    <img src="https://avatars.githubusercontent.com/u/95755986?v=4" width="100px;"
+                        alt="Hasnat Rafi Uddin" />
+                    <br />
+                    <sub>
+                        <b>Hasnat Rafi Uddin Munif</b>
+                    </sub>
+                </a>
+            </td>
+
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
