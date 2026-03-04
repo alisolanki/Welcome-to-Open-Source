@@ -4924,6 +4924,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Delaksan-Sritharan">
+                    <img src="https://avatars.githubusercontent.com/u/172998588?v=4" width="100px;" alt="Delaksan Sritharan"/>
+                    <br />
+                    <sub>
+                        <b>Delaksan Sritharan</b>
+                    </sub>
+                </a> 
+            </td>
+            
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
