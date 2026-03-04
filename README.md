@@ -65,7 +65,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Ali Solanki</b>
                     </sub>
                 </a>
-            </td>
+            </td>             
+        <td align="center">
+                <a href="https://github.com/ayushWeb07">
+                    <img src="https://avatars.githubusercontent.com/u/100691164?v=4" width="100px;"
+                        alt="Ayush Bommana" />
+                    <br />
+                    <sub>
+                        <b>Ayush Bommana</b>
+                    </sub>
+                </a>
+            </td>                
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
