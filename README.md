@@ -96,6 +96,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/SakshiBorse0712">
+                    <img src="https://avatars.githubusercontent.com/u/205118509?v=4" width="100px;"
+                        alt="Sakshi Borse" />
+                    <br />
+                    <sub>
+                        <b>Sakshi Borse</b>
+                    </sub>
+                </a>
+            </td>
+
              <td align="center">
                 <a href="https://github.com/Manali-26">
                     <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
