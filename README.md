@@ -5334,6 +5334,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ahmad Iqbal</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/lohithsleostark">
+                    <img src="https://avatars.githubusercontent.com/u/168641965?v=4" width="100px;" alt="Leo Stark"/>
+                    <br />
+                    <sub><b>Leo Stark</b></sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/Gk091202">
                     <img src="https://avatars.githubusercontent.com/u/101950880?v=4" width="100px;" alt="Gaurav"/>
