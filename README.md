@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Dhruvin-04">
+                    <img src="https://avatars.githubusercontent.com/u/177096066?v=4" width="100px;"
+                        alt="Dhruvin Chudasama" />
+                    <br />
+                    <sub>
+                        <b>Dhruvin Chudasama</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
