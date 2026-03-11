@@ -703,6 +703,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rehqureshi">
+                    <img src="https://avatars.githubusercontent.com/u/145358764?v=4" width="100px;"
+                        alt="Mohammad Rehan Qureshi" />
+                    <br />
+                    <sub>
+                        <b>Anandh Raj</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ACHINTYA0410">
                     <img src="https://avatars.githubusercontent.com/u/211553323?s=400&v=4" width="100px;"
                         alt="Achintya Mendiratta" />
