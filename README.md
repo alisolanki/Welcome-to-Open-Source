@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+          <td align="center">
+                <a href="https://github.com/kashyav367">
+                    <img src="https://avatars.githubusercontent.com/u/147341967?v=4" width="100px;"
+                        alt="Ankit Kumar Singh" />
+                    <br />
+                    <sub>
+                        <b>Ankit Kumar Singh</b>
+                    </sub>
+                </a>
+            </td>   
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
