@@ -388,6 +388,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/KeyaBhuta">
+                    <img src="https://avatars.githubusercontent.com/u/146632903?v=4&size=64" width="100px;"
+                        alt="Keya Bhuta" />
+                    <br />
+                    <sub>
+                        <b>Keya Bhuta</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/aditya6386">
                     <img src="https://avatars.githubusercontent.com/u/91421460?v=4" width="100px;"
                         alt="Aditya Patel" />
