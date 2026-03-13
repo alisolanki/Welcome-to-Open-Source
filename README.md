@@ -16,8 +16,8 @@
 
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+    <a href="https://github.com/sowmyagunturi/">
+        <img src="https://thumbs.dreamstime.com/z/anime-girl-office-attire-finance-charts-background-anime-girl-formal-office-attire-depicted-standing-front-291293491.jpg"/>
     </a>
 </p>
 
