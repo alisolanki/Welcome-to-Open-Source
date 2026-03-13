@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/Vibhuti-Aga">
+            <img src="https://avatars.githubusercontent.com/u/179917222?v=4" width="100px;" alt="Vibhuti Agarwal"/>
+            <br />
+            <sub><b>Vibhuti Agarwal
+        </a>
+    </td>
     
     ```
 
