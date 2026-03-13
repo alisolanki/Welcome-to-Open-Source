@@ -21,7 +21,7 @@
         <a href="https://alisolanki.com/">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Ayush Gupta</b></sub>
         </a>
     </td>
            <td align="center">
@@ -53,7 +53,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Sahitha03">
+        <a href="https://github.com/ayu3456">
+        
             <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
             <br />
             <sub><b>Aluri Sai Sahitha</b></sub>
