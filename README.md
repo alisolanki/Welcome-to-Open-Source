@@ -57,7 +57,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/swagatika60/Welcome-to-Open-Source.git">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
@@ -67,12 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                <a href="https://github.com/account"
+                    <img src="https://avatars.githubusercontent.com/u/186828738?v=4" width="100px;"
+                        alt="Swagatika Beura" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>Swagatika Beura</b>
                     </sub>
                 </a>
             </td>
