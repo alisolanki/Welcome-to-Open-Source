@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/Yasirhassan1">
+                    <img src="https://avatars.githubusercontent.com/u/121301526?v=4" width="100px;"
+                        alt="Yasir-Hassan" />
+                    <br />
+                    <sub>
+                        <b>Yasir Hassan</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
@@ -66,6 +76,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
