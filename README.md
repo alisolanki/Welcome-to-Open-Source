@@ -21,6 +21,22 @@
     </a>
 </p>
 
+---
+
+## 📘 Examples for New Contributors
+
+The following examples are provided to help beginners make their first open-source contribution with confidence.  
+Feel free to follow them step-by-step! 🚀
+
+### 🔹 Example 1: How to Make Your First Contribution
+
+1. **Fork** this repository to your GitHub account.  
+2. **Clone** your fork:
+   ```bash
+   git clone https://github.com/<your-username>/Welcome-to-Open-Source.git
+
+
+
 <p>List of actively participating individuals in open source contributions</p>
 
 - Add your own details to the contributor list
@@ -221,6 +237,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Bhupesh-081">
                     <img src="https://avatars.githubusercontent.com/u/150279405?v=4" width="100px;"
                         alt="Bhupesh Nandardhane" />
+                    <br />
+                    <sub>
+                        <b>Bhupesh Nandardhane</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/khushbukarki">
+                    <img src="https://avatars.githubusercontent.com/u/64301266?v=4" width="100px;"
+                        alt="CoderKK" />
                     <br />
                     <sub>
                         <b>Bhupesh Nandardhane</b>
