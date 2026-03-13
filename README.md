@@ -56,17 +56,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+            <td align="center">
+                <a href="https://github.com/AvinashGuleria0">
+                    <img src="https://avatars.githubusercontent.com/u/178935856?v=4" width="100px;"
+                        alt="Avinash Guleria" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Avinash Guleria</b>
                     </sub>
                 </a>
             </td>
         <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Ali Solanki" />
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
@@ -440,7 +443,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Travis Keefe" />
                     <br />
                     <sub>
-                        <b>Travis Keefe</b>
+                        <b>Ali Solanki</b>
                     </sub>
                 </a>
             </td>
