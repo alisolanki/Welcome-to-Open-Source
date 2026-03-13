@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/VaibhavSain">
+            <img src="https://avatars.githubusercontent.com/u/155076216?v=4" width="100px;" alt="Vaibhav Sain"/>
+            <br />
+            <sub><b>Vaibhav Sain</b></sub>
+        </a>
+    </td>
     
     ```
 
