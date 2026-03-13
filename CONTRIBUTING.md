@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Ritesh-cloud">
+            <img src="https://avatars.githubusercontent.com/u/126056160?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <br />
+            <sub><b>Ritesh Murmu
+        </a>
+    </td>
     
     ```
 
