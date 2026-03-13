@@ -107,6 +107,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://www.jafor.me/">
+                    <img src="https://avatars.githubusercontent.com/abujaforhadi" width="100px;"
+                        alt="Md Abu Jafor" />
+                    <br />
+                    <sub>
+                        <b>Md Abu Jafor</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
