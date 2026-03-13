@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ArkaAdhikari5">
+                    <img src="https://avatars.githubusercontent.com/u/221845114?v=4" width="100px;"
+                        alt="Arka Artist" />
+                    <br />
+                    <sub>
+                        <b>Arka Adhikari</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
