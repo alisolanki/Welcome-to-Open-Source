@@ -5328,6 +5328,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Curio369">
+                    <img src="https://avatars.githubusercontent.com/u/93003969?v=4" width="100px;"
+                        alt="Curio Zii" />
+                    <br />
+                    <sub>
+                        <b>Curio</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/iahmadiqbal">
                     <img src="https://avatars.githubusercontent.com/u/168641965?v=4" width="100px;" alt="Ahmad Iqbal"/>
                     <br />
