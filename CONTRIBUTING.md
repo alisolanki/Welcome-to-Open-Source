@@ -24,6 +24,16 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+
+     <td align="center">
+                <a href="https://github.com/Rajchandel1/">
+                    <img src="https://avatars.githubusercontent.com/u/163737615?s=400&u=dd132d557a4d35754d9e51bc4f15184f6ab39020&v=4" width="100px;" alt="Raj Chandel"/>
+                    <br />
+                    <sub><b>Raj Chandel</b></sub>
+                </a> 
+            </td>
+
+    
            <td align="center">
                 <a href="https://github.com/aryanmangrule402/">
                     <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
