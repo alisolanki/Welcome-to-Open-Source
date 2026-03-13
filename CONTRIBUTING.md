@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Chaitanya1174">
+            <img src="https://avatars.githubusercontent.com/u/124686870?v=4" width="100px;" alt="Chaitanya Chavan"/>
+            <br />
+            <sub><b>Chaitanya Chavan
+        </a>
+    </td>
     
     ```
 
