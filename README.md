@@ -850,6 +850,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sriraksha-28">
+                    <img src="https://avatars.githubusercontent.com/u/205395499?v=4" width="100px;" alt="Sriraksha"/>
+                    <br />
+                    <sub>
+                    <b>Sriraksha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Manikandan004">
                     <img src="https://avatars.githubusercontent.com/u/69380814?v=4" width="100px;"
                         alt="Mani Prasanth" />
