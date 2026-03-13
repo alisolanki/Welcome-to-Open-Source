@@ -1182,6 +1182,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/orius7">
+                    <img src="https://avatars.githubusercontent.com/u/167720837?v=4" width="100px;"
+                        alt="Rohan Badiger" />
+                    <br />
+                    <sub>
+                        <b>Aidan L</b>
+                    </sub>
+                </a>
+            </td>
         </tr>
         <tr>
         <td align="center">
