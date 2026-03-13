@@ -207,6 +207,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                      <td align="center">
+                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQH2YubWYcWnog/profile-displayphoto-crop_800_800/B56ZjcIbPPIAAI-/0/1756039855546?e=1761177600&v=beta&t=KKwl62krjyH7xjuEz_KxZXle1hM0qa8asLaMGdBPubk" width="100px;"
+                        alt="chirag vishnoi" />
+                    <br />
+                    <sub>
+                        <b>chirag vishnoi</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/rohan7003">
                     <img src="https://avatars.githubusercontent.com/u/146317921?v=4" width="100px;"
