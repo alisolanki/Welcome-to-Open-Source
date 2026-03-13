@@ -87,6 +87,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://www.linkedin.com/in/tushar-patil-6661623a0/">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHSFpDxsXMoaA/profile-displayphoto-scale_400_400/B4DZuOLfvyGUAk-/0/1767616938462?e=1771459200&v=beta&t=gpAtKM33hOLg7i7XwhXDhiZ6wGb9yZ1fALKmbT5WM7Q" width="100px;"
+                        alt="Tushar Patil" />
+                    <br />
+                    <sub>
+                        <b>Tushar</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
                         alt="Harika Galibu" />
