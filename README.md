@@ -247,6 +247,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Kush933">
+                    <img src="https://avatars.githubusercontent.com/u/183137263?v=4" width="100px;"
+                        alt="Khushboo" />
+                    <br />
+                    <sub>
+                        <b>Khushboo</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Omkarkanherkar">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
