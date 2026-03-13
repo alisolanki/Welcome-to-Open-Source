@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </td><td align="center">
+                <a href="https://github.com/JoashPrinceton">
+                    <img src="https://avatars.githubusercontent.com/u/222148104?v=4" width="100px;"
+                        alt="Joash Princeton" />
+                    <br />
+                    <sub>
+                        <b>A.Joash Princeton</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
