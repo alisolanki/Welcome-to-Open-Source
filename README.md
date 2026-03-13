@@ -87,6 +87,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/MEGA-VARSITAA">
+                    <img src="https://avatars.githubusercontent.com/u/87558214?v=4" width="100px;"
+                        alt="Mega varsitaa" />
+                    <br />
+                    <sub>
+                        <b>Mega varsitaa</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
                         alt="Harika Galibu" />
