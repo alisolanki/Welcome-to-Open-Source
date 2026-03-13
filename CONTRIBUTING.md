@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/hardiksingh-0-0">
+            <img src="https://avatars.githubusercontent.com/u/155247311?v=4" width="100px;" alt="Hardik Singh"/>
+            <br />
+            <sub><b>Hardik Singh
+        </a>
+    </td>
     
     ```
 
