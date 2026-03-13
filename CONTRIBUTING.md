@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+   <td align="center">
+           <a href="https://jayes-h.github.io/">
+               <img src="https://jayes-h.github.io/assets/images/my-avatar.jpg" width="100px;" alt="Sathvik Shetty"/>
+               <br />
+               <sub><b>Sir Jayesh Patil
+           </a>
+       </td>
     
     ```
 
