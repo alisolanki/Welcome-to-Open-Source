@@ -53,6 +53,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Shubham11440">
+            <img src="https://avatars.githubusercontent.com/u/173390410?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Sumit Saha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Sahitha03">
             <img src="https://avatars.githubusercontent.com/u/110535773?v=4" width="100px;" alt="Aluri Sai Sahitha"/>
             <br />
