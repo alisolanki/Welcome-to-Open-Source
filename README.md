@@ -24,6 +24,13 @@
 <p>List of actively participating individuals in open source contributions</p>
 
 - Add your own details to the contributor list
+
+# Here i am doing my first Official contribution
+- I added my first Contrubuition here
+- I know my PR won't get accepted but it's ok i just wanted to enter into open and contribution
+- and this going to be my first PR to any official account.
+
+
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
