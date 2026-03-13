@@ -60,6 +60,13 @@
         </a>
     </td>
      <td align="center">
+        <a href="https://github.com/i-AneesAhmed">
+            <img src="https://avatars.githubusercontent.com/u/168746996?s=400&u=cf543660838e3a821012964afe99ea485e800637&v=4" width="100px;" alt="Anees Ahmed From Pakistan"/>
+            <br />
+            <sub><b>Anees Ahmed
+        </a>
+    </td>
+     <td align="center">
         <a href="https://github.com/neeraj500">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
             <br />
