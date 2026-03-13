@@ -67,12 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                <a href="https://github.com/SankethRaykar">
+                    <img src="https://avatars.githubusercontent.com/u/126325364?s=400&u=46b5cac8535e0bdb067d850780226968f362fb33&v=4" width="100px;"
+                        alt="Sanketh S Raykar" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>SANKETH S RAYKAR</b>
                     </sub>
                 </a>
             </td>
