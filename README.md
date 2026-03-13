@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/soul-aryann">
+                    <img src="https://avatars.githubusercontent.com/u/171327486?v=4" width="100px;"
+                        alt="Aryan Shahi" />
+                    <br />
+                    <sub>
+                        <b>Aryan Shahi</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
