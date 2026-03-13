@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Ankush321-collab">
+                    <img src="https://avatars.githubusercontent.com/u/178549194?v=4" width="100px;"
+                        alt="Ankush adhikari" />
+                    <br />
+                    <sub>
+                        <b>Ankush adhikari</b>
+                    </sub>
+                </a>
+            </td> 
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
