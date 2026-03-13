@@ -5482,6 +5482,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/namrataawagh">
+                    <img src="https://avatars.githubusercontent.com/u/204308881?s=400&u=731c75439c4512435306e73dba93e19e6fc16e9d&v=4" width="100px;"
+                        alt="Namrata Wagh" />
+                    <br />
+                    <sub>
+                        <b>Namrata Wagh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Anas2604-web">
                     <img src="https://avatars.githubusercontent.com/u/185629397?v=4" width="100px;"
                         alt="Anas Khan" />
