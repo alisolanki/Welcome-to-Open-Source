@@ -107,6 +107,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Adityakale007">
+                    <img src="https://avatars.githubusercontent.com/u/177735575?v=4" width="100px;"
+                        alt="Aditya Kale " />
+                    <br />
+                    <sub>
+                        <b>ADITYA KALE</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
