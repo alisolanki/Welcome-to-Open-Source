@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/deepmanna2007">
+                    <img src="https://avatars.githubusercontent.com/u/206387609?v=4" width="100px;"
+                        alt="Deep Manna" />
+                    <br />
+                    <sub>
+                        <b>Deep Manna</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
@@ -522,7 +532,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Huzef</b>
                     </sub>
                 </a>
-            </td>
+            </td> 
           <td align="center">
                 <a href="https://github.com/IndoKris">
                     <img src="https://avatars.githubusercontent.com/u/179242672?v=4" width="100px;"
