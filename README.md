@@ -4287,6 +4287,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/rayankmr">
+                    <img src="https://avatars.githubusercontent.com/u/154407081?v=4" width="100px;" alt="Rayan Abdul Gafoor"/>
+                    <br />
+                    <sub><b>Rayan Abdul Gafoor</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sukhendup">
                     <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;"
                         alt="Sukhendu Patra" />
@@ -4438,6 +4445,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Dhruv!!</b></sub>
                 </a>
             </td>
+            
         </tr>
         <tr>
             <td align="center">
