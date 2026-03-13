@@ -156,6 +156,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            
             <td align="center">
                 <a href="hhttps://github.com/harinii-a">
                     <img src="https://avatars.githubusercontent.com/u/134578133?v=4"
@@ -234,6 +235,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Nischitha V</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Jnaneshp">
+                    <img src="https://avatars.githubusercontent.com/u/153430632?s=400&u=e20976ef05718b50b035a40e37c998d137a2fc31&v=4" width="100px;"
+                        alt="Jnanesh" />
+                    <br />
+                    <sub>
+                        <b>Jnanesh </b>
                     </sub>
                 </a>
             </td>
