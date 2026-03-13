@@ -287,9 +287,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <!-- my contri -->
+            <td align="center"
+                <a href="https://github.com/Radhika19t">
+                    <img src="https://avatars.githubusercontent.com/u/177729739?v=4" width="100px;"
+                        alt="rads" />
+                    <br />
+                    <sub>
+                        <b>Radhika Thakare</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center"
                 <a href="https://github.com/Rajatr1024">
-                    <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/177729739?s=400&v=4" width="100px;"
                         alt="Rajat Rajput" />
                     <br />
                     <sub>
