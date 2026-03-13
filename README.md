@@ -398,6 +398,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/chandrik">
+                    <img src="https://avatars.githubusercontent.com/u/15450130?v=4" width="100px;"
+                        alt="Chandrika" />
+                    <br />
+                    <sub>
+                        <b>Chandrika</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SAURAV0703">
                     <img src="https://avatars.githubusercontent.com/u/140614521?v=4" width="100px;" alt="Saurav Singh Negi"/>
                     <br />
