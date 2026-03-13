@@ -3617,6 +3617,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Hermione28">
+                    <img src="https://avatars.githubusercontent.com/u/115934537?v=4" width="100px;"
+                        alt="Prajakta Jagdale" />
+                    <br />
+                    <sub>
+                        <b>Prajakta Jagdale</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Abhinav-Upadhyay03">
                     <img src="https://avatars.githubusercontent.com/u/90651968?v=4" width="100px;"
                         alt="Shoaib" />
