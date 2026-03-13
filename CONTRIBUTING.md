@@ -66,6 +66,13 @@
             <sub><b>Neeraj Madake
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/dhruvmohan867">
+            <img src="https://avatars.githubusercontent.com/u/127665916?v=4" width="100px;" alt="Dhruv Mohan Shukla"/>
+            <br />
+            <sub><b>Dhruv Mohan shukla
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/misha141">
             <img src="https://avatars.githubusercontent.com/u/39346270?v=4 width="100px;" alt="Neeraj Madake"/>
