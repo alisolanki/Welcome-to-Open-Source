@@ -57,12 +57,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/amishverma05">
+                    <img src="https://avatars.githubusercontent.com/u/231698155?s=400&u=8384c338f64dd6ac3a86507d786acdd8d862e3be&v=4" width="100px;"
+                        alt="Amish Verma" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Amish Verma</b>
                     </sub>
                 </a>
             </td>
