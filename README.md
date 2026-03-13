@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AdityaTharunJ">
+                    <img src="https://avatars.githubusercontent.com/u/207343294?v=4" width="100px;"
+                        alt="Aditya Tarun J" />
+                    <br />
+                    <sub>
+                        <b>Aditya Tarun J</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
