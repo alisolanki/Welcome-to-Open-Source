@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/025Shivam">
+                    <img src="https://avatars.githubusercontent.com/u/161756504?v=4" width="100px;"
+                        alt="Shivam Tiwari" />
+                    <br />
+                    <sub>
+                        <b>Shivam Tiwari</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
