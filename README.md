@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/shraddha-123P">
+                    <img src="https://avatars.githubusercontent.com/u/113101668?s=400&u=d8b4c5959a7e34fc937cb9724c2bb2d89d1200f4&v=4" width="100px;"
+                        alt="Shraddha Pohankar" />
+                    <br />
+                    <sub>
+                        <b>Shraddha Pohankar</b>
+                    </sub>
+                </a>
+            </td>   
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
