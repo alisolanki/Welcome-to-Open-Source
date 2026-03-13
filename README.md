@@ -198,6 +198,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/asura-king-sys">
+                    <img src="https://avatars.githubusercontent.com/u/178332982?v=4" width="100px;"
+                        alt="Hardik Bajpai" />
+                    <br />
+                    <sub>
+                        <b>Hardik Bajpai</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Simran-775">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
                         alt="Simranjeet kaur" />
