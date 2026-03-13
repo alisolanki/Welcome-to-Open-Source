@@ -67,12 +67,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
+                <a href="https://github.com/aadiagarwal911-codecom">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
                     <br />
                     <sub>
                         <b>Karan Yadav</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/Glitch-op">
+                    <img src="https://avatars.githubusercontent.com/u/223294917?v=4" width="100px;"
+                        alt="Aadi Agarwal" />
+                    <br />
+                    <sub>
+                        <b>Aadi Agarwal</b>
                     </sub>
                 </a>
             </td>
