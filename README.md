@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/CodeByTinku">
+                    <img src="https://avatars.githubusercontent.com/u/192716578?v=4" width="100px;"
+                        alt="Tinku Shekhar Das" />
+                    <br />
+                    <sub>
+                        <b>Tinku Shekhar Das</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
