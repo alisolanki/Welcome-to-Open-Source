@@ -81,10 +81,10 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/Sathvik-Shetty-1569">
-            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+        <a href="https://github.com/Ankitraj588">
+            <img src="https://avatars.githubusercontent.com/u/175405856?v=4" width="100px;" alt="ankitraj"/>
             <br />
-            <sub><b>Sathvik Shetty
+            <sub><b>ankitraj
         </a>
     </td>
     
