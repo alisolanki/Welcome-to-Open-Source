@@ -188,6 +188,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harshy109">
+                    <img src="https://avatars.githubusercontent.com/u/141760030?v=4" width="100px;"
+                        alt="Harshita Salvi" />
+                    <br />
+                    <sub>
+                        <b>Harshita Salvi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ajmal-uk">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
                         alt="Ali Solanki" />
