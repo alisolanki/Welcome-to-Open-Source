@@ -107,6 +107,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/drk53-ctrl">
+                    <img src="https://avatars.githubusercontent.com/u/231506470?v=4" width="100px;"
+                        alt="Dishanth Raj K" />
+                    <br />
+                    <sub>
+                        <b>Dishanth Raj K</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
                         alt="Ali Solanki" />
