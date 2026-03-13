@@ -86,6 +86,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rajsenyadav">
+                    <img src="https://avatars.githubusercontent.com/u/171313130?s=400&u=a577f2befcc4b5e277bb686decc54ad05341d9b1&v=4" width="100px;"
+                        alt="Rajsenyadav" />
+                    <br />
+                    <sub>
+                        <b>Raj Sen Yadav</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
