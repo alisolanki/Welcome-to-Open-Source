@@ -60,10 +60,10 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/taewesha">
+            <img src="https://avatars.githubusercontent.com/u/96810214?v=4" width="100px;" alt="Anwesha Naskar"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Anwesha Naskar</b></sub>
         </a>
     </td>
      <td align="center">
