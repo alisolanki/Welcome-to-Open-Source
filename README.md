@@ -5442,6 +5442,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/alok1811">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Alok Singh" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Vedant007dev900">
                     <img src="https://github.com/account" width="100px;"
                         alt="Vedant Pasricha" />
