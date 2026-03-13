@@ -1,6 +1,6 @@
 # Welcome-to-open-source Contributor Guide
 
-## Steps to add yourself to the contributers list.
+## Steps to add yourself to the contributors list.
 
 1) You will first need git which you can download from [here](https://git-scm.com/downloads).
 
@@ -92,7 +92,7 @@
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
-9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
+9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributor list" and press on `create pull request`.
 
 10) You have created a pull request, wait for a member to review and merge it : )
 
