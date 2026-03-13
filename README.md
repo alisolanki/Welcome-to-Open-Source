@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Srinandhinee">
+                    <img src="https://avatars.githubusercontent.com/u/176795186?s=400&u=553566031d79a29bb17f1afdeeb884959bacf85f&v=4" width="100px;"
+                        alt="Srinandhinee" />
+                    <br />
+                    <sub>
+                        <b>Srinandhinee</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
