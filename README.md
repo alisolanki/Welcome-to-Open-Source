@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                    <td align="center">
+                <a href="https://github.com/Sanket01-debug">
+                    <img src="https://avatars.githubusercontent.com/u/176742566?v=4" width="100px;"
+                        alt="Sanket" />
+                    <br />
+                    <sub>
+                        <b>Sanket</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
