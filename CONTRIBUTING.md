@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/hrithik025">
+            <img src="https://avatars.githubusercontent.com/u/163534237?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <br />
+            <sub><b>Sathvik Shetty
+        </a>
+    </td>
     
     ```
 
