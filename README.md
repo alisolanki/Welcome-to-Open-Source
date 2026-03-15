@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Swaraj393">
+                    <img src="https://avatars.githubusercontent.com/u/225571907?v=4" width="100px;"
+                        alt="Swaraj Rathod" />
+                    <br />
+                    <sub>
+                        <b>Lokesh Farswan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
