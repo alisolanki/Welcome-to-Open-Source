@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/Sougandh4242">
+                    <img src="https://avatars.githubusercontent.com/u/211707713?v=4" width="100px;"
+                        alt="Sougandh" />
+                    <br />
+                    <sub>
+                        <b>Sougandh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
