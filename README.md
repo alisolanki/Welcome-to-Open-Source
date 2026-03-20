@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/W-aris">
+                    <img src="https://avatars.githubusercontent.com/u/146315879?s=400&u=0f8518a769406ccea210db2dc0853acc4c7c7838&v=4" width="100px;"
+                        alt="Mohammad Waris" />
+                    <br />
+                    <sub>
+                        <b>Mohammad Waris</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
