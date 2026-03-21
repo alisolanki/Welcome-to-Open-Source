@@ -96,6 +96,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/soumyadeep160505">
+                    <img src="https://avatars.githubusercontent.com/u/178135467?s=400&u=3550eb2ca9a6772919a63c8e82057251f5a78683&v=4" width="100px;"
+                        alt="Soumyadeep Dey" />
+                    <br />
+                    <sub>
+                        <b>Harika G Krishna</b>
+                    </sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Manali-26">
                     <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
