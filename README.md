@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Pranav-Pardeshii">
+                    <img src="https://avatars.githubusercontent.com/u/186887981?v=4" width="100px;"
+                        alt="Pranav Pardeshi" />
+                    <br />
+                    <sub>
+                        <b>Pranav Pardeshi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
