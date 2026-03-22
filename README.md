@@ -137,6 +137,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
+                <a href="https://github.com/thohiraa">
+                    <img src="https://avatars.githubusercontent.com/u/162419061?v=4" width="100px;"
+                        alt="Thohira Shaik" />
+                    <br />
+                    <sub>
+                        <b>Thohira Shaik</b>
+                    </sub>
+                </a>
+            </td> 
+            <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
                         alt="Chamuditha Nonis" />
