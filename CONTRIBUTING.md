@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    </td>
+     <td align="center">
+        <a href="https://github.com/SagarP00007">
+            <img src="https://avatars.githubusercontent.com/u/210886928?v=4" width="100px;" alt="Sagar P"/>
+            <br />
+            <sub><b>Sagar P
+        </a>
+    </td>
     
     ```
 
