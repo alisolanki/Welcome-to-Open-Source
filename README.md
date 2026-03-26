@@ -14,7 +14,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
@@ -63,6 +62,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AkayUnleased">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQHn-HqgKCesHw/profile-displayphoto-crop_800_800/B56ZgXhkfUH0AQ-/0/1752741340570?e=1776297600&v=beta&t=aceL5SlQl0fynzQJpqjUnwnQj5PUA7yoZBntNQG4S18" width="100px;"
+                        alt="Aakriti Kheterpal" />
+                    <br />
+                    <sub>
+                        <b>Aakriti Kheterpal</b>
                     </sub>
                 </a>
             </td>
