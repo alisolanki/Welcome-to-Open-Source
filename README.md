@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/hassan-nahid">
+                    <img src="https://avatars.githubusercontent.com/u/81077637?s=96&v=4" width="100px;"
+                        alt="Hassan Nahid" />
+                    <br />
+                    <sub>
+                        <b>Hassan Nahid</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
