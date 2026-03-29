@@ -5511,5 +5511,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/owills004">
+                    <img src="https://avatars.githubusercontent.com/u/166576073?s=400&u=d1e15306889c83d9ee4d4d91403b6e9b1842e94b&v=4" width="100px;" alt="Wilfred Adu Otabil" />
+                    <br />
+                    <sub>
+                        <b>Wilfred Adu Otabil</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
