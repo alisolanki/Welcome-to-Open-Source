@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Txxjasss">
+                    <img src="https://avatars.githubusercontent.com/u/183462072?v=4" width="100px;"
+                        alt="Tejas S Janagi" />
+                    <br />
+                    <sub>
+                        <b>Tejas S Janagi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
