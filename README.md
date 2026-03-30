@@ -357,6 +357,24 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+             <td align="center">
+                            <a href="https://github.com/sysvisyut">
+                    <img src="https://avatars.githubusercontent.com/u/176622513?v=4" width="100px;"
+                        alt="Sharvaj Vidyut" />
+                    <br />
+                    <sub>
+                        <b>Sharvaj Vidyut</b>
+                    </sub>
+                </a>
+            </td>
+            
+
+
+
+
+
+
              <td align="center">
                 <a href="https://github.com/Somesh-coding">
                     <img src="https://avatars.githubusercontent.com/u/178699438?s=96&v=4" width="100px;"
