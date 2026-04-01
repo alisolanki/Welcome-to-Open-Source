@@ -107,12 +107,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/patelscripts">
-                    <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/AnjaliSinghhhh">
+                    <img src="https://avatars.githubusercontent.com/u/132354230?v=4" width="100px;"
+                        alt="Anjali Singh" />
                     <br />
                     <sub>
-                        <b>Navneet Patel</b>
+                        <b>Anjali Singh</b>
                     </sub>
                 </a>
             </td>
