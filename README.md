@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/devansh-7-gte">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Devansh" />
+                    <br />
+                    <sub>
+                        <b>Devansh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
