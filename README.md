@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bhagyavansh">
+                    <img src="https://camo.githubusercontent.com/bedde6f05cafb550c4d100cf364f4ad1b030f55342970ab7760ff5dc614e3ea3/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f474439554b4d776e78594941414141642f6e676f64696e672d6d756c752e676966" width="100px;"
+                        alt="Bhagyavansh Sethi" />
+                    <br />
+                    <sub>
+                        <b>Bhagyavansh Sethi</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
