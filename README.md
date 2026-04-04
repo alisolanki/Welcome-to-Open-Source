@@ -14,7 +14,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
@@ -5508,6 +5507,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Lokesh Farswan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/acharyashubhechha">
+                    <img src="https://avatars.githubusercontent.com/u/230606653?v=4" width="100px;"
+                        alt="Shubhechha Acharya" />
+                    <br />
+                    <sub>
+                        <b>Shubhechha Acharya</b>
                     </sub>
                 </a>
             </td>
