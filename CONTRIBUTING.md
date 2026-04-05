@@ -39,6 +39,13 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Durvesh24">
+                    <img src="https://avatars.githubusercontent.com/u/128575709?v=4" width="100px;" alt="Durvesh Sheth"/>
+                    <br />
+                    <sub><b>Aryan  Mangrule</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://bytemaster2000.github.io/">
                     <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
                     <br />
