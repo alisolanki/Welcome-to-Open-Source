@@ -115,6 +115,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Navneet Patel</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/smitkhadatkar123-rgb">
+                    <img src="https://avatars.githubusercontent.com/u/232016681?s=400&u=62853da36d6fbde2660f14c5f11ad93c7ce40c16&v=4" width="100px;"
+                        alt="Smit Khadatkar" />
+                    <br />
+                    <sub>
+                        <b>Smit Khadatkar</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/chirsmita-02">
