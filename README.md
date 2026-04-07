@@ -57,12 +57,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="[https://alisolanki.com/](https://github.com/fahmiajik12)">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/fahmiajik12">
+                    <img src="https://avatars.githubusercontent.com/u/104336883?v=4" width="100px;"
+                        alt="Fahmi Aji" />
+                    <br />
+                    <sub>
+                        <b>Fahmi Aji</b>
                     </sub>
                 </a>
             </td>
