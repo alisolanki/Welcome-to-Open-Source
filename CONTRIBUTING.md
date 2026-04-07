@@ -40,13 +40,7 @@
             </td>
 
 
-            <td align="center">
-        <a href="https://github.com/abhi-bhavsar">
-            <img src="https://avatars.githubusercontent.com/u/163317055?v=4" width="100px;" alt="Abhi Bhavsar"/>
-            <br />
-            <sub><b>Abhi Bhavsar</b></sub>
-        </a>
-    </td>
+          
             <td align="center">
                 <a href="https://bytemaster2000.github.io/">
                     <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
