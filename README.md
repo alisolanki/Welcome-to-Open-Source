@@ -66,6 +66,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <tr>
+        <td align="center">
+                <a href="https://static.vecteezy.com/system/resources/previews/006/828/445/non_2x/face-emojis-express-doubts-or-thoughts-free-vector.jpg">
+                    <img src="https://hornetsbuzz.com/wp-content/uploads/2025/10/IMG_1493.png" width="100px;"
+                        alt="MUSKAN" />
+                    <br />
+                    <sub>
+                        <b>MUSKAN</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
