@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Kunal-Chachane">
+                    <img src="https://avatars.githubusercontent.com/u/227662881?s=400&u=e3132bf5b2828a23fd37b2eb8434dc8251a6491a&v=4" width="100px;"
+                        alt="Kunal Chachane" />
+                    <br />
+                    <sub>
+                        <b>Kunal Chachane</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
