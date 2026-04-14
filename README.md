@@ -56,6 +56,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+            <td align="center">
+                <a href="https://alisolanki.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4](https://miro.medium.com/1*X9fvcVgfVz3phTQRR5gHdw.png" width="100px;"
+                        alt="Irfan Abdul ghaffar" />
+                    <br />
+                    <sub>
+                        <b>Irfan Abdul ghaffar</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
