@@ -57,12 +57,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/Abhyuday-CipherX/">
+                    <img src="https://avatars.githubusercontent.com/u/233534367?v=4" width="100px;"
+                        alt="Abhyuday Gautam" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Abhyuday Gautam</b>
                     </sub>
                 </a>
             </td>
