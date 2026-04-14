@@ -783,6 +783,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Don-Soby-2007">
+                    <img src="https://avatars.githubusercontent.com/u/222830161?v=4" width="100px;"
+                        alt="Don Soby" />
+                    <br />
+                    <sub>
+                        <b>Don Soby</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AmanCode9">
                     <img src="https://avatars.githubusercontent.com/u/190964702?v=4" width="100px;"
                         alt="Aman Patra" />
