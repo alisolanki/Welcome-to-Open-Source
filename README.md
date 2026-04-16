@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ritulsrivastava007">
+                    <img src="https://avatars.githubusercontent.com/u/240201187?v=4" width="100px;"
+                        alt="Ritul Srivastava." />
+                    <br />
+                    <sub>
+                        <b>Ritul Srivastava</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
