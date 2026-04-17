@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/narendersingh-088">
+                    <img src="https://avatars.githubusercontent.com/u/275518003?v=4" width="100px;"
+                    alt="Narender Singh" />
+                    <br/>
+                    <sub>
+                        <b>Narender Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
