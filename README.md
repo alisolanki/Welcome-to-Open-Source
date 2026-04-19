@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mana629">
+                    <img src="https://copilot.microsoft.com/shares/RU4JGwJ9x1q5hzP8nPW97 v=4" width="100px;"
+                        alt="prithis banerjee" />
+                    <br />
+                    <sub>
+                        <b>Prithis</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
