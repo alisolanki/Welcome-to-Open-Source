@@ -5517,7 +5517,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Aditya Srivastava" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Aditya Srivastava</b>
                     </sub>
                 </a>
             </td>
