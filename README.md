@@ -377,6 +377,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/abhijnyan-codes">
+                    <img src="https://avatars.githubusercontent.com/u/175478183?v=4" width="100px;"
+                        alt="Abhijnyan Saikia" />
+                    <br />
+                    <sub>
+                        <b>Abhijnyan Saikia</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
