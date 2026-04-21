@@ -5511,5 +5511,25 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AdityaSrivastava-07">
+                    <img src="https://avatars.githubusercontent.com/u/227009073?v=4" width="100px;"
+                        alt="Aditya Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Aditya Srivastava</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AdityaSrivastava-07">
+                    <img src="https://avatars.githubusercontent.com/u/227009073?v=4" width="100px;"
+                        alt="Aditya Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Aditya Srivastava</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
