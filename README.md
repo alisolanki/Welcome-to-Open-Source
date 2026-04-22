@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+            <a herf="https://github.com/suhail-baqays">
+                <img src="https://avatars.githubusercontent.com/u/187085821?s=400&u=dad05ab25b8f102f99cc92e3f20d6a7ae15a6409&v=4" width="100px" 
+                    alt="Suhail Baqays">
+                <br />
+                <sub>
+                    <b>Suhail Baqays</b>
+                </sub>
+            </a>
+        </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
@@ -5511,5 +5521,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            
     </tbody>
 </table>
