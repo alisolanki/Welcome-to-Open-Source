@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sashwatpuri">
+                    <img src="https://avatars.githubusercontent.com/u/65395843?v=4" width="100px;"
+                        alt="Sashwat Puri Sachdev" />
+                    <br />
+                    <sub>
+                        <b>Sashwat Puri Sachdev</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
