@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     </td>
+     <td align="center">
+        <a href="https://github.com/hwsinha">
+            <img src="https://avatars.githubusercontent.com/u/273590084?v=4" width="100px;" alt="Harshwardhan Sinha"/>
+            <br />
+            <sub><b>Harshwardhan Sinha
+        </a>
+    </td>
     
     ```
 
