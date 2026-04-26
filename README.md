@@ -5264,6 +5264,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yamuna Jayan</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/palakm-08">
+                    <img src="https://avatars.githubusercontent.com/u/175332580?v=4" width="100px;"
+                        alt="Palak" />
+                    <br />
+                    <sub>
+                        <b>Palak Mishra</b>
+                    </sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/amitgorithm">
                     <img src="https://avatars.githubusercontent.com/u/210964531?v=4" width="100px;" alt="Amit Jape"/>
