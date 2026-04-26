@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Manoj-bhat07">
+                    <img src="https://avatars.githubusercontent.com/u/246804646?v=4" width="100px;"
+                        alt="Manoj Bhat" />
+                    <br />
+                    <sub>
+                        <b>Manoj Bhat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
