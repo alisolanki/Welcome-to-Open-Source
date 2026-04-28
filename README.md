@@ -5514,7 +5514,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
              <td align="center">
                 <a href="https://github.com/Prateek2007-oss">
                     <img src="https://avatars.githubusercontent.com/u/200025673?v=4&size=64" width="100px;"
-                        alt="Prateek" />
+                        alt="Prateek Gupta" />
                     <br />
                     <sub>
                         <b>Prateek</b>
