@@ -5517,7 +5517,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Prateek Gupta" />
                     <br />
                     <sub>
-                        <b>Prateek</b>
+                        <b>Prateek Gupta</b>
                     </sub>
                 </a>
             </td>
