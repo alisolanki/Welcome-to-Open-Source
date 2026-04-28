@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Prateek2007-oss">
+                    <img src="https://avatars.githubusercontent.com/u/200025673?v=4&size=64" width="100px;"
+                        alt="Prateek" />
+                    <br />
+                    <sub>
+                        <b>Prateek</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
