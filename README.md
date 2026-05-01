@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harshada8983">
+                    <img src="https://avatars.githubusercontent.com/u/197307586?v=4" width="100px;"
+                        alt="Harshada Borikar" />
+                    <br />
+                    <sub>
+                        <b>Harshada Borikar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
