@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/pavana26">
+                    <img src="https://avatars.githubusercontent.com/u/36142059?s=400&u=0afeb79c055f44fa874448eb01e865a755b9e2d5&v=4" width="100px;"
+                        alt="Pavana Bhat" />
+                    <br />
+                    <sub>
+                        <b>Pavana Bhat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
