@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/avadhrakholiya114">
+                    <img src="https://avatars.githubusercontent.com/u/104836099?s=400&u=61a8ac474532afbfbfe5cb2fe9506614c0ff0c09&v=4" width="100px;"
+                        alt="Avadh Patel" />
+                    <br />
+                    <sub>
+                        <b>Avadh Patel</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
