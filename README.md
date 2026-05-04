@@ -1113,6 +1113,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
+                <a href="https://github.com/Dharunika2301">
+                    <img src="https://avatars.githubusercontent.com/u/181652149?v=4" width="100px;"
+                        alt="Dharunika K T" />
+                    <br />
+                    <sub>
+                        <b>Dharunika K T</b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
                 <a href="https://github.com/satyamurthy18">
                     <img src="https://avatars.githubusercontent.com/u/181378414?v=4" width="100px;"
                         alt="satya Murthy" />
