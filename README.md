@@ -5513,3 +5513,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+<td align="center">
+                <a href="https://github.com/Devjr7">
+                    <img src="https://avatars.githubusercontent.com/u/220735825?v=4" width="100px;"
+                        alt="DEV jr 7" />
+                    <br />
+                    <sub>
+                        <b>Dev jr 7</b>
+                    </sub>
+                </a>
+            </td>
