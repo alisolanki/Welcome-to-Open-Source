@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/chetanbhandari01">
+                    <img src="https://avatars.githubusercontent.com/u/188784619?v=4" width="100px;"
+                        alt="Chetan Bhandari" />
+                    <br />
+                    <sub>
+                        <b>Chetan Bhandari</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
