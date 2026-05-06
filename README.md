@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/lofar7777">
+                    <img src="https://pbs.twimg.com/profile_images/2014047625323094017/LMi7x63G.jpg" width="100px;"
+                        alt="Divyani Khandait" />
+                    <br />
+                    <sub>
+                        <b>Divyani Khandait</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
