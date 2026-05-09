@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/Muskan-Motwani">
+            <img src="https://avatars.githubusercontent.com/u/183045533?v=4" width="100px;" alt="Muskan Motwani"/>
+            <br />
+            <sub><b>Sathvik Shetty
+        </a>
+    </td>
     
     ```
 
