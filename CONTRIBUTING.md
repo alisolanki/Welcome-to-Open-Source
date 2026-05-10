@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Disha337/">
+            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Disha Dhope"/>
+            <br />
+            <sub><b>Disha Dhope
+        </a>
+    </td>
     
     ```
 
