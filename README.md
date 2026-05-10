@@ -28,18 +28,30 @@
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
-    <a href="https://www.twitter.com/alisolankii">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
-    </a>
-    <a href="https://linkedin.com/in/alisolanki">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-    </a>
-    <a href="https://www.youtube.com/AliSolanki">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
-    <a href="https://www.instagram.com/alisolankii">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-    </a>
+  <a href="https://twitter.com/alisolankii" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+         alt="Twitter" width="50" />
+  </a>
+
+  <a href="https://linkedin.com/in/alisolanki" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="50" />
+  </a>
+
+  <a href="https://www.youtube.com/AliSolanki" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+         alt="YouTube" width="50" />
+  </a>
+
+  <a href="https://www.instagram.com/alisolankii" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+         alt="Instagram" width="50" />
+  </a>
+
+  <a href="https://github.com/alisolankii" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub" width="50" />
+  </a>
 </p>
   
 <p align="center">
