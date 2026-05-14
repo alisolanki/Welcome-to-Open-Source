@@ -397,6 +397,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/HarishBirla">
+                    <img src="https://avatars.githubusercontent.com/u/202926965?v=4" width="100px;"
+                        alt="Harish Birla" />
+                    <br />
+                    <sub>
+                        <b>Harish Birla</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/SAURAV0703">
                     <img src="https://avatars.githubusercontent.com/u/140614521?v=4" width="100px;" alt="Saurav Singh Negi"/>
