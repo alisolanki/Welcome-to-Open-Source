@@ -69,10 +69,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/navya68">
                     <img src="https://avatars.githubusercontent.com/u/125585792?v=4" width="100px;"
-                        alt="Sree" />
+                        alt="Navya Sree" />
                     <br />
                     <sub>
-                        <b>Sree</b>
+                        <b>Navya Sree</b>
                     </sub>
                 </a>
             </td>
