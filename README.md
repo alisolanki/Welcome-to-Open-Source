@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/neinAlkem">
+                    <img src="https://avatars.githubusercontent.com/u/162673445?s=400&u=0fcbc0f8ebab7f45c3635809bfe7a14bde61d9cb&v=4" width="100px;"
+                        alt="Baghas Rizaluddin" />
+                    <br />
+                    <sub>
+                        <b>Baghas Rizaluddin</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
