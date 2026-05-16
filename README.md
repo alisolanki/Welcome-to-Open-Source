@@ -263,7 +263,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Amritha S Nidhi" />
                     <br />
                     <sub>
-                        <b>Amritha S Nidhi</b>
+                        <b>vishnu</b>
                     </sub>
                 </a>
             </td>
