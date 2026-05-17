@@ -86,6 +86,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rookiecoder07">
+                    <img src="https://avatars.githubusercontent.com/u/188471032?v=4" width="100px;"
+                        alt="Abhishek kumar" />
+                    <br />
+                    <sub>
+                        <b>Abhishek kumar</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
