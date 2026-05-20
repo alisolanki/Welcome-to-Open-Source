@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/deepak2006gupta">
+                    <img src="https://avatars.githubusercontent.com/u/198563513?v=4" width="100px;"
+                        alt="Deepak Prasad Gupta" />
+                    <br />
+                    <sub>
+                        <b>Deepak Prasad Gupta</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
