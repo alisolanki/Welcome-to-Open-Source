@@ -266,7 +266,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-             <td align="center"
+             <td align="center">
                 <a href="https://github.com/Vyshnavtr0">
                     <img src="https://avatars.githubusercontent.com/u/82934724?v=4" width="100px;"
                         alt="Vyshnav TR" />
@@ -276,7 +276,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center"
+            <td align="center">
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
                         alt="Danish Ibrahim Khan" />
@@ -286,7 +286,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center"
+            <td align="center">
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
                         alt="Rajat Rajput" />
@@ -1615,7 +1615,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/abhiramiramadas>
+                <a href="https://github.com/abhiramiramadas">
                     <img src="https://avatars.githubusercontent.com/u/100674826?v=4" width="100px;" alt="Abhirami Ramadas"/>
                     <br />
                     <sub><b>Abhirami Ramadas</b></sub>
@@ -2160,6 +2160,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub>
                     <b>Sumedh Vichare</b>
                 </sub>
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com/Roshan-keshri">
@@ -3009,6 +3010,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </a>
                 </td>
             </tr>
+            <tr>
             <td align="center">
                 <a href="https://github.com/Mask02">
                     <img src="https://avatars.githubusercontent.com/u/66055399?v=4" width="100px;"
