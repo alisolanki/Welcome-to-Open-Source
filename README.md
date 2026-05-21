@@ -116,6 +116,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href=https://github.com/Saavari29>
+                    <img src="https://i.pinimg.com/1200x/33/38/c2/3338c2548b8fcaf5f1f4fe85e0d2eba0.jpg" width="100px;"
+                        alt="Saavari Agrawal" />
+                    <br />
+                    <sub>
+                        <b>Saavari Agrawal</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/chirsmita-02">
                     <img src="https://wallpapers.com/images/thumbnail/cute-girl-digital-art-profile-picture-qc0ka21j2ejosppd.webp" width="100px;"
