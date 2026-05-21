@@ -57,6 +57,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/180996069?v=4" width="100px;"
+                        alt="Jiya Mishra" />
+                    <br />
+                    <sub>
+                        <b>Jiya Mishra</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
