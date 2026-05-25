@@ -5510,6 +5510,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Lokesh Farswan</b>
                     </sub>
                 </a>
+            </td>                
+            <td align="center">
+                <a href="https://github.com/homie90x">
+                    <img src="https://avatars.githubusercontent.com/u/156940965?v=4" width="100px;"
+                        alt="Mahathir Mostafa" />
+                    <br />
+                    <sub>
+                        <b>Mahathir Mostafa</b>
+                    </sub>
+                </a>
             </td>
     </tbody>
 </table>
