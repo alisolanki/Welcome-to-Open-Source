@@ -1225,6 +1225,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MdSufiyanAzmat">
+                    <img src="https://avatars.githubusercontent.com/u/71426452?v=4" width="100px;"
+                        alt="Md Sufiyan Azmat" />
+                    <br />
+                    <sub>
+                        <b>Md Sufiyan Azmat</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Mohan-077">
                     <img src="https://avatars.githubusercontent.com/u/187613018?s=400&v=4" width="100px;"
                         alt="Mohan Reddy"/>
