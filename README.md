@@ -1230,7 +1230,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Md Sufiyan Azmat" />
                     <br />
                     <sub>
-                        <b>Md Sufiyan Azmat</b>
+                        <b>Md Sufiyan Azmat </b>
                     </sub>
                 </a>
             </td>
