@@ -327,6 +327,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AdityaMore456">
+                    <img src="https://avatars.githubusercontent.com/u/184769446?s=400&u=5994b54956bca0d982f7f0ca965aa14648d48757&v=4" width="100px;"
+                        alt="Aditya More" />
+                    <br />
+                    <sub>
+                        <b>Aditya More</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
             <a href="https://github.com/Saquib504">
                 <img src="https://avatars.githubusercontent.com/u/173878571?v=4" width="100px;"
