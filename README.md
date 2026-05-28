@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/Dipanshu2212">
+                    <img src="https://avatars.githubusercontent.com/u/218221180?v=4" width="100px;"
+                        alt="Dipanshu Rawat" />
+                    <br />
+                    <sub>
+                        <b>Dipanshu Rawat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
