@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/StoryEater0">
+                    <img src="https://avatars.githubusercontent.com/u/222260414?s=400&u=8e74a0125e08e8d6332527f08a4a885fd3cbd29b&v=4" width="100px;"
+                        alt="Ari" />
+                    <br />
+                    <sub>
+                        <b>Lokesh Farswan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
