@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anshaf-thanishs">
+                    <img src="[https://avatars.githubusercontent.com/u/155193699?v=4](https://avatars.githubusercontent.com/u/155193699?v=4)" width="100px;"
+                        alt="anshaf-thanish" />
+                    <br />
+                    <sub>
+                        <b>Anshaf Thanish</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
