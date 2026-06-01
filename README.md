@@ -65,16 +65,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Glen-Rodrigues">
-                    <img src="https://avatars.githubusercontent.com/u/180935155?v=4" width="100px;"
-                        alt="Glen Rodrigues" />
-                    <br />
-                    <sub>
-                        <b>Glen Rodrigues</b>
-                    </sub>
-                </a>
-            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
@@ -5517,6 +5507,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Lokesh Farswan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Glen-Rodrigues">
+                    <img src="https://avatars.githubusercontent.com/u/180935155?v=4" width="100px;"
+                        alt="Glen Rodrigues" />
+                    <br />
+                    <sub>
+                        <b>Glen Rodrigues</b>
                     </sub>
                 </a>
             </td>
