@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/prateeksharma10jan-byte">
+                    <img src="https://avatars.githubusercontent.com/u/231249054?v=4" width="100px;"
+                        alt="Prateek Sharma" />
+                    <br />
+                    <sub>
+                        <b>Prateek sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
