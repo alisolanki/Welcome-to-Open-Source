@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Haripriyagupta">
+                    <img src="https://avatars.githubusercontent.com/u/218824161?s=400&u=91cea3c065d7b7f6d5713547fa7e94e799accd81&v=4" width="100px;"
+                        alt="Haripriya Gupta" />
+                    <br />
+                    <sub>
+                        <b>Haripriya Gupta</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
