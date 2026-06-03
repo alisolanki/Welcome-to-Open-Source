@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Arp1tByte">
+                    <img src="https://avatars.githubusercontent.com/u/80208140?v=4" width="100px;"
+                        alt="Arpit Kumar" />
+                    <br />
+                    <sub>   
+                        <b>Arpit Kumar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
