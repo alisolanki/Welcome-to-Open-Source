@@ -57,7 +57,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://github.com/Livecodo">
+                <a href="https://Livecodo.me">
                     <img src="https://avatars.githubusercontent.com/u/186147114?v=4" width="100px;"
                         alt="Gautham Pillai" />
                     <br />
