@@ -14,7 +14,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
@@ -284,6 +283,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Danish Ibrahim Khan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center"
+                <a href="https://">
+                    <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
+                        alt="Danish Ibrahim Khan" />
+                    <br />
+                    <sub>
+                        <b>Aayush chouhan</b>
                     </sub>
                 </a>
             </td>
@@ -5462,12 +5471,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Sumeets-Code">
+                <a href="https://github.com/aayushchouhan72">
                     <img src="https://avatars.githubusercontent.com/u/182865908?s=400&u=2ab1f20618f25615ba0f5f7a29af7cf07ec0c9c9&v=4" width="100px;"
                         alt="Sumeet Bhagat" />
                     <br />
                     <sub>
-                        <b>Sumeet Bhagat</b>
+                        <b>Aayush chouhan</b>
                     </sub>
                 </a>
             </td>
@@ -5502,12 +5511,22 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/lofar7777">
+                <a href="https://github.com/aayushchouhan72">
                     <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
                         alt="Lokesh Farswan" />
                     <br />
                     <sub>
                         <b>Lokesh Farswan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/aayushchouhan72">
+                    <img src="https://avatars.githubusercontent.com/u/182865908?s=400&u=2ab1f20618f25615ba0f5f7a29af7cf07ec0c9c9&v=4" width="100px;"
+                        alt="Aayush chouhan" />
+                    <br />
+                    <sub>
+                        <b>Aayush chouhan</b>
                     </sub>
                 </a>
             </td>
