@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/raghvendrasingh-01/">
+                    <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
+                        alt="Raghvendra Singh" />
+                    <br />
+                    <sub>
+                        <b>Raghvendra Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
