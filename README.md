@@ -752,6 +752,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SOUVIKKONAR">
+                    <img src="https://avatars.githubusercontent.com/u/205824888?v=4" width="100px;"
+                        alt="Ether" />
+                    <br />
+                    <sub>
+                        <b>Souvik Konar</b>
+                    </sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/rameesvk551">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
