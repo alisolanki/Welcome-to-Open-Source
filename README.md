@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/arpitm169">
+                    <img src="https://avatars.githubusercontent.com/arpitm169" width="100px;"
+                        alt="Arpit Malhotra" />
+                    <br />
+                    <sub>
+                        <b>Arpit Malhotra</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
