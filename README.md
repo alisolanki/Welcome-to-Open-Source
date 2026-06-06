@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/vidyasingh0804">
+                    <img src="https://avatars.githubusercontent.com/u/238496237?v=4" width="100px;"
+                        alt="Vidya Singh" />
+                    <br />
+                    <sub>
+                        <b>Vidya Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
