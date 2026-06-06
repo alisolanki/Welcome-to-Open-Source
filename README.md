@@ -1235,6 +1235,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mamatha-nalluri">
+                    <img src="https://avatars.githubusercontent.com/u/72073536?v=4" width="100px;"
+                        alt="Mamatha Nalluri"/>
+                    <br />
+                    <sub>
+                        <b>Mamatha Nalluri</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AKRoutGitHub">
                     <img src="https://avatars.githubusercontent.com/u/151461051?v=4" width="100px;"
                         alt="Asish Kumar Rout" />
