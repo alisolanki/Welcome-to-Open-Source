@@ -2525,6 +2525,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </td>
             </tr>
+            <td align="center">
+                <a href="https://github.com/PranavNagaraji">
+                    <img src="https://avatars.githubusercontent.com/u/164652684?v=4" width="100px;" alt="PranavNagaraji"/>
+                    <br />
+                    <sub><b>Pranav N</b></sub>
+                </a>
+            </td>
             <tr>
                 <td align="center">
                     <a href="https://shaikahmadnawaz.vercel.app/">
