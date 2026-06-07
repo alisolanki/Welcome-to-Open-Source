@@ -5510,6 +5510,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Lokesh Farswan</b>
                     </sub>
                 </a>
+            <td align="center">
+                <a href="https://github.com/ksaicharan269-ai">
+                    <img src= "https://avatars.githubusercontent.com/u/245510196?v=4" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
             </td>
     </tbody>
-</table>
