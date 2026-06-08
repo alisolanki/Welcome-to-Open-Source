@@ -5513,3 +5513,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+ <td align="center">
+                <a href="https://github.com/suhailnawazpe">
+                    <img src="https://avatars.githubusercontent.com/u/290289446?v=4" width="100px;"
+                        alt="Suhail Nawaz" />
+                    <br />
+                    <sub>
+                        <b>Suhail Nawaz</b>
+                    </sub>
+                </a>
+            </td>
+    </tbody>
+</table>
