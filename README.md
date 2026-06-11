@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Sanidhyavyas">
+                     <img src="https://github.com/Sanidhyavyas.png" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Sanidhya Vyas</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
