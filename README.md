@@ -85,6 +85,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Arpita Deodikar</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/shailendrakushwaha">
+                    <img src="https://avatars.githubusercontent.com/u/291303551?s=400&v=4" width="100px;"
+                        alt="Shailendra Kushwaha" />
+                    <br />
+                    <sub>
+                        <b>Shailendra Kushwaha</b>
+                    </sub>
+                </a>
             </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
