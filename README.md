@@ -86,7 +86,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td><td align="center">
-                <a href="https://github.com/shailendrakushwaha2k4">
+                <a href="https://github.com/shailendrakushwaha">
                     <img src="https://avatars.githubusercontent.com/u/291303551?s=400&v=4" width="100px;"
                         alt="Shailendra Kushwaha" />
                     <br />
