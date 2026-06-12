@@ -5511,5 +5511,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ganeshs-io">
+                    <img src="https://github.com/ganeshs-io.png"
+                         width="100px;"
+                         alt="Ganesh" />
+                    <br />
+                    <sub>
+                        <b>Ganesh</b>
+                    </sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
