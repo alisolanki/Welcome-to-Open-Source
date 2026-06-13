@@ -188,12 +188,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/ajmal-uk">
+                <a href="https://github.com/Himanshu-singh-cse">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="Himanshu Singh btech cse work at google" />
                     <br />
                     <sub>
-                        <b>Muhammed Ajmal U K</b>
+                        <b>Himanshu Singh</b>
                     </sub>
                 </a>
             </td>
