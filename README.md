@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/shrush-04">
+                    <img src="https://avatars.githubusercontent.com/u/215342094?v=4 " width="100px;"
+                        alt="Shrushti Mangalekar" />
+                    <br />
+                    <sub>
+                        <b>Shrushti Mangalekar</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
