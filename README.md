@@ -5510,6 +5510,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Lokesh Farswan</b>
                     </sub>
                 </a>
+            <tr>
+            <td align="center">
+                <a href="https://github.com/code-x-slayer">
+                    <img src="https://avatars.githubusercontent.com/u/197530157?s=400&u=92978d80728b92d5020e991434fcb2dda7883765&v=4" width="100px;"
+                        alt="CodeXSlayer" />
+                    <br />
+                    <sub>
+                        <b>Vijay Karthik Ryali</b>
+                    </sub>
+                </a>
             </td>
+            </tr>
     </tbody>
 </table>
