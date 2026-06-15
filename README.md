@@ -475,6 +475,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/hasmithakrishna">
+                    <img src="https://avatars.githubusercontent.com/u/75234540?v=4" width="100px;"
+                        alt="Hasmitha Krishna Nunna" />
+                    <br />
+                    <sub>
+                        <b>Hasmitha Krishna Nunna</b>
+                    </sub>
+                </a>
+            </td>
+
+            <td align="center">
                 <a href="[https://github.com/SuhaniKaushal](https://github.com/account)">
                     <img src="https://avatars.githubusercontent.com/u/147412833?v=4" width="100px;"
                         alt="SUHANI" />
