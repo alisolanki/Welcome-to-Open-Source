@@ -286,7 +286,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Danish Ibrahim Khan</b>
                     </sub>
                 </a>
-            </td>
+            </td> 
+            <td align="center"
+                <a href="https://github.com/Yashaswini-0810">
+                    <img src="https://github.com/account" width="100px;"
+                        alt="YASHASWINI " />
+                    <br />
+                    <sub>
+                        <b>Yashaswini P</b>
+                    </sub>
+                </a>
+            </td> 
             <td align="center"
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
