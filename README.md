@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/ananyaatri196">
+                    <img src="https://avatars.githubusercontent.com/u/153431755?v=4" width="100px;"
+                        alt="Ananya Atri" />
+                    <br />
+                    <sub>
+                        <b>Ananya Atri</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
