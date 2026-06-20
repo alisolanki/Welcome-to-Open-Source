@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Krishahirkkar">
+                    <img src="https://avatars.githubusercontent.com/u/177259294?v=4" width="100px;"
+                        alt="Krish Ahirkar" />
+                    <br />
+                    <sub>
+                        <b>Krish Ahirkar/b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
