@@ -102,7 +102,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Nidhi Jain" />
                     <br />
                     <sub>
-                        <b>Manali Lamture</b>
+                        <b>Nidhi Jain</b>
                     </sub>
                 </a>
             </td>
