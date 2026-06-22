@@ -14,7 +14,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
@@ -36,7 +35,7 @@
     </a>
     <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
-    </a>
+    </a>R
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
@@ -57,12 +56,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://munmunbansal.github.io/themeport/">
+                    <img src="https://avatars.githubusercontent.com/u/171231379?v=4 width="100px;"
+                        alt="Munmun Bansal" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Munmun Bansal</b>
                     </sub>
                 </a>
             </td>
