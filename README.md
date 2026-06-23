@@ -1,10 +1,19 @@
 # Welcome to Open Source Contributions 🍉
 
+<p>🚨 <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
+    Please make all your pull requests here (LATEST): 
+    <br/>
+    https://github.com/alisolanki/OpenSource-Github-Wall
+</p>
+
+<br/>
+
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repository's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repository's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
+
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
@@ -5499,6 +5508,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lofar7777">
+                    <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
+                        alt="Lokesh Farswan" />
+                    <br />
+                    <sub>
+                        <b>Lokesh Farswan</b>
                     </sub>
                 </a>
             </td>
