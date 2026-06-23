@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Gustavo-Harnisch">
+                    <img src="https://github.com/Gustavo-Harnisch.png" width="100px;"
+                        alt="Gustavo Harnisch" />
+                    <br />
+                    <sub>
+                        <b>Gustavo Harnisch</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
