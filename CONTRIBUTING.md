@@ -80,9 +80,16 @@
             <sub><b>Priyatosh Kumar</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/PriyatoshKumarShahi">
+            <img src="https://avatars.githubusercontent.com/u/174815858?v=4" width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Priyatosh Kumar</b></sub>
+        </a>
+    </td>
      <td align="center">
-        <a href="https://github.com/Sathvik-Shetty-1569">
-            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+        <a href="https://github.com/Abhayraj0302">
+            <img src="https://avatars.githubusercontent.com/u/252731115?v=4" width="100px;" alt="Sathvik Shetty"/>
             <br />
             <sub><b>Sathvik Shetty
         </a>
