@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SabahMuhamed">
+                    <img src="https://avatars.githubusercontent.com/u/121745431?v=4" width="100px;"
+                        alt="SabahMuhamed" />
+                    <br />
+                    <sub>
+                        <b>Mohamed Sabah</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
