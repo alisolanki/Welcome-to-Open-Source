@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Nickhasntlost">
+                    <img src="https://avatars.githubusercontent.com/u/177347257?v=4" width="100px;"
+                        alt="Nikhil Solanke" />
+                    <br />
+                    <sub>
+                        <b>Nikhil Solanke</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
