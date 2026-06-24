@@ -5513,3 +5513,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+       <td align="center">
+                <a href="https://github.com/ArjavJain-27">
+                    <img src="https://avatars.githubusercontent.com/u/247656076?v=4" width="100px;"
+                        alt="Arjav Jain" />
+                    <br />
+                    <sub>
+                        <b>Arjav Jain</b>
+                    </sub>
+                </a>
+            </td>
