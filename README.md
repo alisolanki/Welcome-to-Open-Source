@@ -135,6 +135,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Rachit Singh</b>
                     </sub>
                 </a>
+            </td> <td align="center">
+                <a href="https://github.com/kratos183">
+                    <img src="https://avatars.githubusercontent.com/u/200969141?v=4" width="100px;"
+                        alt="Chand Ansari" />
+                    <br />
+                    <sub>
+                        <b>Chand Ansari</b>
+                    </sub>
+                </a>
             </td> 
             <td align="center">
                 <a href="https://github.com/chamuditha6">
