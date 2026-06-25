@@ -67,6 +67,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+            <a href = "https://github.com/jiteeshghodke456-del" >
+                <img src = "https://avatars.githubusercontent.com/u/234743577?v=4" width = "100px;" alr = "Jiteesh Ghodke" />
+                <br / >
+                <sub><b>Jiteesh Ghodke</b></sub>
+                </a>
+        </td>
+
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
