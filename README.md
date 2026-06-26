@@ -5511,5 +5511,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/Devpatel1909">
+                    <img src="https://avatars.githubusercontent.com/u/145245238?v=4" width="100px;"
+                        alt="Dev Patel" />
+                    <br />
+                    <sub>
+                        <b>Dev Patel1909</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
