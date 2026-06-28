@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Anoogna">
+                    <img src="https://avatars.githubusercontent.com/u/161183007?v=4" width="100px;"
+                        alt="Anoogna Gunjari" />
+                    <br />
+                    <sub>
+                        <b>Anoogna Gunjari</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
