@@ -1182,6 +1182,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/syedikrashahmed">
+                    <img src="https://avatars.githubusercontent.com/u/132776071?v=4" width="100px;"
+                        alt="Ikrash Ahmed" />
+                    <br />
+                    <sub>
+                        <b>Ikrash Ahmed</b>
+                    </sub>
+                </a>
+            </td>
         </tr>
         <tr>
         <td align="center">
