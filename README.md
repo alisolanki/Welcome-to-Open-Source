@@ -377,6 +377,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            
             <td align="center">
                 <a href="https://github.com/Aryansingh-ai">
                     <img src="https://avatars.githubusercontent.com/u/182964887?v=4" width="100px;"
@@ -384,6 +385,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                       <b>Aryan singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href=![alt text](image.png)>
+                    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8eUcJILxbLFmKQXfNgofWHjNOD6NhYYgAR712OV4SUA&s=10 width="100px;"
+                        alt="Biswakalyani Sahu" />
+                    <br />
+                    <sub>
+                      <b>Biswakalyani Sahu</b>
                     </sub>
                 </a>
             </td>
