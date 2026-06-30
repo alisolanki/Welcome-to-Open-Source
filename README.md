@@ -1584,12 +1584,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/236sakshi">
-                    <img src="https://avatars.githubusercontent.com/u/108453602?v=4" width="100px;"
-                        alt="Sakshi Singh" />
+                <a href="https://github.com/Shibnath-Maity">
+                    <img src="https://avatars.githubusercontent.com/u/238035816?v=4" width="100px;"
+                        alt="Shibnath Maity" />
                     <br />
                     <sub>
-                        <b>Sakshi Singh</b>
+                        <b>Shibnath Maity</b>
                     </sub>
                 </a>
             </td>
