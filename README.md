@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/navneeSharma">
+                    <img src="https://avatars.githubusercontent.com/u/199088672?v=4" width="100px;"
+                        alt="Navnee Sharma" />
+                    <br />
+                    <sub>
+                        <b>Navnee Sharma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
