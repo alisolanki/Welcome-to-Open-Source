@@ -5511,5 +5511,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+  <a href="https://github.com/Ashwin121425-R">
+    <img src="https://github.com/Ashwin121425-R.png?size=100" width="100px;" alt="Ashwin R"/>
+    <br />
+    <sub><b>Ashwin R</b></sub>
+  </a>
+</td>
     </tbody>
 </table>
