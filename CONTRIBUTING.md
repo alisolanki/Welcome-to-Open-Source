@@ -86,7 +86,18 @@
             <br />
             <sub><b>Sathvik Shetty
         </a>
+
     </td>
+    <td align="center">
+        <a href="https://github.com/roshan4445">
+            <img src="https://avatars.githubusercontent.com/u/179906158?v=4" width="100px;" alt="Roshan Zameer"/>
+            <br />
+            <sub><b>Roshan Zameer
+        </a>
+    </td>
+    
+    
+
     
     ```
 
