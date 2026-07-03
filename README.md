@@ -297,6 +297,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center"
+                <a href="https://github.com/Sandeep-Sisodiya">
+                    <img src="https://avatars.githubusercontent.com/u/168301241?v=4" width="100px;"
+                        alt="Sandeep Sisodiya" />
+                    <br />
+                    <sub>
+                        <b>Sandeep Sisodiya</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/PravallikaSurabathula2006">
                     <img src="http://avatars.githubusercontent.com/u/220162505?v=4" width="100px;"
