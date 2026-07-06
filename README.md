@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Rishabh Deogade" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Rishabh Deogade</b>
                     </sub>
                 </a>
             </td>
