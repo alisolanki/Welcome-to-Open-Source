@@ -65,6 +65,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Ali Solanki</b>
                     </sub>
                 </a>
+             <td align="center">
+                <a href="https://github.com/vanishka-kumari">
+                    <img src="https://avatars.githubusercontent.com/u/243794385?v=4" width="100px;"
+                        alt="Vanishka Kumari" />
+                    <br />
+                    <sub>
+                        <b>Vanishka Kumari</b>
+                    </sub>
+                </a>
             </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
