@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aarushiij2004">
+                    <img src="https://avatars.githubusercontent.com/u/209199860?s=400&u=a7aefa85bbcb6fc0937f97e452800a883266c291&v=4" width="100px;"
+                        alt="Aarushi Jain" />
+                    <br />
+                    <sub>
+                        <b>Aarushi Jain</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
