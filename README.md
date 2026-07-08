@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/namitlakhchowra">
+                    <img src="https://avatars.githubusercontent.com/u/229932777?v=4"
+                        alt="Namit Lakhchowra" />
+                    <br />
+                    <sub>
+                        <b>Namit Lakhchowra</b>
+                    </sub>
+                </a>
+            </td>>
     </tbody>
 </table>
