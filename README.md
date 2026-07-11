@@ -56,6 +56,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        https://avatars.githubusercontent.com/u/113431853?s=400&u=5ba0d5882668f0f3d3e6f651bc2dc132381a85a4&v=4
+        <td align="center">
+                <a href="https://github.com/githubumang">
+                    <img src="https://avatars.githubusercontent.com/u/113431853?v=4" width="100px;"
+                        alt="Umang Agrawal" />
+                    <br />
+                    <sub>
+                        <b>Umang Agrawal</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
