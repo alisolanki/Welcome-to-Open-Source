@@ -87,6 +87,14 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    </td>
+     <td align="center">
+        <a href="https://github.com/abdulahadyousaf07">
+            <img src="https://avatars.githubusercontent.com/u/296560084?v=4" width="100px;" alt="Abdul Ahad"/>
+            <br />
+            <sub><b>Abdul Ahad
+        </a>
+    </td>
     
     ```
 
