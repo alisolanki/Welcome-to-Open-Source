@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/SindhuMK05">
+                    <img src="https://avatars.githubusercontent.com/u/207586512?v=4" width="100px;"
+                        alt="Sindhu m Kadapatti" />
+                    <br />
+                    <sub>
+                        <b>Sindhu m Kadapatti</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
