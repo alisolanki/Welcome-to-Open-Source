@@ -14,7 +14,6 @@
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
 </p>
 
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
         <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
@@ -26,6 +25,12 @@
 - Add your own details to the contributor list
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1000&h=667&crop=1"/>
+    </a>
+</p>
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
