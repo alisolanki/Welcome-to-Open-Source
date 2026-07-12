@@ -5511,5 +5511,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+  <a href="https://github.com/IRsinchana">
+    <img src="https://github.com/IRsinchana.png" width="100px;" alt="Sinchana"/>
+    <br />
+    <sub><b>I R Sinchana </b></sub>
+  </a>
+</td>
     </tbody>
 </table>
