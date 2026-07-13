@@ -4924,6 +4924,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a> 
             </td>
+            <td align="center">
+    <a href="https://github.com/snehamc25">
+        <img src="https://avatars.githubusercontent.com/snehamc25?v=4" width="100px;"
+            alt="Sneha M C" />
+        <br />
+        <sub>
+            <b>Sneha M C</b>
+        </sub>
+    </a>
+</td>
         </tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
@@ -5511,5 +5521,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+     
     </tbody>
 </table>
