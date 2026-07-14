@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/DarshanKudrigi">
+                    <img src="https://avatars.githubusercontent.com/u/224078201?v=4" width="100px;"
+                        alt="Darshan Kudrigi" />
+                    <br />
+                    <sub>
+                        <b>Darshan Kudrigi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
