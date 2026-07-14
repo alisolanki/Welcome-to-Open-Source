@@ -415,6 +415,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/omlad30">
+                    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100px;"
+                        alt="Om lad" />
+                    <br />
+                    <sub>
+                        <b>Om lad</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/30032003">
                     <img src="https://avatars.githubusercontent.com/u/97493907?v=4" width="100px;"
                         alt="Harshal Dahiwale" />
