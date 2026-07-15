@@ -5511,5 +5511,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              </td>
+            <td align="center">
+                <a href="https://github.com/riyanshajoshi">
+                    <img src="https://avatars.githubusercontent.com/u/261879884?v=4" width="100px;"
+                        alt="Riyansha Josi" />
+                    <br />
+                    <sub>
+                        <b>Riyansha Joshi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
