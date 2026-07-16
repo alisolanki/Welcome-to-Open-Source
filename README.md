@@ -307,6 +307,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/settings/profile">
+                    <img src="https://avatars.githubusercontent.com/u/174874341?v=4" width="100px;"
+                        alt="Harshith H" />
+                    <br />
+                    <sub>
+                        <b>Harshith H</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/RaiyanChowdhury225">
                     <img src="https://avatars.githubusercontent.com/u/214487419?v=4" width="100px;"
