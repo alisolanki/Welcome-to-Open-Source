@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- markdownlint-disable -->
 <table>
     <tbody>
-        <tr>
+        <tr> 
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
@@ -63,6 +63,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/debmalyaa29">
+                    <img src="https://avatars.githubusercontent.com/u/233477205?v=4" width="100px;"
+                        alt="Debmalyaa Dey" />
+                    <br />
+                    <sub>
+                        <b>Debmalyaa Dey</b>
                     </sub>
                 </a>
             </td>
