@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/aryanshinde1503-sketch/">
+                    <img src="https://avatars.githubusercontent.com/u/258658671?v=4" width="100px;"
+                        alt="Aryan Shinde" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
