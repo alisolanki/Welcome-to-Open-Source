@@ -367,6 +367,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/vishwagna">
+                    <img src="https://avatars.githubusercontent.com/u/106877724?v=4" width="100px;"
+                        alt="Kadarla Vishwagna" />
+                    <br />
+                    <sub>
+                        <b>Kadarla Vishwagna</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Nihalani2004">
                     <img src="" width="100px;"
