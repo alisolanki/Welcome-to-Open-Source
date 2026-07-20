@@ -5415,10 +5415,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Shivakumar-VS">
                     <img src="https://avatars.githubusercontent.com/u/157830150?v=4" width="100px;"
-                        alt="Shivakumar V S" />
+                        alt="Shivakumar VS" />
                     <br />
                     <sub>
-                        <b>Shivakumar V S</b>
+                        <b>Shivakumar VS</b>
                     </sub>
                 </a>
             </td>
