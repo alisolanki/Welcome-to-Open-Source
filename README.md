@@ -1715,6 +1715,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Pramod Achar</b>
                     </sub>
                 </a>
+                 <td align="center">
+                <a href="https://github.com/Shreyash-17-10">
+                    <img src="https://avatars.githubusercontent.com/u/222002344?v=4" width="100px;"
+                        alt="Shreyash Tiwari" />
+                    <br />
+                    <sub>
+                        <b>Shreyash Tiwari</b>
+                    </sub>
+                </a>
+            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/jashinishyni-mallidi">
