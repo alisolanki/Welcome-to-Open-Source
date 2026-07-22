@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ayush7-singh">
+                    <img src="https://avatars.githubusercontent.com/u/219025573?v=4" width="100px;"
+                        alt="Ayush Singh" />
+                    <br />
+                    <sub>
+                        <b>Ayush Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
