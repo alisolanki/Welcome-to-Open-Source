@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anmolsinghdz">
+                    <img src="https://avatars.githubusercontent.com/u/173762468?v=4" width="100px;"
+                        alt="Anmol Singh" />
+                    <br />
+                    <sub>
+                        <b>Anmol Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
