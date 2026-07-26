@@ -115,6 +115,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Navneet Patel</b>
                     </sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/abdishakur700">
+                    <img src="https://avatars.githubusercontent.com/u/211021840?v=4" width="100px;"
+                        alt="Abdishakur"/>
+                    <br />
+                    <sub>
+                        <b>Abdishakur</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/chirsmita-02">
