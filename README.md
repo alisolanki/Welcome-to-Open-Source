@@ -5412,6 +5412,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/arg1009">
+                    <img src="https://avatars.githubusercontent.com/u/285922267?v=4" width="100px;"
+                        alt="ARG" />
+                    <br />
+                    <sub>
+                        <b>ARG</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ISHAN-py">
                     <img src="https://avatars.githubusercontent.com/u/78527446?v=4" width="100px;"
                         alt="Ishan Srivastava" />
