@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+ # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
     Please make all your pull requests here (LATEST): 
@@ -5382,6 +5382,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ayush Pal</b></sub>
                 </a> 
             </td>
+                 </td>
+        <td align="center">
+                <a href="https://github.com/komal-priyya">
+                    <img src="https://avatars.githubusercontent.com/u/143781491?v=4" width="100px;"
+                        alt="Komal Priya" />
+                    <br />
+                    <sub>
+                        <b>Komal Priya</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Shanpreet">
                     <img src="https://github.com/account" width="100px;"
@@ -5511,5 +5522,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+             
     </tbody>
 </table>
