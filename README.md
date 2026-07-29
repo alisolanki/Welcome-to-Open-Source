@@ -137,6 +137,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
+                <a href="https://github.com/VinayTodkar">
+                    <img src="https://avatars.githubusercontent.com/u/175720309?v=4" width="100px;"
+                        alt="Vinay Todkar" />
+                    <br />
+                    <sub>
+                        <b>Vinay Todkar</b>
+                    </sub>
+                </a>
+            </td> 
+            <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
                         alt="Chamuditha Nonis" />
