@@ -77,8 +77,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
                <td align="center">
-                <a href="https://github.com/Glitch-op">
-                    <img src="https://github.com/Ashfaque965" width="100px;"
+                <a href="https://github.com/Ashfaque965">
+                    <img src="https://avatars.githubusercontent.com/u/117336299?s=400&u=4a2cfef5cb2ba3804cbb39904231f1d80dec8c77&v=4" width="100px;"
                         alt="ASHFAQUE QURAISHI" />
                     <br />
                     <sub>
