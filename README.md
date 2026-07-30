@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/Ashfaque965">
+                    <img src="https://avatars.githubusercontent.com/u/117336299?s=400&u=4a2cfef5cb2ba3804cbb39904231f1d80dec8c77&v=4" width="100px;"
+                        alt="ASHFAQUE QURAISHI" />
+                    <br />
+                    <sub>
+                        <b>ASHFAQUE QURAISHI</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
