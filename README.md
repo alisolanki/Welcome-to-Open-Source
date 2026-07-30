@@ -86,6 +86,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ishitamehta663">
+                    <img src="https://avatars.githubusercontent.com/u/154406479?v=4" width="100px;"
+                        alt="Ishita Mehta" />
+                    <br />
+                    <sub>
+                        <b>Ishita Mehta</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
