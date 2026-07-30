@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://garima040106.github.io/>
+                    <img src="https://avatars.githubusercontent.com/u/176151459?s=400&u=c06763d6c457d046ca85629b1d09a31051b9d9e6&v=4" width="100px;"
+                        alt="Garima Varma" />
+                    <br />
+                    <sub>
+                        <b>Garima Varma</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
