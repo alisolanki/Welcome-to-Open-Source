@@ -257,6 +257,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/tejash5489-lang">
+                    <img src="https://avatars.githubusercontent.com/u/254717561?s=400&v=4" width="100px;"
+                        alt="Tejash Gupta" />
+                    <br />
+                    <sub>
+                        <b>Tejash Gupta</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/amrithasnidhi">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
