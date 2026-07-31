@@ -39,6 +39,13 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/rishavdev-cmd/">
+                    <img src="https://avatars.githubusercontent.com/u/132853738?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Rishav DEV</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://bytemaster2000.github.io/">
                     <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
                     <br />
