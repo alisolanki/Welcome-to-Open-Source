@@ -68,7 +68,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
 
         <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/AvulaPujitha">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Avula Pujitha" />
                     <br />
@@ -79,7 +79,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
 
         <td align="center">
-                <a href="https://github.com/AvulaPujitha">
+                <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/185192816?v=4" width="100px;"
                         alt="Karan Yadav" />
                     <br />
