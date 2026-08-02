@@ -57,12 +57,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                <a href="https://dharungowda.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/220491958?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Dharun s</b>
                     </sub>
                 </a>
             </td>
