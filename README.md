@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kumarsahudinesh52-byte">
+                    <img src="/original-b6c609d63079aca3d4d1b4815ccca74c.webp" width="100px;"
+                        alt="Dinesh Kumar Sahu" />
+                    <br />
+                    <sub>
+                        <b>Dinesh Kumar Sahu</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
