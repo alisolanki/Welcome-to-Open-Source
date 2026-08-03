@@ -109,10 +109,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
            <td align="center">
                 <a href="https://github.com/sharmi123">
                     <img src="https://avatars.githubusercontent.com/u/19162438?v=4" width="100px;"
-                        alt="sharmi" />
+                        alt="R SHARMI" />
                     <br />
                     <sub>
-                        <b>sharmi</b>
+                        <b>R SHARMI</b>
                     </sub>
                 </a>
             </td>                      
