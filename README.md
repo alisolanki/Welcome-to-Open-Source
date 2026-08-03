@@ -106,16 +106,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/patelscripts">
-                    <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
-                        alt="Ali Solanki" />
+           <td align="center">
+                <a href="https://github.com/sharmi123">
+                    <img src="https://avatars.githubusercontent.com/u/19162438?v=4" width="100px;"
+                        alt="R SHARMI" />
                     <br />
                     <sub>
-                        <b>Navneet Patel</b>
+                        <b>R SHARMI</b>
                     </sub>
                 </a>
-            </td>
+            </td>                      
+ 
             <td align="center">
                 <a href="https://github.com/chirsmita-02">
                     <img src="https://wallpapers.com/images/thumbnail/cute-girl-digital-art-profile-picture-qc0ka21j2ejosppd.webp" width="100px;"
