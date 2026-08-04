@@ -87,6 +87,17 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+
+    <td align="center">
+                <a href="https://github.com/santhosh-thouda">
+                    <img src="https://avatars.githubusercontent.com/u/91472196?v=4" width="100px;"
+                        alt="Santhosh Thouda" />
+                    <br />
+                    <sub>
+                        <b>Santhosh Thouda</b>
+                    </sub>
+                </a>
+            </td>
     
     ```
 
