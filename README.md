@@ -4732,5 +4732,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Avish Vijay Shetty</b></sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/huzefmd">
+                <img src="https://avatars.githubusercontent.com/u/154690722?v=4" width="100px;" alt="Ali Solanki"/>
+                <br />
+                <sub><b>Huzefa </b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
