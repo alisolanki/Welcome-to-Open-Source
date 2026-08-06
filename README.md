@@ -59,10 +59,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://dharungowda.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/220491958?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="Dharun s" />
                     <br />
                     <sub>
                         <b>Dharun s</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://dharungowda.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/220491958?v=4" width="100px;"
+                        alt="trial" />
+                    <br />
+                    <sub>
+                        <b>MR DHARUN</b>
                     </sub>
                 </a>
             </td>
