@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/krishmanwani">
+                    <img src="https://avatars.githubusercontent.com/u/146119587?v=4" width="100px;"
+                        alt="Krish Manwani" />
+                    <br />
+                    <sub>
+                        <b>Krish Manwani</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
