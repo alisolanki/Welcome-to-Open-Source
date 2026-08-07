@@ -5517,7 +5517,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Lokesh Farswan" />
                     <br />
                     <sub>
-                        <b>Lokesh Farswan</b>
+                        <b>saanvi sarawat</b>
                     </sub>
     </tbody>
 </table>
