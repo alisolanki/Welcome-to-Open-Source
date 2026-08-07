@@ -5511,5 +5511,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-    </tbody>
+            <td align="center">
+                <a href="https://github.com/Chandanjana01">
+                    <img src="https://avatars.githubusercontent.com/u/313323991?v=4"
+                    width="100px;"
+                        alt="Chandan" />
+                    <br />
+                    <sub>
+                        <b>Chandan Jana</b>
+                    </sub>
+                </a>
+            </td>    
+     </tbody>
 </table>
