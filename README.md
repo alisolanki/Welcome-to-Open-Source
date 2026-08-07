@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Ishika14097">
+                    <img src="https://avatars.githubusercontent.com/u/236009890?v=4" width="100px;"
+                        alt="Ishika Ghosh" />
+                    <br />
+                    <sub>
+                        <b>Ishika Ghosh</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
