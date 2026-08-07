@@ -32,7 +32,7 @@
                 </a> 
             </td>
              <td align="center">
-                <a href="https://github.com/codewithgaani">
+                <a href="https://github.com/AishwaryaTS-cloud">
                     <img src="https://avatars.githubusercontent.com/u/174890660?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Krishna Bhatt</b></sub>
