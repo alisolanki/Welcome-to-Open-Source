@@ -5502,6 +5502,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sumit1849">
+                    <img src="https://avatars.githubusercontent.com/u/146630223?v=4" width="100px;"
+                        alt="Sumit Patil" />
+                    <br />
+                    <sub>
+                        <b>Sumit Patil</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lofar7777">
                     <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
                         alt="Lokesh Farswan" />
