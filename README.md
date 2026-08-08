@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/meritikprasad">
+                    <img src="https://avatars.githubusercontent.com/u/207865546?v=4" width="100px;"
+                        alt="Lokesh Farswan" />
+                    <br />
+                    <sub>
+                        <b>Ritik Prasad</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
