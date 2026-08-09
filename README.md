@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="github.com/kode-0x">
+                    <img src="https://avatars.githubusercontent.com/u/294037030?v=4" width="100px;"
+                        alt="Kode0x" />
+                    <br />
+                    <sub>
+                        <b>Kode0x</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
