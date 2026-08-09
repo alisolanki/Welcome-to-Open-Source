@@ -79,10 +79,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/Akshay-0019">
                     <img src="https://avatars.githubusercontent.com/u/224080122?v=4" width="100px;"
-                        alt="Akshay Tatikonda" />
+                        alt="Akshay sai Tatikonda" />
                     <br />
                     <sub>
-                        <b>Akshay tatikonda</b>
+                        <b>Akshay sai tatikonda</b>
                     </sub>
                 </a>
             </td>
