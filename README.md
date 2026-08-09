@@ -182,8 +182,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/220560909?v=4" width="100px;"
                         alt="Diksha Kumar" />
                     <br />
-                    <sub>
+                    <sub>//
                         <b>Diksha Kumar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vekariyadevamb-dot">
+                    <img src="https://avatars.githubusercontent.com/u/229465338?v=4" width="100px;"
+                        alt="DEVAM VEKARIYA 🍉" />
+                    <br />
+                    <sub>
+                        <b>DEVAM VEKARIYA</b>
                     </sub>
                 </a>
             </td>
