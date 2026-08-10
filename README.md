@@ -5511,5 +5511,25 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="www.linkedin.com/in/vishal-taware-patil-">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="vishal taware" />
+                    <br />
+                    <sub>
+                        <b>Vishal Taware</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/vishal-taware">
+                    <img src="https://avatars.githubusercontent.com/u/269992473?s=400&v=4" width="100px;"
+                        alt="vishal taware" />
+                    <br />
+                    <sub>
+                        <b>vishal taware</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
