@@ -1195,6 +1195,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/YuvrajShekhar">
+                    <img src="https://avatars.githubusercontent.com/u/60289012?v=4" width="100px;"
+                        alt="Yuvraj Shekhar" />
+                    <br />
+                    <sub>
+                        <b>Yuvraj Shekhar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/namramoradiya">
                     <img src="https://avatars.githubusercontent.com/u/156280905?v=4" width="100px;"
                         alt="Namra Moradiya" />
