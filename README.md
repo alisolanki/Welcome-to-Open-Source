@@ -5511,5 +5511,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+<a href="https://github.com/MuhammadNiazAli">
+<img src="https://github.com/MuhammadNiazAli.png" width="100px;" alt="Muhammad Niaz Ali" />
+<br />
+<sub>
+<b>Muhammad Niaz Ali</b>
+</sub>
+</a>
+</td>
     </tbody>
 </table>
