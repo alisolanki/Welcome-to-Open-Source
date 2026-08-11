@@ -96,6 +96,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rishabhjakhmola2003-crypto">
+                    <img src="https://avatars.githubusercontent.com/u/238614426?v=4&size=64" width="100px;"
+                        alt="RishabhJakhmola" />
+                    <br />
+                    <sub>
+                        <b>Rishabh Jakhmola</b>
+                    </sub>
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/Manali-26">
                     <img src="https://avatars.githubusercontent.com/u/143161294?s=400&u=ecc6ae01b60bf48932c752bbb19294a24375a783&v=4" width="100px;"
