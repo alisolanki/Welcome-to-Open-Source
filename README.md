@@ -494,6 +494,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/priyakant007">
+                    <img src="https://avatars.githubusercontent.com/u/203863137?s=400&u=e225a3530193a2ad14f30f1f4d16ca15a175e971&v=4" width="100px;"
+                        alt="Priyakant Gautam" />
+                    <br />
+                    <sub>
+                        <b>Priyakant Gautam</b>
+                    </sub>
+                </a>
+            </td>
           <td align="center">
                 <a href="https://github.com/RiteshM09">
                     <img src="https://avatars.githubusercontent.com/u/72223003?v=4" width="100px;"
