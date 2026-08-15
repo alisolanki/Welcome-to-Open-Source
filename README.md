@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Krishnagangwal">
+                    <img src="https://avatars.githubusercontent.com/u/175389609?v=4" width="100px;"
+                        alt="Krishna Gangwal" />
+                    <br />
+                    <sub>
+                        <b>Krishna Gangwal</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
