@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/">
+                    <img src="https://avatars.githubusercontent.com/u/179022859?v=4" width="100px;"
+                        alt="Shikhar Gupta" />
+                    <br />
+                    <sub>
+                        <b>Shikhar Gupta</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
