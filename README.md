@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/achyutn076-hash">
+                    <img src="https://avatars.githubusercontent.com/u/237450546?v=4" width="100px;"
+                        alt="Achyut Naik" />
+                    <br />
+                    <sub>
+                        <b>Achyut Naik</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
