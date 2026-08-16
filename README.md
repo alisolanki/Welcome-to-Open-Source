@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Karhub123">
+                    <img src="https://www.vifindia.org/article/2025/april/17/India-and-the-Shifting-Sands-of-Geopolitics" width="100px;"
+                        alt="Chirsmita" />
+                    <br />
+                    <sub>
+                        <b>Chirsmita</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
