@@ -86,7 +86,16 @@
             <br />
             <sub><b>Sathvik Shetty
         </a>
-    </td>
+
+         </td>
+     <td align="center">
+        <a href="https://github.com/Puneeth241">
+            <img src="https://share.google/yTdg6itwKL9TVaNHG" width="100px;" 
+            alt="Puneeth achar"/>
+            <br />
+            <sub><b>Sathvik Shetty
+        </a>
+   
     
     ```
 
