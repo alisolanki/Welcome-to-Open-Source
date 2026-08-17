@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+ # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
     Please make all your pull requests here (LATEST): 
@@ -16,8 +16,8 @@
 
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+    <a href="https://github.com/heshikagopal">
+        <img src="https://avatars.githubusercontent.com/u/316272719?v=4/>
     </a>
 </p>
 
