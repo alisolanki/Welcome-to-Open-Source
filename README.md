@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/upasanakhanna18-del">
+                    <img src="https://avatars.githubusercontent.com/u/226731083?v=4" width="100px;"
+                        alt="Upasana Khanna" />
+                    <br />
+                    <sub>
+                        <b>Upasana Khanna</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
