@@ -1,0 +1,9 @@
+name: IOC Scan
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '17 4 * * *'
+jobs:
+  ioc-scan:
+    uses: ajasad25/ioc-guard/.github/workflows/scan.yml@main
