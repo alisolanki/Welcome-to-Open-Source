@@ -2111,6 +2111,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/hmcommits">
+                    <img src="https://avatars.githubusercontent.com/u/236051753?v=4" width="100px;"
+                        alt="Harsh Mayekar" />
+                    <br />
+                    <sub>
+                        <b>Harsh Mayekar</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/jerinwilson7">
                     <img src="https://avatars.githubusercontent.com/u/74110171?v=4" width="100px;"
                         alt="Jerin Wilson" />
