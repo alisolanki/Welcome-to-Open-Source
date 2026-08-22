@@ -5501,13 +5501,23 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/lofar7777">
-                    <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
-                        alt="Lokesh Farswan" />
+            td align="center">
+                <a href="https://github.com/amrithasnidhi">
+                    <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
+                        alt="Amritha S Nidhi" />
                     <br />
                     <sub>
-                        <b>Lokesh Farswan</b>
+                        <b>Amritha S Nidhi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AnimeshSrivastava02">
+                    <img src="https://avatars.githubusercontent.com/u/170092181?v=4" width="100px;"
+                        alt="Animesh Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Animesh Srivastava</b>
                     </sub>
                 </a>
             </td>
