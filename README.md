@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JainamKarania">
+                    <img src="https://avatars.githubusercontent.com/u/143739719?v=4" width="100px;"
+                        alt="Jainam Karania" />
+                    <br />
+                    <sub>
+                        <b>Jainam Karania</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
