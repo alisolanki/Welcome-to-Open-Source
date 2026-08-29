@@ -105,6 +105,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Manali Lamture</b>
                     </sub>
                 </a>
+                <td align="center">
+                <a href="https://github.com/satyam-crafts">
+                    <img src="https://avatars.githubusercontent.com/u/263935746?v=4" width="100px;"
+                        alt="Satyam Jadhav" />
+                    <br />
+                    <sub>
+                        <b>Satyam Jadhav</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/patelscripts">
