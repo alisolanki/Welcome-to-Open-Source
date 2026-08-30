@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/karthikRC123">
+                    <img src="https://avatars.githubusercontent.com/u/176101853?v=4" width="100px;"
+                        alt="Karthik R C" />
+                    <br />
+                    <sub>
+                        <b>Karthik R C</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
