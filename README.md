@@ -67,6 +67,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/sevanth08">
+                    <img src="https://avatars.githubusercontent.com/u/323259845?s=400&u=2ae104ae195b082f1f8d2ab646d9709cbc154c7d&v=4" width="100px;"
+                        alt="shevanth" />
+                    <br />
+                    <sub>
+                        <b>shevanth p</b>
+                    </sub>
+                </a>
+            </td><td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
