@@ -87,7 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
-    
+    <td align="center">
+        <a href="https://github.com/raghib6289">
+            <img src="https://avatars.githubusercontent.com/u/180436158?v=4&size=64" width="100px;" alt="Md Raghib"/>
+            <br />
+            <sub><b>Md Raghib</b></sub>
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
