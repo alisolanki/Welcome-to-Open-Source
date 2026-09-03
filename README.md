@@ -37,6 +37,7 @@
     <a href="https://www.youtube.com/AliSolanki">
         <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
     </a>
+    
     <a href="https://www.instagram.com/alisolankii">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
@@ -63,6 +64,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/KoushalVaswani">
+                    <img src="https://avatars.githubusercontent.com/u/186549259?s=400&v=4" width="100px;"
+                        alt="Koushal Vaswani" />
+                    <br />
+                    <sub>
+                        <b>Koushal Vaswani</b>
                     </sub>
                 </a>
             </td>
