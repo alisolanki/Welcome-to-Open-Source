@@ -5511,5 +5511,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <tr>
+                <td align="center">
+                    <a href="https://github.com/Alisonpinto">
+                        <img src="https://avatars.githubusercontent.com/u/145547550?v=4" width="100px;"
+                            alt="Alison Pinto" />
+                        <br />
+                        <sub>
+                            <b>ALISON PINTO</b>
+                        </sub>
+                    </a>
+                </td>
+            </tr>
     </tbody>
 </table>
