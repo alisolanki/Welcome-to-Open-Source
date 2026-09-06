@@ -149,10 +149,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://github.com/account" width="100px;"
-                        alt="Prince Raj" />
+                        alt="Prince Raj " />
                     <br />
                     <sub>
-                        <b>Prince Raj</b>
+                        <b>Prince Raj Singh</b>
                     </sub>
                 </a>
             </td> 
