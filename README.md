@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://rajprince031.vercel.app">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
@@ -138,11 +148,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td> 
             <td align="center">
                 <a href="https://github.com/chamuditha6">
-                    <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
-                        alt="Chamuditha Nonis" />
+                    <img src="https://github.com/account" width="100px;"
+                        alt="Prince Raj " />
                     <br />
                     <sub>
-                        <b>Chamuditha Nonis</b>
+                        <b>Prince Raj Singh</b>
                     </sub>
                 </a>
             </td> 
