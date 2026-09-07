@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://shrawani-kapse-portfolio.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/161857981?v=4" width="100px;"
+                        alt="shrawani kapse" />
+                    <br />
+                    <sub>
+                        <b>shrawani kapse</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
