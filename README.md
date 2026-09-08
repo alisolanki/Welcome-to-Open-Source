@@ -663,6 +663,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/saniyagupta12">
+                    <img src= "https://avatars.githubusercontent.com/u/321267180?v=4" width="100px;"
+                        alt="Saniya Gupta" />
+                    <br />
+                    <sub>
+                        <b> Saniya Gupta </b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/abdullahahmed92">
                     <img src="https://avatars.githubusercontent.com/u/144958025?v=4" width="100px;"
                         alt="Abdullah Ahmed" />
