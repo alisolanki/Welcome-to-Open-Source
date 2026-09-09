@@ -722,6 +722,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Akash030807">
+                    <img src="https://avatars.githubusercontent.com/u/189600791?v=4" width="100px;"
+                        alt="Akash kumar Gupta" />
+                    <br />
+                    <sub>
+                        <b>Akash Kumar Gupta</b>
+                    </sub>
+                </a>
+            </td>
                <td align="center">
                 <a href="https://github.com/Advitiya007">
                     <img src="https://avatars.githubusercontent.com/u/196314239?v=4" width="100px;"
