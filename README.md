@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/Rejoan2020">
+                    <img src="https://avatars.githubusercontent.com/u/63773925?v=4" width="100px;"
+                        alt="Rejoan" />
+                    <br />
+                    <sub>
+                        <b>Md. Rejoanur Rahman Apu</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
