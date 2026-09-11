@@ -1654,6 +1654,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/p1ll3chan">
+                    <img src="https://tenor.com/view/pedro-raccoon-raccoon-pedro-raccoon-meme-memes-gif-11191191849383051209" width="100px;"
+                        alt="p1ll3chan" />
+                    <br />
+                    <sub>
+                        <b>P1LL3CHAN</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Mehak1314">
                     <img src="https://avatars.githubusercontent.com/u/178561631?v=4" width="100px;"
                         alt="Mehak garg" />
