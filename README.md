@@ -465,6 +465,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jainimitgit">
+                    <img src="https://avatars.githubusercontent.com/u/241064213?s=60&v=4" width="100px;"
+                        alt="NIM J" />
+                    <br />
+                    <sub>
+                        <b>NIMIT JAIN</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Kotesh000">
                     <img src="https://avatars.githubusercontent.com/u/137804310?v=4" width="100px;"
                         alt="Kuncham Koteswar" />
