@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rohanjoshi7">
+                    <img src="https://avatars.githubusercontent.com/u/76006074?v=4" width="100px;"
+                        alt="Rohan Joshi" />
+                    <br />
+                    <sub>
+                        <b>Rohan Joshi</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
