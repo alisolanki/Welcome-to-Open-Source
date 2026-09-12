@@ -39,10 +39,10 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://bytemaster2000.github.io/">
-                    <img src="https://avatars.githubusercontent.com/u/181435418?v=4" width="100px;" alt="lakahmi priya"/>
+                <a href="https://github.com/ujjwalvani542">
+                    <img src="https://avatars.githubusercontent.com/u/275075307?v=4" width="100px;" alt="ujjwal vani"/>
                     <br />
-                    <sub><b>lakshmi priya</b></sub>
+                    <sub><b>ujjwal vani </b></sub>
                 </a> 
             </td>
     <td align="center">
