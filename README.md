@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Akashsalian">
+                    <img src="https://avatars.githubusercontent.com/u/146407642?s=400&u=b611097643df15de6a944950c606ceb201c35abe&v=4" width="100px;"
+                        alt="Akash Salian" />
+                    <br />
+                    <sub>
+                        <b>Akash Salian</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
