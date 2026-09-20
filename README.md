@@ -57,12 +57,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/mithunkc017-ship-it">
+                    <img src="https://avatars.githubusercontent.com/u/316970914?v=4" width="100px;"
+                        alt="Mithun K C" /></a>
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Mithun K C</b>
                     </sub>
                 </a>
             </td>
