@@ -197,6 +197,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Rakhi3008-dev">
+                    <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
+                        alt="Rakhi Jha" />
+                    <br />
+                    <sub>
+                        <b>Rakhi Jha</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Simran-775">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
