@@ -126,7 +126,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center">
+             <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
@@ -135,7 +135,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Rachit Singh</b>
                     </sub>
                 </a>
-            </td> 
+            </td>
+             <td align="center">
+                <a href="https://github.com/Prakhar0136">
+                    <img src="https://avatars.githubusercontent.com/u/224104790?s=400&v=4" width="100px;"
+                        alt="Prakhar Shakya" />
+                    <br />
+                    <sub>
+                        <b>Prakhar Shakya</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
