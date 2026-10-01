@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/codecracker14">
+                    <img src="https://avatars.githubusercontent.com/u/206761027?v=4" width="100px;"
+                        alt="Vaishnavi Deshmukh" />
+                    <br />
+                    <sub>
+                        <b>Vaishnavi Deshmukh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
