@@ -67,12 +67,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/Glitch-op">
+                <a href="https://github.com/PiyushClean">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
-                        alt="Karan Yadav" />
+                        alt="Piyush Dutta" />
                     <br />
                     <sub>
-                        <b>Karan Yadav</b>
+                        <b>Piyush Dutta</b>
                     </sub>
                 </a>
             </td>
