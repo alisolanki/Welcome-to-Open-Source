@@ -5521,5 +5521,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/rajvardhanvmagdum-spec">
+                    <img src="https://avatars.githubusercontent.com/u/253737315?v=4" width="100px;"
+                        alt="Rajvardhan Magdum" />
+                    <br />
+                    <sub>
+                        <b>Rajvardhan Magdum</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
