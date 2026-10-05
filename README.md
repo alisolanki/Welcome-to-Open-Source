@@ -22,12 +22,14 @@
 </p>
 
 <p>List of actively participating individuals in open source contributions</p>
-
-- Add your own details to the contributor list
+<p> I was making mistake because i was at a parent folder not in the actual folder </p>
+- Add your own details to the contributor 
+# doing my first open source contribution . that is the reason i am doing this 
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
+<p> sunny sinha is making open source contributuion </p>
     <a href="https://www.twitter.com/alisolankii">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
