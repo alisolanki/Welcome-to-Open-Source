@@ -56,6 +56,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+            <td align="center">
+                <a href="https://github.com/qusay-saify">
+                    <img src="https://avatars.githubusercontent.com/u/108127717?v=4" width="100px;" alt="Qusay Saify"/>
+                    <br />
+                    <sub><b>Qusay Saify</b></sub>
+                </a> 
+            </td>
+             <td align="center">
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
