@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Shubh857-arch">
+                    <img src="https://avatars.githubusercontent.com/u/301994584?v=4" width="100px;"
+                        alt="Shubh Gupta" />
+                    <br />
+                    <sub>
+                        <b>Shubh Gupta</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
