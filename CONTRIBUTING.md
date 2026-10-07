@@ -87,6 +87,13 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/nehasawant99/">
+            <img src="https://github.com/nehasawant99.png" width="100px;" alt="Neha Sawant"/>
+            <br />
+            <sub><b>Neha Sawant</b></sub>
+        </a>
+    </td>
     
     ```
 
