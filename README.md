@@ -5501,6 +5501,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+
+            <td align="center">
+                <a href="https://github.com/jaitak2121-spec">
+                    <img src="https://avatars.githubusercontent.com/u/236988739?v=4" width="100px;"
+                        alt="Jai Tak" />
+                    <br />
+                    <sub>
+                        <b>Jai Tak</b>
+                    </sub>
+                </a>
+            </td>
+
             <td align="center">
                 <a href="https://github.com/lofar7777">
                     <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
