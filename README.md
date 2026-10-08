@@ -5511,5 +5511,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KaranPalariya30">
+                    <img src="https://avatars.githubusercontent.com/u/212473380?v=4" width="100px;" alt="Karan Palariya"/>
+                    <br />
+                    <sub><b>Karan Palariya
+                </a>
+            </td>
     </tbody>
 </table>
