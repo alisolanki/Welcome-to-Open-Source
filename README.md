@@ -248,6 +248,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/debangshumondal06">
+                    <img src="https://avatars.githubusercontent.com/u/249134870?v=4" width="100px;"
+                        alt="Debangshu Mondal" />
+                    <br />
+                    <sub>
+                        <b>Debangshu Mondal</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Omkarkanherkar">
                     <img src="https://avatars.githubusercontent.com/u/159131540?v=4" width="100px;"
                         alt="omkar" />
