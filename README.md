@@ -115,6 +115,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Navneet Patel</b>
                     </sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/shakthipriyadarshini">
+                    <img src="https://avatars.githubusercontent.com/u/247610120?v=4" width="100px;"
+                        alt="Ali Solanki" />
+                    <br />
+                    <sub>
+                        <b>Shakthi Priya</b>
+                    </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/chirsmita-02">
