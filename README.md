@@ -1977,16 +1977,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
         <tr>
             <td align="center">
-                <a href="https://github.com/gmaheshraju">
-                    <img src="https://avatars.githubusercontent.com/u/21260123?v=4" width="100px;"
-                        alt="Mahesh Guntumadugu" />
-                    <br />
-                    <sub>
-                        <b>Mahesh Guntumadugu</b>
-                    </sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/VedaSathvika">
                     <img
                         src="https://avatars.githubusercontent.com/u/163419913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzE5ODAsIm5iZiI6MTczNDMzMDc4MCwicGF0aCI6Ii91LzE2MzQxOTkxMyJ9.TXPX49dwuLb5IU30Y8h62OgeHaHpjKR8Wfmts2fZWjE&v=4"
@@ -2005,6 +1995,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Ayush Tiwari</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shouryamishra2007">
+                    <img src="https://avatars.githubusercontent.com/u/261253049?s=400&u=10e521ac0ca8f3aa5515f3d74a105a02d9d6f1f8&v=4"
+                        width="100px;" alt="Shourya Mishra" />
+                    <br />
+                    <sub>
+                        <b>Shourya Mishra</b>
                     </sub>
                 </a>
             </td>
