@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Akanksha-S-code">
+                    <img src="https://avatars.githubusercontent.com/u/222023584?s=400&u=7ebb38b3273bfcecddac871c93ff647b5e8bbb05&v=4" width="100px;"
+                        alt="Akanksha Singh" />
+                    <br />
+                    <sub>
+                        <b>Akanksha Singh</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
