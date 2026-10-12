@@ -880,6 +880,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/ShivamSingh2343">
+                    <img src="https://avatars.githubusercontent.com/u/249724531?s=400&v=4" width="100px;"
+                        alt="Shivam Singh" />
+                    <br />
+                    <sub>
+                        <b>Shivam Singh</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Yatish-369">
                     <img src="https://avatars.githubusercontent.com/u/105811991?v=4" width="100px;"
                         alt="Yatish raj" />
