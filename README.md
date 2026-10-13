@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/PratyushKumarSinha0708">
+                    <img src="https://avatars.githubusercontent.com/u/164729957?v=4&size=64" width="100px;"
+                        alt="Pratyush" />
+                    <br />
+                    <sub>
+                        <b>Pratyush</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
