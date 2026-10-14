@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Trideep091">
+                    <img src="https://avatars.githubusercontent.com/u/309662270?v=4" width="100px;"
+                        alt="Trideep Chakraborty" />
+                    <br />
+                    <sub>
+                        <b>Trideep Chakraborty</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
