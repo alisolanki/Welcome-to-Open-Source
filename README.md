@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rashtra03">
+                    <img src="https://avatars.githubusercontent.com/u/216072487?v=4" width="100px;"
+                    alt="Rashtra Bhushan" />
+                    <br />
+                    <sub>
+                        <b>Rashtra Bhushan</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
