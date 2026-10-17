@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/boutsoniya">
+                    <img src="https://avatars.githubusercontent.com/u/236099820?v=4" width="100px;"        
+                        alt="Soniya Rajpurohit" />
+                    <br />
+                    <sub>
+                        <b>Soniya Rajpurohit</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
