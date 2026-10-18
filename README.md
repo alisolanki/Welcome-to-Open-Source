@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Golamjay">
+                    <img src="https://avatars.githubusercontent.com/u/112763507?v=4" width="100px;"
+                        alt="Jay Golam" />
+                    <br />
+                    <sub>
+                        <b>Jay Golam</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
