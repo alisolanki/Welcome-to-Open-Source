@@ -77,12 +77,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
          <td align="center">
-                <a href="https://github.com/ArpitaDeodikar01">
-                    <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
-                        alt="Arpita Deodikar" />
+                <a href="https://github.com/Ishu123-Tripathi">
+                    <img src="https://avatars.githubusercontent.com/u/229913295?v=4&size=64" width="100px;"
+                        alt="ISHU TRIPATHI" />
                     <br />
                     <sub>
-                        <b>Arpita Deodikar</b>
+                        <b>Ishu Tripathi</b>
                     </sub>
                 </a>
             </td>
