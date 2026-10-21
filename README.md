@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SanjuTechz-DevSoft/folder-organizer">
+                    <img src="https://avatars.githubusercontent.com/u/259619415?s=400&u=76f6171b58131a1674b9ce611278b9c876cf45c7&v=4" width="100px;"
+                        alt="Sanjula Subhasingha" />
+                    <br />
+                    <sub>
+                        <b>Sanjula Subhasingha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
