@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
+        <td  align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
@@ -73,6 +73,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Karan Yadav</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/bk-abhinava">
+                    <img src="https://avatars.githubusercontent.com/u/245427368?v=4" width="100px;"
+                        alt="bk abhinava" />
+                    <br />
+                    <sub>
+                        <b>B K ABHINAVA</b>
                     </sub>
                 </a>
             </td>
