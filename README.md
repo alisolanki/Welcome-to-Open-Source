@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Architverma20">
+                    <img src="https://avatars.githubusercontent.com/u/142710805?v=4" width="100px;"
+                        alt= "archit verma" />
+                    <br />
+                    <sub>
+                        <b>Rachit Singh</b>
+                    </sub>
+                </a>
+            </td> 
     </tbody>
 </table>
