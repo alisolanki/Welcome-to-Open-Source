@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/sabirhusseinbalal">
+                    <img src="https://avatars.githubusercontent.com/u/246732079?v=4" width="100px;"
+                        alt="Sabir Hussain" />
+                    <br />
+                    <sub>
+                        <b>Sabir Hussain</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
