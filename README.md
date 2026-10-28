@@ -57,12 +57,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/itzMonisha">
+                    <img src="https://avatars.githubusercontent.com/u/202319652?v=4" width="100px;"
+                        alt="MONISHA M P" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>MONISHA M P</b>
                     </sub>
                 </a>
             </td>
