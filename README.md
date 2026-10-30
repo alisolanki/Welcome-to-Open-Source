@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sivajisnehith">
+                    <img src="https://avatars.githubusercontent.com/u/189469274?s=400&u=b2c2d653384727cfe11dfeb373d97cda17ea3100&v=4" width="100px;"
+                        alt="Sivaji Snehith" />
+                    <br />
+                    <sub>
+                        <b>Sivaji Snehith</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
