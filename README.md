@@ -5517,7 +5517,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Nikunj" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>Nikunj</b>
                     </sub>
                 </a>
             </td>
