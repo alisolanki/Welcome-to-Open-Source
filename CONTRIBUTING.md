@@ -35,7 +35,7 @@
                 <a href="https://github.com/pramod547">
                     <img src="https://avatars.githubusercontent.com/u/257721471?v=4" width="100px;" alt="Pramod Bansode"/>
                     <br />
-                    <sub><b>Pramod Bansode</b></sub>
+                    <sub><b>Pramod bansode</b></sub>
                 </a> 
             </td>
              <td align="center">
