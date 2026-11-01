@@ -4924,7 +4924,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a> 
             </td>
-        </tr>
+        
+           <td align="center">
+                <a href="https://github.com/29rdx">
+                    <img src="https://avatars.githubusercontent.com/u/104278453?v=4" width="100px;" alt="Rupraj Datta"/>
+                    <br />
+                    <sub><b>Rupraj Datta</b></sub>
+                </a>
+            </td>
+</tr>
         <td align="center">
                 <a href="https://github.com/Strikeee09">
                     <img src="https://avatars.githubusercontent.com/u/146797456?v=4" width="100px;" alt="Pratham Punikar"/>
