@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/Soumyabansal1">
+                    <img src="https://avatars.githubusercontent.com/u/184768526?s=400&u=e50d5c34139c303e609a879d61c4bba0cf425559&v=4" width="100px;"
+                        alt="Soumya Bansal" />
+                    <br />
+                    <sub>
+                        <b>Soumya Bansal</b>
+                    </sub>
+                </a>
+            </td>    
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
