@@ -168,6 +168,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+            <a href="https://github.com/saiveeramalla09">
+                <img src="https://avatars.githubusercontent.com/u/242808992?v=4" width="100px;"
+                    alt="Sai Veeramalla" />
+                <br />
+                <sub>
+                    <b>Sai Veeramalla</b>
+                </sub>
+            </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PalaLavanya">
                     <img src="https://avatars.githubusercontent.com/u/142710204?v=4" width="100px;"
                         alt="Lavanya Pala" />
