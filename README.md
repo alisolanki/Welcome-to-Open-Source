@@ -5472,18 +5472,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/athul-jose00">
+                <a href="https://github.com/Rajath-nayakk">
                     <img src="https://avatars.githubusercontent.com/u/148617363?v=4" width="100px;"
-                        alt="Athul Jose" />
+                        alt="Rajath Nayak" />
                     <br />
                     <sub>
-                        <b>Athul Jose</b>
+                        <b>Rajath Nayak</b>
                     </sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Anas2604-web">
-                    <img src="https://avatars.githubusercontent.com/u/185629397?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/176551307?v=4" width="100px;"
                         alt="Anas Khan" />
                     <br />
                     <sub>
