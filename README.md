@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Rajath-nayakk">
+                    <img src="https://avatars.githubusercontent.com/u/176551307?v=4" width="100px;"
+                        alt="Rajath Nayak" />
+                    <br />
+                    <sub>
+                        <b>Rajath Nayak</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
