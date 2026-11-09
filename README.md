@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/VanshShukla17">
+                    <img src="https://avatars.githubusercontent.com/u/191366947?v=4" width="100px;"
+                        alt="Vansh Shukla" />
+                    <br />
+                    <sub>
+                        <b>Vansh Shukla</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
