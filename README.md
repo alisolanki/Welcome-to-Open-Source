@@ -277,6 +277,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Pranaam727">
+                    <img src="https://avatars.githubusercontent.com/u/131538989?v=4" width="100px;"
+                        alt="Pranaam Murthy aka RX_PRANI" />
+                    <br />
+                    <sub>
+                        <b>RX_PRANI</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center"
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
