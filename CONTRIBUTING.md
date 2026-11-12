@@ -87,8 +87,16 @@
             <sub><b>Sathvik Shetty
         </a>
     </td>
+    <td align="center">
+    <a href="https://github.com/raja-qasim">
+        <img src="https://github.com/raja-qasim.png"
+             width="100px;" alt="Raja Qasim Javed"/>
+        <br />
+        <sub><b>Raja Qasim Javed</b></sub>
+    </a>
+</td>
     
-    ```
+    
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
