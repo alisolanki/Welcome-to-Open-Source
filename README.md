@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Arnav-ops329">
+                    <img src="https://avatars.githubusercontent.com/u/240267213?v=4" width="100px;"
+                        alt="Arnav Maitrey" />
+                    <br />
+                    <sub>
+                        <b>Arnav Maitrey</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
