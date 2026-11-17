@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/meghana27mg-dotcom">
+                    <img src="https://avatars.githubusercontent.com/u/235950424?s=400&v=4" width="100px;"
+                        alt="Meghana MG" />
+                    <br />
+                    <sub>
+                        <b>Meghana MG</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
