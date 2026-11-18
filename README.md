@@ -5502,6 +5502,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ankit1212">
+                    <img src="https://media.istockphoto.com/id/2243181491/photo/stock-market-trading-growth-graph.webp?a=1&b=1&s=612x612&w=0&k=20&c=IFer2zPb5_Z9pfDSAMeSZZCJDyN8Yxd2CsxlbVt5_xc=" width="100px;"
+                        alt="Ankit Singh " />
+                    <br />
+                    <sub>
+                        <b>Ankit Singh </b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lofar7777">
                     <img src="https://avatars.githubusercontent.com/u/143798329?s=400&u=df15da5387e6ee2cb1841971077c619f077869c3&v=4" width="100px;"
                         alt="Lokesh Farswan" />
