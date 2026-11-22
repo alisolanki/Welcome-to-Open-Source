@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://omkar-mathad-portfolio.vercel.app/">
+                    <img src="https://avatars.githubusercontent.com/u/188649883?v=4" width="100px;"
+                        alt="Omkar Mathad" />
+                    <br />
+                    <sub>
+                        <b>Omkar Mathad</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
