@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/">
+                    <img src="https://avatars.githubusercontent.com/u/320999243?v=4" width="100px;"
+                        alt="Sukanth" />
+                    <br />
+                    <sub>
+                        <b>Sukanth</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
