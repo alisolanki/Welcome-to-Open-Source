@@ -76,6 +76,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/Safeer-Hussain">
+                    <img src="https://avatars.githubusercontent.com/u/150612973?s=400&u=92e2ac51e6accd069004ab0038f7ec2a419f1124&v=4" width="100px;"
+                        alt="Safeer Hussain" />
+                    <br />
+                    <sub>
+                        <b>Safeer Hussain</b>
+                    </sub>
+                </a>
+            </td>
          <td align="center">
                 <a href="https://github.com/ArpitaDeodikar01">
                     <img src="https://avatars.githubusercontent.com/u/168329514?s=400&u=4028574f0d25ecd1ca1c0e4d1f07d961c3c3622c&v=4" width="100px;"
