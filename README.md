@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg" alt=""/>
     </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png" alt=""/>
     </a>
     <a href="https://linkedin.com/in/alisolanki">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -267,7 +267,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-             <td align="center"
+             <td align="center">
                 <a href="https://github.com/Vyshnavtr0">
                     <img src="https://avatars.githubusercontent.com/u/82934724?v=4" width="100px;"
                         alt="Vyshnav TR" />
@@ -277,7 +277,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center"
+            <td align="center">
                 <a href="https://danishk.netlify.app/">
                     <img src="https://avatars.githubusercontent.com/u/61263914?v=4" width="100px;"
                         alt="Danish Ibrahim Khan" />
@@ -287,7 +287,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
-            <td align="center"
+            <td align="center">
                 <a href="https://github.com/Rajatr1024">
                     <img src="https://avatars.githubusercontent.com/u/154728610?v=4" width="100px;"
                         alt="Rajat Rajput" />
@@ -595,11 +595,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         <td align="center">
                 <a href="https://github.com/psspsss">
-                    <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;"
-                        alt="Vinayak Majhi" />
+                    <img src="https://avatars.githubusercontent.com/u/95471226?v=4" width="100px;" alt="Vinayak Majhi" />
                     <br />
                     <sub>
                         <b>Anurag Kumar</b>
+                    </sub>
                 </a>
              </td>
                  <td align="center">      
@@ -1616,7 +1616,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/abhiramiramadas>
+                <a href="https://github.com/abhiramiramadas">
                     <img src="https://avatars.githubusercontent.com/u/100674826?v=4" width="100px;" alt="Abhirami Ramadas"/>
                     <br />
                     <sub><b>Abhirami Ramadas</b></sub>
@@ -2161,6 +2161,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub>
                     <b>Sumedh Vichare</b>
                 </sub>
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com/Roshan-keshri">
@@ -2523,6 +2524,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub>
                         <b>UmIamBda Doe</b>
                     </sub>
+                </a>
                 </td>
             </tr>
             <tr>
@@ -3264,6 +3266,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub>
                     <b>Oluwatimilehin Esan</b>
                 </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/thecyberbro">
@@ -3798,6 +3801,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub>
                     <b>Sudhiksha</b>
                 </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Ayan-M-Dev">
@@ -4529,7 +4533,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Aditya BR" />
                     <br />
                     <sub>
-                        <b>Aditya BR>
+                        <b>Aditya BR </b>
                     </sub>
                 </a>
             </td>
@@ -4539,7 +4543,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Anarv BR" />
                     <br />
                     <sub>
-                        <b>Aditya BR>
+                        <b>Aditya BR </b>b>
                     </sub>
                 </a>
             </td>
@@ -4569,7 +4573,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         width="100px;" alt="Sapana D" />
                     <br />
                     <sub>
-                        <b>Sapana D/b>
+                        <b>Sapana D</b>
                     </sub>
                 </a>
             </td>
@@ -5077,12 +5081,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/80632983?v=4" width="100px;" alt="Paresh" />
                     <br />
                     <sub> <b>Paresh</b> </sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/hq447">
                     <img src="https://avatars.githubusercontent.com/u/118114895?v=4" width="100px;" alt="Paresh" />
                     <br />
                     <sub> <b>Hammad Ahmad</b> </sub>
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com//Pooja-Techn">
@@ -5171,6 +5177,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Shreya Saxena</b>
+                    </sub>
                 </a>
              </td>
              <td align="center">
@@ -5389,6 +5396,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Shanpreet Dhaliwal</b>
+                    </sub>
                 </a>
             </td>
             <td align="center">
