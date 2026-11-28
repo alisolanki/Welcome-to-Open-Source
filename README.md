@@ -86,6 +86,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/manmitgouda423-arch">
+                    <img src="https://avatars.githubusercontent.com/u/244272200?v=4" width="100px;"
+                        alt="Manmit Gouda" />
+                    <br />
+                    <sub>
+                        <b>Manmit Gouda</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
